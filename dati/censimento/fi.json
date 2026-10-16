@@ -1,0 +1,21 @@
+{
+  "partito": "fi",
+  "nome": "Forza Italia",
+  "data": "2026-10-16",
+  "partito_autonomo": true,
+  "collocazione": "maggioranza",
+  "camera": {
+    "gruppo": "FORZA ITALIA - BERLUSCONI PRESIDENTE - PPE (FI-PPE)",
+    "deputati": 52,
+    "metodo": "Deputati con adesione al gruppo gr4134 senza data di fine, da dati.camera.it/sparql (interrogato il 2026-10-16)",
+    "url": "https://dati.camera.it/sparql"
+  },
+  "senato": {
+    "gruppo": "Forza Italia-Berlusconi Presidente-PPE",
+    "senatori": null,
+    "verificato_direttamente": false,
+    "url": "https://www.senato.it/composizione/gruppi-parlamentari/riepilogo-della-composizione",
+    "note": "La pagina del Senato ha risposto con HTTP 202 e corpo vuoto a piu' tentativi: numero dei senatori non verificato."
+  },
+  "note": "Partito autonomo con gruppo proprio alla Camera e al Senato; il segretario Antonio Tajani e' vicepresidente del Consiglio e ministro degli Esteri. Parte della coalizione di governo di centrodestra."
+}
