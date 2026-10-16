@@ -1,0 +1,11 @@
+{
+  "partito": "cd",
+  "nome": "Centro Democratico",
+  "data": "2026-10-16",
+  "partito_autonomo": null,
+  "verificato_direttamente": false,
+  "camera": {"deputati": "1 (Bruno Tabacci, probabile)", "gruppo": "Misto (uscito dal gruppo PD a luglio 2026)", "note": "Tabacci, eletto nel 2022 come indipendente nella lista Impegno Civico-Centro Democratico, ha lasciato il gruppo PD per il Misto (Il Foglio, 2026-07-09; Libero). Non verificato su camera.it, non raggiungibile."},
+  "senato": {"senatori": "non verificato"},
+  "fonti": ["https://ilfoglio.it/politica/2026/07/09/news/bruno-tabacci-esce-dal-gruppo-pd-alla-camera-la-destra-non-si-batte-restringendo-il-campo-si-batte-allargandolo--401932"],
+  "note": "Non risulta verificato che esista oggi un partito Centro Democratico autonomo con parlamentari propri: il solo parlamentare noto e' Tabacci, ora nel Misto. Segnalato per verifica; nessuna proposta estratta."
+}

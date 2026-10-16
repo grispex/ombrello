@@ -1,0 +1,12 @@
+{
+  "partito": "demos",
+  "nome": "Demos - Democrazia Solidale",
+  "data": "2026-10-16",
+  "partito_autonomo": true,
+  "verificato_direttamente": false,
+  "collocazione": "opposizione",
+  "camera": {"gruppo": "Partito Democratico - Italia Democratica e Progressista", "deputati": 1, "nome": "Paolo Ciani (segretario di Demos)", "note": "Il deputato risulta eletto nelle liste del PD; il dato proviene da ricerca web (Il Foglio 2023-06-08, Avvenire), non da camera.it: camera.it e senato.it non erano raggiungibili e la query SPARQL su dati.camera.it non ha restituito l'adesione al gruppo. Da riverificare."},
+  "senato": {"senatori": 0},
+  "fonti": ["https://www.ilfoglio.it/politica/2023/06/08/news/un-vice-capogruppo-che-non-fa-parte-del-gruppo-non-e-un-innesto-e-un-principio-di-dissesto-caro-pd-5357266/", "https://dati.camera.it/sparql"],
+  "note": "Partito autonomo con un parlamentare (il segretario) nel gruppo PD. Documenti propri non cercati per limiti di credito: nessuna proposta estratta. Demos compare come lista componente nel programma PD 2022 (Italia Democratica e Progressista)."
+}
