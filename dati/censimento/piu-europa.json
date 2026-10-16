@@ -1,0 +1,22 @@
+{
+  "data": "2026-10-16",
+  "partito": "piu-europa",
+  "nome": "+Europa",
+  "partito_autonomo": true,
+  "collocazione": "opposizione",
+  "camera": {
+    "gruppo": "MISTO - componente +EUROPA - STATI UNITI D'EUROPA",
+    "deputati_componente": 3,
+    "url": "https://www.camera.it/leg19/46",
+    "verificato_direttamente": true,
+    "note": "Consistenza della componente (3) letta su camera.it il 2026-10-16. La componente e' denominata anche 'Stati Uniti d'Europa'; l'appartenenza di ciascun deputato al partito +Europa non e' stata verificata individualmente."
+  },
+  "senato": {
+    "gruppo": "da verificare",
+    "senatori": null,
+    "url": "https://www.senato.it/composizione/gruppi-parlamentari/riepilogo-della-composizione",
+    "verificato_direttamente": false,
+    "note": "La pagina del Senato non e' scaricabile (risposta 202 vuota): numero di senatori non verificato direttamente."
+  },
+  "note": "Partito autonomo (segretario Riccardo Magi, deputato). Opposizione. Partito in crisi interna nel 2026 (mozione dell'Assemblea nazionale contro la segreteria, aprile 2026)."
+}

@@ -1,0 +1,22 @@
+{
+  "data": "2026-10-16",
+  "partito": "iv",
+  "nome": "Italia Viva",
+  "partito_autonomo": true,
+  "collocazione": "opposizione",
+  "camera": {
+    "gruppo": "ITALIA VIVA-CASA RIFORMISTA",
+    "deputati_gruppo": 7,
+    "url": "https://www.camera.it/leg19/46",
+    "verificato_direttamente": true,
+    "note": "Consistenza del gruppo (7) letta su camera.it il 2026-10-16; il gruppo include anche parlamentari non iscritti a IV (Casa Riformista), ripartizione non verificata."
+  },
+  "senato": {
+    "gruppo": "Italia Viva-Casa Riformista (secondo il riepilogo gruppi gia' in dati/partiti.json)",
+    "senatori": null,
+    "url": "https://www.senato.it/composizione/gruppi-parlamentari/riepilogo-della-composizione",
+    "verificato_direttamente": false,
+    "note": "La pagina del Senato non e' scaricabile (risposta 202 vuota): numero di senatori non verificato direttamente."
+  },
+  "note": "Partito autonomo (leader Matteo Renzi, senatore). Opposizione, nel campo del centrosinistra in vista del 2027."
+}

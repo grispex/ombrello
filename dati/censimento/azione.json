@@ -1,0 +1,22 @@
+{
+  "data": "2026-10-16",
+  "partito": "azione",
+  "nome": "Azione",
+  "partito_autonomo": true,
+  "collocazione": "opposizione",
+  "camera": {
+    "gruppo": "AZIONE-POPOLARI EUROPEISTI RIFORMATORI-RENEW EUROPE",
+    "deputati_gruppo": 10,
+    "url": "https://www.camera.it/leg19/46",
+    "verificato_direttamente": true,
+    "note": "Consistenza del gruppo (10) letta su camera.it il 2026-10-16. Il gruppo comprende anche ex esponenti di PER (Rosato, Bonetti), iscritti ad Azione dal 29 gennaio 2024. Membri del gruppo secondo Openpolis (https://parlamento19.openpolis.it/organi_parlamentari/camera/gruppi_parlamentari/AZ-PER-RE): Richetti, Benzoni, Sottanelli, Bonetti, D'Alessio, Grippo, Onori, Pastorella, Rosato, Ruffino."
+  },
+  "senato": {
+    "gruppo": "da verificare (Calenda, segretario di Azione, e' senatore)",
+    "senatori": null,
+    "url": "https://www.senato.it/composizione/gruppi-parlamentari/riepilogo-della-composizione",
+    "verificato_direttamente": false,
+    "note": "La pagina del Senato non e' scaricabile (risposta 202 vuota): numero di senatori non verificato direttamente."
+  },
+  "note": "Partito autonomo (segretario Carlo Calenda, rieletto con l'85,7% a febbraio 2025). All'opposizione. Il gruppo alla Camera ospita anche l'etichetta PER."
+}
