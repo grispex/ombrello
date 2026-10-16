@@ -1,0 +1,1504 @@
+[
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Introdurre il cashback fiscale con accredito immediato delle spese detraibili pagate elettronicamente",
+"citazione": "Introduzione di un meccanismo che permetta l’immediato accredito su conto corrente delle spese detraibili sostenute con strumenti elettronici",
+"fonte": "m5s-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"fisco"
+],
+"sottotema": "Evasione, condoni e rottamazioni",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Cancellare definitivamente l'IRAP per tutte le imprese",
+"citazione": "CANCELLAZIONE DEFINITIVA DELL’IRAP a beneficio di tutte le imprese",
+"fonte": "m5s-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"fisco",
+"economia-imprese"
+],
+"sottotema": "Tasse sulle imprese",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Tagliare il cuneo fiscale per imprese e lavoratori",
+"citazione": "TAGLIO DEL CUNEO FISCALE PER IMPRESE E LAVORATORI",
+"fonte": "m5s-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"fisco",
+"lavoro"
+],
+"sottotema": "Cuneo fiscale",
+"concretezza": 2,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Rendere strutturale la cessione dei crediti fiscali sul modello del Superbonus",
+"citazione": "Stabilizzare l’innovativo meccanismo che ha decretato il successo del Superbonus",
+"fonte": "m5s-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"casa",
+"fisco",
+"economia-imprese"
+],
+"sottotema": "Bonus edilizi",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Introdurre una maxirateazione delle cartelle esattoriali",
+"citazione": "MAXIRATEAZIONE DELLE CARTELLE ESATTORIALI",
+"fonte": "m5s-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"fisco"
+],
+"sottotema": "Evasione, condoni e rottamazioni",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Introdurre un salario minimo legale di nove euro lordi l'ora",
+"citazione": "Nove euro lordi l’ora di salario minimo legale per dire stop alle paghe da fame",
+"fonte": "m5s-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"lavoro"
+],
+"sottotema": "Salario minimo",
+"concretezza": 4,
+"stato": "annunciata",
+"ambito": "nazionale",
+"parametri": [
+{
+"cosa": "salario minimo orario lordo",
+"valore": "9 euro"
+}
+],
+"note": "Stessa misura, senza il parametro, nelle proposte Nova 2026 (m5s-nova2026-sanita-lavoro)."
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Rafforzare le misure del decreto dignità per favorire i contratti a tempo indeterminato",
+"citazione": "Rafforzamento delle misure del decreto dignità per mettere i lavoratori, in particolare i giovani, in condizione di sviluppare progetti di vita agevolando i contratti a tempo indeterminato",
+"fonte": "m5s-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"lavoro"
+],
+"sottotema": "Precarietà",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale",
+"destinatari": [
+"giovani"
+]
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Prevedere un compenso minimo per i tirocinanti e il riconoscimento del tirocinio ai fini pensionistici",
+"citazione": "Prevedere pertanto un compenso minimo per i tirocinanti e il riconoscimento del periodo di tirocinio ai fini pensionistici",
+"fonte": "m5s-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"lavoro",
+"pensioni"
+],
+"sottotema": "Tirocini",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale",
+"destinatari": [
+"giovani"
+]
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Stabilizzare la decontribuzione Sud",
+"citazione": "STABILIZZAZIONE DI ‘DECONTRIBUZIONE SUD’ per proteggere e creare nuovi posti di lavoro nel Mezzogiorno",
+"fonte": "m5s-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"mezzogiorno-territori",
+"lavoro"
+],
+"sottotema": "Lavoro nel Mezzogiorno",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Riformare gli ammortizzatori sociali in senso universale, anche per autonomi e partite IVA",
+"citazione": "RIFORMA DEGLI AMMORTIZZATORI SOCIALI IN SENSO UNIVERSALE",
+"fonte": "m5s-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"lavoro",
+"welfare-inclusione"
+],
+"sottotema": "Ammortizzatori sociali",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Rafforzare il reddito di cittadinanza con politiche attive più efficienti e monitoraggio antifrode",
+"citazione": "RAFFORZAMENTO DEL REDDITO DI CITTADINANZA",
+"fonte": "m5s-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"welfare-inclusione",
+"lavoro"
+],
+"sottotema": "Reddito minimo",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale",
+"note": "Posizione del 2022; le proposte Nova 2026 parlano di un 'Reddito 2.0'."
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Sperimentare la riduzione dell'orario di lavoro a parità di salario con incentivi alle imprese",
+"citazione": "Sperimentazione di una riduzione dell’orario di lavoro soprattutto nei settori a più alta intensità tecnologica",
+"fonte": "m5s-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"lavoro"
+],
+"sottotema": "Orario di lavoro",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Riformare le pensioni senza tornare alla Fornero, ampliando i lavori gravosi e l'uscita flessibile",
+"citazione": "Evitando il ritorno alla legge Fornero, attraverso l’ampliamento delle categorie dei lavori gravosi e usuranti e attraverso meccanismi di uscita flessibile dal lavoro",
+"fonte": "m5s-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"pensioni"
+],
+"sottotema": "Flessibilità in uscita",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Equiparare i tempi di congedo di paternità e maternità",
+"citazione": "EQUIPARAZIONE DEI TEMPI DI CONGEDO DI PATERNITÀ E MATERNITÀ",
+"fonte": "m5s-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"famiglia-natalita",
+"lavoro"
+],
+"sottotema": "Congedi parentali",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale",
+"destinatari": [
+"famiglie"
+]
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Introdurre la pensione anticipata per le madri lavoratrici",
+"citazione": "PENSIONE ANTICIPATA PER LE MAMME LAVORATRICI",
+"fonte": "m5s-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"pensioni",
+"famiglia-natalita"
+],
+"sottotema": "Flessibilità in uscita",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale",
+"destinatari": [
+"donne"
+]
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Prorogare lo sgravio contributivo al 100% per l'assunzione di donne disoccupate",
+"citazione": "PROROGA DELLO SGRAVIO CONTRIBUTIVO AL 100% PER L’ASSUNZIONE DI DONNE DISOCCUPATE",
+"fonte": "m5s-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"lavoro"
+],
+"sottotema": "Parità di genere",
+"concretezza": 4,
+"stato": "annunciata",
+"ambito": "nazionale",
+"destinatari": [
+"donne"
+],
+"parametri": [
+{
+"cosa": "sgravio contributivo",
+"valore": "100%"
+}
+]
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Rafforzare il Fondo per l'imprenditoria femminile",
+"citazione": "RAFFORZAMENTO DEL FONDO PER L’IMPRENDITORIA FEMMINILE",
+"fonte": "m5s-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"economia-imprese",
+"diritti-liberta"
+],
+"sottotema": "Parità di genere",
+"concretezza": 2,
+"stato": "annunciata",
+"ambito": "nazionale",
+"destinatari": [
+"donne"
+]
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Introdurre una pensione di garanzia per i giovani con carriere intermittenti",
+"citazione": "Un aiuto concreto a tutti quei giovani con carriere intermittenti che fanno fatica ad avere una pensione",
+"fonte": "m5s-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"pensioni"
+],
+"sottotema": "Pensione di garanzia giovani",
+"concretezza": 2,
+"stato": "annunciata",
+"ambito": "nazionale",
+"destinatari": [
+"giovani"
+]
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Introdurre il riscatto gratuito della laurea ai fini pensionistici",
+"citazione": "RISCATTO GRATUITO DELLA LAUREA",
+"fonte": "m5s-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"pensioni",
+"istruzione-universita-ricerca"
+],
+"sottotema": "Riscatto laurea",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale",
+"destinatari": [
+"giovani"
+]
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Incentivare l'imprenditoria giovanile e sburocratizzare le startup",
+"citazione": "INCENTIVI ALL’IMPRENDITORIA GIOVANILE E SBUROCRATIZZAZIONE DELLE STARTUP",
+"fonte": "m5s-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"economia-imprese"
+],
+"sottotema": "Startup",
+"concretezza": 2,
+"stato": "annunciata",
+"ambito": "nazionale",
+"destinatari": [
+"giovani"
+]
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Stabilizzare gli sgravi per l'acquisto della prima casa degli under 36",
+"citazione": "STABILIZZAZIONE DEGLI SGRAVI PER L’ACQUISTO DELLA PRIMA CASA DA PARTE DEGLI UNDER 36",
+"fonte": "m5s-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"casa"
+],
+"sottotema": "Mutui prima casa",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale",
+"destinatari": [
+"giovani"
+]
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Prorogare lo sgravio per l'assunzione di giovani under 36 in tutta Italia",
+"citazione": "PROROGA DELLO SGRAVIO PER L’ASSUNZIONE DI GIOVANI UNDER 36 IN TUTTA ITALIA",
+"fonte": "m5s-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"lavoro"
+],
+"sottotema": "Lavoro giovanile",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale",
+"destinatari": [
+"giovani"
+]
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Stabilizzare per dieci anni Transizione 4.0 con cessione dei crediti d'imposta",
+"citazione": "POTENZIAMENTO E STABILIZZAZIONE DECENNALE DI TRANSIZIONE 4.0, estendendo allo stesso piano Transizione 4.0 la cessione dei crediti d'imposta",
+"fonte": "m5s-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"economia-imprese",
+"fisco"
+],
+"sottotema": "Politica industriale",
+"concretezza": 4,
+"stato": "annunciata",
+"ambito": "nazionale",
+"parametri": [
+{
+"cosa": "durata",
+"valore": "10 anni"
+}
+]
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Rafforzare e stabilizzare il Fondo centrale di garanzia con garanzie statali dall'80 al 100%",
+"citazione": "RAFFORZAMENTO E STABILIZZAZIONE DEL FONDO CENTRALE DI GARANZIA per garantire liquidità alle PMI con garanzie statali dall'80 al 100%",
+"fonte": "m5s-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"economia-imprese"
+],
+"sottotema": "Credito e banche",
+"concretezza": 4,
+"stato": "annunciata",
+"ambito": "nazionale",
+"parametri": [
+{
+"cosa": "garanzia statale",
+"valore": "80-100%"
+}
+]
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Potenziare il Fondo salvaguardia imprese per l'ingresso dello Stato nel capitale di aziende in crisi (fino a 10 milioni)",
+"citazione": "POTENZIAMENTO DEL FONDO SALVAGUARDIA IMPRESE che consente allo Stato di entrare nel capitale delle aziende in crisi per un ammontare massimo di 10 milioni di Euro",
+"fonte": "m5s-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"economia-imprese"
+],
+"sottotema": "Partecipazioni pubbliche",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale",
+"parametri": [
+{
+"cosa": "importo massimo per azienda",
+"valore": "10 milioni di euro"
+}
+]
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Contrastare le delocalizzazioni e favorire la responsabilità sociale delle imprese",
+"citazione": "MISURE PER CONTRASTARE LE DELOCALIZZAZIONI E FAVORIRE LA RESPONSABILITÀ SOCIALE DELLE IMPRESE",
+"fonte": "m5s-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"economia-imprese",
+"lavoro"
+],
+"sottotema": "Politica industriale",
+"concretezza": 2,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Favorire il salvataggio delle imprese da parte degli stessi lavoratori (workers buyout)",
+"citazione": "MISURE PER ASSICURARE IL SALVATAGGIO DELLE IMPRESE DA PARTE DEGLI STESSI LAVORATORI",
+"fonte": "m5s-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"economia-imprese",
+"lavoro"
+],
+"sottotema": "Workers buyout",
+"concretezza": 2,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Varare un piano di edilizia residenziale pubblica con riqualificazione senza consumo di suolo",
+"citazione": "PIANO DI EDILIZIA RESIDENZIALE PUBBLICA con riqualificazione degli edifici esistenti senza consumo di suolo",
+"fonte": "m5s-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"casa"
+],
+"sottotema": "Edilizia pubblica",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Introdurre il mutuo salva casa per i sovraindebitati con immobile pignorato",
+"citazione": "Permettere alle persone sovraindebitate, con l’immobile oggetto di procedure esecutive, di riacquistarlo tramite mutui a lungo termine, agevolati dallo Stato",
+"fonte": "m5s-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"casa",
+"welfare-inclusione"
+],
+"sottotema": "Sfratti e morosità",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Introdurre l'affitto salva casa per i sovraindebitati",
+"citazione": "Consentire alle persone sovraindebitate, con la casa oggetto di procedure esecutive, di rimanere in affitto nella propria abitazione",
+"fonte": "m5s-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"casa",
+"welfare-inclusione"
+],
+"sottotema": "Sfratti e morosità",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Rendere strutturali Superbonus e altri bonus edilizi e sbloccare la circolazione dei crediti",
+"citazione": "SUPERBONUS E ALTRI BONUS EDILIZI STRUTTURALI",
+"fonte": "m5s-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"casa",
+"energia",
+"fisco"
+],
+"sottotema": "Bonus edilizi",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Introdurre un Superbonus energia per le imprese basato sulla circolazione dei crediti",
+"citazione": "UN NUOVO SUPERBONUS ENERGIA IMPRESE, sempre basato sulla circolazione dei crediti fiscali",
+"fonte": "m5s-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"energia",
+"economia-imprese"
+],
+"sottotema": "Efficienza energetica",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Semplificare le procedure per gli impianti di energia rinnovabile",
+"citazione": "SBUROCRATIZZAZIONE PER FAVORIRE LA CREAZIONE DI IMPIANTI DI ENERGIA RINNOVABILE",
+"fonte": "m5s-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"energia",
+"pubblica-amministrazione"
+],
+"sottotema": "Rinnovabili",
+"concretezza": 2,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Rivedere la formazione del prezzo del gas sganciandolo dal TTF",
+"citazione": "Revisione del sistema di formazione del prezzo del gas favorendone lo sganciamento dal mercato olandese TTF",
+"fonte": "m5s-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"energia"
+],
+"sottotema": "Bollette e prezzi",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Fermare nuove trivellazioni e nuovi inceneritori",
+"citazione": "STOP A NUOVE TRIVELLAZIONI E A NUOVI INCENERITORI",
+"fonte": "m5s-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"ambiente-animali",
+"energia"
+],
+"sottotema": "Rifiuti ed economia circolare",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Completare la carta geologica per prevenire il dissesto idrogeologico",
+"citazione": "COMPLETAMENTO DELLA CARTA GEOLOGICA per mappare il territorio e prevenire i dissesti idrogeologici",
+"fonte": "m5s-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"ambiente-animali"
+],
+"sottotema": "Dissesto idrogeologico",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Promuovere il vuoto a rendere",
+"citazione": "PROMOZIONE DEL VUOTO A RENDERE",
+"fonte": "m5s-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"ambiente-animali"
+],
+"sottotema": "Rifiuti ed economia circolare",
+"concretezza": 2,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Eliminare le interferenze politiche nelle nomine dei dirigenti sanitari",
+"citazione": "BASTA INTERFERENZE DELLA POLITICA NELLE NOMINE DEI DIRIGENTI SANITARI",
+"fonte": "m5s-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"sanita",
+"pubblica-amministrazione"
+],
+"sottotema": "Governance",
+"concretezza": 2,
+"stato": "annunciata",
+"ambito": "nazionale",
+"note": "Ripreso nelle proposte Nova 2026 (merito nelle nomine)."
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Aumentare le retribuzioni del personale sanitario",
+"citazione": "AUMENTO DELLE RETRIBUZIONI PER IL PERSONALE SANITARIO",
+"fonte": "m5s-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"sanita"
+],
+"sottotema": "Personale e finanziamento",
+"concretezza": 2,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Potenziare l'accessibilità alle terapie innovative e avanzate",
+"citazione": "POTENZIAMENTO E ACCESSIBILITÀ ALLE TERAPIE INNOVATIVE E AVANZATE",
+"fonte": "m5s-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"sanita"
+],
+"sottotema": "Accesso alle cure",
+"concretezza": 2,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Completare l'incremento delle pensioni di invalidità",
+"citazione": "COMPLETARE L’INCREMENTO DELLE PENSIONI DI INVALIDITÀ PER LE PERSONE CON DISABILITÀ",
+"fonte": "m5s-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"pensioni",
+"welfare-inclusione"
+],
+"sottotema": "Invalidità",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Attuare la legge delega sulla disabilità",
+"citazione": "ATTUAZIONE DELLA LEGGE DELEGA IN TEMA DI DISABILITÀ",
+"fonte": "m5s-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"welfare-inclusione"
+],
+"sottotema": "Disabilità",
+"concretezza": 2,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Promuovere silver cohousing e socio bonus per gli anziani",
+"citazione": "‘SILVER COHOUSING’ E SOCIO BONUS per creare condizioni di vita migliori per gli anziani",
+"fonte": "m5s-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"welfare-inclusione",
+"casa"
+],
+"sottotema": "Non autosufficienza",
+"concretezza": 2,
+"stato": "annunciata",
+"ambito": "nazionale",
+"destinatari": [
+"anziani"
+]
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Introdurre la sfiducia costruttiva",
+"citazione": "Un Governo non può essere sfiduciato se contestualmente non si vota la fiducia a un altro Esecutivo",
+"fonte": "m5s-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"istituzioni-riforme"
+],
+"sottotema": "Forma di governo",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Attribuire al presidente del Consiglio il potere di revocare i ministri",
+"citazione": "POTERE DEL PRESIDENTE DEL CONSIGLIO DI REVOCARE I MINISTRI",
+"fonte": "m5s-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"istituzioni-riforme"
+],
+"sottotema": "Forma di governo",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Estendere a tutti i partiti il limite dei due mandati",
+"citazione": "LIMITE DEI DUE MANDATI ESTESO A TUTTI I PARTITI",
+"fonte": "m5s-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"istituzioni-riforme"
+],
+"sottotema": "Regole parlamentari",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Porre limiti alla decretazione d'urgenza",
+"citazione": "LIMITI ALLA DECRETAZIONE D’URGENZA",
+"fonte": "m5s-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"istituzioni-riforme"
+],
+"sottotema": "Regole parlamentari",
+"concretezza": 2,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Dissuadere i cambi di gruppo parlamentare riformando i regolamenti",
+"citazione": "STOP AI CAMBI DI CASACCA IN PARLAMENTO",
+"fonte": "m5s-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"istituzioni-riforme"
+],
+"sottotema": "Regole parlamentari",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Introdurre la valutazione di impatto sul benessere ex ante ed ex post di leggi e attività di governo",
+"citazione": "avviare a livello istituzionale un serio lavoro di valutazione di impatto ex-ante e ex-post delle proposte di legge e dell’attività del governo",
+"fonte": "m5s-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"istituzioni-riforme",
+"pubblica-amministrazione"
+],
+"sottotema": "Valutazione d'impatto",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Garantire infrastrutture interconnesse, mobilità intermodale e manutenzione, riducendo il gap tra territori",
+"citazione": "INFRASTRUTTURE INTERCONNESSE E MOBILITÀ INTERMODALE SICURA, manutenzione ordinaria e straordinaria garantita",
+"fonte": "m5s-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"infrastrutture-trasporti",
+"mezzogiorno-territori"
+],
+"sottotema": "Infrastrutture",
+"concretezza": 2,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Introdurre un biglietto unico integrato",
+"citazione": "BIGLIETTO UNICO INTEGRATO",
+"fonte": "m5s-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"infrastrutture-trasporti"
+],
+"sottotema": "Trasporto pubblico",
+"concretezza": 2,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Ridurre le emissioni con la riconversione del parco auto privato",
+"citazione": "RIDUZIONE DELLE EMISSIONI DEI GAS CLIMALTERANTI ATTRAVERSO LA RICONVERSIONE DEL PARCO AUTO PRIVATO CIRCOLANTE",
+"fonte": "m5s-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"infrastrutture-trasporti",
+"ambiente-animali"
+],
+"sottotema": "Mobilità sostenibile",
+"concretezza": 2,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Istituire una cabina di regia per l'economia del mare (Progetto Mediterraneo)",
+"citazione": "Istituzione di una cabina di regia per promuovere e sviluppare ‘l’economia del mare’",
+"fonte": "m5s-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"infrastrutture-trasporti",
+"economia-imprese"
+],
+"sottotema": "Porti",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Completare la riforma dell'ergastolo ostativo e tutelare 41 bis e misure di prevenzione antimafia",
+"citazione": "Completamento della riforma in tema di ergastolo ostativo. Tutela dei principali presìdi antimafia come il 41 bis",
+"fonte": "m5s-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"giustizia",
+"sicurezza"
+],
+"sottotema": "Contrasto alla criminalità organizzata",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Rafforzare la lotta alla corruzione con più trasparenza e controllo dei fondi PNRR e tutela dei whistleblower",
+"citazione": "LOTTA ALLA CORRUZIONE, maggiore trasparenza e controllo dei fondi del Pnrr",
+"fonte": "m5s-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"giustizia",
+"conti-pubblici"
+],
+"sottotema": "Reati contro la PA",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Regolamentare la coltivazione di cannabis per uso personale",
+"citazione": "REGOLAMENTAZIONE DELLA COLTIVAZIONE DELLA CANNABIS per uso personale",
+"fonte": "m5s-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"diritti-liberta",
+"giustizia"
+],
+"sottotema": "Cannabis",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale",
+"note": "Nova 2026: depenalizzazione della coltivazione domestica (m5s-nova2026-giustizia-esteri)."
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Rafforzare il contrasto alla violenza sulle donne con formazione, braccialetti elettronici e percorsi per i maltrattanti",
+"citazione": "l’obbligatorietà e l’implementazione dei braccialetti elettronici e percorsi di recupero per i soggetti maltrattanti",
+"fonte": "m5s-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"diritti-liberta",
+"giustizia"
+],
+"sottotema": "Violenza di genere",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale",
+"destinatari": [
+"donne"
+]
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Superare l'improcedibilità nel processo penale",
+"citazione": "SUPERAMENTO DELL’IMPROCEDIBILITÀ NEL PROCESSO PENALE",
+"fonte": "m5s-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"giustizia"
+],
+"sottotema": "Prescrizione",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Adeguare gli stipendi degli insegnanti ai livelli europei",
+"citazione": "ADEGUAMENTO DEGLI STIPENDI DEGLI INSEGNANTI AI LIVELLI EUROPEI",
+"fonte": "m5s-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"istruzione-universita-ricerca"
+],
+"sottotema": "Scuola",
+"concretezza": 2,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Aumentare psicologi e pedagogisti nelle scuole",
+"citazione": "Più psicologi e pedagogisti per fornire un sostegno ai nostri ragazzi e a tutta la comunità scolastica",
+"fonte": "m5s-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"istruzione-universita-ricerca",
+"sanita"
+],
+"sottotema": "Scuola",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Introdurre una scuola dei mestieri",
+"citazione": "INTRODUZIONE DI UNA ‘SCUOLA DEI MESTIERI’",
+"fonte": "m5s-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"istruzione-universita-ricerca",
+"economia-imprese"
+],
+"sottotema": "Scuola",
+"concretezza": 2,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Ridurre il numero chiuso per l'accesso all'università",
+"citazione": "RIDUZIONE DEL NUMERO CHIUSO PER L’ACCESSO ALL’UNIVERSITÀ",
+"fonte": "m5s-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"istruzione-universita-ricerca"
+],
+"sottotema": "Università e ricerca",
+"concretezza": 2,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Favorire l'accesso aperto ai risultati della ricerca",
+"citazione": "FAVORIRE L’ACCESSO APERTO AI RISULTATI DELLE RICERCHE",
+"fonte": "m5s-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"istruzione-universita-ricerca"
+],
+"sottotema": "Università e ricerca",
+"concretezza": 2,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Approvare una legge sui beni comuni",
+"citazione": "LEGGE PER DISCIPLINARE LA CATEGORIA DEI BENI COMUNI",
+"fonte": "m5s-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"ambiente-animali",
+"istituzioni-riforme"
+],
+"sottotema": "Acqua pubblica",
+"concretezza": 2,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Approvare una legge sull'acqua pubblica",
+"citazione": "LEGGE SULL’ACQUA PUBBLICA",
+"fonte": "m5s-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"ambiente-animali"
+],
+"sottotema": "Acqua pubblica",
+"concretezza": 2,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Promuovere il referendum consultivo",
+"citazione": "PROMOZIONE DELLO STRUMENTO DEL REFERENDUM CONSULTIVO",
+"fonte": "m5s-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"istituzioni-riforme"
+],
+"sottotema": "Democrazia diretta",
+"concretezza": 2,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Abolire progressivamente la caccia, a partire dal divieto di accesso ai terreni privati",
+"citazione": "PROGRESSIVA ABOLIZIONE DELLA CACCIA A PARTIRE DAL DIVIETO DI ACCESSO AI TERRENI PRIVATI, CONTRASTO AL BRACCONAGGIO",
+"fonte": "m5s-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"ambiente-animali"
+],
+"sottotema": "Caccia",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Prevedere pene severe per violenze e maltrattamenti sugli animali",
+"citazione": "PENE SEVERE PER CHI COMMETTE VIOLENZE O MALTRATTAMENTI CONTRO GLI ANIMALI",
+"fonte": "m5s-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"ambiente-animali",
+"giustizia"
+],
+"sottotema": "Tutela degli animali",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Introdurre il cashback veterinario per le detrazioni delle spese veterinarie",
+"citazione": "CASHBACK VETERINARIO per ottenere direttamente su conto corrente le detrazioni connesse alle spese veterinarie",
+"fonte": "m5s-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"ambiente-animali",
+"fisco"
+],
+"sottotema": "Tutela degli animali",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Redigere una Carta dei diritti digitali con accesso alla rete come diritto costituzionale e banda ultralarga",
+"citazione": "Riconoscimento dell’accesso alla rete quale diritto costituzionale e copertura nazionale con banda ultralarga",
+"fonte": "m5s-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"innovazione-digitale"
+],
+"sottotema": "Diritti digitali",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Istituire una banca dati digitale nazionale per l'autodeterminazione informativa",
+"citazione": "BANCA DATI DIGITALE NAZIONALE per riconoscere il diritto all’autodeterminazione informativa",
+"fonte": "m5s-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"innovazione-digitale",
+"diritti-liberta"
+],
+"sottotema": "Diritti digitali",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Portare la pubblica amministrazione in cloud con digitalizzazione e interoperabilità",
+"citazione": "PUBBLICA AMMINISTRAZIONE IN CLOUD, radicale digitalizzazione, dematerializzazione e interoperabilità",
+"fonte": "m5s-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"pubblica-amministrazione",
+"innovazione-digitale"
+],
+"sottotema": "Digitalizzazione della PA",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Definire un piano industriale sulle tecnologie strategiche (IA, semiconduttori, quantum, ecc.)",
+"citazione": "DEFINIRE UN PIANO INDUSTRIALE BASATO SULLE TECNOLOGIE STRATEGICHE PER IL FUTURO",
+"fonte": "m5s-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"innovazione-digitale",
+"economia-imprese"
+],
+"sottotema": "Politica industriale",
+"concretezza": 2,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Potenziare le materie STEM fin dai primi gradi scolastici",
+"citazione": "POTENZIARE L’INSEGNAMENTO DELLE MATERIE STEM SIN DAI PRIMI GRADI SCOLASTICI",
+"fonte": "m5s-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"istruzione-universita-ricerca",
+"innovazione-digitale"
+],
+"sottotema": "Scuola",
+"concretezza": 2,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Usare tecnologie satellitari per l'uso razionale di acqua e fertilizzanti in agricoltura",
+"citazione": "RICORSO ALLE TECNOLOGIE SATELLITARI PER L’UTILIZZO RAZIONALE DI ACQUA E FERTILIZZANTI",
+"fonte": "m5s-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"agricoltura-pesca"
+],
+"sottotema": "Acqua e irrigazione",
+"concretezza": 2,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Incentivare il ricambio generazionale con investimenti per giovani agricoltori",
+"citazione": "INCENTIVI PER IL RICAMBIO GENERAZIONALE con investimenti dedicati a giovani agricoltori",
+"fonte": "m5s-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"agricoltura-pesca"
+],
+"sottotema": "Reddito agricolo e PAC",
+"concretezza": 2,
+"stato": "annunciata",
+"ambito": "nazionale",
+"destinatari": [
+"giovani"
+]
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Opporsi al Nutriscore e promuovere il Nutrinform Battery",
+"citazione": "NO AL SISTEMA DI ETICHETTATURA DEI PRODOTTI ALIMENTARI ‘NUTRISCORE’ E PROMOZIONE DEL MECCANISMO ALTERNATIVO DENOMINATO ‘NUTRINFORM BATTERY’",
+"fonte": "m5s-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"agricoltura-pesca",
+"esteri-europa"
+],
+"sottotema": "Filiere e agroalimentare",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Incentivare la filiera corta",
+"citazione": "INCENTIVAZIONE DELLA FILIERA CORTA",
+"fonte": "m5s-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"agricoltura-pesca"
+],
+"sottotema": "Filiere e agroalimentare",
+"concretezza": 2,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Varare un piano di assunzioni al Ministero dei beni culturali",
+"citazione": "PIANO PUBBLICO DI ASSUNZIONI PER SUPERARE IL GRAVE SOTTODIMENSIONAMENTO DEL MINISTERO DEI BENI CULTURALI",
+"fonte": "m5s-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"cultura-sport-turismo",
+"pubblica-amministrazione"
+],
+"sottotema": "Patrimonio culturale",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Istituire una piattaforma per l'incontro tra turisti e offerta territoriale",
+"citazione": "ISTITUZIONE DI UNA PIATTAFORMA PER L’INCONTRO TRA I BISOGNI DEI TURISTI E L’OFFERTA DEL TERRITORIO ITALIANO",
+"fonte": "m5s-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"cultura-sport-turismo"
+],
+"sottotema": "Turismo",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Frenare le esternalizzazioni e l'uso distorto del volontariato nella cultura",
+"citazione": "FRENO ALLE ESTERNALIZZAZIONI E CONTRASTO ALL’USO DISTORTO DEL VOLONTARIATO E DEI LAVORATORI DELLA CULTURA",
+"fonte": "m5s-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"cultura-sport-turismo",
+"lavoro"
+],
+"sottotema": "Patrimonio culturale",
+"concretezza": 2,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Confermare la collocazione di Italia nella NATO e nell'UE con atteggiamento proattivo",
+"citazione": "SOLIDA COLLOCAZIONE DELL’ITALIA NELL’ALLEANZA ATLANTICA E NELL’UNIONE EUROPEA",
+"fonte": "m5s-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"esteri-europa"
+],
+"sottotema": "NATO e alleanze",
+"concretezza": 2,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Opporsi alla corsa al riarmo e sostenere una difesa comune europea",
+"citazione": "NO ALLA CORSA AL RIARMO, SÌ AL PROGETTO DI DIFESA COMUNE EUROPEA PER LA PACE E LA SICUREZZA",
+"fonte": "m5s-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"difesa",
+"esteri-europa"
+],
+"sottotema": "Difesa europea",
+"concretezza": 2,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Istituire un Energy Recovery Fund finanziato da debito comune europeo",
+"citazione": "ISTITUZIONE DI UN ‘ENERGY RECOVERY FUND’ alimentato dall’emissione di debito comune europeo",
+"fonte": "m5s-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"energia",
+"esteri-europa",
+"conti-pubblici"
+],
+"sottotema": "Gas e approvvigionamento",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Rendere permanente l'emissione di debito comune europeo",
+"citazione": "RENDERE PERMANENTE L’EMISSIONE DI DEBITO COMUNE COME STRUMENTO A SOSTEGNO DEGLI OBIETTIVI EUROPEI",
+"fonte": "m5s-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"conti-pubblici",
+"esteri-europa"
+],
+"sottotema": "Regole fiscali europee",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Riformare il Patto di stabilità scorporando gli investimenti verdi dal deficit",
+"citazione": "RIFORMA DEL PATTO DI STABILITÀ E CRESCITA, RIVEDENDO GLI ATTUALI PARAMETRI E SCORPORANDO GLI INVESTIMENTI VERDI DAL COMPUTO DEL DEFICIT",
+"fonte": "m5s-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"conti-pubblici",
+"esteri-europa"
+],
+"sottotema": "Regole fiscali europee",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+}
+]

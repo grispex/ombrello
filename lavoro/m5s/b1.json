@@ -1,0 +1,884 @@
+[
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Installare 50 GW aggiuntivi di fonti rinnovabili per ridurre fino a 10 miliardi l'anno la spesa per il gas",
+"citazione": "50 GW in più da fonti rinnovabili e fino a 10 miliardi di euro l'anno di minore spesa per il gas",
+"fonte": "m5s-nova2026-ambiente-energia-casa",
+"data": "2026-09",
+"aree": [
+"energia"
+],
+"sottotema": "Rinnovabili",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale",
+"parametri": [
+{
+"cosa": "nuova potenza rinnovabile",
+"valore": "50 GW"
+},
+{
+"cosa": "minore spesa gas",
+"valore": "fino a 10 miliardi di euro l'anno"
+}
+],
+"punto": "Scheda 1"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Separare il prezzo dell'elettricità rinnovabile da quello del gas, con tutela dei nuclei vulnerabili",
+"citazione": "Separare la formazione del prezzo dell'elettricità rinnovabile da quello del gas e proteggere in modo particolare i nuclei vulnerabili",
+"fonte": "m5s-nova2026-ambiente-energia-casa",
+"data": "2026-09",
+"aree": [
+"energia"
+],
+"sottotema": "Bollette e prezzi",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale",
+"punto": "Scheda 1"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Ridurre l'IVA sui carburanti dal 22% al 10% e allineare la fiscalità dell'elettricità a quella del gas",
+"citazione": "Ridurre l'IVA sui carburanti dal 22% al 10% e allineare la fiscalità dell'energia elettrica a quella del gas",
+"fonte": "m5s-nova2026-ambiente-energia-casa",
+"data": "2026-09",
+"aree": [
+"energia",
+"fisco"
+],
+"sottotema": "IVA",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale",
+"parametri": [
+{
+"cosa": "IVA carburanti",
+"valore": "da 22% a 10%"
+}
+],
+"punto": "Scheda 1"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Attuare prezzi zonali dell'energia per abbassare i costi nei territori che ospitano impianti",
+"citazione": "Attuare i prezzi zonali per ridurre i costi nelle aree in cui vengono realizzati gli impianti",
+"fonte": "m5s-nova2026-ambiente-energia-casa",
+"data": "2026-09",
+"aree": [
+"energia",
+"mezzogiorno-territori"
+],
+"sottotema": "Bollette e prezzi",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale",
+"punto": "Scheda 1"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Superare i sussidi alla generazione fossile e trasferire gli oneri di sistema alla fiscalità generale",
+"citazione": "Rivedere gli oneri di sistema, superare i sostegni alla generazione fossile, chiudere le centrali obsolete e trasferire progressivamente gli oneri verso la fiscalità generale",
+"fonte": "m5s-nova2026-ambiente-energia-casa",
+"data": "2026-09",
+"aree": [
+"energia",
+"ambiente-animali"
+],
+"sottotema": "Bollette e prezzi",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale",
+"punto": "Scheda 1"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Promuovere contratti di lungo periodo produttori-consumatori e rafforzare l'Energy Release del GSE",
+"citazione": "Promuovere accordi di lungo periodo tra produttori e consumatori a condizioni predefinite e rafforzare l'Energy Release del GSE a prezzi calmierati",
+"fonte": "m5s-nova2026-ambiente-energia-casa",
+"data": "2026-09",
+"aree": [
+"energia"
+],
+"sottotema": "Bollette e prezzi",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale",
+"punto": "Scheda 1"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Installare in via prioritaria il fotovoltaico su tetti, edifici pubblici, capannoni e aree già impermeabilizzate",
+"citazione": "Installare prioritariamente il fotovoltaico su tetti, edifici pubblici, capannoni, parcheggi e aree impermeabilizzate, collegandolo anche alla bonifica dell'amianto",
+"fonte": "m5s-nova2026-ambiente-energia-casa",
+"data": "2026-09",
+"aree": [
+"energia"
+],
+"sottotema": "Rinnovabili",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale",
+"punto": "Scheda 1"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Semplificare autoconsumo e comunità energetiche e accelerare reti, accumuli e connessioni",
+"citazione": "Semplificare l'autoconsumo e l'energia condivisa; accelerare reti, accumuli, interconnessioni e connessioni dell'ultimo miglio",
+"fonte": "m5s-nova2026-ambiente-energia-casa",
+"data": "2026-09",
+"aree": [
+"energia"
+],
+"sottotema": "Comunità energetiche",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale",
+"punto": "Scheda 1"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Destinare i proventi delle aste ETS solo agli incentivi per le rinnovabili",
+"citazione": "Destinare i proventi delle aste ETS esclusivamente agli incentivi per le energie rinnovabili",
+"fonte": "m5s-nova2026-ambiente-energia-casa",
+"data": "2026-09",
+"aree": [
+"energia",
+"ambiente-animali"
+],
+"sottotema": "Rinnovabili",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale",
+"punto": "Scheda 1"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Collegare i bonus sociali a interventi strutturali di efficienza energetica",
+"citazione": "Collegare i bonus sociali a interventi strutturali di efficienza energetica",
+"fonte": "m5s-nova2026-ambiente-energia-casa",
+"data": "2026-09",
+"aree": [
+"energia",
+"welfare-inclusione"
+],
+"sottotema": "Efficienza energetica",
+"concretezza": 2,
+"stato": "annunciata",
+"ambito": "nazionale",
+"punto": "Scheda 1"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Investire nella ricerca sulla fusione nucleare",
+"citazione": "Investire nelle tecnologie più avanzate per un'energia futura più sicura e senza scorie",
+"fonte": "m5s-nova2026-ambiente-energia-casa",
+"data": "2026-09",
+"aree": [
+"energia",
+"innovazione-digitale"
+],
+"sottotema": "Nucleare",
+"concretezza": 2,
+"stato": "annunciata",
+"ambito": "nazionale",
+"punto": "Scheda 1"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Varare un Piano nazionale dell'abitare per aumentare l'offerta abitativa pubblica",
+"citazione": "Aumentare l'offerta abitativa pubblica e programmare gli interventi su scala nazionale, dando risorse adeguate agli enti territoriali",
+"fonte": "m5s-nova2026-ambiente-energia-casa",
+"data": "2026-09",
+"aree": [
+"casa"
+],
+"sottotema": "Edilizia pubblica",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale",
+"punto": "Scheda 2"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Attivare convenzioni tra privati ed enti per affitti calmierati delle case sfitte in cambio di benefici fiscali",
+"citazione": "Attivare convenzioni fra proprietari privati ed enti territoriali: affitti calmierati e gestione da parte del pubblico dell’immobile in cambio di benefici fiscali e garanzia di riconsegna",
+"fonte": "m5s-nova2026-ambiente-energia-casa",
+"data": "2026-09",
+"aree": [
+"casa"
+],
+"sottotema": "Affitti e affitti brevi",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale",
+"punto": "Scheda 2"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Finanziare stabilmente i fondi per l'accesso alle locazioni e la morosità incolpevole",
+"citazione": "Finanziare stabilmente i fondi per l'accesso alle locazioni e per la morosità incolpevole",
+"fonte": "m5s-nova2026-ambiente-energia-casa",
+"data": "2026-09",
+"aree": [
+"casa",
+"welfare-inclusione"
+],
+"sottotema": "Sfratti e morosità",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale",
+"punto": "Scheda 2"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Censire, recuperare e assegnare entro tempi certi gli immobili pubblici inutilizzati e i beni confiscati",
+"citazione": "Censire, recuperare e assegnare entro tempi certi gli immobili pubblici inutilizzati, compresi i beni confiscati alle mafie",
+"fonte": "m5s-nova2026-ambiente-energia-casa",
+"data": "2026-09",
+"aree": [
+"casa"
+],
+"sottotema": "Rigenerazione urbana",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale",
+"punto": "Scheda 2"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Istituire un Osservatorio pubblico dell'abitare",
+"citazione": "Raccogliere dati, coordinare gli interventi e misurare fabbisogni, disponibilità e risultati",
+"fonte": "m5s-nova2026-ambiente-energia-casa",
+"data": "2026-09",
+"aree": [
+"casa"
+],
+"sottotema": "Edilizia pubblica",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale",
+"punto": "Scheda 2"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Trasferire 13,5 miliardi dal Ponte sullo Stretto alle scuole (laboratori, impianti sportivi)",
+"citazione": "13,5 miliardi di euro da trasferire per le nostre scuole, per laboratori linguistici, informatici, teatrali, musicali, impianti sportivi",
+"fonte": "m5s-nova2026-ambiente-energia-casa",
+"data": "2026-09",
+"aree": [
+"istruzione-universita-ricerca",
+"infrastrutture-trasporti"
+],
+"sottotema": "Scuola",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale",
+"parametri": [
+{
+"cosa": "risorse trasferite alle scuole",
+"valore": "13,5 miliardi di euro"
+}
+],
+"punto": "Scheda 3"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Avviare un piano pluriennale di sicurezza e qualità degli edifici scolastici",
+"citazione": "Avviare un piano pluriennale per agibilità, prevenzione incendi, climatizzazione sostenibile, mense, impianti sportivi e spazi educativi",
+"fonte": "m5s-nova2026-ambiente-energia-casa",
+"data": "2026-09",
+"aree": [
+"istruzione-universita-ricerca"
+],
+"sottotema": "Edilizia scolastica",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale",
+"punto": "Scheda 3"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Stabilizzare cattedre e organici ATA e assumere insegnanti di sostegno formati",
+"citazione": "Stabilizzare cattedre e organici Ata e assumere insegnanti di sostegno formati",
+"fonte": "m5s-nova2026-ambiente-energia-casa",
+"data": "2026-09",
+"aree": [
+"istruzione-universita-ricerca"
+],
+"sottotema": "Scuola",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale",
+"punto": "Scheda 3"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Rendere l'asilo nido un servizio educativo universale e gratuito",
+"citazione": "Trasformare il nido in un servizio educativo universale, accessibile a tutte le famiglie e presente in ogni territorio",
+"fonte": "m5s-nova2026-ambiente-energia-casa",
+"data": "2026-09",
+"aree": [
+"famiglia-natalita",
+"istruzione-universita-ricerca"
+],
+"sottotema": "Asili nido",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale",
+"destinatari": [
+"famiglie"
+],
+"punto": "Scheda 3"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Offrire attività pomeridiane e centri estivi pubblici nelle scuole",
+"citazione": "Offrire attività educative, culturali e sportive nel pomeriggio e centri estivi pubblici durante la chiusura scolastica",
+"fonte": "m5s-nova2026-ambiente-energia-casa",
+"data": "2026-09",
+"aree": [
+"istruzione-universita-ricerca"
+],
+"sottotema": "Scuola",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale",
+"punto": "Scheda 3"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Garantire gratis libri, mensa e trasporto fino a 16 anni alle famiglie meno abbienti",
+"citazione": "Garantire libri, mensa e trasporto senza costi fino ai 16 anni per le famiglie meno abbienti",
+"fonte": "m5s-nova2026-ambiente-energia-casa",
+"data": "2026-09",
+"aree": [
+"istruzione-universita-ricerca",
+"welfare-inclusione"
+],
+"sottotema": "Diritto allo studio",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale",
+"destinatari": [
+"famiglie"
+],
+"punto": "Scheda 3"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Introdurre l'educazione digitale a scuola (IA, social, privacy, disinformazione)",
+"citazione": "Insegnare un uso consapevole dell'intelligenza artificiale e dei social, la tutela della privacy e il contrasto a disinformazione e cyberbullismo",
+"fonte": "m5s-nova2026-ambiente-energia-casa",
+"data": "2026-09",
+"aree": [
+"istruzione-universita-ricerca",
+"innovazione-digitale"
+],
+"sottotema": "Scuola",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale",
+"punto": "Scheda 3"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Introdurre l'educazione affettiva e sessuale nelle scuole",
+"citazione": "Offrire strumenti adeguati all'età per relazioni consapevoli, rispetto reciproco e prevenzione della violenza",
+"fonte": "m5s-nova2026-ambiente-energia-casa",
+"data": "2026-09",
+"aree": [
+"istruzione-universita-ricerca",
+"diritti-liberta"
+],
+"sottotema": "Violenza di genere",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale",
+"punto": "Scheda 3"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Riformare i PCTO con obiettivi chiari, regole di sicurezza e tutor",
+"citazione": "servono obiettivi chiari, regole rigorose sulla sicurezza, tutor presenti a scuola e sul luogo di lavoro",
+"fonte": "m5s-nova2026-ambiente-energia-casa",
+"data": "2026-09",
+"aree": [
+"istruzione-universita-ricerca",
+"lavoro"
+],
+"sottotema": "Scuola-lavoro",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale",
+"punto": "Scheda 3"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Aumentare FFO e FOE allineando l'investimento in ricerca alla media europea",
+"citazione": "Incremento di FFO (Fondo di Finanziamento Ordinario) e FOE (Fondo Ordinario Enti di ricerca) dei fondi per la ricerca allineando l’investimento italiano alla media europea",
+"fonte": "m5s-nova2026-ambiente-energia-casa",
+"data": "2026-09",
+"aree": [
+"istruzione-universita-ricerca"
+],
+"sottotema": "Università e ricerca",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale",
+"punto": "Scheda 3"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Riformare i concorsi post-universitari per contrastare precariato e localismi",
+"citazione": "Concorsi più trasparenti e meccanismi di reclutamento che contrastino il precariato e le tendenze localistiche",
+"fonte": "m5s-nova2026-ambiente-energia-casa",
+"data": "2026-09",
+"aree": [
+"istruzione-universita-ricerca"
+],
+"sottotema": "Università e ricerca",
+"concretezza": 2,
+"stato": "annunciata",
+"ambito": "nazionale",
+"punto": "Scheda 3"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Incrementare residenze pubbliche per studenti, borse a tutti gli idonei e ampliare la no tax area",
+"citazione": "Incrementare le residenze pubbliche e gli alloggi a prezzi calmierati per gli studenti. Garantire borse di studio a tutti gli idonei anche ampliando la no tax area",
+"fonte": "m5s-nova2026-ambiente-energia-casa",
+"data": "2026-09",
+"aree": [
+"istruzione-universita-ricerca",
+"casa"
+],
+"sottotema": "Diritto allo studio",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale",
+"punto": "Scheda 3"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Istituire un Fondo permanente per l'adattamento climatico e attuare il Piano nazionale di adattamento",
+"citazione": "Attuare il Piano nazionale di adattamento e inserire il rischio climatico in tutta la programmazione pubblica",
+"fonte": "m5s-nova2026-ambiente-energia-casa",
+"data": "2026-09",
+"aree": [
+"ambiente-animali"
+],
+"sottotema": "Clima ed emissioni",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale",
+"punto": "Scheda 4"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Varare un piano trentennale per bonifiche, dissesto idrogeologico, sicurezza sismica e coste",
+"citazione": "Programmare bonifiche, contrasto al dissesto idrogeologico, sicurezza sismica e difesa delle coste dall'erosione",
+"fonte": "m5s-nova2026-ambiente-energia-casa",
+"data": "2026-09",
+"aree": [
+"ambiente-animali"
+],
+"sottotema": "Dissesto idrogeologico",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale",
+"parametri": [
+{
+"cosa": "orizzonte del piano",
+"valore": "30 anni"
+}
+],
+"punto": "Scheda 4"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Ridurre le perdite idriche, migliorare invasi e riuso delle acque con manutenzione finanziata stabilmente",
+"citazione": "Ridurre le dispersioni delle reti, migliorare invasi, raccolta e riuso delle acque e finanziare una manutenzione stabile",
+"fonte": "m5s-nova2026-ambiente-energia-casa",
+"data": "2026-09",
+"aree": [
+"ambiente-animali",
+"agricoltura-pesca"
+],
+"sottotema": "Acqua e irrigazione",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale",
+"punto": "Scheda 4"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Restituire spazio ai corsi d'acqua e rafforzare gli ecosistemi contro alluvioni e dissesto",
+"citazione": "Restituire spazio ai corsi d'acqua e rafforzare gli ecosistemi che assorbono e rallentano le piogge intense",
+"fonte": "m5s-nova2026-ambiente-energia-casa",
+"data": "2026-09",
+"aree": [
+"ambiente-animali"
+],
+"sottotema": "Dissesto idrogeologico",
+"concretezza": 2,
+"stato": "annunciata",
+"ambito": "nazionale",
+"punto": "Scheda 4"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Ridurre le emissioni da edifici, industria, trasporti, allevamenti e rifiuti per rispettare i limiti europei",
+"citazione": "Ridurre le emissioni prodotte da riscaldamento degli edifici, industria, trasporti, allevamenti intensivi e gestione dei rifiuti",
+"fonte": "m5s-nova2026-ambiente-energia-casa",
+"data": "2026-09",
+"aree": [
+"ambiente-animali"
+],
+"sottotema": "Inquinamento",
+"concretezza": 2,
+"stato": "annunciata",
+"ambito": "nazionale",
+"punto": "Scheda 4"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Riconvertire gli allevamenti più impattanti e dismettere gradualmente gli inceneritori",
+"citazione": "Ridurre e riconvertire gli allevamenti più impattanti e procedere alla graduale dismissione degli inceneritori",
+"fonte": "m5s-nova2026-ambiente-energia-casa",
+"data": "2026-09",
+"aree": [
+"ambiente-animali",
+"agricoltura-pesca"
+],
+"sottotema": "Rifiuti ed economia circolare",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale",
+"punto": "Scheda 4"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Finanziare indagini epidemiologiche trasparenti sull'impatto ambientale",
+"citazione": "Finanziare indagini epidemiologiche trasparenti sull'impatto ambientale per le persone e gli ecosistemi",
+"fonte": "m5s-nova2026-ambiente-energia-casa",
+"data": "2026-09",
+"aree": [
+"ambiente-animali",
+"sanita"
+],
+"sottotema": "Inquinamento",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale",
+"punto": "Scheda 4"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Rigenerare edifici e quartieri inutilizzati senza consumare nuovo suolo",
+"citazione": "Recuperare città, quartieri ed edifici inutilizzati senza impermeabilizzare nuovo suolo",
+"fonte": "m5s-nova2026-ambiente-energia-casa",
+"data": "2026-09",
+"aree": [
+"casa",
+"ambiente-animali"
+],
+"sottotema": "Rigenerazione urbana",
+"concretezza": 2,
+"stato": "annunciata",
+"ambito": "nazionale",
+"punto": "Scheda 5"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Rendere obbligatori i piani comunali del verde con obiettivi, tempi e risorse",
+"citazione": "Chiedere a ogni città obiettivi, tempi e risorse verificabili per aumentare e curare il verde urbano",
+"fonte": "m5s-nova2026-ambiente-energia-casa",
+"data": "2026-09",
+"aree": [
+"ambiente-animali"
+],
+"sottotema": "Parchi e biodiversità",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale",
+"punto": "Scheda 5"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Realizzare città spugna e rifugi climatici nei quartieri più esposti",
+"citazione": "Togliere asfalto e cemento dove non servono e creare rifugi climatici nei quartieri più esposti",
+"fonte": "m5s-nova2026-ambiente-energia-casa",
+"data": "2026-09",
+"aree": [
+"ambiente-animali"
+],
+"sottotema": "Clima ed emissioni",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale",
+"punto": "Scheda 5"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Piantare 58,9 milioni di alberi (uno per abitante) con il progetto Città che respirano",
+"citazione": "Realizzare il progetto “Città che respirano” con 58,9 milioni di nuovi alberi",
+"fonte": "m5s-nova2026-ambiente-energia-casa",
+"data": "2026-09",
+"aree": [
+"ambiente-animali"
+],
+"sottotema": "Parchi e biodiversità",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale",
+"parametri": [
+{
+"cosa": "nuovi alberi",
+"valore": "58,9 milioni"
+}
+],
+"punto": "Scheda 5"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Istituire un Fondo per la natura urbana",
+"citazione": "Finanziare il ripristino degli ecosistemi e la biodiversità nelle città",
+"fonte": "m5s-nova2026-ambiente-energia-casa",
+"data": "2026-09",
+"aree": [
+"ambiente-animali"
+],
+"sottotema": "Parchi e biodiversità",
+"concretezza": 2,
+"stato": "annunciata",
+"ambito": "nazionale",
+"punto": "Scheda 5"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Creare un registro comunale dei servizi ecosistemici con valore economico pubblicato col bilancio",
+"citazione": "Creare un registro comunale dei servizi offerti dagli ecosistemi, attribuire loro un valore economico e pubblicarne ogni anno il saldo insieme al bilancio",
+"fonte": "m5s-nova2026-ambiente-energia-casa",
+"data": "2026-09",
+"aree": [
+"ambiente-animali"
+],
+"sottotema": "Parchi e biodiversità",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale",
+"punto": "Scheda 5"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Ridurre progressivamente i contributi pubblici diretti all'editoria",
+"citazione": "Ridurre progressivamente i contributi pubblici diretti all’editoria",
+"fonte": "m5s-nova2026-ambiente-energia-casa",
+"data": "2026-09",
+"aree": [
+"informazione-media"
+],
+"sottotema": "Editoria",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale",
+"punto": "Scheda 6"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Rafforzare i poteri dell'AGCOM a tutela del pluralismo",
+"citazione": "Rafforzare i poteri dell’Autorità per le comunicazioni per difendere la libertà e il pluralismo dell’informazione",
+"fonte": "m5s-nova2026-ambiente-energia-casa",
+"data": "2026-09",
+"aree": [
+"informazione-media"
+],
+"sottotema": "Pluralismo",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale",
+"punto": "Scheda 6"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Rendere la governance della Rai indipendente da Governo e maggioranze",
+"citazione": "Rendere la governance del servizio pubblico indipendente da Governo e maggioranze, con nomine trasparenti, criteri di competenza e risorse certe nel tempo",
+"fonte": "m5s-nova2026-ambiente-energia-casa",
+"data": "2026-09",
+"aree": [
+"informazione-media",
+"istituzioni-riforme"
+],
+"sottotema": "Rai",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale",
+"punto": "Scheda 6"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Verificare l'età sui social e disattivare per i minorenni i meccanismi d'uso compulsivo",
+"citazione": "Verificare l’età degli utenti e disattivare automaticamente, per i minorenni, i meccanismi che favoriscono un utilizzo compulsivo delle piattaforme",
+"fonte": "m5s-nova2026-ambiente-energia-casa",
+"data": "2026-09",
+"aree": [
+"innovazione-digitale",
+"sicurezza"
+],
+"sottotema": "Social e minori",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale",
+"destinatari": [
+"giovani"
+],
+"punto": "Scheda 6"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Garantire rimozione immediata, assistenza e pene per i falsi video sessuali",
+"citazione": "Garantire rimozione immediata dei contenuti, assistenza pubblica e pene adeguate per chi realizza o diffonde immagini intime false senza consenso",
+"fonte": "m5s-nova2026-ambiente-energia-casa",
+"data": "2026-09",
+"aree": [
+"innovazione-digitale",
+"giustizia",
+"diritti-liberta"
+],
+"sottotema": "Libertà di espressione e privacy",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale",
+"punto": "Scheda 6"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Sviluppare strumenti pubblici di intelligenza artificiale",
+"citazione": "Sviluppare strumenti pubblici di intelligenza artificiale per evitare che le nostre istituzioni dipendano esclusivamente dalle grandi multinazionali tecnologiche",
+"fonte": "m5s-nova2026-ambiente-energia-casa",
+"data": "2026-09",
+"aree": [
+"innovazione-digitale"
+],
+"sottotema": "Intelligenza artificiale",
+"concretezza": 2,
+"stato": "annunciata",
+"ambito": "nazionale",
+"punto": "Scheda 6"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Promuovere un'Autorità internazionale per i diritti digitali e il ritorno alle comunità di parte della ricchezza digitale",
+"citazione": "Contribuire ad istituire un’Autorità internazionale che protegga i diritti delle persone e garantisca che una parte della ricchezza prodotta dal digitale torni alle comunità",
+"fonte": "m5s-nova2026-ambiente-energia-casa",
+"data": "2026-09",
+"aree": [
+"innovazione-digitale",
+"esteri-europa"
+],
+"sottotema": "Intelligenza artificiale",
+"concretezza": 2,
+"stato": "annunciata",
+"ambito": "nazionale",
+"punto": "Scheda 6"
+}
+]

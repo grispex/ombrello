@@ -1,0 +1,300 @@
+[
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Creare un certificato europeo (modello australiano Working with children) per lavorare con minori nello sport",
+"citazione": "proponiamo, sul modello australiano della “Working with children”, la creazione di un certificato che sia un lasciapassare per poter lavorare con minorenni",
+"fonte": "m5s-programma-europee-2024",
+"data": "2024-05",
+"aree": [
+"cultura-sport-turismo",
+"sicurezza"
+],
+"sottotema": "Sport di base",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "europeo"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Opporsi al divieto di produzione e vendita di carne coltivata e delle denominazioni 'meat-sounding'",
+"citazione": "Il Movimento 5 Stelle si batte contro l’assurdo e propagandistico divieto di produzione e vendita di carne coltivata",
+"fonte": "m5s-programma-europee-2024",
+"data": "2024-05",
+"aree": [
+"agricoltura-pesca"
+],
+"sottotema": "Nuovi alimenti e carne coltivata",
+"concretezza": 2,
+"stato": "annunciata",
+"ambito": "europeo"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Opporsi all'accordo UE-Mercosur nella forma attuale e vietare l'export di pesticidi vietati nell'UE",
+"citazione": "Ciò implica che l’UE smetta di esportare ai Paesi del Mercosur i pesticidi vietati nel mercato interno",
+"fonte": "m5s-programma-europee-2024",
+"data": "2024-05",
+"aree": [
+"agricoltura-pesca",
+"esteri-europa"
+],
+"sottotema": "Commercio internazionale e dazi",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "europeo"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Avviare il riconoscimento dello Stato di Palestina da parte dell'UE",
+"citazione": "Deve iniziare il processo di riconoscimento dello Stato della Palestina",
+"fonte": "m5s-programma-europee-2024",
+"data": "2024-05",
+"aree": [
+"esteri-europa"
+],
+"sottotema": "Medio Oriente",
+"concretezza": 2,
+"stato": "annunciata",
+"ambito": "europeo"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Mettere in discussione l'accordo di associazione UE-Israele del 1995",
+"citazione": "mettendo anche in discussione l’accordo di associazione UE-Israele siglato nel 1995",
+"fonte": "m5s-programma-europee-2024",
+"data": "2024-05",
+"aree": [
+"esteri-europa"
+],
+"sottotema": "Medio Oriente",
+"concretezza": 2,
+"stato": "annunciata",
+"ambito": "europeo"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Ridurre drasticamente la pesca a strascico entro il 2030",
+"citazione": "entro il 2030, una drastica riduzione della cosiddetta pesca a strascico",
+"fonte": "m5s-programma-europee-2024",
+"data": "2024-05",
+"aree": [
+"agricoltura-pesca",
+"ambiente-animali"
+],
+"sottotema": "Pesca",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "europeo",
+"parametri": [
+{
+"cosa": "orizzonte riduzione pesca a strascico",
+"valore": "2030"
+}
+]
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Adottare un salario minimo legale europeo calibrato sulle condizioni dei singoli Stati",
+"citazione": "proponiamo l’adozione di un salario minimo legale europeo calibrato sulle specifiche condizioni economiche e sociali dei singoli Stati membri",
+"fonte": "m5s-programma-europee-2024",
+"data": "2024-05",
+"aree": [
+"lavoro",
+"esteri-europa"
+],
+"sottotema": "Salario minimo",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "europeo"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Prolungare i corridoi TEN-T verso la dorsale adriatica e il Sud per colmare i collegamenti mancanti",
+"citazione": "Chiediamo un prolungamento del corridoio europeo che garantirebbe una migliore connessione a livello logistico ed energetico",
+"fonte": "m5s-programma-europee-2024",
+"data": "2024-05",
+"aree": [
+"infrastrutture-trasporti",
+"mezzogiorno-territori",
+"esteri-europa"
+],
+"sottotema": "Infrastrutture",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "europeo"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Configurare la difesa comune europea come strumento di peacekeeping al servizio dell'ONU",
+"citazione": "La difesa comune europea deve essere uno strumento di peacekeeping al servizio delle Nazioni Unite",
+"fonte": "m5s-programma-europee-2024",
+"data": "2024-05",
+"aree": [
+"difesa",
+"esteri-europa"
+],
+"sottotema": "Difesa europea",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "europeo"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Razionalizzare la spesa militare europea con tagli agli sprechi ed economie di scala",
+"citazione": "È necessaria una razionalizzazione della spesa militare tramite i tagli agli sprechi e i risparmi derivanti dall’economia di scala",
+"fonte": "m5s-programma-europee-2024",
+"data": "2024-05",
+"aree": [
+"difesa",
+"conti-pubblici"
+],
+"sottotema": "Spesa militare e obiettivi NATO",
+"concretezza": 2,
+"stato": "annunciata",
+"ambito": "europeo"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Programmare a livello nazionale le infrastrutture riducendo il divario Nord-Sud e investendo sulla ferrovia",
+"citazione": "Programmare a livello nazionale il miglioramento delle infrastrutture, evitando i divari tra Nord e Sud e investendo sull’infrastruttura ferroviaria",
+"fonte": "m5s-nova2024-territorio",
+"data": "2024-11",
+"aree": [
+"infrastrutture-trasporti",
+"mezzogiorno-territori"
+],
+"sottotema": "Infrastrutture",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale",
+"punto": "Sul Sud e i territori"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Concentrare gli investimenti sulle aree periferiche e interne, a partire dall'infrastruttura digitale",
+"citazione": "Superare la dicotomia tra nord e sud del Paese e concentrare gli investimenti sulle aree periferiche",
+"fonte": "m5s-nova2024-territorio",
+"data": "2024-11",
+"aree": [
+"mezzogiorno-territori",
+"innovazione-digitale"
+],
+"sottotema": "Aree interne",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale",
+"punto": "Sulle aree interne"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Favorire accordi con i Paesi del Mediterraneo per valorizzare il Sud nelle rotte commerciali",
+"citazione": "Favorire accordi con i paesi del mediterraneo per valorizzare la posizione strategica del sud Italia nelle rotte commerciali",
+"fonte": "m5s-nova2024-territorio",
+"data": "2024-11",
+"aree": [
+"mezzogiorno-territori",
+"esteri-europa",
+"infrastrutture-trasporti"
+],
+"sottotema": "Mezzogiorno",
+"concretezza": 2,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Istituire un fondo pubblico per il giornalismo indipendente e d'inchiesta (una delle varianti proposte)",
+"citazione": "istituire un fondo pubblico per il giornalismo indipendente e il giornalismo d’inchiesta",
+"fonte": "m5s-nova2024-informazione",
+"data": "2024-11",
+"aree": [
+"informazione-media"
+],
+"sottotema": "Editoria",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale",
+"note": "Documento di sintesi con varianti alternative; in Nova 2026 gli iscritti hanno votato la riduzione progressiva dei contributi diretti."
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Abolire il numero chiuso nelle facoltà di Medicina",
+"citazione": "Abolizione numero chiuso facoltà di Medicina",
+"fonte": "m5s-nova2024-risultati",
+"data": "2024-11",
+"aree": [
+"istruzione-universita-ricerca",
+"sanita"
+],
+"sottotema": "Università e ricerca",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale",
+"note": "Approvato dall'89,48% dei votanti nella votazione del 21-24 novembre 2024."
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Introdurre il workers buyout con ingresso dei lavoratori nella proprietà e nella governance",
+"citazione": "Workers buyout: ingresso dei lavoratori nella proprietà e governance",
+"fonte": "m5s-nova2024-risultati",
+"data": "2024-11",
+"aree": [
+"economia-imprese",
+"lavoro"
+],
+"sottotema": "Workers buyout",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale",
+"note": "Approvato dal 92,07% dei votanti."
+},
+{
+"partiti": [
+"m5s"
+],
+"sintesi": "Condizionare gli incentivi alle imprese a obiettivi di strategie socialmente responsabili",
+"citazione": "Condizionare incentivi alle imprese a obiettivi di strategie socialmente responsabili",
+"fonte": "m5s-nova2024-risultati",
+"data": "2024-11",
+"aree": [
+"economia-imprese"
+],
+"sottotema": "Politica industriale",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale",
+"note": "Approvato dal 94,29% dei votanti."
+}
+]

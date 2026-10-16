@@ -1,0 +1,22 @@
+{
+  "partito": "m5s",
+  "nome": "MoVimento 5 Stelle",
+  "data": "2026-10-16",
+  "partito_autonomo": true,
+  "collocazione": "opposizione",
+  "camera": {
+    "gruppo": "MOVIMENTO 5 STELLE",
+    "deputati": 48,
+    "url": "https://www.camera.it/leg19/46",
+    "verificato_direttamente": true,
+    "note": "Pagina dei gruppi parlamentari letta il 2026-10-16."
+  },
+  "senato": {
+    "gruppo": "MoVimento 5 Stelle",
+    "senatori": 25,
+    "url": "https://www.senato.it/composizione/gruppi-parlamentari/riepilogo-della-composizione",
+    "verificato_direttamente": true,
+    "note": "Riepilogo della composizione dei gruppi letto il 2026-10-16. Altre fonti indicavano 26: prevale il dato della pagina ufficiale."
+  },
+  "note": "Partito autonomo con gruppo parlamentare proprio in entrambe le Camere; presidente Giuseppe Conte. All'opposizione del Governo Meloni."
+}
