@@ -1,0 +1,661 @@
+[
+ {
+  "partiti": [
+   "fn"
+  ],
+  "sintesi": "Introdurre l'elezione popolare diretta del Presidente della Repubblica",
+  "citazione": "Elezione popolare diretta del Presidente della Repubblica.",
+  "fonte": "fn-sito-programma",
+  "punto": "Istituzioni e sussidiarietà",
+  "aree": [
+   "istituzioni-riforme"
+  ],
+  "sottotema": "Premierato",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "data": "2026"
+ },
+ {
+  "partiti": [
+   "fn"
+  ],
+  "sintesi": "Prevedere l'indicazione popolare del premier nelle leggi elettorali maggioritarie",
+  "citazione": "Indicazione popolare del Presidente del Consiglio in ogni contesto di legge elettorale maggioritaria.",
+  "fonte": "fn-sito-programma",
+  "punto": "Istituzioni e sussidiarietà",
+  "aree": [
+   "istituzioni-riforme"
+  ],
+  "sottotema": "Premierato",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "data": "2026"
+ },
+ {
+  "partiti": [
+   "fn"
+  ],
+  "sintesi": "Adottare una legge elettorale con preferenze e senza alternanza e quote di genere",
+  "citazione": "Legge elettorale con preferenze e senza alternanza e quote di genere.",
+  "fonte": "fn-sito-programma",
+  "punto": "Istituzioni e sussidiarietà",
+  "aree": [
+   "istituzioni-riforme"
+  ],
+  "sottotema": "Legge elettorale",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "data": "2026"
+ },
+ {
+  "partiti": [
+   "fn"
+  ],
+  "sintesi": "Eliminare gli avanzamenti di carriera automatici nella PA legandoli ai risultati",
+  "citazione": "Eliminazione degli avanzamenti di carriera automatici nella Pubblica Amministrazione: essi dovranno sempre essere legati al raggiungimento dei risultati previsti e misurati con gli strumenti di valutazione previsti dalla normativa.",
+  "fonte": "fn-sito-programma",
+  "punto": "Istituzioni e sussidiarietà",
+  "aree": [
+   "pubblica-amministrazione"
+  ],
+  "sottotema": "Assunzioni e concorsi",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "data": "2026"
+ },
+ {
+  "partiti": [
+   "fn"
+  ],
+  "sintesi": "Riformare la sussidiarietà verticale con una compartecipazione IRPEF per i Comuni",
+  "citazione": "la nostra riforma per la Sussidiarietà Verticale metterà al centro i Sindaci, la prima e più concreta interfaccia delle istituzioni sul territorio, con un nuovo criterio di compartecipazione IRPEF che darà ai territori più risorse, più responsabilità e più libertà",
+  "fonte": "fn-sito-programma",
+  "punto": "Istituzioni e sussidiarietà",
+  "aree": [
+   "istituzioni-riforme",
+   "fisco"
+  ],
+  "sottotema": "Enti locali e province",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "data": "2026"
+ },
+ {
+  "partiti": [
+   "fn"
+  ],
+  "sintesi": "Attuare l'autonomia territoriale garantendo in modo assoluto i LEP",
+  "citazione": "Attuazione dell’autonomia territoriale, come applicazione del principio di sussidiarietà e per la valorizzazione delle specificità e capacità dei territori, nel contesto della garanzia assoluta dei LEP (Livelli Essenziali delle Prestazioni)",
+  "fonte": "fn-sito-programma",
+  "punto": "Istituzioni e sussidiarietà",
+  "aree": [
+   "istituzioni-riforme",
+   "mezzogiorno-territori"
+  ],
+  "sottotema": "Autonomia differenziata",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "data": "2026"
+ },
+ {
+  "partiti": [
+   "fn"
+  ],
+  "sintesi": "Estendere silenzio-assenso e silenzio-rigetto impugnabile per garantire risposte in tempi certi",
+  "citazione": "Estensione degli istituti del silenzio-assenso e, ove necessario, del silenzio-rigetto (con facoltà di impugnazione e assunzione di responsabilità dell’ente pubblico che ha rigettato) per garantire risposte in tempi certi",
+  "fonte": "fn-sito-programma",
+  "punto": "Istituzioni e sussidiarietà",
+  "aree": [
+   "pubblica-amministrazione"
+  ],
+  "sottotema": "Semplificazione",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "data": "2026"
+ },
+ {
+  "partiti": [
+   "fn"
+  ],
+  "sintesi": "Opporsi a ogni forma di maternità surrogata, anche per coppie eterosessuali",
+  "citazione": "Futuro Nazionale si schiera con netta e non negoziabile contrarietà a proposte come l’“utero in affitto” o “in comodato d’uso gratuito”",
+  "fonte": "fn-sito-programma",
+  "punto": "Valori non negoziabili",
+  "aree": [
+   "diritti-liberta"
+  ],
+  "sottotema": "Maternità surrogata",
+  "concretezza": 2,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "data": "2026"
+ },
+ {
+  "partiti": [
+   "fn"
+  ],
+  "sintesi": "Vietare l'iscrizione e trascrizione nello stato civile di atti, anche stranieri, che attribuiscano la maternità o paternità a due persone dello stesso sesso",
+  "citazione": "Proponiamo il divieto esplicito di iscrizione e trascrizione negli atti dello stato civile di qualsiasi atto – anche straniero – che attribuisca la maternità di due donne o la paternità di due uomini al medesimo bambino e la garanzia che ogni bambino abbia nel proprio atto di nascita un padre e una madre, nel rispetto della verità scientifica e biologica e del superiore interesse del bambino.",
+  "fonte": "fn-sito-programma",
+  "punto": "Valori non negoziabili",
+  "aree": [
+   "diritti-liberta"
+  ],
+  "sottotema": "Diritti LGBT+",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "data": "2026"
+ },
+ {
+  "partiti": [
+   "fn"
+  ],
+  "sintesi": "Vietare le adozioni a coppie omosessuali e a single, salvo il parente o ambiente affettivo del minore",
+  "citazione": "col divieto di adozioni a coppie omosessuali e a single (eccezion fatta per il parente o amico stretto di famiglia: è il caso dell’orfano affidato allo zio celibe o all’amico dei genitori), riservando al matrimonio tra l’uomo e la donna la possibilità di offrire paternità e maternità anche ai bambini già feriti dalla perdita dei genitori naturali, dall’abbandono o da altri traumi che quindi hanno persino più bisogno degli altri di essere accolti in condizioni di eccellenza e completezza.",
+  "fonte": "fn-sito-programma",
+  "punto": "Valori non negoziabili",
+  "aree": [
+   "diritti-liberta",
+   "famiglia-natalita"
+  ],
+  "sottotema": "Diritti LGBT+",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "data": "2026"
+ },
+ {
+  "partiti": [
+   "fn"
+  ],
+  "sintesi": "Vietare ai minorenni interventi di riassegnazione del sesso e ormoni cross-sex o bloccanti della pubertà, modificando la L. 164/1982",
+  "citazione": "Proponiamo la modifica della Legge 164/1982: divieto esplicito di interventi chirurgici di riassegnazione del sesso e di somministrazione di ormoni cross-sex e bloccanti della pubertà ai minorenni",
+  "fonte": "fn-sito-programma",
+  "punto": "Valori non negoziabili",
+  "aree": [
+   "diritti-liberta",
+   "sanita"
+  ],
+  "sottotema": "Diritti LGBT+",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "data": "2026"
+ },
+ {
+  "partiti": [
+   "fn"
+  ],
+  "sintesi": "Estendere la fascia protetta dalle 6 alle 23 per tutti i media audiovisivi",
+  "citazione": "l’estensione della fascia protetta dalle ore 6 alle ore 23 per tutti i media audiovisivi, con sanzioni severe – fino alla sospensione della licenza – per le trasmissioni che violino i divieti.",
+  "fonte": "fn-sito-programma",
+  "punto": "Valori non negoziabili",
+  "aree": [
+   "informazione-media",
+   "diritti-liberta"
+  ],
+  "sottotema": "Servizio pubblico RAI",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "data": "2026"
+ },
+ {
+  "partiti": [
+   "fn"
+  ],
+  "sintesi": "Applicare la Legge 38/2010 sulle cure palliative",
+  "citazione": "occorre applicare la Legge 38/2010 sulle cure palliative, attualmente negata a circa il 75% dei pazienti che ne avrebbero diritto, offrendo vera assistenza ai sofferenti la cui vita, in ogni caso, è un bene prezioso, indisponibile all’arbitrio umano e da considerarsi ricchezza per la comunità e l’intera nazione: la presenza di ciascuno è un bene per tutti ed è per questo che il diritto occidentale ha sempre considerato l’omicidio un atto di rilievo pubblico e non di libera contrattazione privata.",
+  "fonte": "fn-sito-programma",
+  "punto": "Valori non negoziabili",
+  "aree": [
+   "sanita",
+   "diritti-liberta"
+  ],
+  "sottotema": "Fine vita",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "data": "2026"
+ },
+ {
+  "partiti": [
+   "fn"
+  ],
+  "sintesi": "Garantire l'obiezione di coscienza del personale sanitario",
+  "citazione": "Futuro Nazionale proteggerà il diritto all’obiezione di coscienza del personale sanitario in qualsiasi circostanza e procedura caratterizzata dalla finalità di arrecare un danno alla vita o addirittura di sopprimerla.",
+  "fonte": "fn-sito-programma",
+  "punto": "Valori non negoziabili",
+  "aree": [
+   "sanita",
+   "diritti-liberta"
+  ],
+  "sottotema": "Aborto",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "data": "2026"
+ },
+ {
+  "partiti": [
+   "fn"
+  ],
+  "sintesi": "Riconoscere nel Codice civile il concepito come soggetto di diritto",
+  "citazione": "Proponiamo l’introduzione nel Codice civile del riconoscimento del concepito come soggetto di diritto, titolare di alcuni interessi giuridicamente tutelati, per esempio: l’estensione delle norme penali a protezione della vita prenatale, con aggravanti per i reati commessi in danno della donna in gravidanza che comportino la perdita del nascituro, la revisione delle normative in materia di successione e di risarcimento del danno alla luce del riconoscimento del concepito.",
+  "fonte": "fn-sito-programma",
+  "punto": "Valori non negoziabili",
+  "aree": [
+   "diritti-liberta"
+  ],
+  "sottotema": "Aborto",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "data": "2026"
+ },
+ {
+  "partiti": [
+   "fn"
+  ],
+  "sintesi": "Vietare la somministrazione della pillola RU-486 in regime ambulatoriale o domiciliare",
+  "citazione": "Divieto di somministrazione della pillola RU-486 in regime ambulatoriale o domiciliare, essendo necessario il monitoraggio medico continuativo a tutela della salute della madre, mentre il business farmaceutico ha portato di fatto a nascondere il più possibile i rischi legati all’aborto farmacologico.",
+  "fonte": "fn-sito-programma",
+  "punto": "Valori non negoziabili",
+  "aree": [
+   "sanita",
+   "diritti-liberta"
+  ],
+  "sottotema": "Aborto",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "data": "2026"
+ },
+ {
+  "partiti": [
+   "fn"
+  ],
+  "sintesi": "Obbligare ogni ospedale con reparto maternità ad avere la Culla per la Vita",
+  "citazione": "Futuro Nazionale propone l’obbligo di collocare la “Culla per la Vita” in ogni ospedale dotato di reparto maternità, con personale e requisiti per accogliere bambini che verrebbero altrimenti abbandonati in forme estremamente pericolose per la loro sopravvivenza.",
+  "fonte": "fn-sito-programma",
+  "punto": "Valori non negoziabili",
+  "aree": [
+   "sanita",
+   "famiglia-natalita"
+  ],
+  "sottotema": "Aborto",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "data": "2026"
+ },
+ {
+  "partiti": [
+   "fn"
+  ],
+  "sintesi": "Ripristinare il Ministero della Famiglia come Ministero della Vita, della Famiglia naturale e dell'Identità",
+  "citazione": "Sosterremo il ripristino del Ministero della Famiglia, con la nuova denominazione di Ministero della Vita, della Famiglia naturale e dell’Identità, per affrontare in modo diretto e prioritario la più grave crisi che colpisce oggi l’Italia, quella demografica, in un contesto di politiche complessive con le quali la demografia sia raccordata alla protezione della vita dal concepimento alla morte naturale e alla difesa dell’identità",
+  "fonte": "fn-sito-programma",
+  "punto": "Valori non negoziabili",
+  "aree": [
+   "famiglia-natalita",
+   "istituzioni-riforme"
+  ],
+  "sottotema": "Quoziente familiare",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "data": "2026"
+ },
+ {
+  "partiti": [
+   "fn"
+  ],
+  "sintesi": "Estendere il quoziente familiare a criterio generale dei tributi locali e dei servizi come Fattore Famiglia Italia",
+  "citazione": "Occorre inoltre portare il concetto di quoziente familiare a criterio fiscale generale, oltre l’IRPEF, come Fattore Famiglia Italia",
+  "fonte": "fn-sito-programma",
+  "punto": "Misure economiche per la famiglia",
+  "aree": [
+   "famiglia-natalita",
+   "fisco"
+  ],
+  "sottotema": "Quoziente familiare",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "data": "2026"
+ },
+ {
+  "partiti": [
+   "fn"
+  ],
+  "sintesi": "Potenziare la detrazione IRPEF per il primo figlio e gli sgravi su istruzione e salute",
+  "citazione": "Primo figlio: detrazione IRPEF potenziata rispetto alla situazione attuale (oggi sono solo 950 € circa all’anno, senza riuscire ad impattare sulla decisione di fare figli) e sgravi sulle spese per istruzione e salute",
+  "fonte": "fn-sito-programma",
+  "punto": "Misure economiche per la famiglia",
+  "aree": [
+   "famiglia-natalita",
+   "fisco"
+  ],
+  "sottotema": "Quoziente familiare",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "data": "2026",
+  "destinatari": [
+   "famiglie"
+  ]
+ },
+ {
+  "partiti": [
+   "fn"
+  ],
+  "sintesi": "Prevedere una detrazione progressiva per chi ha tre o più figli, in parte permanente",
+  "citazione": "Tre o più figli: detrazione fiscale ulteriore e progressiva, della quale una quota rimarrà permanente riconoscendo la generazione di almeno tre figli come un contributo straordinario e di rilievo in perpetuum al bene del Paese.",
+  "fonte": "fn-sito-programma",
+  "punto": "Misure economiche per la famiglia",
+  "aree": [
+   "famiglia-natalita",
+   "fisco"
+  ],
+  "sottotema": "Quoziente familiare",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "data": "2026",
+  "destinatari": [
+   "famiglie"
+  ]
+ },
+ {
+  "partiti": [
+   "fn"
+  ],
+  "sintesi": "Detrarre integralmente le spese di assistenza ai familiari non autosufficienti e riconoscere previdenzialmente il lavoro di cura",
+  "citazione": "Caregiver familiari: detrazione integrale delle spese sostenute per l’assistenza di familiari non autosufficienti, con riconoscimento previdenziale del lavoro di cura",
+  "fonte": "fn-sito-programma",
+  "punto": "Misure economiche per la famiglia",
+  "aree": [
+   "welfare-inclusione",
+   "fisco"
+  ],
+  "sottotema": "Non autosufficienza e anziani",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "data": "2026"
+ },
+ {
+  "partiti": [
+   "fn"
+  ],
+  "sintesi": "Valutare un Reddito di Rinascita per le madri italiane fino a 12/18 anni dei figli, con importo crescente per figlio",
+  "citazione": "Futuro Nazionale considera anche la possibilità di un Reddito di Rinascita che sostiene le madri italiane fino all’età di 12/18 anni",
+  "fonte": "fn-sito-programma",
+  "punto": "Misure economiche per la famiglia",
+  "aree": [
+   "famiglia-natalita"
+  ],
+  "sottotema": "Assegno unico",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "data": "2026",
+  "destinatari": [
+   "famiglie",
+   "donne"
+  ]
+ },
+ {
+  "partiti": [
+   "fn"
+  ],
+  "sintesi": "Offrire asili nido a basso costo e alloggi agevolati per giovani sposi",
+  "citazione": "Asili nido a basso costo, alloggi agevolati per giovani sposi",
+  "fonte": "fn-sito-programma",
+  "punto": "Misure economiche per la famiglia",
+  "aree": [
+   "famiglia-natalita",
+   "casa"
+  ],
+  "sottotema": "Asili nido",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "data": "2026",
+  "destinatari": [
+   "famiglie",
+   "giovani"
+  ]
+ },
+ {
+  "partiti": [
+   "fn"
+  ],
+  "sintesi": "Esonerare dal canone RAI le famiglie con tre o più figli",
+  "citazione": "Proponiamo l’esonero dal canone RAI per le famiglie con tre o più figli.",
+  "fonte": "fn-sito-programma",
+  "punto": "Misure economiche per la famiglia",
+  "aree": [
+   "famiglia-natalita",
+   "informazione-media"
+  ],
+  "sottotema": "Servizio pubblico RAI",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "data": "2026",
+  "destinatari": [
+   "famiglie"
+  ]
+ },
+ {
+  "partiti": [
+   "fn"
+  ],
+  "sintesi": "Istituire il Fondo di Prima Maternità con contributo mensile in gravidanza alle donne senza reddito sufficiente",
+  "citazione": "istituzione del Fondo di “Prima Maternità”: un contributo mensile per tutta la durata della gravidanza alle donne prive di reddito o con reddito insufficiente, vincolato all’impegno leale per la maternità quindi erogato retroattivamente a partire dal quarto mese, per evitare utilizzi strumentali o gravidanze volontariamente cercate per ottenere il sussidio e poi abortire il bambino.",
+  "fonte": "fn-sito-programma",
+  "punto": "Misure economiche per la famiglia",
+  "aree": [
+   "famiglia-natalita",
+   "welfare-inclusione"
+  ],
+  "sottotema": "Assegno unico",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "data": "2026",
+  "destinatari": [
+   "donne"
+  ]
+ },
+ {
+  "partiti": [
+   "fn"
+  ],
+  "sintesi": "Confermare il divieto di licenziamento dalla comunicazione della gravidanza al primo anno del bambino, con sanzioni più severe",
+  "citazione": "Conferma della protezione dalla comunicazione della gravidanza fino al primo anno di vita del bambino, con l’inasprimento delle sanzioni per i trasgressori oltre al mantenimento del diritto al reintegro.",
+  "fonte": "fn-sito-programma",
+  "punto": "Misure economiche per la famiglia",
+  "aree": [
+   "lavoro",
+   "famiglia-natalita"
+  ],
+  "sottotema": "Conciliazione vita-lavoro",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "data": "2026",
+  "destinatari": [
+   "donne"
+  ]
+ },
+ {
+  "partiti": [
+   "fn"
+  ],
+  "sintesi": "Introdurre il Mutuo Tricolore, mutuo agevolato con tasso ridotto alla nascita di ogni figlio",
+  "citazione": "Il “Mutuo Tricolore” è la risposta strutturale: un mutuo agevolato, contratto con garanzia dello Stato e a condizioni stabilite dal programma Mutuo Tricolore, a tasso progressivamente decrescente ad ogni nascita, destinato alle giovani coppie italiane per l’acquisto della prima casa.",
+  "fonte": "fn-sito-programma",
+  "punto": "Misure economiche per la famiglia",
+  "aree": [
+   "casa",
+   "famiglia-natalita"
+  ],
+  "sottotema": "Mutui prima casa",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "data": "2026",
+  "destinatari": [
+   "giovani",
+   "famiglie"
+  ]
+ },
+ {
+  "partiti": [
+   "fn"
+  ],
+  "sintesi": "Ridurre il tasso del Mutuo Tricolore a ogni nascita fino ad azzerarlo al terzo figlio",
+  "citazione": "il tasso, agevolato rispetto a quelli di mercato, scende alla nascita del primo figlio, ulteriormente alla nascita del secondo e si azzera completamente al terzo",
+  "fonte": "fn-sito-programma",
+  "punto": "Misure economiche per la famiglia",
+  "aree": [
+   "casa",
+   "famiglia-natalita"
+  ],
+  "sottotema": "Mutui prima casa",
+  "concretezza": 4,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "data": "2026",
+  "destinatari": [
+   "famiglie"
+  ]
+ },
+ {
+  "partiti": [
+   "fn"
+  ],
+  "sintesi": "Sospendere le rate del Mutuo Tricolore a ogni nascita senza interessi",
+  "citazione": "Ad ogni nascita, le rate del mutuo vengono sospese per alcuni mesi senza accumulo di interessi: un anno di respiro nella fase più critica della vita familiare.",
+  "fonte": "fn-sito-programma",
+  "punto": "Misure economiche per la famiglia",
+  "aree": [
+   "casa",
+   "famiglia-natalita"
+  ],
+  "sottotema": "Mutui prima casa",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "data": "2026",
+  "destinatari": [
+   "famiglie"
+  ]
+ },
+ {
+  "partiti": [
+   "fn"
+  ],
+  "sintesi": "Portare la pensione minima a 750 euro, aggiornata ogni 3 anni, solo per chi è in reale bisogno",
+  "citazione": "La pensione minima (oggi a 619,80 euro) dovrà salire, una volta reperite le risorse, a 750 euro (ed essere aggiornata ogni 3 anni sulla base dell’inflazione",
+  "fonte": "fn-sito-programma",
+  "punto": "Sociale",
+  "aree": [
+   "pensioni",
+   "welfare-inclusione"
+  ],
+  "sottotema": "Pensioni minime",
+  "concretezza": 4,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "data": "2026",
+  "destinatari": [
+   "anziani"
+  ]
+ },
+ {
+  "partiti": [
+   "fn"
+  ],
+  "sintesi": "Vietare smartphone e dispositivi personali durante l'orario scolastico",
+  "citazione": "Ripristiniamo il divieto assoluto di smartphone e dispositivi personali durante l’orario scolastico: un atto di disintossicazione forzata che restituisce alla scuola il suo ruolo di presidio della realtà e di confronto autentico.",
+  "fonte": "fn-sito-programma",
+  "punto": "Sociale",
+  "aree": [
+   "istruzione-universita-ricerca",
+   "innovazione-digitale"
+  ],
+  "sottotema": "Dispersione scolastica",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "data": "2026"
+ },
+ {
+  "partiti": [
+   "fn"
+  ],
+  "sintesi": "Vietare i social network ai minori di 15 anni con verifica dell'età certa",
+  "citazione": "Divieto di accesso ai social network per i minori di 15 anni, con obbligo per le piattaforme di implementare sistemi di verifica dell’età certi e non aggirabili, basati su strumenti di identificazione digitale. Dai 15 ai 17 anni dovrà invece essere previsto un tempo massimo di utilizzo quotidiano, per esempio 45 minuti o un’ora, terminato il quale l’account non sarà più utilizzabile fino al giorno successivo.",
+  "fonte": "fn-sito-programma",
+  "punto": "Sociale",
+  "aree": [
+   "innovazione-digitale",
+   "informazione-media"
+  ],
+  "sottotema": "Piattaforme e disinformazione",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "data": "2026",
+  "destinatari": [
+   "giovani"
+  ]
+ },
+ {
+  "partiti": [
+   "fn"
+  ],
+  "sintesi": "Introdurre a scuola un'educazione obbligatoria sui danni di alcol e cannabinoidi con medici e tossicologi",
+  "citazione": "Bio-consapevolezza obbligatoria nelle scuole. La prevenzione delle dipendenze entra in curriculo con medici e tossicologi in aula. Scansioni cerebrali dei danni da alcol e cannabinoidi, dati scientifici certi, decostruzione tecnica e convincente del mito delle “droghe leggere”: la verità biologica è un antidoto al fascino del proibito. Non informazione generica, ma un vero e proprio urto che colpisca la coscienza.",
+  "fonte": "fn-sito-programma",
+  "punto": "Sociale",
+  "aree": [
+   "istruzione-universita-ricerca",
+   "sicurezza"
+  ],
+  "sottotema": "Dispersione scolastica",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "data": "2026"
+ },
+ {
+  "partiti": [
+   "fn"
+  ],
+  "sintesi": "Favorire il ricambio generazionale in agricoltura",
+  "citazione": "Il ricambio generazionale deve diventare una priorità. Futuro Nazionale propone:",
+  "fonte": "fn-sito-programma",
+  "punto": "Agricoltura e pesca",
+  "aree": [
+   "agricoltura-pesca"
+  ],
+  "sottotema": "Reddito agricolo e PAC",
+  "concretezza": 2,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "data": "2026"
+ }
+]
