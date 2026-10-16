@@ -1,0 +1,19 @@
+{
+  "data": "2026-10-16",
+  "nota": "Seggi per blocco parlamentare. Camera: pagina ufficiale camera.it/leg19/46 letta il 16/10/2026. Senato: il sito del Senato blocca la lettura automatica; numeri da ricerca web (riepilogo senato.it e Openpolis), da verificare. Dove un gruppo contiene più partiti i seggi sono del blocco, non dei singoli partiti.",
+  "soglie": { "camera": 201, "senato": 103 },
+  "blocchi": [
+    { "id": "fdi", "partiti": ["fdi"], "camera": 117, "senato": 63, "schieramento": "maggioranza" },
+    { "id": "lega", "partiti": ["lega"], "camera": 56, "senato": 29, "schieramento": "maggioranza" },
+    { "id": "fi", "partiti": ["fi"], "camera": 52, "senato": 20, "schieramento": "maggioranza" },
+    { "id": "nm", "partiti": ["nm", "udc", "maie"], "camera": 8, "senato": 8, "schieramento": "maggioranza" },
+    { "id": "pd", "partiti": ["pd"], "camera": 68, "senato": 36, "schieramento": "opposizione" },
+    { "id": "m5s", "partiti": ["m5s"], "camera": 48, "senato": 25, "schieramento": "opposizione" },
+    { "id": "avs", "partiti": ["ev", "si"], "camera": 10, "senato": 4, "schieramento": "opposizione", "da_verificare": "senato" },
+    { "id": "azione", "partiti": ["azione"], "camera": 10, "senato": 2, "schieramento": "opposizione", "da_verificare": "senato" },
+    { "id": "iv", "partiti": ["iv"], "camera": 7, "senato": 8, "schieramento": "opposizione", "da_verificare": "senato" },
+    { "id": "piu-europa", "partiti": ["piu-europa"], "camera": 3, "senato": 0, "schieramento": "opposizione" },
+    { "id": "fn", "partiti": ["fn"], "camera": 9, "senato": 0, "schieramento": "altro" },
+    { "id": "svp", "partiti": ["svp"], "camera": 3, "senato": 2, "schieramento": "altro" }
+  ]
+}
