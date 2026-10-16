@@ -1,0 +1,6 @@
+PREFIX ocd: <http://dati.camera.it/ocd/>
+PREFIX dc: <http://purl.org/dc/elements/1.1/>
+SELECT ?g ?nome (COUNT(DISTINCT ?d) AS ?n) WHERE {
+ ?d a ocd:deputato; ocd:rif_leg <http://dati.camera.it/ocd/legislatura.rdf/repubblica_19>; ocd:aderisce ?a.
+ ?a ocd:rif_gruppoParlamentare ?g. ?g dc:title ?nome . OPTIONAL{?a ocd:endDate ?e} FILTER(!BOUND(?e))
+} GROUP BY ?g ?nome ORDER BY DESC(?n)

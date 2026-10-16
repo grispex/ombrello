@@ -1,0 +1,21 @@
+{
+  "partito": "fdi",
+  "nome": "Fratelli d'Italia",
+  "data": "2026-10-16",
+  "partito_autonomo": true,
+  "collocazione": "maggioranza",
+  "camera": {
+    "gruppo": "FRATELLI D'ITALIA (FDI)",
+    "deputati": 117,
+    "metodo": "Conteggio dei deputati con adesione al gruppo gr4133 senza data di fine, da dati.camera.it/sparql (interrogato il 2026-10-16)",
+    "url": "https://dati.camera.it/sparql"
+  },
+  "senato": {
+    "gruppo": "Fratelli d'Italia",
+    "senatori": 63,
+    "url": "https://www.senato.it/composizione/gruppi-parlamentari/riepilogo-della-composizione",
+    "verificato_direttamente": true,
+    "note": "Riepilogo della composizione dei gruppi letto il 2026-10-16 (totale 205 senatori nei gruppi)."
+  },
+  "note": "Partito autonomo con gruppo parlamentare proprio in entrambe le Camere; la presidente del Consiglio ne e' presidente. Fa parte della coalizione di governo di centrodestra."
+}
