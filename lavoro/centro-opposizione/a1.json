@@ -1,0 +1,761 @@
+[
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Posticipare e rateizzare i primi 3 anni di adempimenti fiscali per gli under 35 che aprono un'attività",
+  "citazione": "proponiamo di posticipare e rateizzare tutti gli adempimenti fiscali dei primi 3 anni nei periodi successivi per tutti i giovani under 35 che decidono di aprire una nuova attività",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Produttività e crescita, 1",
+  "aree": [
+   "economia-imprese",
+   "fisco"
+  ],
+  "sottotema": "Startup",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "destinatari": [
+   "giovani",
+   "imprese"
+  ],
+  "parametri": [
+   {
+    "cosa": "età massima",
+    "valore": "under 35"
+   },
+   {
+    "cosa": "periodo di rinvio",
+    "valore": "primi 3 anni"
+   }
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Innalzare la soglia dimensionale d'impresa per l'applicazione dei vincoli burocratici in materia di lavoro",
+  "citazione": "innalzare la soglia dimensionale d’impresa per l’applicazione di alcuni dei più pesanti vincoli burocratici in materia di lavoro",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Produttività e crescita, 2",
+  "aree": [
+   "economia-imprese",
+   "lavoro"
+  ],
+  "sottotema": "PMI e artigianato",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "destinatari": [
+   "imprese"
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Modulare la defiscalizzazione nelle ZES per favorire la crescita dimensionale delle piccole imprese",
+  "citazione": "modulare la defiscalizzazione già prevista nelle Zone Economiche Speciali al fine di favorire la crescita delle piccole imprese e incentivare quelle di medie e grandi dimensioni",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Produttività e crescita, 2",
+  "aree": [
+   "economia-imprese",
+   "mezzogiorno-territori"
+  ],
+  "sottotema": "PMI e artigianato",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "destinatari": [
+   "imprese",
+   "Sud"
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Potenziare il credito d'imposta per i costi di quotazione delle PMI",
+  "citazione": "potenziare il credito d’imposta per i costi di quotazione delle PMI, già introdotto dal MISE nel 2017",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Produttività e crescita, 2",
+  "aree": [
+   "economia-imprese",
+   "fisco"
+  ],
+  "sottotema": "Credito e banche",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "destinatari": [
+   "imprese"
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Ripristinare e rafforzare Industria 4.0 aggiornando la lista dei beni agevolati e alzando il tetto agli investimenti",
+  "citazione": "Ripristinare e rafforzare industria 4.0 – depotenziata dai precedenti Governi – aggiornando la lista dei beni agevolati (includendo le nuove tecnologie) e aumentando il tetto massimo per gli investimenti",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Produttività e crescita, 3",
+  "aree": [
+   "economia-imprese",
+   "innovazione-digitale"
+  ],
+  "sottotema": "Politica industriale",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "destinatari": [
+   "imprese"
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Estendere il meccanismo Industria 4.0 agli investimenti per la transizione ecologica",
+  "citazione": "Estendere il meccanismo industria 4.0 agli investimenti per la transizione ecologica",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Produttività e crescita, 3",
+  "aree": [
+   "economia-imprese",
+   "ambiente-animali",
+   "energia"
+  ],
+  "sottotema": "Politica industriale",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "destinatari": [
+   "imprese"
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Coprire i costi delle imprese per corsi specialistici organizzati con gli ITS per creare competenze richieste",
+  "citazione": "coprire i costi che le imprese sostengono per organizzare, in collaborazione con gli ITS e gli altri istituti di formazione, corsi specialistici per la creazione delle competenze realmente richieste",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Produttività e crescita, 4",
+  "aree": [
+   "lavoro",
+   "istruzione-universita-ricerca",
+   "economia-imprese"
+  ],
+  "sottotema": "Formazione professionale",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "destinatari": [
+   "imprese"
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Investire 1,5 miliardi negli ITS per raddoppiare iscritti e laureati",
+  "citazione": "potenziare gli ITS investendo 1,5 miliardi di euro, al fine di raddoppiare il numero di iscritti e di laureati",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Produttività e crescita, 4",
+  "aree": [
+   "istruzione-universita-ricerca",
+   "lavoro"
+  ],
+  "sottotema": "ITS e formazione tecnica",
+  "concretezza": 4,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "parametri": [
+   {
+    "cosa": "investimento",
+    "valore": "1,5 miliardi di euro"
+   },
+   {
+    "cosa": "obiettivo iscritti e laureati",
+    "valore": "raddoppio"
+   }
+  ],
+  "destinatari": [
+   "giovani"
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Approvare ogni anno una legge sulla concorrenza",
+  "citazione": "Occorre approvare ogni anno leggi sulla concorrenza che gradualmente",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Produttività e crescita, 5",
+  "aree": [
+   "economia-imprese"
+  ],
+  "sottotema": "Concorrenza e concessioni",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Attuare la riforma delle concessioni balneari approvata dal governo Draghi, tutelando i nuclei con reddito prevalente dalla concessione",
+  "citazione": "Occorre dare attuazione alla riforma delle concessioni balneari approvata dal Governo Draghi",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Produttività e crescita, 5",
+  "aree": [
+   "economia-imprese",
+   "cultura-sport-turismo"
+  ],
+  "sottotema": "Concorrenza e concessioni",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Liberalizzare il trasporto pubblico non di linea (taxi/NCC)",
+  "citazione": "bisogna attuare una liberalizzazione del trasporto pubblico non di linea",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Produttività e crescita, 5",
+  "aree": [
+   "economia-imprese",
+   "infrastrutture-trasporti"
+  ],
+  "sottotema": "Concorrenza e concessioni",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Affidare i servizi pubblici locali preferibilmente tramite gara alla scadenza del contratto",
+  "citazione": "I servizi pubblici locali alla scadenza del contratto di servizio devono essere affidati preferenzialmente tramite gara",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Produttività e crescita, 5",
+  "aree": [
+   "economia-imprese",
+   "pubblica-amministrazione"
+  ],
+  "sottotema": "Concorrenza e concessioni",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "parametri": [
+   {
+    "cosa": "quota attuale affidata senza gara",
+    "valore": "93%"
+   }
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Concludere la privatizzazione di ITA e ri-privatizzare l'ILVA",
+  "citazione": "concludere l’iter di privatizzazione di ITA e ri-privatizzare l’ILVA (con le dovute garanzie per lavoratori e ambiente)",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Produttività e crescita, 5",
+  "aree": [
+   "conti-pubblici",
+   "economia-imprese"
+  ],
+  "sottotema": "Privatizzazioni",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Sostenere le piccole imprese artigiane con passaggio generazionale, credito diretto e garanzie, anche tramite mutualità privata",
+  "citazione": "Per sostenere queste realtà occorre accompagnare il passaggio generazionale, favorire il credito diretto e le garanzie, anche attraverso la mutualità privata",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Produttività e crescita, 6",
+  "aree": [
+   "economia-imprese"
+  ],
+  "sottotema": "PMI e artigianato",
+  "concretezza": 2,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "destinatari": [
+   "imprese"
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Promuovere formazione sul campo tramite alternanza scuola-lavoro e apprendistato duale",
+  "citazione": "Bisogna inoltre promuovere la formazione professionale sul campo attraverso l’alternanza scuola-lavoro e l’apprendistato duale",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Produttività e crescita, 6",
+  "aree": [
+   "lavoro",
+   "istruzione-universita-ricerca"
+  ],
+  "sottotema": "Formazione professionale",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "destinatari": [
+   "giovani"
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Trasformare l'Agenzia per la Coesione in Agenzia per lo sviluppo con poteri di affiancamento e sostituzione delle amministrazioni locali",
+  "citazione": "Con riferimento al Mezzogiorno, si vuole trasformarla in una vera Agenzia per lo sviluppo. La nuova Agenzia avrà poteri operativi straordinari di affiancamento e, dove necessario, di sostituzione delle amministrazioni locali",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Mezzogiorno, 1",
+  "aree": [
+   "mezzogiorno-territori",
+   "pubblica-amministrazione"
+  ],
+  "sottotema": "Agenzia per lo sviluppo",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "destinatari": [
+   "Sud"
+  ],
+  "parametri": [
+   {
+    "cosa": "durata del ruolo straordinario",
+    "valore": "almeno dieci anni"
+   }
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Introdurre benefici fiscali differenziati nel Mezzogiorno per incentivare la crescita dimensionale delle imprese",
+  "citazione": "introducendo benefici fiscali differenziati per incentivare la crescita dimensionale delle imprese",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Mezzogiorno, 2",
+  "aree": [
+   "mezzogiorno-territori",
+   "fisco",
+   "economia-imprese"
+  ],
+  "sottotema": "Fiscalità di vantaggio",
+  "concretezza": 2,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "destinatari": [
+   "Sud",
+   "imprese"
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Completare il riequilibrio dei livelli essenziali di prestazioni sociali al Sud, superando la spesa storica",
+  "citazione": "Questo processo di riequilibrio deve essere completato su tutti gli altri capitoli della spesa sociale",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Mezzogiorno, 3",
+  "aree": [
+   "mezzogiorno-territori",
+   "welfare-inclusione"
+  ],
+  "sottotema": "Livelli essenziali delle prestazioni",
+  "concretezza": 2,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "destinatari": [
+   "Sud"
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Completare la Napoli-Bari e proseguire la Palermo-Catania-Messina, con primi lotti Salerno-Reggio Calabria e Taranto-Potenza-Battipaglia",
+  "citazione": "È necessario, in linea con il PNRR, completare i lavori sulla Napoli-Bari, proseguire ulteriormente la Palermo-Catania-Messina e realizzare i primi lotti funzionali delle direttrici Salerno-Reggio Calabria e Taranto-Potenza-Battipaglia",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Mezzogiorno, 4",
+  "aree": [
+   "infrastrutture-trasporti",
+   "mezzogiorno-territori"
+  ],
+  "sottotema": "Alta velocità ferroviaria",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "destinatari": [
+   "Sud"
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Potenziare le reti ferroviarie regionali e interregionali, soprattutto in Sicilia",
+  "citazione": "È necessario inoltre potenziare le reti ferroviarie regionali e interregionali, soprattutto in Sicilia",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Mezzogiorno, 4",
+  "aree": [
+   "infrastrutture-trasporti",
+   "mezzogiorno-territori"
+  ],
+  "sottotema": "Ferrovie regionali",
+  "concretezza": 2,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "destinatari": [
+   "Sud"
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Creare una rete dei porti meridionali con cabina di regia e collegamenti di ultimo miglio alla ferrovia",
+  "citazione": "Bisogna creare una rete dei porti presenti nelle regioni meridionali, mettendoli a sistema grazie a una cabina di regia",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Mezzogiorno, 5",
+  "aree": [
+   "infrastrutture-trasporti",
+   "mezzogiorno-territori"
+  ],
+  "sottotema": "Porti e logistica",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "destinatari": [
+   "Sud"
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Portare a 100 milioni il massimo di investimento agevolabile con credito d'imposta nelle ZES",
+  "citazione": "si propone al credito d’imposta con una maggiorazione dell’importo massimo di investimento agevolabile, da 50 a 100 milioni di euro per singolo progetto",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Mezzogiorno, 6",
+  "aree": [
+   "mezzogiorno-territori",
+   "economia-imprese",
+   "fisco"
+  ],
+  "sottotema": "Zone economiche speciali",
+  "concretezza": 4,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "destinatari": [
+   "Sud",
+   "imprese"
+  ],
+  "parametri": [
+   {
+    "cosa": "tetto per progetto",
+    "valore": "da 50 a 100 milioni di euro"
+   }
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Fare del Sud l'hub energetico del Mediterraneo, approdo dei gasdotti e produttore di energia rinnovabile",
+  "citazione": "Esso deve rappresentare il naturale approdo dei gasdotti, nonché la piattaforma logistica di interscambio",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Mezzogiorno, 7",
+  "aree": [
+   "energia",
+   "mezzogiorno-territori"
+  ],
+  "sottotema": "Gas e approvvigionamento",
+  "concretezza": 2,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "destinatari": [
+   "Sud"
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Aumentare la spesa pro-capite in cultura dei comuni del Sud per accrescere il turismo non balneare",
+  "citazione": "è necessario aumentare la spesa pro-capite dei comuni del Sud in cultura",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Mezzogiorno, 11",
+  "aree": [
+   "cultura-sport-turismo",
+   "mezzogiorno-territori"
+  ],
+  "sottotema": "Turismo",
+  "concretezza": 2,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "destinatari": [
+   "Sud"
+  ],
+  "parametri": [
+   {
+    "cosa": "spesa attuale pro-capite dei comuni del Sud in cultura",
+    "valore": "8,9 euro"
+   }
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Aumentare la diffusione della fibra fino a casa nel Mezzogiorno",
+  "citazione": "È necessario aumentare il numero di abitazioni con accesso alla fibra fino a casa",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Mezzogiorno, 10",
+  "aree": [
+   "innovazione-digitale",
+   "mezzogiorno-territori"
+  ],
+  "sottotema": "Banda ultralarga",
+  "concretezza": 2,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "destinatari": [
+   "Sud"
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Completare con procedure straordinarie due rigassificatori galleggianti per sostituire il gas russo",
+  "citazione": "completare con procedure straordinarie la costruzione di due rigassificatori galleggianti che consentano l’importazione di gas naturale liquefatto in sostituzione di quello russo",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Energia, 1",
+  "aree": [
+   "energia",
+   "esteri-europa"
+  ],
+  "sottotema": "Gas e approvvigionamento",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "parametri": [
+   {
+    "cosa": "rigassificatori galleggianti",
+    "valore": "2"
+   }
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Aumentare la produzione nazionale di gas riattivando e potenziando gli impianti esistenti",
+  "citazione": "aumentare la produzione di gas nazionale ri-attivando e potenziando gli impianti già esistenti",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Energia, 1",
+  "aree": [
+   "energia"
+  ],
+  "sottotema": "Gas e approvvigionamento",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Completare l'individuazione delle aree idonee per le rinnovabili e semplificare le autorizzazioni",
+  "citazione": "completando il processo di individuazione delle aree idonee all’installazione di impianti di generazione elettrica da fonti rinnovabili per velocizzare il processo di localizzazione e autorizzazione",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Energia, 1",
+  "aree": [
+   "energia",
+   "ambiente-animali"
+  ],
+  "sottotema": "Rinnovabili",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Valorizzare l'idroelettrico come asset strategico e favorire lo sviluppo dell'idrogeno",
+  "citazione": "valorizzare l’idroelettrico come asset strategico per il paese; favorire lo sviluppo dell’idrogeno",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Energia, 1",
+  "aree": [
+   "energia"
+  ],
+  "sottotema": "Idrogeno",
+  "concretezza": 2,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Incentivare con garanzia statale la produzione di rinnovabili per autoconsumo delle imprese, inclusi gli accumuli",
+  "citazione": "incentivando con garanzia statale la produzione di energia rinnovabile per autoconsumo (inclusi i sistemi di accumulo)",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Energia, 1",
+  "aree": [
+   "energia",
+   "economia-imprese"
+  ],
+  "sottotema": "Bollette e prezzi",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "destinatari": [
+   "imprese"
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Promuovere in sede UE un tetto al prezzo del gas importato",
+  "citazione": "promuovere in EU un price cap a tutto il gas importato per ridurre anche il costo dell’energia elettrica",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Energia, 1",
+  "aree": [
+   "energia",
+   "esteri-europa"
+  ],
+  "sottotema": "Bollette e prezzi",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "europeo"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Trasferire l'extra-rendita reale delle imprese energetiche a famiglie meno abbienti e imprese energivore",
+  "citazione": "trasferire la extra-rendita reale (non presunta) delle imprese energetiche – inclusi i trader – a famiglie meno abbienti e imprese energivore",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Energia, 1",
+  "aree": [
+   "energia",
+   "fisco",
+   "welfare-inclusione"
+  ],
+  "sottotema": "Bollette e prezzi",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "destinatari": [
+   "famiglie",
+   "imprese"
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Chiedere alla Commissione europea di usare la market stability reserve per ridurre il prezzo della CO2 fino alla fine della crisi",
+  "citazione": "È quindi necessario che la Commissione Europea utilizzi le quote della market stability reserve per ridurre il prezzo della CO2 fino al termine della crisi",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Energia, 1",
+  "aree": [
+   "energia",
+   "ambiente-animali",
+   "esteri-europa"
+  ],
+  "sottotema": "Clima ed emissioni",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "europeo"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Ridurre le emissioni di CO2 del 55% rispetto al 1990 entro il 2030, con le rinnovabili",
+  "citazione": "con l’obiettivo di ridurre le emissioni di CO2 del 55% rispetto al livello del 1990, possibilmente entro il 2030",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Energia, 2",
+  "aree": [
+   "ambiente-animali",
+   "energia"
+  ],
+  "sottotema": "Clima ed emissioni",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "parametri": [
+   {
+    "cosa": "riduzione CO2 rispetto al 1990",
+    "valore": "55% entro il 2030"
+   }
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Sviluppare sistemi di cattura e stoccaggio della CO2 delle centrali termoelettriche",
+  "citazione": "è quindi necessario sviluppare sin da ora strumenti alternativi come i sistemi di cattura e stoccaggio della CO2 prodotta dalle centrali termoelettriche",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Energia, 2",
+  "aree": [
+   "energia",
+   "ambiente-animali"
+  ],
+  "sottotema": "Clima ed emissioni",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ }
+]

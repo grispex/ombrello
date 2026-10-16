@@ -1,0 +1,20 @@
+import sys; sys.path.insert(0,'/home/user/ombrello/lavoro/centro-opposizione')
+from b import run
+items=[
+("Accelerare l'infrastrutturazione 5G nelle aree bianche e grigie ampliando gli operatori ammessi","l’accelerazione dell’infrastrutturazione nelle aree bianche e grigie, oltreché rimodulando i bandi di gara","Concorrenza 14","innovazione-digitale","Banda ultralarga e 5G",3),
+("Programmare un'assunzione straordinaria per ringiovanire gli organici del SSN","accelerazione alla copertura e al ringiovanimento degli organici tramite un programma straordinario di assunzioni","Scienza e salute 20","sanita lavoro","Personale sanitario",3,{"destinatari":["operatori sanitari"]}),
+("Finanziare il SSN in misura non inferiore alla media UE","il finanziamento del SSN non inferiore alla media del finanziamento dei Sistemi Sanitari dell’UE","Scienza e salute 23","sanita conti-pubblici","Finanziamento del SSN",3),
+("Riformare la legge 40 sulla PMA e consentire la ricerca su embrioni non idonei o soprannumerari","una sostanziale riforma della Legge 40 del 2004, in materia di Procreazione Medicalmente Assistita","Scienza e salute 24","diritti-liberta sanita","Procreazione assistita",3),
+("Consentire la diagnosi genetica preimpianto","di introdurre le tecniche di analisi genetica preimpianto allo scopo di prevenire malattie ereditarie","Scienza e salute 25","sanita diritti-liberta","Procreazione assistita",3),
+("Garantire l'accesso alla PMA alle donne single e alle coppie di donne","accesso ai percorsi di PMA alle donne single e alle coppie di donne, anche non sposate","Scienza e salute 26","diritti-liberta sanita","Procreazione assistita",3,{"destinatari":["donne"]}),
+("Riformare la legge 135/90 sull'HIV/AIDS e potenziare le campagne sulle infezioni sessualmente trasmissibili","di riformare la legge 135/90 sulla risposta all’HIV/AIDS a partire dalla Pdl 1972","Scienza e salute 27","sanita diritti-liberta","Prevenzione",3),
+("Portare l'IVA sugli assorbenti al 4%","di tagliare la cd “Tampon Tax” portando l’IVA al 4% su assorbenti","Scienza e salute 28","fisco diritti-liberta","IVA",4,{"destinatari":["donne"],"parametri":[{"cosa":"aliquota IVA sugli assorbenti","valore":"4%"}]}),
+("Limitare il trasporto di animali vivi nella UE per fini alimentari","limitare il trasporto di animali vivi per ragioni legate alle produzioni alimentari nella UE","Benessere animale 1","ambiente-animali agricoltura-pesca","Tutela degli animali",3,{"ambito":"europeo"}),
+("Ridurre la pesca intensiva e vietare sistemi di pesca non sostenibili come spadare e FAD","ridurre la pesca intensiva, vigilare efficacemente sul divieto di utilizzo di sistemi di pesca non sostenibili come spadare e FAD","Benessere animale 2","agricoltura-pesca ambiente-animali","Pesca",3),
+("Proteggere un terzo delle aree marine","raggiungere la protezione di un terzo delle aree marine","Benessere animale 3","ambiente-animali agricoltura-pesca","Parchi e biodiversità",4,{"parametri":[{"cosa":"quota di aree marine protette","valore":"un terzo"}]}),
+("Proibire il finning degli squali","proibire il finning (asportazione delle pinne degli squali a fini alimentari","Benessere animale 4","ambiente-animali agricoltura-pesca","Tutela degli animali",3),
+("Ridurre al 10% l'IVA su cure veterinarie e cibo per animali domestici","ridurre al 10% l’Iva sui trattamenti sanitari e sul cibo per gli animali domestici","Benessere animale 5","ambiente-animali fisco","Tutela degli animali",4,{"parametri":[{"cosa":"aliquota IVA","valore":"10%"}]}),
+("Contrastare il commercio di animali selvatici e le puppy farm","contrastare il commercio di animali selvatici, che non devono essere tenuti in cattività","Benessere animale 6","ambiente-animali","Tutela degli animali",3),
+("Superare con la prospettiva del divieto l'uso degli animali negli spettacoli circensi","superare, con la prospettiva del divieto, l’utilizzo degli animali negli spettacoli circensi","Benessere animale 7","ambiente-animali cultura-sport-turismo","Tutela degli animali",3),
+]
+run("piu-europa","piu-europa-programma-politiche-2022",["piu-europa"],"2022-08-23","lavoro/centro-opposizione/p3.json",items)

@@ -1,0 +1,1223 @@
+[
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Valorizzare la mediazione endoprocessuale e contenere l'abuso del processo civile",
+  "citazione": "valorizzazione della mediazione endoprocessuale quale efficace strumento di deflazione del contenzioso",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Giustizia, 4",
+  "aree": [
+   "giustizia"
+  ],
+  "sottotema": "Processo civile",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Innalzare la soglia del gratuito patrocinio per i meno abbienti",
+  "citazione": "estensione della garanzia per il gratuito patrocinio ai meno abbienti attraverso l’innalzamento della soglia",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Giustizia, 4",
+  "aree": [
+   "giustizia",
+   "welfare-inclusione"
+  ],
+  "sottotema": "Gratuito patrocinio",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Rafforzare le pene alternative e ridurre il sovraffollamento carcerario con riforma e edilizia carceraria",
+  "citazione": "riduzione del sovraffollamento carcerario attraverso interventi di riforma dell’ordinamento penitenziario e di edilizia carceraria",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Giustizia, 5",
+  "aree": [
+   "giustizia",
+   "sicurezza"
+  ],
+  "sottotema": "Carceri",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Approvare una nuova legge sulle detenute madri: mai più bambini in carcere",
+  "citazione": "approvazione di una nuova legge sulle detenute madri: mai più bambini in carcere",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Giustizia, 5",
+  "aree": [
+   "giustizia",
+   "diritti-liberta"
+  ],
+  "sottotema": "Carceri",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "destinatari": [
+   "donne",
+   "minori"
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Riconoscere allo Stato funzioni di analisi, valutazione delle tecnologie sanitarie e coordinamento, e poter intervenire se le regioni non garantiscono i LEA",
+  "citazione": "Nel caso in cui le Regioni non siano in grado di garantire l’erogazione dei LEA, va riconosciuta allo Stato la possibilità di intervenire",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Sanità, 1",
+  "aree": [
+   "sanita",
+   "istituzioni-riforme"
+  ],
+  "sottotema": "Governance Stato-regioni",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Adottare indicazioni nazionali prescrittive sulle Case della Comunità, con psicologo di base e guardia notturna",
+  "citazione": "occorre adottare indicazioni nazionali prescrittive sulla funzione delle Case della Comunità previste da PNRR",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Sanità, 2",
+  "aree": [
+   "sanita"
+  ],
+  "sottotema": "Assistenza territoriale",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Investire in assistenza residenziale e domiciliare per la popolazione fragile",
+  "citazione": "sono inoltre necessari investimenti sull’assistenza residenziale e domiciliare per la popolazione fragile",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Sanità, 2",
+  "aree": [
+   "sanita",
+   "welfare-inclusione"
+  ],
+  "sottotema": "Assistenza territoriale",
+  "concretezza": 2,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "destinatari": [
+   "anziani"
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Rendere più trasparente la distinzione tra servizi pubblici e privati accreditati in un sistema integrato",
+  "citazione": "È necessario istituire modalità più trasparenti nel differenziare servizi pubblici e privati",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Sanità, 3",
+  "aree": [
+   "sanita"
+  ],
+  "sottotema": "Pubblico e privato accreditato",
+  "concretezza": 2,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Istituire un'Agenzia Nazionale per la prevenzione e la preparedness",
+  "citazione": "con la creazione di un’Agenzia Nazionale per la prevenzione e la preparedness, per coordinare le attività e garantirne l’omogeneità sul territorio nazionale",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Sanità, 4",
+  "aree": [
+   "sanita"
+  ],
+  "sottotema": "Prevenzione",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Istituire una protezione civile sanitaria di professionisti e volontari addestrati contro le pandemie",
+  "citazione": "Proponiamo anche l’istituzione di una “protezione civile sanitaria” formata da professionisti e volontari addestrati al contrasto alle pandemie",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Sanità, 4",
+  "aree": [
+   "sanita"
+  ],
+  "sottotema": "Prevenzione",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Introdurre protocolli nazionali obbligatori contro l'antibioticoresistenza in tutti i presidi sanitari",
+  "citazione": "Occorre poi rafforzare la lotta all’antibioticoresistenza con protocolli nazionali obbligatori in tutti i presidi sanitari",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Sanità, 4",
+  "aree": [
+   "sanita"
+  ],
+  "sottotema": "Prevenzione",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Aumentare in modo strutturale gli stipendi del personale sanitario ospedaliero, in particolare in medicina d'urgenza",
+  "citazione": "occorre un progressivo e strutturale aumento degli stipendi degli operatori sanitari degli ospedali",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Sanità, 5",
+  "aree": [
+   "sanita",
+   "lavoro"
+  ],
+  "sottotema": "Personale sanitario",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "destinatari": [
+   "operatori sanitari"
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Semplificare il riconoscimento dei titoli di studio esteri per le professioni sanitarie",
+  "citazione": "è necessaria una drastica semplificazione delle procedure per il riconoscimento dei titoli di studio esteri per tutte le professioni sanitarie",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Sanità, 5",
+  "aree": [
+   "sanita",
+   "immigrazione-cittadinanza"
+  ],
+  "sottotema": "Personale sanitario",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Sostituire le borse di studio dei medici specializzandi con un contratto di formazione e lavoro",
+  "citazione": "l’adozione di un contratto specifico di formazione e lavoro che superi il meccanismo delle borse di studio",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Sanità, 5",
+  "aree": [
+   "sanita",
+   "istruzione-universita-ricerca",
+   "lavoro"
+  ],
+  "sottotema": "Formazione medica",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "destinatari": [
+   "medici specializzandi"
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Ridurre entro un anno le attese a 60 giorni per le prestazioni programmate e 30 per le altre, con ricorso al privato convenzionato senza costi",
+  "citazione": "L'obiettivo deve essere ridurre entro un anno il periodo di attesa per tali prestazioni fino ad un massimo di 60 giorni per quelle programmate e di 30 per tutte le altre",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Sanità, 6",
+  "aree": [
+   "sanita"
+  ],
+  "sottotema": "Liste di attesa",
+  "concretezza": 4,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "parametri": [
+   {
+    "cosa": "attesa massima prestazioni programmate",
+    "valore": "60 giorni"
+   },
+   {
+    "cosa": "attesa massima altre prestazioni",
+    "valore": "30 giorni"
+   },
+   {
+    "cosa": "tempo per raggiungere l'obiettivo",
+    "valore": "un anno"
+   }
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Varare un piano strategico per le Scienze della Vita investendo altri due miliardi oltre al miliardo già stanziato",
+  "citazione": "occorre investire altri due miliardi di euro",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Sanità, 7",
+  "aree": [
+   "sanita",
+   "economia-imprese",
+   "istruzione-universita-ricerca"
+  ],
+  "sottotema": "Filiera farmaceutica e dispositivi medici",
+  "concretezza": 4,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "parametri": [
+   {
+    "cosa": "investimento aggiuntivo",
+    "valore": "2 miliardi di euro"
+   }
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Istituire un fondo vincolato all'acquisto di terapie avanzate da parte dei centri accreditati",
+  "citazione": "è opportuna l’istituzione di un fondo vincolato all’acquisto da parte dei centri accreditati di terapie avanzate",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Sanità, 7",
+  "aree": [
+   "sanita"
+  ],
+  "sottotema": "Farmaci innovativi",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Adottare i decreti attuativi del Testo Unico Malattie Rare e incrementare il fondo del Secondo Piano",
+  "citazione": "È urgente l’adozione di tutti i decreti attuativi del Testo Unico delle Malattie Rare, nonché del Secondo Piano Malattie Rare con l’incremento del relativo fondo",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Sanità, 8",
+  "aree": [
+   "sanita"
+  ],
+  "sottotema": "Malattie rare",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Inserire nei LEA nuove malattie invalidanti come vulvodinia e fibromialgia",
+  "citazione": "è necessario inserire nei LEA nuove malattie invalidanti (quali vulvodinia, fibromialgia, ecc.)",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Sanità, 8",
+  "aree": [
+   "sanita"
+  ],
+  "sottotema": "Malattie croniche",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Istituire un fondo strutturale per lo Screening Neonatale Esteso",
+  "citazione": "la costituzione di un fondo strutturale vincolato esclusivamente allo Screening Neonatale Esteso",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Sanità, 8",
+  "aree": [
+   "sanita"
+  ],
+  "sottotema": "Prevenzione",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Finanziare il SSN in misura non inferiore alla media UE e destinare almeno il 3% del Fondo Sanitario Nazionale alla ricerca",
+  "citazione": "è opportuno destinare una quota non inferiore al 3% del Fondo Sanitario Nazionale alla Ricerca",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Sanità, 9",
+  "aree": [
+   "sanita",
+   "conti-pubblici",
+   "istruzione-universita-ricerca"
+  ],
+  "sottotema": "Finanziamento del SSN",
+  "concretezza": 4,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "parametri": [
+   {
+    "cosa": "quota del FSN per la ricerca",
+    "valore": "almeno 3%"
+   },
+   {
+    "cosa": "finanziamento complessivo",
+    "valore": "non inferiore alla media UE"
+   }
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Portare l'obbligo scolastico da 16 a 18 anni, riducendo i cicli da 13 a 12 anni",
+  "citazione": "portare l’obbligo scolastico da 16 a 18 anni",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Scuola, 1",
+  "aree": [
+   "istruzione-universita-ricerca"
+  ],
+  "sottotema": "Obbligo scolastico",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "parametri": [
+   {
+    "cosa": "obbligo scolastico",
+    "valore": "da 16 a 18 anni"
+   },
+   {
+    "cosa": "durata dei cicli",
+    "valore": "da 13 a 12 anni"
+   }
+  ],
+  "destinatari": [
+   "giovani"
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Estendere il tempo pieno a tutte le scuole primarie e introdurre il diritto alla mensa con sussidio ai meno abbienti",
+  "citazione": "estendere il tempo pieno a tutte le scuole primarie per dare più spazio all’apprendimento venendo incontro alle esigenze delle famiglie e introdurre il diritto alla mensa per tutti con sussidio ai nuclei meno abbienti",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Scuola, 1",
+  "aree": [
+   "istruzione-universita-ricerca",
+   "famiglia-natalita"
+  ],
+  "sottotema": "Tempo pieno",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "destinatari": [
+   "famiglie"
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Riprendere il sistema nazionale di valutazione delle scuole",
+  "citazione": "Va ripreso il percorso interrotto dai governi Conte, perché non può esserci autonomia senza valutazione",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Scuola, 2",
+  "aree": [
+   "istruzione-universita-ricerca"
+  ],
+  "sottotema": "Valutazione",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Firmare il contratto scaduto per un aumento significativo dei salari dei docenti e introdurre forme di carriera",
+  "citazione": "Si deve procedere a firmare il contratto scaduto da troppi anni in modo da garantire un aumento significativo dei salari di tutto il corpo docente",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Scuola, 3",
+  "aree": [
+   "istruzione-universita-ricerca",
+   "lavoro"
+  ],
+  "sottotema": "Docenti",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "destinatari": [
+   "docenti"
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Ridurre la quota di personale precario di docenti e ATA a livelli fisiologici",
+  "citazione": "si deve abbattere la percentuale di personale precario, riportandola così a livelli fisiologici",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Scuola, 3",
+  "aree": [
+   "istruzione-universita-ricerca",
+   "lavoro"
+  ],
+  "sottotema": "Docenti",
+  "concretezza": 2,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "destinatari": [
+   "docenti"
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Riconoscere un incentivo ai docenti formati che restano almeno un ciclo in scuole ad alto rischio di abbandono",
+  "citazione": "riconoscere un incentivo economico a docenti appositamente formati che rimangano, per almeno un ciclo di istruzione, in una scuola ad alta concentrazione di studenti a rischio abbandono",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Scuola, 4",
+  "aree": [
+   "istruzione-universita-ricerca",
+   "mezzogiorno-territori"
+  ],
+  "sottotema": "Dispersione scolastica",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "destinatari": [
+   "docenti"
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Ridurre il numero massimo di alunni per classe e istituire un tutoring individualizzato",
+  "citazione": "ridurre il numero massimo di alunni per classe, per aumentare il tempo che ciascun docente riesce a dedicare a ogni studente, e istituire un tutoring individualizzato per gli studenti con maggiori difficoltà",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Scuola, 4",
+  "aree": [
+   "istruzione-universita-ricerca"
+  ],
+  "sottotema": "Dispersione scolastica",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "destinatari": [
+   "studenti"
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Introdurre in modo sistematico l'educazione civica in tutti i programmi scolastici",
+  "citazione": "introducendo la presenza sistematica dell’educazione civica in tutti i programmi scolastici",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Scuola, 5",
+  "aree": [
+   "istruzione-universita-ricerca"
+  ],
+  "sottotema": "Educazione civica",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Ridisegnare la formazione professionale secondaria sul modello degli ITS con percorsi duali in apprendistato",
+  "citazione": "ridisegnare la formazione professionale secondaria su modello degli ITS garantendo che gli studenti acquisiscano le competenze effettivamente richieste dal mercato del lavoro",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Scuola, 6",
+  "aree": [
+   "istruzione-universita-ricerca",
+   "lavoro"
+  ],
+  "sottotema": "Formazione professionale",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Affiancare ai docenti di ruolo professionisti con competenze tecnico-operative negli istituti professionali",
+  "citazione": "a coloro che provengono dai canali ordinari di reclutamento, si affiancano professionisti/docenti che posseggono competenze tecnico-operative",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Scuola, 6",
+  "aree": [
+   "istruzione-universita-ricerca"
+  ],
+  "sottotema": "Formazione professionale",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Dare più fondi alle scuole per convenzioni con esperti e rendere obbligatoria la formazione dei docenti sui bisogni educativi speciali",
+  "citazione": "Più fondi alle scuole per stipulare convenzioni stabili con figure esperte per supportare i ragazzi in difficoltà",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Scuola, 7",
+  "aree": [
+   "istruzione-universita-ricerca",
+   "welfare-inclusione"
+  ],
+  "sottotema": "Inclusione scolastica",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "destinatari": [
+   "studenti con bisogni educativi speciali"
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Riqualificare in dieci anni tutti gli edifici scolastici e ripristinare l'unità di missione per l'edilizia scolastica",
+  "citazione": "Riqualificare in dieci anni tutti gli edifici scolastici",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Scuola, 8",
+  "aree": [
+   "istruzione-universita-ricerca",
+   "infrastrutture-trasporti"
+  ],
+  "sottotema": "Edilizia scolastica",
+  "concretezza": 4,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "parametri": [
+   {
+    "cosa": "orizzonte temporale",
+    "valore": "dieci anni"
+   }
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Garantire la libertà di scelta educativa con strumenti come buono scuola, rimborsi fiscali e costo standard",
+  "citazione": "migliorando gli strumenti a disposizione e studiandone altri (buono scuola, rimborsi fiscali, costo standard, ecc.)",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Scuola, 9",
+  "aree": [
+   "istruzione-universita-ricerca",
+   "famiglia-natalita"
+  ],
+  "sottotema": "Scuola paritaria e libertà di scelta",
+  "concretezza": 2,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "destinatari": [
+   "famiglie"
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Garantire sostegno alla residenzialità per tutti gli studenti fuori sede di università o ITS fino a 4 anni",
+  "citazione": "garantire un sostegno alla residenzialità per tutti gli studenti fuori-sede iscritti a università o ITS per un massimo di 4 anni",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Università, 1",
+  "aree": [
+   "istruzione-universita-ricerca",
+   "casa"
+  ],
+  "sottotema": "Diritto allo studio",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "destinatari": [
+   "studenti"
+  ],
+  "parametri": [
+   {
+    "cosa": "durata massima",
+    "valore": "4 anni"
+   }
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Incentivare l'attrattività internazionale degli atenei con più corsi in lingua straniera e chiamata diretta di docenti stranieri",
+  "citazione": "incremento dei corsi di laurea in lingua straniera, internazionalizzazione dei curricula, incentivazione dei docenti stranieri tramite chiamata diretta",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Università, 2",
+  "aree": [
+   "istruzione-universita-ricerca"
+  ],
+  "sottotema": "Università",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Avviare un programma di reclutamento di docenti e ricercatori per allinearsi al rapporto docenti-studenti europeo",
+  "citazione": "Riteniamo necessario avviare un programma di reclutamento per nuovi docenti e ricercatori al fine di allineare il rapporto docenti studenti agli standard europei",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Università, 3",
+  "aree": [
+   "istruzione-universita-ricerca"
+  ],
+  "sottotema": "Università",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "parametri": [
+   {
+    "cosa": "studenti per docente in Italia",
+    "valore": "20,3"
+   }
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Aumentare di un punto di PIL gli investimenti in ricerca di base e applicata, in linea con il Piano Amaldi",
+  "citazione": "aumentare gli investimenti in ricerca di base e applicata fino al raggiungimento di un ulteriore punto percentuale di spesa del PIL dedicata alla ricerca",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Università, 4",
+  "aree": [
+   "istruzione-universita-ricerca",
+   "conti-pubblici"
+  ],
+  "sottotema": "Ricerca",
+  "concretezza": 4,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "parametri": [
+   {
+    "cosa": "spesa aggiuntiva per la ricerca",
+    "valore": "1 punto percentuale di PIL"
+   }
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Trasformare gli atenei in fondazioni di diritto privato a capitale interamente pubblico",
+  "citazione": "proponiamo di trasformare gli atenei in fondazioni di diritto privato (a capitale totalmente e orgogliosamente pubblico)",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Università, 5",
+  "aree": [
+   "istruzione-universita-ricerca"
+  ],
+  "sottotema": "Università",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Approvare quanto prima una legge contro l'omotransfobia",
+  "citazione": "È necessario approvare quanto prima una legge contro l’omotransfobia",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Diritti, 1",
+  "aree": [
+   "diritti-liberta"
+  ],
+  "sottotema": "Diritti LGBT+",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Istituire l'Autorità Nazionale Indipendente per la Tutela dei Diritti Umani",
+  "citazione": "istituire l’Autorità Nazionale Indipendente per la Tutela dei Diritti Umani",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Diritti, 1",
+  "aree": [
+   "diritti-liberta"
+  ],
+  "sottotema": "Autorità indipendenti",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Garantire l'affidamento e il domicilio presso entrambi i genitori dopo la separazione",
+  "citazione": "assicurare il diritto di affidamento e domicilio presso entrambi i genitori del minore (salvo indicazioni particolari dei giudici e con particolare riguardo ai casi di violenza domestica e maltrattamenti)",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Diritti, 2",
+  "aree": [
+   "famiglia-natalita",
+   "giustizia",
+   "diritti-liberta"
+  ],
+  "sottotema": "Affido condiviso",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "destinatari": [
+   "famiglie"
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Istituire il Fondo per il sostegno del ruolo di cura e di assistenza del caregiver",
+  "citazione": "riconoscere la figura del “caregiver”, istituendo il Fondo per il sostegno del ruolo di cura e di assistenza",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Diritti, 3",
+  "aree": [
+   "welfare-inclusione"
+  ],
+  "sottotema": "Disabilità e caregiver",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "destinatari": [
+   "persone con disabilità",
+   "caregiver"
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Varare un piano shock per l'accessibilità di edifici e servizi pubblici",
+  "citazione": "un piano shock per la piena accessibilità di edifici e servizi pubblici",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Diritti, 3",
+  "aree": [
+   "welfare-inclusione",
+   "infrastrutture-trasporti"
+  ],
+  "sottotema": "Disabilità e caregiver",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "destinatari": [
+   "persone con disabilità"
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Introdurre un assegno per la vita indipendente e la non istituzionalizzazione, aggiuntivo all'accompagnamento",
+  "citazione": "l’adozione di un “assegno per la vita indipendente e la non istituzionalizzazione”, svincolato dal FNA, che vada ad aggiungersi all’indennità di accompagnamento",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Diritti, 3",
+  "aree": [
+   "welfare-inclusione"
+  ],
+  "sottotema": "Disabilità e caregiver",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "destinatari": [
+   "persone con disabilità"
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Rendere strutturale lo smart working per i lavoratori con disabilità o fragili",
+  "citazione": "il diritto al lavoro agile (c.d. smart working) da eccezione, deve divenire strumento strutturale",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Diritti, 3",
+  "aree": [
+   "lavoro",
+   "welfare-inclusione"
+  ],
+  "sottotema": "Disabilità e caregiver",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "destinatari": [
+   "persone con disabilità"
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Consentire il voto nella città di domicilio per studenti e lavoratori fuori sede",
+  "citazione": "venga consentito l’esercizio del diritto di voto da parte dei cittadini domiciliati, per motivi di studio universitario o di lavoro, fuori della regione di residenza",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Diritti, 4",
+  "aree": [
+   "istituzioni-riforme",
+   "diritti-liberta"
+  ],
+  "sottotema": "Voto fuori sede",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "destinatari": [
+   "studenti",
+   "lavoratori fuori sede"
+  ],
+  "parametri": [
+   {
+    "cosa": "studenti fuori sede coinvolti",
+    "valore": "circa 500 mila"
+   }
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Estendere la Certificazione della parità di genere per ridurre il gender pay gap",
+  "citazione": "Estendere la Certificazione della parità di genere per ridurre il gender pay gap",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Pari opportunità, 1",
+  "aree": [
+   "diritti-liberta",
+   "lavoro"
+  ],
+  "sottotema": "Parità di genere",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "destinatari": [
+   "donne"
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Rendere strutturale e potenziare il Fondo per l'Imprenditoria Femminile",
+  "citazione": "rendendo strutturale e potenziando il Fondo per l’Imprenditoria Femminile",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Pari opportunità, 2",
+  "aree": [
+   "diritti-liberta",
+   "economia-imprese"
+  ],
+  "sottotema": "Parità di genere",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "destinatari": [
+   "donne"
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Erogare un incentivo post-maternità del 30%, 35% o 40% della retribuzione per un massimo di 30 mesi a chi rientra al lavoro",
+  "citazione": "Il sostegno al reddito erogato sarà pari al 30% della retribuzione mensile al primo figlio, con tetto a 5.000 euro, al 35% al secondo figlio, con tetto a 6.500 euro e al 40% dal terzo figlio, con tetto a 8.000 euro e durerà fino a 30 mesi",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Pari opportunità, 3",
+  "aree": [
+   "famiglia-natalita",
+   "lavoro"
+  ],
+  "sottotema": "Congedi e conciliazione",
+  "concretezza": 4,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "destinatari": [
+   "donne",
+   "famiglie"
+  ],
+  "parametri": [
+   {
+    "cosa": "primo figlio",
+    "valore": "30% della retribuzione, tetto 5.000 euro"
+   },
+   {
+    "cosa": "secondo figlio",
+    "valore": "35%, tetto 6.500 euro"
+   },
+   {
+    "cosa": "dal terzo figlio",
+    "valore": "40%, tetto 8.000 euro"
+   },
+   {
+    "cosa": "durata",
+    "valore": "fino a 30 mesi"
+   }
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Portare il congedo obbligatorio di paternità da 10 giorni a un mese",
+  "citazione": "l’aumento della durata del congedo obbligatorio di paternità da 10 giorni a 1 mese",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Pari opportunità, 3",
+  "aree": [
+   "famiglia-natalita",
+   "lavoro"
+  ],
+  "sottotema": "Congedi e conciliazione",
+  "concretezza": 4,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "destinatari": [
+   "famiglie"
+  ],
+  "parametri": [
+   {
+    "cosa": "congedo obbligatorio di paternità",
+    "valore": "da 10 giorni a 1 mese"
+   }
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Portare al 100% l'indennità dei congedi obbligatori",
+  "citazione": "l’aumento dell’indennità dei congedi obbligatori al 100%",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Pari opportunità, 3",
+  "aree": [
+   "famiglia-natalita",
+   "lavoro"
+  ],
+  "sottotema": "Congedi e conciliazione",
+  "concretezza": 4,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "destinatari": [
+   "famiglie"
+  ],
+  "parametri": [
+   {
+    "cosa": "indennità congedi obbligatori",
+    "valore": "100%"
+   }
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Riformare il congedo parentale in tre quote da 2 mesi, con altri 4 mesi di paternità facoltativa al 60%",
+  "citazione": "concedere al padre altri 4 mesi di congedo di paternità facoltativo retribuito al 60%",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Pari opportunità, 3",
+  "aree": [
+   "famiglia-natalita",
+   "lavoro"
+  ],
+  "sottotema": "Congedi e conciliazione",
+  "concretezza": 4,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "destinatari": [
+   "famiglie"
+  ],
+  "parametri": [
+   {
+    "cosa": "congedo di paternità facoltativo aggiuntivo",
+    "valore": "4 mesi al 60%"
+   },
+   {
+    "cosa": "congedo parentale",
+    "valore": "2 mesi madre, 2 mesi padre, 2 mesi se entrambi esauriscono i periodi"
+   }
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Aumentare i giorni di lavoro da remoto per i genitori di bambini sotto i 2 anni",
+  "citazione": "dando la possibilità ai genitori di bambini con età inferiore ai 2 anni di aumentare i giorni di lavoro da remoto",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Pari opportunità, 3",
+  "aree": [
+   "lavoro",
+   "famiglia-natalita"
+  ],
+  "sottotema": "Lavoro agile",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "destinatari": [
+   "famiglie"
+  ],
+  "parametri": [
+   {
+    "cosa": "età massima dei figli",
+    "valore": "2 anni"
+   }
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Portare i centri antiviolenza da 300 a 6.000, uno ogni 10mila abitanti per regione",
+  "citazione": "dovremmo passare da 300 a 6.000 CAV",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Pari opportunità, 4",
+  "aree": [
+   "diritti-liberta",
+   "sicurezza"
+  ],
+  "sottotema": "Violenza di genere",
+  "concretezza": 4,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "destinatari": [
+   "donne"
+  ],
+  "parametri": [
+   {
+    "cosa": "centri antiviolenza",
+    "valore": "da 300 a 6.000"
+   }
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Rafforzare il Reddito di Libertà per le donne ospitate nelle case rifugio",
+  "citazione": "aumento dell’indipendenza delle donne ospitate nelle case rifugio tramite il rafforzamento del Reddito di Libertà",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Pari opportunità, 4",
+  "aree": [
+   "diritti-liberta",
+   "welfare-inclusione"
+  ],
+  "sottotema": "Violenza di genere",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "destinatari": [
+   "donne"
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Approvare il pacchetto anti-violenza del governo Draghi con fermo immediato dell'indiziato e procedibilità d'ufficio",
+  "citazione": "approvazione del pacchetto anti-violenza messo a punto dalle Ministre del Governo Draghi",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Pari opportunità, 4",
+  "aree": [
+   "diritti-liberta",
+   "giustizia",
+   "sicurezza"
+  ],
+  "sottotema": "Violenza di genere",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "destinatari": [
+   "donne"
+  ]
+ }
+]

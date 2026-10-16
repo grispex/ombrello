@@ -1,0 +1,370 @@
+[
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Dare alla popolazione con ISEE sotto 15.000 euro un carnet di 10 ingressi gratuiti a luoghi della cultura",
+  "citazione": "La popolazione con ISEE inferiore ai 15.000 euro avrà accesso ad un carnet di 10 ingressi gratuiti per teatri, mostre, gallerie d’arte, musei, siti archeologici e altri luoghi d'arte",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Cultura, 2",
+  "aree": [
+   "cultura-sport-turismo",
+   "welfare-inclusione"
+  ],
+  "sottotema": "Patrimonio culturale",
+  "concretezza": 4,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "parametri": [
+   {
+    "cosa": "soglia ISEE",
+    "valore": "15.000 euro"
+   },
+   {
+    "cosa": "ingressi gratuiti",
+    "valore": "10"
+   }
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Raddoppiare con fondi pubblici ogni donazione privata a un ente culturale",
+  "citazione": "ogni donazione fatta da un privato ad un ente culturale sarà replicata dal pubblico",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Cultura, 1",
+  "aree": [
+   "cultura-sport-turismo"
+  ],
+  "sottotema": "Patrimonio culturale",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Destinare alla carta stampata la quota del canone RAI trattenuta dal Ministero dell'Economia",
+  "citazione": "proponiamo di destinare loro la quota del canone RAI che attualmente viene trattenuta dal Ministero dell’Economia",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Cultura, 6",
+  "aree": [
+   "informazione-media",
+   "cultura-sport-turismo"
+  ],
+  "sottotema": "Editoria",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Ri-centralizzare la competenza sul turismo attribuendola allo Stato",
+  "citazione": "occorre ri-centralizzare la competenza del turismo",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Turismo, 1",
+  "aree": [
+   "cultura-sport-turismo",
+   "istituzioni-riforme"
+  ],
+  "sottotema": "Turismo",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Rendere detraibili le spese per palestre, corsi e impianti sportivi e introdurre voucher sportivi per le ASD",
+  "citazione": "attraverso la detraibilità delle spese sostenute per l’iscrizione a palestre/corsi/impianti sportivi",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Sport, 1",
+  "aree": [
+   "cultura-sport-turismo",
+   "fisco"
+  ],
+  "sottotema": "Sport di base",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Stipulare accordi di cooperazione con i Paesi di origine e transito e programmare i flussi regolari sulla base del mercato del lavoro",
+  "citazione": "programmazione dei flussi migratori regolari, sulla base delle esigenze del mercato del lavoro",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Immigrazione, 1",
+  "aree": [
+   "immigrazione-cittadinanza",
+   "esteri-europa"
+  ],
+  "sottotema": "Ingressi regolari",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Regolarizzare i migranti irregolari già residenti che hanno un lavoro",
+  "citazione": "regolarizzazione dei migranti irregolari già residenti in Italia che hanno un lavoro",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Immigrazione, 2",
+  "aree": [
+   "immigrazione-cittadinanza",
+   "lavoro"
+  ],
+  "sottotema": "Regolarizzazione",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Introdurre lo Ius Scholae dopo almeno 5 anni di formazione in Italia e la cittadinanza a chi completa l'università",
+  "citazione": "Ius Scholae (acquisizione della cittadinanza) per chi abbia frequentato per almeno 5 anni un percorso di formazione in Italia",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Immigrazione, 2",
+  "aree": [
+   "immigrazione-cittadinanza"
+  ],
+  "sottotema": "Cittadinanza",
+  "concretezza": 4,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "parametri": [
+   {
+    "cosa": "anni di formazione richiesti",
+    "valore": "almeno 5"
+   }
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Superare il trattato di Dublino con un sistema europeo comune di asilo che distribuisca i richiedenti tra gli Stati membri",
+  "citazione": "vogliamo superare il trattato di Dublino e creare un Sistema europeo comune di asilo",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Immigrazione, 3",
+  "aree": [
+   "immigrazione-cittadinanza",
+   "esteri-europa"
+  ],
+  "sottotema": "Asilo",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "europeo"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Istituire un Ministero per l'Immigrazione",
+  "citazione": "Proponiamo l’istituzione di un Ministero per l’Immigrazione",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Immigrazione, 4",
+  "aree": [
+   "immigrazione-cittadinanza",
+   "pubblica-amministrazione"
+  ],
+  "sottotema": "Governance dell'immigrazione",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Raggiungere il 2% del PIL di spesa militare entro il 2025, con 2,6 miliardi in più l'anno",
+  "citazione": "Per raggiungere tale obiettivo entro il 2025, dobbiamo aumentare la spesa militare di 2,6 mld l’anno",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Difesa, 2",
+  "aree": [
+   "difesa",
+   "conti-pubblici"
+  ],
+  "sottotema": "Spesa militare e obiettivi NATO",
+  "concretezza": 4,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "parametri": [
+   {
+    "cosa": "spesa militare",
+    "valore": "2% del PIL entro il 2025"
+   },
+   {
+    "cosa": "aumento annuo",
+    "valore": "2,6 miliardi di euro"
+   }
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Ampliare la capacità di dispiegamento UE da 5.000 a 60.000 militari, con unità europee a budget comune",
+  "citazione": "ampliare la capacità di dispiegamento attualmente prevista (ma non ancora implementata) dall’UE di 5.000 militari, fino ad arrivare gradualmente a 60.000",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Difesa, 6",
+  "aree": [
+   "difesa",
+   "esteri-europa"
+  ],
+  "sottotema": "Difesa europea",
+  "concretezza": 4,
+  "stato": "annunciata",
+  "ambito": "europeo",
+  "parametri": [
+   {
+    "cosa": "capacità di dispiegamento UE",
+    "valore": "da 5.000 a 60.000 militari"
+   }
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Rafforzare il coordinamento interforze per unificare logistica, servizi sanitari e servizi territoriali",
+  "citazione": "Proponiamo un maggiore coordinamento interforze che consentirebbe di raggiungere significative economie di scala e di scopo",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Difesa, 3",
+  "aree": [
+   "difesa"
+  ],
+  "sottotema": "Organizzazione militare",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Superare il bicameralismo paritario e introdurre il voto a data certa",
+  "citazione": "Proponiamo pertanto di affrontare nuovamente il superamento del bicameralismo paritario e la procedura del voto a data certa",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Riforme istituzionali, 1",
+  "aree": [
+   "istituzioni-riforme"
+  ],
+  "sottotema": "Bicameralismo",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Introdurre l'elezione diretta del Presidente del Consiglio sul modello dei sindaci, con riforma elettorale",
+  "citazione": "proponiamo l’elezione diretta da parte dei cittadini del Presidente del Consiglio sul modello dei sindaci delle città più grandi",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Riforme istituzionali, 3",
+  "aree": [
+   "istituzioni-riforme"
+  ],
+  "sottotema": "Premierato",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Abolire la regola dell'unanimità nel Consiglio UE",
+  "citazione": "La regola dell’unanimità in Consiglio consente a piccoli Stati - anche in materia fiscale o di gestione dei flussi migratori - di tenere in ostaggio il resto dell’Unione e deve essere superata",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Europa, 1",
+  "aree": [
+   "esteri-europa",
+   "istituzioni-riforme"
+  ],
+  "sottotema": "Riforma dell'Unione europea",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "europeo"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Riaprire la riforma dei Trattati per dare capacità fiscale all'UE e creare un safe asset europeo",
+  "citazione": "la creazione di un safe asset europeo che metta al riparo la tenuta dell’area euro dagli eccessivi spread",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Europa, premessa",
+  "aree": [
+   "esteri-europa",
+   "conti-pubblici"
+  ],
+  "sottotema": "Riforma dell'Unione europea",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "europeo"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Destinare ogni anno al taglio della pressione fiscale la riduzione strutturale del tax gap del triennio precedente",
+  "citazione": "Proponiamo che ogni anno la riduzione strutturale del tax gap del triennio precedente vada automaticamente destinata al fondo per la riduzione della pressione fiscale",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Reperimento risorse, 1",
+  "aree": [
+   "fisco",
+   "conti-pubblici"
+  ],
+  "sottotema": "Riscossione ed evasione",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Inasprire le leggi sulle armi e rafforzare i controlli sul commercio illegale, anche online",
+  "citazione": "è necessario un inasprimento delle leggi sulle armi e maggiori controlli sul loro commercio illegale, anche e soprattutto sui mercati online",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Sicurezza",
+  "aree": [
+   "sicurezza"
+  ],
+  "sottotema": "Armi",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ }
+]

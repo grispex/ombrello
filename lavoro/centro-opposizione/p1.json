@@ -1,0 +1,1193 @@
+[
+ {
+  "partiti": [
+   "piu-europa"
+  ],
+  "sintesi": "Aumentare di almeno l'1% del PIL nella legislatura la spesa per formazione e istruzione",
+  "citazione": "di aumentare di almeno l’1% del PIL nel corso della legislatura la spesa per la formazione e istruzione",
+  "fonte": "piu-europa-programma-politiche-2022",
+  "punto": "Formazione 1",
+  "aree": [
+   "istruzione-universita-ricerca",
+   "conti-pubblici"
+  ],
+  "sottotema": "Finanziamento dell'istruzione",
+  "concretezza": 4,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "parametri": [
+   {
+    "cosa": "aumento spesa istruzione",
+    "valore": "almeno 1% del PIL nella legislatura"
+   }
+  ]
+ },
+ {
+  "partiti": [
+   "piu-europa"
+  ],
+  "sintesi": "Ridurre drasticamente i compiti burocratici degli insegnanti",
+  "citazione": "di ridurre drasticamente i compiti burocratici degli insegnanti in modo che possano dedicare la maggior parte del loro tempo all’insegnamento",
+  "fonte": "piu-europa-programma-politiche-2022",
+  "punto": "Formazione 2",
+  "aree": [
+   "istruzione-universita-ricerca"
+  ],
+  "sottotema": "Docenti",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "destinatari": [
+   "docenti"
+  ]
+ },
+ {
+  "partiti": [
+   "piu-europa"
+  ],
+  "sintesi": "Rafforzare i percorsi PCTO coinvolgendo anche le PMI",
+  "citazione": "rafforzando e qualificando maggiormente i programmi di PCTO",
+  "fonte": "piu-europa-programma-politiche-2022",
+  "punto": "Formazione 3",
+  "aree": [
+   "istruzione-universita-ricerca",
+   "lavoro"
+  ],
+  "sottotema": "Alternanza scuola-lavoro",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "piu-europa"
+  ],
+  "sintesi": "Portare la ricerca pubblica all'1,5% del PIL",
+  "citazione": "fino a raggiungere l’1,5% del PIL (ad oggi è allo 0,5%)",
+  "fonte": "piu-europa-programma-politiche-2022",
+  "punto": "Formazione 6",
+  "aree": [
+   "istruzione-universita-ricerca",
+   "conti-pubblici"
+  ],
+  "sottotema": "Ricerca",
+  "concretezza": 4,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "parametri": [
+   {
+    "cosa": "investimenti pubblici in ricerca",
+    "valore": "da 0,5% a 1,5% del PIL"
+   }
+  ]
+ },
+ {
+  "partiti": [
+   "piu-europa"
+  ],
+  "sintesi": "Ridurre il ciclo scolastico da 13 a 12 anni e portare l'obbligo scolastico a 18 anni",
+  "citazione": "riduzione del ciclo scolastico da 13 a 12 anni, a parità di giorni di frequenza",
+  "fonte": "piu-europa-programma-politiche-2022",
+  "punto": "Formazione 8",
+  "aree": [
+   "istruzione-universita-ricerca"
+  ],
+  "sottotema": "Obbligo scolastico",
+  "concretezza": 4,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "parametri": [
+   {
+    "cosa": "ciclo scolastico",
+    "valore": "da 13 a 12 anni"
+   },
+   {
+    "cosa": "obbligo scolastico",
+    "valore": "18 anni"
+   }
+  ]
+ },
+ {
+  "partiti": [
+   "piu-europa"
+  ],
+  "sintesi": "Estendere l'opzione del tempo pieno a tutte le scuole primarie",
+  "citazione": "l’estensione dell’opzione tempo pieno a tutte le scuole primarie",
+  "fonte": "piu-europa-programma-politiche-2022",
+  "punto": "Formazione 9",
+  "aree": [
+   "istruzione-universita-ricerca",
+   "famiglia-natalita"
+  ],
+  "sottotema": "Tempo pieno",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "piu-europa"
+  ],
+  "sintesi": "Riformare la formazione degli insegnanti secondari con un triennio disciplinare e una magistrale orientata alla didattica",
+  "citazione": "attraverso l’adozione di un modello che preveda un triennio di natura disciplinare e una magistrale orientata alla didattica",
+  "fonte": "piu-europa-programma-politiche-2022",
+  "punto": "Formazione 10",
+  "aree": [
+   "istruzione-universita-ricerca"
+  ],
+  "sottotema": "Docenti",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "destinatari": [
+   "docenti"
+  ]
+ },
+ {
+  "partiti": [
+   "piu-europa"
+  ],
+  "sintesi": "Collegare le retribuzioni degli insegnanti al merito e alla valutazione delle performance",
+  "citazione": "una revisione delle logiche retributive legate al merito e a un sistema di valutazione degli obiettivi di performance",
+  "fonte": "piu-europa-programma-politiche-2022",
+  "punto": "Formazione 11",
+  "aree": [
+   "istruzione-universita-ricerca"
+  ],
+  "sottotema": "Docenti",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "destinatari": [
+   "docenti"
+  ]
+ },
+ {
+  "partiti": [
+   "piu-europa"
+  ],
+  "sintesi": "Ridurre il precariato dei docenti con concorsi annuali e un anno a tempo determinato prima dell'abilitazione",
+  "citazione": "dopo aver superato concorsi personalizzati banditi ogni anno in base ai fabbisogni",
+  "fonte": "piu-europa-programma-politiche-2022",
+  "punto": "Formazione 12",
+  "aree": [
+   "istruzione-universita-ricerca",
+   "lavoro"
+  ],
+  "sottotema": "Docenti",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "destinatari": [
+   "docenti"
+  ]
+ },
+ {
+  "partiti": [
+   "piu-europa"
+  ],
+  "sintesi": "Inserire percorsi di educazione finanziaria dalla scuola secondaria di primo grado",
+  "citazione": "di inserire percorsi di educazione finanziaria con esperti del settore e professori qualificati a partire dalla scuola secondaria di primo grado",
+  "fonte": "piu-europa-programma-politiche-2022",
+  "punto": "Formazione 14",
+  "aree": [
+   "istruzione-universita-ricerca"
+  ],
+  "sottotema": "Educazione finanziaria",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "piu-europa"
+  ],
+  "sintesi": "Superare il valore legale del titolo di studio",
+  "citazione": "di superare il valore legale del titolo di studio, che risulta meramente formale",
+  "fonte": "piu-europa-programma-politiche-2022",
+  "punto": "Formazione 16",
+  "aree": [
+   "istruzione-universita-ricerca"
+  ],
+  "sottotema": "Università",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "piu-europa"
+  ],
+  "sintesi": "Sostenere la residenzialità degli studenti fuori sede",
+  "citazione": "attraverso il sostegno alla residenzialità per gli studenti fuori sede",
+  "fonte": "piu-europa-programma-politiche-2022",
+  "punto": "Formazione 20",
+  "aree": [
+   "istruzione-universita-ricerca",
+   "casa"
+  ],
+  "sottotema": "Diritto allo studio",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "destinatari": [
+   "studenti"
+  ]
+ },
+ {
+  "partiti": [
+   "piu-europa"
+  ],
+  "sintesi": "Favorire l'iscrizione delle studentesse ai corsi STEM con orientamento mirato",
+  "citazione": "di favorire l’iscrizione e la partecipazione delle studentesse ai corsi STEM",
+  "fonte": "piu-europa-programma-politiche-2022",
+  "punto": "Formazione 23",
+  "aree": [
+   "istruzione-universita-ricerca",
+   "diritti-liberta"
+  ],
+  "sottotema": "Parità di genere",
+  "concretezza": 2,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "destinatari": [
+   "donne"
+  ]
+ },
+ {
+  "partiti": [
+   "piu-europa"
+  ],
+  "sintesi": "Incentivare l'affidamento a privati della gestione dei siti culturali con verifica dei risultati",
+  "citazione": "di incentivare l’affidamento anche a soggetti privati della gestione di siti culturali (musei, aree archeologiche, ecc)",
+  "fonte": "piu-europa-programma-politiche-2022",
+  "punto": "Formazione 24",
+  "aree": [
+   "cultura-sport-turismo"
+  ],
+  "sottotema": "Patrimonio culturale",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "piu-europa"
+  ],
+  "sintesi": "Revisionare il Titolo V per ridefinire le competenze tra Stato e Regioni sulle politiche attive del lavoro",
+  "citazione": "di ridefinire le competenze tra Stato e Regioni e promuovere la parificazione tra pubblico e privato attraverso una revisione del Titolo V",
+  "fonte": "piu-europa-programma-politiche-2022",
+  "punto": "Lavoro 25",
+  "aree": [
+   "lavoro",
+   "istituzioni-riforme"
+  ],
+  "sottotema": "Politiche attive",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "piu-europa"
+  ],
+  "sintesi": "Rendere più oggettiva la disciplina dei licenziamenti discriminatori e della reintegrazione",
+  "citazione": "di definire in modo più oggettivo, chiaro e trasparente la normativa in materia di licenziamenti discriminatori e reintegrazione",
+  "fonte": "piu-europa-programma-politiche-2022",
+  "punto": "Lavoro 26",
+  "aree": [
+   "lavoro"
+  ],
+  "sottotema": "Licenziamenti",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "piu-europa"
+  ],
+  "sintesi": "Potenziare l'apprendistato come forma principale di accesso al lavoro dei giovani",
+  "citazione": "di potenziare e agevolare i contratti di apprendistato come forma principale di accesso al lavoro dei giovani",
+  "fonte": "piu-europa-programma-politiche-2022",
+  "punto": "Lavoro 27",
+  "aree": [
+   "lavoro"
+  ],
+  "sottotema": "Apprendistato",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "destinatari": [
+   "giovani"
+  ]
+ },
+ {
+  "partiti": [
+   "piu-europa"
+  ],
+  "sintesi": "Introdurre il Buono Lavoro per i lavori estemporanei",
+  "citazione": "di introdurre il Buono Lavoro quale strumento di disciplina e regolazione dei lavori estemporanei",
+  "fonte": "piu-europa-programma-politiche-2022",
+  "punto": "Lavoro 28",
+  "aree": [
+   "lavoro"
+  ],
+  "sottotema": "Lavoro occasionale",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "piu-europa"
+  ],
+  "sintesi": "Attribuire a ogni lavoratore un voucher formazione-lavoro per la riqualificazione",
+  "citazione": "di attribuire ad ogni lavoratore un supporto finanziario sotto forma di voucher formazione-lavoro",
+  "fonte": "piu-europa-programma-politiche-2022",
+  "punto": "Lavoro 29",
+  "aree": [
+   "lavoro",
+   "istruzione-universita-ricerca"
+  ],
+  "sottotema": "Formazione continua",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "piu-europa"
+  ],
+  "sintesi": "Ridisegnare lo smart working verso un modello ibrido efficiente",
+  "citazione": "di ridisegnare la disciplina dello smart working, per evolvere verso un modello ibrido efficiente",
+  "fonte": "piu-europa-programma-politiche-2022",
+  "punto": "Lavoro 33",
+  "aree": [
+   "lavoro"
+  ],
+  "sottotema": "Lavoro agile",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "piu-europa"
+  ],
+  "sintesi": "Introdurre un regime unico di ammortizzatori sociali per dipendenti, autonomi e imprenditori",
+  "citazione": "di introdurre un regime unico di ammortizzatori sociali che riguardi tutti i lavoratori (dipendenti, autonomi e imprenditori)",
+  "fonte": "piu-europa-programma-politiche-2022",
+  "punto": "Lavoro 39",
+  "aree": [
+   "lavoro",
+   "welfare-inclusione"
+  ],
+  "sottotema": "Ammortizzatori sociali",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "piu-europa"
+  ],
+  "sintesi": "Riformare il reddito di cittadinanza nella direzione indicata dal governo Draghi",
+  "citazione": "di riformare il reddito di cittadinanza nella direzione indicata dal Governo Draghi",
+  "fonte": "piu-europa-programma-politiche-2022",
+  "punto": "Lavoro 40",
+  "aree": [
+   "welfare-inclusione",
+   "lavoro"
+  ],
+  "sottotema": "Reddito di cittadinanza",
+  "concretezza": 2,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "piu-europa"
+  ],
+  "sintesi": "Introdurre il salario minimo mobile definito con le parti sociali nel quadro della direttiva europea e attuare l'art. 39",
+  "citazione": "introduzione e armonizzazione del salario minimo mobile, definito in accordo tra le parti sociali e sulla base dei settori produttivi",
+  "fonte": "piu-europa-programma-politiche-2022",
+  "punto": "Lavoro 41",
+  "aree": [
+   "lavoro"
+  ],
+  "sottotema": "Salario minimo",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "piu-europa"
+  ],
+  "sintesi": "Creare un Testo Unico del Lavoro",
+  "citazione": "con la creazione di un Testo Unico del Lavoro che riunisca al proprio interno tutta la normativa in materia di lavoro",
+  "fonte": "piu-europa-programma-politiche-2022",
+  "punto": "Lavoro 42",
+  "aree": [
+   "lavoro",
+   "pubblica-amministrazione"
+  ],
+  "sottotema": "Semplificazione",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "piu-europa"
+  ],
+  "sintesi": "Approvare una riforma della cittadinanza che dia seguito alla proposta di legge Ius Scholae",
+  "citazione": "una riforma organica della disciplina in materia di cittadinanza che dia seguito alla Proposta di Legge “IUS SCHOLAE”",
+  "fonte": "piu-europa-programma-politiche-2022",
+  "punto": "Diritti 1",
+  "aree": [
+   "immigrazione-cittadinanza",
+   "diritti-liberta"
+  ],
+  "sottotema": "Cittadinanza",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "piu-europa"
+  ],
+  "sintesi": "Approvare una legge sul suicidio medicalmente assistito e l'eutanasia per malati irreversibili",
+  "citazione": "una legge che garantisca la possibilità di ricorrere all’aiuto medico alla morte volontaria e all’eutanasia",
+  "fonte": "piu-europa-programma-politiche-2022",
+  "punto": "Diritti 2",
+  "aree": [
+   "diritti-liberta",
+   "sanita"
+  ],
+  "sottotema": "Fine vita",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "piu-europa"
+  ],
+  "sintesi": "Legalizzare e regolamentare la cannabis, a partire dalla coltivazione domestica di quattro piante",
+  "citazione": "la legalizzazione e regolamentazione della Cannabis",
+  "fonte": "piu-europa-programma-politiche-2022",
+  "punto": "Diritti 3",
+  "aree": [
+   "diritti-liberta",
+   "sicurezza"
+  ],
+  "sottotema": "Cannabis",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "parametri": [
+   {
+    "cosa": "coltivazione domestica per uso personale",
+    "valore": "4 piante"
+   }
+  ]
+ },
+ {
+  "partiti": [
+   "piu-europa"
+  ],
+  "sintesi": "Garantire l'accesso all'IVG con una presenza minima di medici non obiettori in tutti i presidi ospedalieri",
+  "citazione": "con almeno una presenza minima di medici non obiettori di coscienza in tutti i presidi ospedalieri",
+  "fonte": "piu-europa-programma-politiche-2022",
+  "punto": "Diritti 4",
+  "aree": [
+   "diritti-liberta",
+   "sanita"
+  ],
+  "sottotema": "Aborto",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "piu-europa"
+  ],
+  "sintesi": "Introdurre il matrimonio egualitario e l'adozione per coppie, anche dello stesso sesso, e single",
+  "citazione": "l’introduzione del matrimonio egualitario, estensione dell’adozione alle coppie, sposate o meno, anche dello stesso sesso e alle persone single",
+  "fonte": "piu-europa-programma-politiche-2022",
+  "punto": "Diritti 5",
+  "aree": [
+   "diritti-liberta",
+   "famiglia-natalita"
+  ],
+  "sottotema": "Diritti LGBT+",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "piu-europa"
+  ],
+  "sintesi": "Riconoscere alla nascita i figli del partner nelle coppie dello stesso sesso",
+  "citazione": "il riconoscimento alla nascita dei figli del partner per le coppie dello stesso sesso, anche non sposate",
+  "fonte": "piu-europa-programma-politiche-2022",
+  "punto": "Diritti 6",
+  "aree": [
+   "diritti-liberta",
+   "famiglia-natalita"
+  ],
+  "sottotema": "Diritti LGBT+",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "piu-europa"
+  ],
+  "sintesi": "Regolamentare a livello nazionale la carriera alias e riformare la legge 164 del 1982 sulla rettifica dei documenti",
+  "citazione": "una legge quadro per regolamentare la cosiddetta “carriera alias” a livello nazionale nelle università e nelle pubbliche amministrazioni",
+  "fonte": "piu-europa-programma-politiche-2022",
+  "punto": "Diritti 7",
+  "aree": [
+   "diritti-liberta"
+  ],
+  "sottotema": "Diritti LGBT+",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "piu-europa"
+  ],
+  "sintesi": "Introdurre informazione su salute sessuale e relazioni affettive nelle scuole",
+  "citazione": "una adeguata informazione in materia di salute sessuale e relazioni affettive nelle scuole",
+  "fonte": "piu-europa-programma-politiche-2022",
+  "punto": "Diritti 8",
+  "aree": [
+   "diritti-liberta",
+   "istruzione-universita-ricerca"
+  ],
+  "sottotema": "Educazione sessuale",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "piu-europa"
+  ],
+  "sintesi": "Regolamentare il lavoro sessuale",
+  "citazione": "la regolamentazione del lavoro sessuale",
+  "fonte": "piu-europa-programma-politiche-2022",
+  "punto": "Diritti 11",
+  "aree": [
+   "diritti-liberta",
+   "lavoro"
+  ],
+  "sottotema": "Lavoro sessuale",
+  "concretezza": 2,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "piu-europa"
+  ],
+  "sintesi": "Istituire una Commissione nazionale indipendente sui diritti umani",
+  "citazione": "l’Italia deve urgentemente approvare una legge istitutiva di una commissione nazionale indipendente sui diritti umani",
+  "fonte": "piu-europa-programma-politiche-2022",
+  "punto": "Diritti, Commissione",
+  "aree": [
+   "diritti-liberta"
+  ],
+  "sottotema": "Autorità indipendenti",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "piu-europa"
+  ],
+  "sintesi": "Introdurre canali legali di ingresso, reintrodurre lo sponsor e regolarizzare i lavoratori stranieri presenti, a partire dalla legge 'Ero straniero'",
+  "citazione": "l’introduzione di canali di accesso legali a cittadini stranieri di Paesi esterni all’Unione Europea, reintroduzione del sistema dello sponsor e regolarizzazione di lavoratori stranieri già presenti in Italia",
+  "fonte": "piu-europa-programma-politiche-2022",
+  "punto": "Diritti 12",
+  "aree": [
+   "immigrazione-cittadinanza",
+   "lavoro"
+  ],
+  "sottotema": "Ingressi regolari",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "piu-europa"
+  ],
+  "sintesi": "Abolire la legge Bossi-Fini e il memorandum con la Libia",
+  "citazione": "Occorre inoltre abolire la Legge Bossi-Fini e porre fine all’attuale Memorandum d’intesa sulla migrazione siglato tra il governo italiano e quello libico",
+  "fonte": "piu-europa-programma-politiche-2022",
+  "punto": "Diritti 12",
+  "aree": [
+   "immigrazione-cittadinanza",
+   "esteri-europa"
+  ],
+  "sottotema": "Immigrazione",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "piu-europa"
+  ],
+  "sintesi": "Superare l'accordo di Dublino a livello europeo",
+  "citazione": "Operare a livello europeo per il superamento dell’accordo di Dublino, nella direzione indicata dal Parlamento europeo",
+  "fonte": "piu-europa-programma-politiche-2022",
+  "punto": "Diritti 13",
+  "aree": [
+   "immigrazione-cittadinanza",
+   "esteri-europa"
+  ],
+  "sottotema": "Asilo",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "europeo"
+ },
+ {
+  "partiti": [
+   "piu-europa"
+  ],
+  "sintesi": "Stanziare entro il 2030 lo 0,70% del RNL per la cooperazione allo sviluppo",
+  "citazione": "di stanziare entro il 2030 lo 0,70% del RNL a favore dei partenariati per lo sviluppo e l’eradicazione della povertà",
+  "fonte": "piu-europa-programma-politiche-2022",
+  "punto": "Diritti 15",
+  "aree": [
+   "esteri-europa",
+   "conti-pubblici"
+  ],
+  "sottotema": "Cooperazione allo sviluppo",
+  "concretezza": 4,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "parametri": [
+   {
+    "cosa": "aiuto pubblico allo sviluppo",
+    "valore": "0,70% del RNL entro il 2030"
+   }
+  ]
+ },
+ {
+  "partiti": [
+   "piu-europa"
+  ],
+  "sintesi": "Rendere obbligatorio l'esame parlamentare delle proposte di legge di iniziativa popolare e riformare i referendum",
+  "citazione": "riformando la normativa in materia di Proposte di Legge di Iniziativa Popolare (a partire dall’obbligo di esame delle stesse da parte del Parlamento)",
+  "fonte": "piu-europa-programma-politiche-2022",
+  "punto": "Diritti politici 1",
+  "aree": [
+   "istituzioni-riforme"
+  ],
+  "sottotema": "Democrazia diretta",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "piu-europa"
+  ],
+  "sintesi": "Realizzare la piattaforma pubblica per la raccolta digitale delle firme per referendum e leggi di iniziativa popolare",
+  "citazione": "realizzando la piattaforma online pubblica e gratuita, già prevista dalla legge, dedicata alla raccolta delle sottoscrizioni",
+  "fonte": "piu-europa-programma-politiche-2022",
+  "punto": "Diritti politici 2",
+  "aree": [
+   "istituzioni-riforme",
+   "innovazione-digitale"
+  ],
+  "sottotema": "Democrazia diretta",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "piu-europa"
+  ],
+  "sintesi": "Approvare una legge sui partiti che ne assicuri la democraticità interna, attuativa dell'art. 49",
+  "citazione": "l’approvazione di una legge sui partiti che ne assicuri la democraticità interna",
+  "fonte": "piu-europa-programma-politiche-2022",
+  "punto": "Diritti politici 3",
+  "aree": [
+   "istituzioni-riforme"
+  ],
+  "sottotema": "Partiti politici",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "piu-europa"
+  ],
+  "sintesi": "Garantire il voto ai lavoratori e studenti fuori sede nei collegi in cui si trovano",
+  "citazione": "innanzitutto prevedendo la possibilità che gli stessi possano votare per i candidati dei collegi nei quali si trovano",
+  "fonte": "piu-europa-programma-politiche-2022",
+  "punto": "Diritti politici 4",
+  "aree": [
+   "istituzioni-riforme",
+   "diritti-liberta"
+  ],
+  "sottotema": "Voto fuori sede",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "destinatari": [
+   "studenti",
+   "lavoratori fuori sede"
+  ]
+ },
+ {
+  "partiti": [
+   "piu-europa"
+  ],
+  "sintesi": "Introdurre il bilancio di genere e l'obbligo di trasparenza su retribuzioni e promozioni nella dichiarazione non finanziaria",
+  "citazione": "di aggiungere l’obbligo di trasparenza relativo a informazioni su retribuzioni, organici e promozioni per genere nella già esistente Dichiarazione Non Finanziaria",
+  "fonte": "piu-europa-programma-politiche-2022",
+  "punto": "Parità di genere 5",
+  "aree": [
+   "diritti-liberta",
+   "lavoro",
+   "economia-imprese"
+  ],
+  "sottotema": "Parità di genere",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "destinatari": [
+   "donne"
+  ]
+ },
+ {
+  "partiti": [
+   "piu-europa"
+  ],
+  "sintesi": "Riservare un congedo parentale obbligatorio iniziale a entrambi i genitori retribuito al 100%",
+  "citazione": "di retribuire il congedo parentale iniziale al 100% del reddito preparto",
+  "fonte": "piu-europa-programma-politiche-2022",
+  "punto": "Parità di genere 6-7",
+  "aree": [
+   "famiglia-natalita",
+   "lavoro"
+  ],
+  "sottotema": "Congedi e conciliazione",
+  "concretezza": 4,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "destinatari": [
+   "famiglie"
+  ],
+  "parametri": [
+   {
+    "cosa": "retribuzione del congedo iniziale",
+    "valore": "100% del reddito pre-parto"
+   }
+  ]
+ },
+ {
+  "partiti": [
+   "piu-europa"
+  ],
+  "sintesi": "Prevedere un congedo parentale facoltativo fruibile fino ai 12 anni del figlio, retribuito al 60%",
+  "citazione": "di riservare un congedo parentale facoltativo e complementare fruibile fino ai 12 anni di vita del figlio",
+  "fonte": "piu-europa-programma-politiche-2022",
+  "punto": "Parità di genere 8-9",
+  "aree": [
+   "famiglia-natalita",
+   "lavoro"
+  ],
+  "sottotema": "Congedi e conciliazione",
+  "concretezza": 4,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "destinatari": [
+   "famiglie"
+  ],
+  "parametri": [
+   {
+    "cosa": "retribuzione del congedo complementare",
+    "valore": "60%"
+   },
+   {
+    "cosa": "età massima del figlio",
+    "valore": "12 anni"
+   }
+  ]
+ },
+ {
+  "partiti": [
+   "piu-europa"
+  ],
+  "sintesi": "Rimodulare il bonus asilo nido azzerando o riducendo i costi in base all'ISEE",
+  "citazione": "di rimodulare il Bonus Asilo Nido azzerando o riducendo i costi in base all’ISEE",
+  "fonte": "piu-europa-programma-politiche-2022",
+  "punto": "Parità di genere 10",
+  "aree": [
+   "famiglia-natalita",
+   "istruzione-universita-ricerca"
+  ],
+  "sottotema": "Asili nido",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "destinatari": [
+   "famiglie"
+  ]
+ },
+ {
+  "partiti": [
+   "piu-europa"
+  ],
+  "sintesi": "Dedurre le rette degli asili privati e parificati",
+  "citazione": "di dedurre i costi sostenuti dalle famiglie per le rette degli asili privati e parificati",
+  "fonte": "piu-europa-programma-politiche-2022",
+  "punto": "Parità di genere 12",
+  "aree": [
+   "famiglia-natalita",
+   "fisco"
+  ],
+  "sottotema": "Asili nido",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "destinatari": [
+   "famiglie"
+  ]
+ },
+ {
+  "partiti": [
+   "piu-europa"
+  ],
+  "sintesi": "Incentivare i comuni con contributi a dotarsi dei Piani di eliminazione delle barriere architettoniche",
+  "citazione": "incentivare le amministrazioni comunali, attraverso contributi economici, ad adeguarsi alla Legge n.41/1986",
+  "fonte": "piu-europa-programma-politiche-2022",
+  "punto": "Disabilità 1",
+  "aree": [
+   "welfare-inclusione",
+   "infrastrutture-trasporti"
+  ],
+  "sottotema": "Disabilità e caregiver",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "destinatari": [
+   "persone con disabilità"
+  ]
+ },
+ {
+  "partiti": [
+   "piu-europa"
+  ],
+  "sintesi": "Introdurre il disability manager in Regioni e Comuni capoluogo",
+  "citazione": "introdurre all’interno di Regioni e Comuni Capoluogo la figura del disability manager",
+  "fonte": "piu-europa-programma-politiche-2022",
+  "punto": "Disabilità 3",
+  "aree": [
+   "welfare-inclusione",
+   "pubblica-amministrazione"
+  ],
+  "sottotema": "Disabilità e caregiver",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "destinatari": [
+   "persone con disabilità"
+  ]
+ },
+ {
+  "partiti": [
+   "piu-europa"
+  ],
+  "sintesi": "Introdurre la figura dell'assistente all'affettività e alla sessualità per persone con disabilità",
+  "citazione": "introdurre la figura dell’assistente all’emotività, all’affettività e alla sessualità per persone con disabilità",
+  "fonte": "piu-europa-programma-politiche-2022",
+  "punto": "Disabilità 4",
+  "aree": [
+   "welfare-inclusione",
+   "diritti-liberta"
+  ],
+  "sottotema": "Disabilità e caregiver",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "destinatari": [
+   "persone con disabilità"
+  ]
+ },
+ {
+  "partiti": [
+   "piu-europa"
+  ],
+  "sintesi": "Restituire allo Stato le competenze esclusive in materia energetica con la revisione del Titolo V",
+  "citazione": "per consentire una visione unitaria della strategia energetica nazionale restituendo al livello statale le competenze esclusive in materia energetica",
+  "fonte": "piu-europa-programma-politiche-2022",
+  "punto": "Energia 1",
+  "aree": [
+   "energia",
+   "istituzioni-riforme"
+  ],
+  "sottotema": "Politica energetica",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "piu-europa"
+  ],
+  "sintesi": "Sviluppare una politica energetica europea con reti integrate e stoccaggi comuni del gas",
+  "citazione": "di sviluppare una politica energetica europea, allineata con quella climatica",
+  "fonte": "piu-europa-programma-politiche-2022",
+  "punto": "Energia 2",
+  "aree": [
+   "energia",
+   "esteri-europa"
+  ],
+  "sottotema": "Gas e approvvigionamento",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "europeo"
+ },
+ {
+  "partiti": [
+   "piu-europa"
+  ],
+  "sintesi": "Introdurre soglie di potenza autorizzata per fonte e per regione per ripartire gli obiettivi sulle rinnovabili",
+  "citazione": "mediante l’introduzione di soglie quantitative di potenza autorizzata per ciascuna fonte e per ciascuna regione",
+  "fonte": "piu-europa-programma-politiche-2022",
+  "punto": "Energia 3",
+  "aree": [
+   "energia",
+   "ambiente-animali"
+  ],
+  "sottotema": "Rinnovabili",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "piu-europa"
+  ],
+  "sintesi": "Ridurre i passaggi burocratici per le rinnovabili e i tempi autorizzativi, inclusi i rigassificatori",
+  "citazione": "di ridurre drasticamente i passaggi burocratici che frenano lo sviluppo delle fonti rinnovabili",
+  "fonte": "piu-europa-programma-politiche-2022",
+  "punto": "Energia 4",
+  "aree": [
+   "energia"
+  ],
+  "sottotema": "Rinnovabili",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "piu-europa"
+  ],
+  "sintesi": "Aggiornare il PNIEC per ridurre del 55% le emissioni al 2030 e adottare standard nazionali per le emissioni degli edifici",
+  "citazione": "di promuovere la transizione energetica attraverso l’aggiornamento del PNIEC",
+  "fonte": "piu-europa-programma-politiche-2022",
+  "punto": "Energia 5",
+  "aree": [
+   "ambiente-animali",
+   "energia"
+  ],
+  "sottotema": "Clima ed emissioni",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "parametri": [
+   {
+    "cosa": "riduzione gas serra",
+    "valore": "55% al 2030"
+   }
+  ]
+ },
+ {
+  "partiti": [
+   "piu-europa"
+  ],
+  "sintesi": "Sostituire completamente il gas russo con quello di altri Paesi",
+  "citazione": "di accelerare, nel solco di quanto già fatto dal presidente Draghi, la completa sostituzione del gas russo",
+  "fonte": "piu-europa-programma-politiche-2022",
+  "punto": "Energia 6",
+  "aree": [
+   "energia",
+   "esteri-europa"
+  ],
+  "sottotema": "Gas e approvvigionamento",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "piu-europa"
+  ],
+  "sintesi": "Rafforzare la ricerca su fusione e mini-reattori modulari, importare elettricità low carbon e realizzare il Deposito nazionale dei rifiuti radioattivi",
+  "citazione": "di rafforzare la ricerca e la cooperazione scientifica italiana per lo sviluppo di reattori a fusione nucleare e mini reattori modulari di ultima generazione",
+  "fonte": "piu-europa-programma-politiche-2022",
+  "punto": "Energia 7",
+  "aree": [
+   "energia",
+   "istruzione-universita-ricerca"
+  ],
+  "sottotema": "Nucleare",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "piu-europa"
+  ],
+  "sintesi": "Sostenere in sede europea un tetto al prezzo del gas",
+  "citazione": "di sostenere gli sforzi a livello europeo per ottenere un tetto massimo al prezzo del gas",
+  "fonte": "piu-europa-programma-politiche-2022",
+  "punto": "Energia 8",
+  "aree": [
+   "energia",
+   "esteri-europa"
+  ],
+  "sottotema": "Bollette e prezzi",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "europeo"
+ },
+ {
+  "partiti": [
+   "piu-europa"
+  ],
+  "sintesi": "Riformare gli incentivi all'efficienza energetica premiando interventi integrati e legando le detrazioni alla riduzione dei fabbisogni",
+  "citazione": "passando da incentivi legati alle tecnologie a premiare interventi integrati che riducano i fabbisogni energetici degli edifici",
+  "fonte": "piu-europa-programma-politiche-2022",
+  "punto": "Energia 9",
+  "aree": [
+   "energia",
+   "casa"
+  ],
+  "sottotema": "Bonus edilizi",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "piu-europa"
+  ],
+  "sintesi": "Eliminare gradualmente i sussidi dannosi all'ambiente per una riforma fiscale ecologica",
+  "citazione": "di promuovere una riforma fiscale ecologica attraverso l’eliminazione graduale di tutti i sussidi dannosi all’ambiente",
+  "fonte": "piu-europa-programma-politiche-2022",
+  "punto": "Energia 11",
+  "aree": [
+   "ambiente-animali",
+   "fisco"
+  ],
+  "sottotema": "Clima ed emissioni",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "piu-europa"
+  ],
+  "sintesi": "Non consentire più alcun condono sulle difformità edilizie",
+  "citazione": "di non consentire più alcun condono sulle difformità edilizie",
+  "fonte": "piu-europa-programma-politiche-2022",
+  "punto": "Energia 12",
+  "aree": [
+   "casa",
+   "ambiente-animali"
+  ],
+  "sottotema": "Condoni edilizi",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "piu-europa"
+  ],
+  "sintesi": "Premiare i comuni che aumentano il verde fruibile per abitante e integrare il capitale naturale nella contabilità",
+  "citazione": "favorendo l’aumento del verde fruibile per abitante, attraverso meccanismi di premialità ai Comuni",
+  "fonte": "piu-europa-programma-politiche-2022",
+  "punto": "Energia 13",
+  "aree": [
+   "ambiente-animali"
+  ],
+  "sottotema": "Parchi e biodiversità",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "piu-europa"
+  ],
+  "sintesi": "Avviare la realizzazione di un termovalorizzatore a Roma Capitale",
+  "citazione": "di avviare la realizzazione di un termovalorizzatore a beneficio di Roma Capitale",
+  "fonte": "piu-europa-programma-politiche-2022",
+  "punto": "Energia 14",
+  "aree": [
+   "ambiente-animali",
+   "mezzogiorno-territori"
+  ],
+  "sottotema": "Rifiuti ed economia circolare",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "piu-europa"
+  ],
+  "sintesi": "Realizzare impianti di rigassificazione in una strategia nazionale di transizione ecologica",
+  "citazione": "di realizzare impianti di rigassificazione nel quadro di una strategia nazionale di transizione ecologica",
+  "fonte": "piu-europa-programma-politiche-2022",
+  "punto": "Energia 15",
+  "aree": [
+   "energia"
+  ],
+  "sottotema": "Gas e approvvigionamento",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "piu-europa"
+  ],
+  "sintesi": "Promuovere i depuratori d'acqua per ridurre le bottiglie di plastica e investire nelle reti idriche",
+  "citazione": "di promuovere l’utilizzo di depuratori d’acqua per ridurre l’acquisto di bottiglie in plastica",
+  "fonte": "piu-europa-programma-politiche-2022",
+  "punto": "Energia 16",
+  "aree": [
+   "ambiente-animali"
+  ],
+  "sottotema": "Acqua pubblica",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ }
+]

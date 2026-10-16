@@ -1,0 +1,1684 @@
+[
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Scorporare il prezzo dell'energia rinnovabile da quello fossile e creare una piattaforma per contratti di lungo periodo sulle rinnovabili",
+  "citazione": "è necessario definire una piattaforma per lo scambio di contratti di lungo periodo per energia prodotta da fonti rinnovabili",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Energia, 2",
+  "aree": [
+   "energia"
+  ],
+  "sottotema": "Bollette e prezzi",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Rilanciare il prosumer nelle comunità energetiche e nei distretti industriali con accesso prioritario alle aree idonee",
+  "citazione": "rilanciare il ruolo del c.d. “Prosumer” sia a livello delle Comunità Energetiche (famiglie e Pubblica Amministrazione), sia a livello di distretti industriali",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Energia, 2",
+  "aree": [
+   "energia"
+  ],
+  "sottotema": "Comunità energetiche",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "destinatari": [
+   "famiglie",
+   "imprese"
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Includere il nucleare nel mix energetico per arrivare a emissioni zero nel 2050",
+  "citazione": "includa rinnovabili e nucleare, impiegando le migliori tecnologie disponibili",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Energia, 3",
+  "aree": [
+   "energia",
+   "ambiente-animali"
+  ],
+  "sottotema": "Nucleare",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "parametri": [
+   {
+    "cosa": "obiettivo emissioni",
+    "valore": "zero nel 2050"
+   }
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Definire fin d'ora il quadro regolatorio per il dispiegamento del nucleare",
+  "citazione": "occorre sin da ora definire il quadro regolatorio che disciplini il dispiegamento nel tempo delle tecnologie necessarie, alle migliori condizioni economiche",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Energia, 3",
+  "aree": [
+   "energia"
+  ],
+  "sottotema": "Nucleare",
+  "concretezza": 2,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Ripristinare super e iper-ammortamento al 130% e 140% per rinnovare i mezzi di trasporto merci",
+  "citazione": "ripristinando il super e iper-ammortamento al 130% e 140%, destinato alla progressiva sostituzione delle flotte con mezzi meno inquinanti per il trasporto merci",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Transizione ecologica, 1",
+  "aree": [
+   "ambiente-animali",
+   "infrastrutture-trasporti",
+   "economia-imprese"
+  ],
+  "sottotema": "Trasporto merci",
+  "concretezza": 4,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "parametri": [
+   {
+    "cosa": "super-ammortamento",
+    "valore": "130%"
+   },
+   {
+    "cosa": "iper-ammortamento",
+    "valore": "140%"
+   }
+  ],
+  "destinatari": [
+   "imprese"
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Investire 8 miliardi per integrare le reti ferroviarie nei corridoi europei, con 5.100 km di binari per treni merci da 750 m",
+  "citazione": "bisogna investire 8 miliardi di euro al fine di integrare le reti ferroviarie italiane nei corridoi europei: dovranno realizzarsi 5.100 km di binari per consentire il transito dei treni merci più lunghi (750 mt)",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Transizione ecologica, 1",
+  "aree": [
+   "infrastrutture-trasporti",
+   "ambiente-animali"
+  ],
+  "sottotema": "Trasporto merci su ferro",
+  "concretezza": 4,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "parametri": [
+   {
+    "cosa": "investimento",
+    "valore": "8 miliardi di euro"
+   },
+   {
+    "cosa": "binari",
+    "valore": "5.100 km"
+   },
+   {
+    "cosa": "lunghezza treni merci",
+    "valore": "750 m"
+   }
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Portare la costruzione annua di metropolitane a 20 km e di tramvie a 25 km, per 1 miliardo di euro l'anno",
+  "citazione": "aumentare la costruzione annuale di metropolitane (da 14,2 km a 20 km) e di tramvie (da 16,9 km a 25 km) per un costo di 1 miliardo di euro l’anno",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Transizione ecologica, 1",
+  "aree": [
+   "infrastrutture-trasporti",
+   "ambiente-animali"
+  ],
+  "sottotema": "Trasporto pubblico locale",
+  "concretezza": 4,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "parametri": [
+   {
+    "cosa": "metropolitane annue",
+    "valore": "da 14,2 a 20 km"
+   },
+   {
+    "cosa": "tramvie annue",
+    "valore": "da 16,9 a 25 km"
+   },
+   {
+    "cosa": "costo",
+    "valore": "1 miliardo di euro l'anno"
+   }
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Svecchiare il parco autobus (5 miliardi in tre anni) e il parco treni (2 miliardi)",
+  "citazione": "procedere con lo svecchiamento del parco autobus (5 miliardi in tre anni) e del parco treni (2 miliardi di euro)",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Transizione ecologica, 1",
+  "aree": [
+   "infrastrutture-trasporti",
+   "ambiente-animali"
+  ],
+  "sottotema": "Trasporto pubblico locale",
+  "concretezza": 4,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "parametri": [
+   {
+    "cosa": "parco autobus",
+    "valore": "5 miliardi in tre anni"
+   },
+   {
+    "cosa": "parco treni",
+    "valore": "2 miliardi di euro"
+   }
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Aumentare gli incentivi per auto ibride ed elettriche e installare punti di ricarica pubblici",
+  "citazione": "bisognerà aumentare gli incentivi per queste macchine, e favorire l'installazione di punti ricarica pubblici urbani",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Transizione ecologica, 1",
+  "aree": [
+   "ambiente-animali",
+   "infrastrutture-trasporti"
+  ],
+  "sottotema": "Mobilità elettrica",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Estendere il teleriscaldamento di 900 km entro il 2030, per circa 2,5 miliardi",
+  "citazione": "prolungando la rete di 900km entro il 2030. Il costo sarebbe di circa 2,5 miliardi di euro",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Transizione ecologica, 2",
+  "aree": [
+   "energia",
+   "ambiente-animali"
+  ],
+  "sottotema": "Efficienza energetica",
+  "concretezza": 4,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "parametri": [
+   {
+    "cosa": "estensione rete",
+    "valore": "900 km entro il 2030"
+   },
+   {
+    "cosa": "costo",
+    "valore": "circa 2,5 miliardi di euro"
+   }
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Costruire 250 impianti di teleriscaldamento a cippato nei piccoli comuni montani",
+  "citazione": "costruire 250 impianti di teleriscaldamento alimentati con legno cippato nei piccoli Comuni montani",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Transizione ecologica, 2",
+  "aree": [
+   "energia",
+   "ambiente-animali",
+   "mezzogiorno-territori"
+  ],
+  "sottotema": "Efficienza energetica",
+  "concretezza": 4,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "parametri": [
+   {
+    "cosa": "impianti",
+    "valore": "250"
+   },
+   {
+    "cosa": "costo",
+    "valore": "125 milioni di euro"
+   }
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Investire 1,2 miliardi in centrali di biogas per immettere biometano nella rete di riscaldamento",
+  "citazione": "Occorre infine investire 1,2 miliardi di euro in centrali di biogas, al fine di immettere il biometano nella rete di riscaldamento",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Transizione ecologica, 2",
+  "aree": [
+   "energia",
+   "ambiente-animali"
+  ],
+  "sottotema": "Rinnovabili",
+  "concretezza": 4,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "parametri": [
+   {
+    "cosa": "investimento",
+    "valore": "1,2 miliardi di euro"
+   }
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Realizzare un piano di ristrutturazione ed efficientamento energetico dell'edilizia pubblica",
+  "citazione": "realizzare un piano di azione per la ristrutturazione e l’efficientamento energetico dell’edilizia pubblica",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Transizione ecologica, 2",
+  "aree": [
+   "energia",
+   "casa"
+  ],
+  "sottotema": "Efficienza energetica",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Aumentare i controlli sui Piani di gestione forestale coordinati a livello regionale",
+  "citazione": "aumentando i controlli sui Piani di gestione forestale coordinati a livello regionale",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Transizione ecologica, 3",
+  "aree": [
+   "ambiente-animali",
+   "agricoltura-pesca"
+  ],
+  "sottotema": "Parchi e biodiversità",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Destinare 25 milioni a 50 piattaforme logistico-commerciali per la filiera del legno",
+  "citazione": "Altri 25 milioni di euro andrebbero destinati alla realizzazione di 50 piattaforme logistico-commerciali",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Transizione ecologica, 3",
+  "aree": [
+   "agricoltura-pesca",
+   "economia-imprese"
+  ],
+  "sottotema": "Filiere e agroalimentare",
+  "concretezza": 4,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "parametri": [
+   {
+    "cosa": "importo",
+    "valore": "25 milioni di euro"
+   },
+   {
+    "cosa": "piattaforme",
+    "valore": "50"
+   }
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Approvare un piano per il dissesto idrogeologico e un quadro normativo per il cambiamento climatico, aumentando gli investimenti in prevenzione",
+  "citazione": "Oltre alla redazione di un apposito piano e di un framework normativo per il cambiamento climatico, riteniamo quindi necessario aumentare gli investimenti in prevenzione e in infrastrutture di contenimento",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Transizione ecologica, 4",
+  "aree": [
+   "ambiente-animali"
+  ],
+  "sottotema": "Dissesto idrogeologico",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Rendere obbligatoria l'assicurazione contro i danni da calamità naturali",
+  "citazione": "bisogna rendere obbligatoria l’assicurazione contro i danni da calamità naturali",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Transizione ecologica, 4",
+  "aree": [
+   "ambiente-animali",
+   "casa"
+  ],
+  "sottotema": "Dissesto idrogeologico",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "parametri": [
+   {
+    "cosa": "abitazioni oggi coperte",
+    "valore": "2%"
+   }
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Ripristinare l'unità di missione contro il dissesto idrogeologico",
+  "citazione": "ripristinare l’unità di missione contro il dissesto idrogeologico",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Transizione ecologica, 4",
+  "aree": [
+   "ambiente-animali",
+   "pubblica-amministrazione"
+  ],
+  "sottotema": "Dissesto idrogeologico",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Usare i 2 miliardi del PNRR per le infrastrutture idriche per realizzare nuovi invasi e incentivare la pulizia di quelli esistenti",
+  "citazione": "proponiamo che questi finanziamenti vengano utilizzati per la realizzazione degli invasi",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Crisi idrica, 1",
+  "aree": [
+   "agricoltura-pesca",
+   "ambiente-animali",
+   "conti-pubblici"
+  ],
+  "sottotema": "Acqua e irrigazione",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "parametri": [
+   {
+    "cosa": "fondi PNRR per infrastrutture idriche",
+    "valore": "2 miliardi di euro"
+   }
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Aumentare il tasso di sostituzione delle condotte idriche per ridurre le perdite della rete, oggi oltre il 40%",
+  "citazione": "È necessario aumentare il tasso di sostituzione",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Crisi idrica, 2",
+  "aree": [
+   "ambiente-animali",
+   "infrastrutture-trasporti"
+  ],
+  "sottotema": "Acqua pubblica",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "parametri": [
+   {
+    "cosa": "perdite attuali",
+    "valore": "oltre il 40%"
+   }
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Ridurre il numero degli operatori idrici e aumentarne le dimensioni tramite maggiore coordinamento regionale",
+  "citazione": "ridurre il numero di operatori e aumentare le dimensioni degli stessi",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Crisi idrica, 2",
+  "aree": [
+   "ambiente-animali",
+   "economia-imprese"
+  ],
+  "sottotema": "Acqua pubblica",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "parametri": [
+   {
+    "cosa": "operatori idrici oggi",
+    "valore": "circa 2.500"
+   }
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Promuovere un piano nazionale per il riuso delle acque di depurazione",
+  "citazione": "Promuovere un piano per il riuso delle acque di depurazione",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Crisi idrica, 3",
+  "aree": [
+   "ambiente-animali",
+   "agricoltura-pesca"
+  ],
+  "sottotema": "Acqua e irrigazione",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Prevedere il riuso delle acque grigie nelle nuove costruzioni edilizie",
+  "citazione": "Occorre stabilire che le nuove costruzioni edilizie prevedano il riuso delle acque grigie",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Crisi idrica, 3",
+  "aree": [
+   "ambiente-animali",
+   "casa"
+  ],
+  "sottotema": "Acqua e irrigazione",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Incentivare l'irrigazione di precisione e il controllo digitale a distanza dell'irrigazione",
+  "citazione": "Incentivare gli investimenti in sistemi di irrigazione che riducono gli sprechi d’acqua",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Crisi idrica, 4",
+  "aree": [
+   "agricoltura-pesca",
+   "ambiente-animali"
+  ],
+  "sottotema": "Acqua e irrigazione",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "destinatari": [
+   "imprese agricole"
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Realizzare un piano di investimenti per circa 70 nuovi impianti di trattamento rifiuti, inclusi termovalorizzatori, entro il 2035",
+  "citazione": "Autorevoli istituti di ricerca hanno stimato un fabbisogno di circa 70 nuovi impianti (es: termovalorizzatori, impianti di trattamento bio-meccanico, impianti di smaltimento, ecc..) da realizzare entro il 2035, per un valore di 10 miliardi di euro circa",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Economia circolare, 1",
+  "aree": [
+   "ambiente-animali"
+  ],
+  "sottotema": "Rifiuti ed economia circolare",
+  "concretezza": 4,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "parametri": [
+   {
+    "cosa": "impianti",
+    "valore": "circa 70 entro il 2035"
+   },
+   {
+    "cosa": "valore",
+    "valore": "circa 10 miliardi di euro"
+   }
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Applicare il programma nazionale per la gestione dei rifiuti approvato dal governo Draghi",
+  "citazione": "è necessario applicare le disposizioni del programma nazionale per la gestione dei rifiuti approvato dal Governo Draghi",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Economia circolare, 1",
+  "aree": [
+   "ambiente-animali"
+  ],
+  "sottotema": "Rifiuti ed economia circolare",
+  "concretezza": 2,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Introdurre un'etichetta ambientale sul modello Eco-Score con IVA ridotta sui prodotti con punteggi migliori",
+  "citazione": "Proponiamo una nuova etichetta che, seguendo il modello francese Eco-Score, indichi l’impatto ambientale dei prodotti in vendita",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Economia circolare, 2",
+  "aree": [
+   "ambiente-animali",
+   "economia-imprese",
+   "fisco"
+  ],
+  "sottotema": "Rifiuti ed economia circolare",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "destinatari": [
+   "consumatori"
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Rendere operativa su tutto il territorio nazionale la tariffazione puntuale della TARI",
+  "citazione": "rendere operativa su tutto il territorio nazionale l’applicazione della tariffazione puntuale della TARI",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Economia circolare, 3",
+  "aree": [
+   "ambiente-animali",
+   "fisco"
+  ],
+  "sottotema": "Rifiuti ed economia circolare",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Premiare i comuni che riducono la quota di rifiuti non inviati a riciclaggio, sul modello dell'Emilia-Romagna",
+  "citazione": "proponiamo di premiare i Comuni con le migliori performances in materia di riduzione e trattamento dei rifiuti",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Economia circolare, 4",
+  "aree": [
+   "ambiente-animali"
+  ],
+  "sottotema": "Rifiuti ed economia circolare",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Introdurre un salario minimo, con legge sulla rappresentanza, validità erga omnes dei contratti e un minimo di ultima istanza",
+  "citazione": "la validità erga omnes dei contratti, assicurando la massima copertura di ogni tipologia di lavoro residuale, e la fissazione di un minimo di ultima istanza",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Lavoro, 1",
+  "aree": [
+   "lavoro"
+  ],
+  "sottotema": "Salario minimo",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Approvare una legge sulla rappresentanza per rendere validi solo i contratti collettivi di organizzazioni rappresentative",
+  "citazione": "una legge sulla rappresentanza che combatta il fenomeno dei contratti-pirata e assicuri che siano validi solo i contratti collettivi firmati da organizzazioni realmente rappresentative",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Lavoro, 1",
+  "aree": [
+   "lavoro"
+  ],
+  "sottotema": "Contrattazione collettiva",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Detassare completamente i premi di produttività",
+  "citazione": "detassando completamente i premi",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Lavoro, 2",
+  "aree": [
+   "lavoro",
+   "fisco"
+  ],
+  "sottotema": "Produttività",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Rimborsare le imprese che organizzano con gli ITS corsi specialistici per le competenze richieste dal mercato",
+  "citazione": "Proponiamo un rimborso per tutte le imprese che, in coordinamento con il MISE, organizzino tramite gli ITS e altri enti di formazione, corsi specialistici",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Lavoro, 3",
+  "aree": [
+   "lavoro",
+   "istruzione-universita-ricerca"
+  ],
+  "sottotema": "Formazione professionale",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "destinatari": [
+   "imprese"
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Aumentare vigilanza e sanzioni contro false partite IVA, collaborazioni irregolari, falsi tirocini e appalti illeciti",
+  "citazione": "Sono queste le forme da combattere, aumentando vigilanza e sanzioni",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Lavoro, 4",
+  "aree": [
+   "lavoro"
+  ],
+  "sottotema": "Precarietà",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Accorpare e cancellare i mini contratti brevi e ripristinare i voucher",
+  "citazione": "bisogna accorpare e cancellare la miriade di “mini contratti” utilizzati per le forme di lavoro brevi, ripristinando i voucher",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Lavoro, 4",
+  "aree": [
+   "lavoro"
+  ],
+  "sottotema": "Precarietà",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Lanciare un piano straordinario per la semplificazione delle regole sul lavoro",
+  "citazione": "va lanciato un piano straordinario per la semplificazione, finalizzato a cancellare tutte le procedure e le regole inutili e inefficienti",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Lavoro, 5",
+  "aree": [
+   "lavoro",
+   "pubblica-amministrazione"
+  ],
+  "sottotema": "Semplificazione",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Togliere il Reddito di Cittadinanza dopo il primo rifiuto di un'offerta di lavoro congrua",
+  "citazione": "Proponiamo che il sussidio venga tolto dopo il primo rifiuto di un’offerta di lavoro congrua",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Lavoro, 6",
+  "aree": [
+   "welfare-inclusione",
+   "lavoro"
+  ],
+  "sottotema": "Reddito di cittadinanza",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Ridurre di almeno un terzo il Reddito di Cittadinanza dopo due anni e affidare il beneficiario ai servizi sociali",
+  "citazione": "dopodiché l’importo dell’assegno deve essere ridotto di almeno un terzo e il beneficiario deve essere preso in carico dai servizi sociali del Comune",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Lavoro, 6",
+  "aree": [
+   "welfare-inclusione",
+   "lavoro"
+  ],
+  "sottotema": "Reddito di cittadinanza",
+  "concretezza": 4,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "parametri": [
+   {
+    "cosa": "limite temporale",
+    "valore": "2 anni"
+   },
+   {
+    "cosa": "riduzione dell'assegno",
+    "valore": "almeno un terzo"
+   }
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Correggere le iniquità del Reddito di Cittadinanza a danno delle famiglie numerose e delle grandi aree urbane",
+  "citazione": "Adottare modifiche sostanziali che eliminino le iniquità esistenti nella struttura del sussidio (a danno delle famiglie numerose e a coloro che vivono nelle grandi aree urbane)",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Lavoro, 7",
+  "aree": [
+   "welfare-inclusione",
+   "famiglia-natalita"
+  ],
+  "sottotema": "Reddito di cittadinanza",
+  "concretezza": 2,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "destinatari": [
+   "famiglie"
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Consentire alle agenzie private per il lavoro di accedere ai dati dei percettori del reddito e svolgere colloqui mensili obbligatori",
+  "citazione": "è necessario consentire alle agenzie private per il lavoro di accedere ai dati dei percettori del reddito",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Lavoro, 8",
+  "aree": [
+   "lavoro",
+   "welfare-inclusione"
+  ],
+  "sottotema": "Politiche attive",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Prevedere corsi di formazione obbligatori per i percettori del sussidio, erogati da scuole di alta formazione e ITS",
+  "citazione": "bisogna prevedere corsi obbligatori da pianificare a livello nazionale sulla base del fabbisogno e dello skill mismatch",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Lavoro, 9",
+  "aree": [
+   "lavoro",
+   "welfare-inclusione",
+   "istruzione-universita-ricerca"
+  ],
+  "sottotema": "Politiche attive",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Semplificare l'attivazione dei progetti di pubblica utilità con il terzo settore e coprirne i costi",
+  "citazione": "È quindi necessario semplificare le procedure per l’attivazione di progetti da parte del terzo settore, prevedendo anche coperture di bilancio per le spese di strumentazione e di assicurazione dei percettori",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Lavoro, 10",
+  "aree": [
+   "welfare-inclusione",
+   "lavoro"
+  ],
+  "sottotema": "Terzo settore",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Equiparare l'iscrizione agli albi professionali a quella alla Camera di Commercio per l'accesso ai bandi",
+  "citazione": "equiparare, ai fini della partecipazione a bandi nazionali e regionali, l’iscrizione agli albi e agli ordini professionali da parte dei liberi professionisti all’iscrizione alla Camera di Commercio da parte delle imprese",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Lavoro, 11",
+  "aree": [
+   "lavoro",
+   "economia-imprese"
+  ],
+  "sottotema": "Lavoro autonomo",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "destinatari": [
+   "lavoratori autonomi"
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Eliminare il disincentivo fiscale alla costituzione di Società tra Professionisti",
+  "citazione": "Occorre intervenire su questo aspetto, eliminando il disincentivo fiscale",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Lavoro, 12",
+  "aree": [
+   "lavoro",
+   "fisco"
+  ],
+  "sottotema": "Lavoro autonomo",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "destinatari": [
+   "lavoratori autonomi"
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Completare la riforma dell'equo compenso delle prestazioni professionali",
+  "citazione": "Completare la riforma sull’equo compenso delle prestazioni professionali",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Lavoro, 13",
+  "aree": [
+   "lavoro"
+  ],
+  "sottotema": "Lavoro autonomo",
+  "concretezza": 2,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "destinatari": [
+   "lavoratori autonomi"
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Ridurre l'aliquota contributiva e allentare i requisiti dell'indennità straordinaria di continuità reddituale per gli autonomi",
+  "citazione": "partendo dalla riduzione dell’aliquota contributiva da versare all’INPS e dalla rimodulazione dei criteri di accesso",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Lavoro, 14",
+  "aree": [
+   "lavoro",
+   "welfare-inclusione",
+   "pensioni"
+  ],
+  "sottotema": "Lavoro autonomo",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "destinatari": [
+   "lavoratori autonomi"
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Permettere ai lavoratori autonomi di versare mensilmente le imposte dirette, spalmando gli acconti",
+  "citazione": "Occorre offrire ad un lavoratore autonomo la possibilità di mensilizzare il versamento delle imposte dirette",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Lavoro, 15",
+  "aree": [
+   "fisco",
+   "lavoro"
+  ],
+  "sottotema": "Lavoro autonomo",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "destinatari": [
+   "lavoratori autonomi"
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Introdurre nell'Irpef un minimo esente come maxi-deduzione",
+  "citazione": "introduzione di un minimo esente, inteso come maxi-deduzione corrispondente all’ammontare che viene giudicato essenziale per sopravvivere",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Fisco, 1",
+  "aree": [
+   "fisco"
+  ],
+  "sottotema": "Irpef",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Unificare la detrazione per lavoro autonomo e per lavoro dipendente",
+  "citazione": "unificazione tra la detrazione per lavoro autonomo e quella per lavoro dipendente",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Fisco, 1",
+  "aree": [
+   "fisco",
+   "lavoro"
+  ],
+  "sottotema": "Irpef",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Sostituire le detrazioni con un rimborso diretto per i pagamenti tracciabili",
+  "citazione": "spostando tutte le spese fiscali in un sistema a rimborso diretto: pagamenti con strumenti tracciabili",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Fisco, 1",
+  "aree": [
+   "fisco"
+  ],
+  "sottotema": "Irpef",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Semplificare la struttura delle aliquote Irpef",
+  "citazione": "semplificazione della struttura delle aliquote",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Fisco, 1",
+  "aree": [
+   "fisco"
+  ],
+  "sottotema": "Irpef",
+  "concretezza": 2,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Esentare totalmente i giovani fino a 25 anni dall'Irpef e ridurla del 50% fino a 29 anni",
+  "citazione": "detassazione specifica per i giovani: totale fino a 25 anni, ridotta del 50% fino a 29 anni",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Fisco, 1",
+  "aree": [
+   "fisco",
+   "lavoro"
+  ],
+  "sottotema": "Irpef",
+  "concretezza": 4,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "destinatari": [
+   "giovani"
+  ],
+  "parametri": [
+   {
+    "cosa": "esenzione totale",
+    "valore": "fino a 25 anni"
+   },
+   {
+    "cosa": "riduzione del 50%",
+    "valore": "fino a 29 anni"
+   }
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Introdurre una tassazione negativa che integri le retribuzioni sotto il minimo esente",
+  "citazione": "creazione della tassazione negativa, sul modello anglosassone",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Fisco, 1",
+  "aree": [
+   "fisco",
+   "welfare-inclusione",
+   "lavoro"
+  ],
+  "sottotema": "Imposta negativa",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Detassare nel 2022 una mensilità extra fino a 2.200 euro erogata dalle imprese",
+  "citazione": "detassazione straordinaria - per il solo 2022 – di una extra mensilità (fino a 2,200 euro)",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Fisco, 1",
+  "aree": [
+   "fisco",
+   "lavoro"
+  ],
+  "sottotema": "Irpef",
+  "concretezza": 4,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "parametri": [
+   {
+    "cosa": "importo massimo",
+    "valore": "2.200 euro"
+   },
+   {
+    "cosa": "anno",
+    "valore": "2022"
+   }
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Completare l'abolizione dell'IRAP per società di persone, enti non commerciali, STP e società di capitali",
+  "citazione": "Si necessita il completamento dell’abolizione per le altre categorie giuridiche",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Fisco, 2",
+  "aree": [
+   "fisco",
+   "economia-imprese"
+  ],
+  "sottotema": "IRAP",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Detassare completamente gli utili trattenuti in azienda e quelli destinati a schemi di partecipazione dei lavoratori",
+  "citazione": "detassazione completa per gli utili trattenuti in azienda e per quelli destinati a schemi di partecipazione da parte dei lavoratori",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Fisco, 3",
+  "aree": [
+   "fisco",
+   "economia-imprese",
+   "lavoro"
+  ],
+  "sottotema": "IRES",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Dimezzare per cinque anni le aliquote IRES in caso di fusioni tra imprese",
+  "citazione": "aliquote dimezzate per cinque anni in caso di fusioni tra imprese",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Fisco, 3",
+  "aree": [
+   "fisco",
+   "economia-imprese"
+  ],
+  "sottotema": "IRES",
+  "concretezza": 4,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "parametri": [
+   {
+    "cosa": "durata",
+    "valore": "cinque anni"
+   },
+   {
+    "cosa": "riduzione aliquote",
+    "valore": "50%"
+   }
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Passare a un sistema IVA a due aliquote, ridotta e ordinaria",
+  "citazione": "Passaggio ad un sistema a due aliquote (una ridotta e una ordinaria)",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Fisco, 4",
+  "aree": [
+   "fisco"
+  ],
+  "sottotema": "IVA",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Riformare la tassazione del risparmio unificando redditi da capitale e redditi diversi di natura finanziaria",
+  "citazione": "unificando le categorie “redditi da capitale” e “redditi diversi di natura finanziaria”, in modo da consentire le compensazioni fiscali",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Fisco, 5",
+  "aree": [
+   "fisco",
+   "economia-imprese"
+  ],
+  "sottotema": "Tassazione del risparmio",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Rafforzare i PIR per convogliare il risparmio verso l'economia reale",
+  "citazione": "rafforzamento dei Pir (ordinari e alternativi)",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Fisco, 5",
+  "aree": [
+   "fisco",
+   "economia-imprese"
+  ],
+  "sottotema": "Tassazione del risparmio",
+  "concretezza": 2,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Introdurre per chi supera i 65.000 euro di ricavi nel regime forfettario uno scivolo biennale di tassazione agevolata",
+  "citazione": "Proponiamo di realizzare, per chi supera questa soglia, uno scivolo biennale di tassazione agevolata che accompagni gradualmente l’ingresso alla tassazione ordinaria Irpef",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Fisco, 6",
+  "aree": [
+   "fisco",
+   "lavoro"
+  ],
+  "sottotema": "Regime forfettario",
+  "concretezza": 4,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "destinatari": [
+   "lavoratori autonomi"
+  ],
+  "parametri": [
+   {
+    "cosa": "soglia ricavi",
+    "valore": "65.000 euro"
+   },
+   {
+    "cosa": "durata dello scivolo",
+    "valore": "2 anni"
+   }
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Avviare una rivoluzione manageriale nella riscossione e nuove regole per il magazzino dei crediti fiscali",
+  "citazione": "Occorre far partire una “rivoluzione manageriale” nella riscossione",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Fisco, 7",
+  "aree": [
+   "fisco",
+   "pubblica-amministrazione"
+  ],
+  "sottotema": "Riscossione ed evasione",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "parametri": [
+   {
+    "cosa": "magazzino crediti fiscali",
+    "valore": "1100 miliardi"
+   }
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Raccogliere la normativa tributaria in testi unici aggiornati e tradotti in inglese",
+  "citazione": "Occorre raccogliere tutta la normativa tributaria in testi unici, periodicamente aggiornati e tradotti in inglese",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Fisco, 8",
+  "aree": [
+   "fisco",
+   "pubblica-amministrazione"
+  ],
+  "sottotema": "Semplificazione",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Assegnare a ogni livello di governo uno strumento fiscale esclusivo, con fondi perequativi su fabbisogni standard",
+  "citazione": "Ogni livello di governo deve avere uno strumento fiscale esclusivo, il cui gettito tratterrà integralmente",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Fisco, 9",
+  "aree": [
+   "fisco",
+   "istituzioni-riforme",
+   "mezzogiorno-territori"
+  ],
+  "sottotema": "Federalismo fiscale",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Portare a 2000 euro i fringe benefit aziendali, oggi 600",
+  "citazione": "Incremento a 2000 euro (rispetto agli attuali 600) dell’ammontare dei benefici (c.d. fringe benefits) concessi dalle aziende ai propri dipendenti",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Fisco, 10",
+  "aree": [
+   "fisco",
+   "lavoro",
+   "welfare-inclusione"
+  ],
+  "sottotema": "Welfare aziendale",
+  "concretezza": 4,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "parametri": [
+   {
+    "cosa": "tetto fringe benefit",
+    "valore": "da 600 a 2000 euro"
+   }
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Incentivare la previdenza complementare degli under 35 con matching pubblico e sistema EET",
+  "citazione": "Programma di incentivazione all’attivazione di piani di previdenza complementare per gli under 35 anche attraverso strategie di matching da parte del pubblico",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Fisco, 11",
+  "aree": [
+   "pensioni",
+   "fisco"
+  ],
+  "sottotema": "Previdenza complementare",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "destinatari": [
+   "giovani"
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Adottare il sistema EET per la previdenza complementare eliminando la tassazione annua del 20% in fase di maturazione",
+  "citazione": "va adottato il sistema EET per la fiscalità relativa alla previdenza complementare, eliminando la tassazione del 20% annuo durante la fase di maturazione",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Fisco, 11",
+  "aree": [
+   "pensioni",
+   "fisco"
+  ],
+  "sottotema": "Previdenza complementare",
+  "concretezza": 4,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "parametri": [
+   {
+    "cosa": "tassazione eliminata",
+    "valore": "20% annuo in fase di maturazione"
+   }
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Istituire un giudice tributario professionale e porre le commissioni tributarie sotto il Ministero della Giustizia",
+  "citazione": "Si necessita della riforma che istituisce un giudice tributario professionale e le nuove commissioni tributarie vanno poste sotto l’egida del Ministero della Giustizia",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Fisco, 12",
+  "aree": [
+   "giustizia",
+   "fisco"
+  ],
+  "sottotema": "Giustizia tributaria",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Approvare il ddl di iniziativa popolare delle Camere Penali sulla separazione delle carriere tra giudici e PM",
+  "citazione": "Approvazione del DDL di iniziativa popolare promosso dalle Camere Penali sulla separazione delle carriere tra giudici e PM",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Giustizia, 1",
+  "aree": [
+   "giustizia",
+   "istituzioni-riforme"
+  ],
+  "sottotema": "Separazione delle carriere",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Introdurre una valutazione di professionalità dei magistrati con rappresentanti di università e avvocatura nei consigli giudiziari",
+  "citazione": "previsione di un sistema di valutazione di professionalità dei magistrati effettivo e puntuale, anche da parte dei rappresentanti delle università e dell’avvocatura all’interno dei consigli giudiziari",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Giustizia, 1",
+  "aree": [
+   "giustizia"
+  ],
+  "sottotema": "Ordinamento giudiziario",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Rivedere la riforma del CSM per superare il sistema delle correnti",
+  "citazione": "revisione della riforma del CSM adottata nell’ultima legislatura, al fine di superare davvero il sistema delle correnti",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Giustizia, 1",
+  "aree": [
+   "giustizia",
+   "istituzioni-riforme"
+  ],
+  "sottotema": "CSM",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Potenziare l'organico dei magistrati, ridurre i fuori ruolo e riformare la magistratura onoraria",
+  "citazione": "Potenziamento dell’organico dei magistrati, netta riduzione del numero dei fuori ruolo, e ridefinizione del ruolo e delle figure professionali della magistratura onoraria",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Giustizia, 2",
+  "aree": [
+   "giustizia"
+  ],
+  "sottotema": "Organici e tempi",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Rafforzare l'organico amministrativo per smaltire l'arretrato giudiziario",
+  "citazione": "rafforzamento dell’organico amministrativo, per garantire lo smaltimento dell’arretrato",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Giustizia, 2",
+  "aree": [
+   "giustizia",
+   "pubblica-amministrazione"
+  ],
+  "sottotema": "Organici e tempi",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Creare un'unica piattaforma telematica per tutti i riti processuali",
+  "citazione": "creazione di un’unica piattaforma telematica per tutti i riti (attualmente ne esistono almeno 10 diverse)",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Giustizia, 2",
+  "aree": [
+   "giustizia",
+   "innovazione-digitale"
+  ],
+  "sottotema": "Digitalizzazione",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Richiedere formazione manageriale ai magistrati con incarichi direttivi",
+  "citazione": "introduzione di requisiti di formazione manageriale per i magistrati con incarichi direttivi",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Giustizia, 2",
+  "aree": [
+   "giustizia"
+  ],
+  "sottotema": "Ordinamento giudiziario",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Riformare la custodia cautelare per eliminare ogni possibile abuso",
+  "citazione": "Riforma della normativa sulla custodia cautelare, per eliminare ogni possibile abuso",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Giustizia, 3",
+  "aree": [
+   "giustizia",
+   "diritti-liberta"
+  ],
+  "sottotema": "Custodia cautelare",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Ripristinare la prescrizione sostanziale",
+  "citazione": "ripristino della prescrizione sostanziale",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Giustizia, 3",
+  "aree": [
+   "giustizia"
+  ],
+  "sottotema": "Prescrizione",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Rafforzare la presunzione di innocenza contro la spettacolarizzazione mediatica",
+  "citazione": "rafforzamento delle norme finalizzate a garantire l’effettiva applicazione del principio della presunzione di innocenza per contrastare la spettacolarizzazione mediatica",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Giustizia, 3",
+  "aree": [
+   "giustizia",
+   "informazione-media",
+   "diritti-liberta"
+  ],
+  "sottotema": "Presunzione di innocenza",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Ridurre i casi di appello del pubblico ministero contro le assoluzioni di primo grado",
+  "citazione": "introduzione di norme finalizzate a ridurre i casi di appello da parte del pubblico ministero della sentenza di assoluzione in primo grado",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Giustizia, 3",
+  "aree": [
+   "giustizia"
+  ],
+  "sottotema": "Processo penale",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Riformare il sistema penitenziario in linea con la finalità rieducativa della pena",
+  "citazione": "riforma del sistema penitenziario, per garantire il rispetto del principio della finalità rieducativa della pena",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Giustizia, 3",
+  "aree": [
+   "giustizia",
+   "sicurezza"
+  ],
+  "sottotema": "Carceri",
+  "concretezza": 2,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Riformare il processo civile di primo grado unificando i riti di cognizione",
+  "citazione": "Riforma complessiva del processo di primo grado, attribuendo al giudice maggiori poteri di impulso e direzione ed unificando i riti di cognizione",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Giustizia, 4",
+  "aree": [
+   "giustizia"
+  ],
+  "sottotema": "Processo civile",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ }
+]

@@ -1,0 +1,282 @@
+[
+ {
+  "partiti": [
+   "piu-europa"
+  ],
+  "sintesi": "Accelerare l'infrastrutturazione 5G nelle aree bianche e grigie ampliando gli operatori ammessi",
+  "citazione": "l’accelerazione dell’infrastrutturazione nelle aree bianche e grigie, oltreché rimodulando i bandi di gara",
+  "fonte": "piu-europa-programma-politiche-2022",
+  "punto": "Concorrenza 14",
+  "aree": [
+   "innovazione-digitale"
+  ],
+  "sottotema": "Banda ultralarga e 5G",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "piu-europa"
+  ],
+  "sintesi": "Programmare un'assunzione straordinaria per ringiovanire gli organici del SSN",
+  "citazione": "accelerazione alla copertura e al ringiovanimento degli organici tramite un programma straordinario di assunzioni",
+  "fonte": "piu-europa-programma-politiche-2022",
+  "punto": "Scienza e salute 20",
+  "aree": [
+   "sanita",
+   "lavoro"
+  ],
+  "sottotema": "Personale sanitario",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "destinatari": [
+   "operatori sanitari"
+  ]
+ },
+ {
+  "partiti": [
+   "piu-europa"
+  ],
+  "sintesi": "Finanziare il SSN in misura non inferiore alla media UE",
+  "citazione": "il finanziamento del SSN non inferiore alla media del finanziamento dei Sistemi Sanitari dell’UE",
+  "fonte": "piu-europa-programma-politiche-2022",
+  "punto": "Scienza e salute 23",
+  "aree": [
+   "sanita",
+   "conti-pubblici"
+  ],
+  "sottotema": "Finanziamento del SSN",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "piu-europa"
+  ],
+  "sintesi": "Riformare la legge 40 sulla PMA e consentire la ricerca su embrioni non idonei o soprannumerari",
+  "citazione": "una sostanziale riforma della Legge 40 del 2004, in materia di Procreazione Medicalmente Assistita",
+  "fonte": "piu-europa-programma-politiche-2022",
+  "punto": "Scienza e salute 24",
+  "aree": [
+   "diritti-liberta",
+   "sanita"
+  ],
+  "sottotema": "Procreazione assistita",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "piu-europa"
+  ],
+  "sintesi": "Consentire la diagnosi genetica preimpianto",
+  "citazione": "di introdurre le tecniche di analisi genetica preimpianto allo scopo di prevenire malattie ereditarie",
+  "fonte": "piu-europa-programma-politiche-2022",
+  "punto": "Scienza e salute 25",
+  "aree": [
+   "sanita",
+   "diritti-liberta"
+  ],
+  "sottotema": "Procreazione assistita",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "piu-europa"
+  ],
+  "sintesi": "Garantire l'accesso alla PMA alle donne single e alle coppie di donne",
+  "citazione": "accesso ai percorsi di PMA alle donne single e alle coppie di donne, anche non sposate",
+  "fonte": "piu-europa-programma-politiche-2022",
+  "punto": "Scienza e salute 26",
+  "aree": [
+   "diritti-liberta",
+   "sanita"
+  ],
+  "sottotema": "Procreazione assistita",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "destinatari": [
+   "donne"
+  ]
+ },
+ {
+  "partiti": [
+   "piu-europa"
+  ],
+  "sintesi": "Riformare la legge 135/90 sull'HIV/AIDS e potenziare le campagne sulle infezioni sessualmente trasmissibili",
+  "citazione": "di riformare la legge 135/90 sulla risposta all’HIV/AIDS a partire dalla Pdl 1972",
+  "fonte": "piu-europa-programma-politiche-2022",
+  "punto": "Scienza e salute 27",
+  "aree": [
+   "sanita",
+   "diritti-liberta"
+  ],
+  "sottotema": "Prevenzione",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "piu-europa"
+  ],
+  "sintesi": "Portare l'IVA sugli assorbenti al 4%",
+  "citazione": "di tagliare la cd “Tampon Tax” portando l’IVA al 4% su assorbenti",
+  "fonte": "piu-europa-programma-politiche-2022",
+  "punto": "Scienza e salute 28",
+  "aree": [
+   "fisco",
+   "diritti-liberta"
+  ],
+  "sottotema": "IVA",
+  "concretezza": 4,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "destinatari": [
+   "donne"
+  ],
+  "parametri": [
+   {
+    "cosa": "aliquota IVA sugli assorbenti",
+    "valore": "4%"
+   }
+  ]
+ },
+ {
+  "partiti": [
+   "piu-europa"
+  ],
+  "sintesi": "Limitare il trasporto di animali vivi nella UE per fini alimentari",
+  "citazione": "limitare il trasporto di animali vivi per ragioni legate alle produzioni alimentari nella UE",
+  "fonte": "piu-europa-programma-politiche-2022",
+  "punto": "Benessere animale 1",
+  "aree": [
+   "ambiente-animali",
+   "agricoltura-pesca"
+  ],
+  "sottotema": "Tutela degli animali",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "europeo"
+ },
+ {
+  "partiti": [
+   "piu-europa"
+  ],
+  "sintesi": "Ridurre la pesca intensiva e vietare sistemi di pesca non sostenibili come spadare e FAD",
+  "citazione": "ridurre la pesca intensiva, vigilare efficacemente sul divieto di utilizzo di sistemi di pesca non sostenibili come spadare e FAD",
+  "fonte": "piu-europa-programma-politiche-2022",
+  "punto": "Benessere animale 2",
+  "aree": [
+   "agricoltura-pesca",
+   "ambiente-animali"
+  ],
+  "sottotema": "Pesca",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "piu-europa"
+  ],
+  "sintesi": "Proteggere un terzo delle aree marine",
+  "citazione": "raggiungere la protezione di un terzo delle aree marine",
+  "fonte": "piu-europa-programma-politiche-2022",
+  "punto": "Benessere animale 3",
+  "aree": [
+   "ambiente-animali",
+   "agricoltura-pesca"
+  ],
+  "sottotema": "Parchi e biodiversità",
+  "concretezza": 4,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "parametri": [
+   {
+    "cosa": "quota di aree marine protette",
+    "valore": "un terzo"
+   }
+  ]
+ },
+ {
+  "partiti": [
+   "piu-europa"
+  ],
+  "sintesi": "Proibire il finning degli squali",
+  "citazione": "proibire il finning (asportazione delle pinne degli squali a fini alimentari",
+  "fonte": "piu-europa-programma-politiche-2022",
+  "punto": "Benessere animale 4",
+  "aree": [
+   "ambiente-animali",
+   "agricoltura-pesca"
+  ],
+  "sottotema": "Tutela degli animali",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "piu-europa"
+  ],
+  "sintesi": "Ridurre al 10% l'IVA su cure veterinarie e cibo per animali domestici",
+  "citazione": "ridurre al 10% l’Iva sui trattamenti sanitari e sul cibo per gli animali domestici",
+  "fonte": "piu-europa-programma-politiche-2022",
+  "punto": "Benessere animale 5",
+  "aree": [
+   "ambiente-animali",
+   "fisco"
+  ],
+  "sottotema": "Tutela degli animali",
+  "concretezza": 4,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "parametri": [
+   {
+    "cosa": "aliquota IVA",
+    "valore": "10%"
+   }
+  ]
+ },
+ {
+  "partiti": [
+   "piu-europa"
+  ],
+  "sintesi": "Contrastare il commercio di animali selvatici e le puppy farm",
+  "citazione": "contrastare il commercio di animali selvatici, che non devono essere tenuti in cattività",
+  "fonte": "piu-europa-programma-politiche-2022",
+  "punto": "Benessere animale 6",
+  "aree": [
+   "ambiente-animali"
+  ],
+  "sottotema": "Tutela degli animali",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "piu-europa"
+  ],
+  "sintesi": "Superare con la prospettiva del divieto l'uso degli animali negli spettacoli circensi",
+  "citazione": "superare, con la prospettiva del divieto, l’utilizzo degli animali negli spettacoli circensi",
+  "fonte": "piu-europa-programma-politiche-2022",
+  "punto": "Benessere animale 7",
+  "aree": [
+   "ambiente-animali",
+   "cultura-sport-turismo"
+  ],
+  "sottotema": "Tutela degli animali",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ }
+]

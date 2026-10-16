@@ -1,0 +1,1213 @@
+[
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Introdurre un assegno per la vita indipendente aggiuntivo all'accompagnamento per disabili non autosufficienti giovani",
+  "citazione": "che vada ad aggiungersi all’indennità di accompagnamento e che sia destinato specificamente a favorire l’autonomia, anche abitativa, delle persone con disabilità non autosufficienti di età più giovane",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Diritti, 3",
+  "aree": [
+   "welfare-inclusione"
+  ],
+  "sottotema": "Disabilità e caregiver",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "destinatari": [
+   "persone con disabilità"
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Dare attuazione a tutto il Family Act",
+  "citazione": "È necessario ora dare attuazione a tutto il Family Act",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Famiglie e natalità",
+  "aree": [
+   "famiglia-natalita"
+  ],
+  "sottotema": "Family Act",
+  "concretezza": 2,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "destinatari": [
+   "famiglie"
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Potenziare l'Assegno Unico con maggiorazione per il secondo percettore e revisione dell'ISEE",
+  "citazione": "potenziamento dell’Assegno Unico e Universale con aumento della maggiorazione in caso di secondo percettore di reddito e revisione dell’ISEE",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Famiglie e natalità",
+  "aree": [
+   "famiglia-natalita",
+   "welfare-inclusione"
+  ],
+  "sottotema": "Assegno unico",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "destinatari": [
+   "famiglie"
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Attuare l'assegno di rimborso delle spese educative, anche per scuole paritarie, sport e centri estivi",
+  "citazione": "assegno di rimborso delle spese educative (rette relative alla frequenza dei servizi educativi per l’infanzia e delle scuole, anche paritarie; di attività sportive e culturali, dei centri estivi e di altre attività di educazione non formale)",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Famiglie e natalità",
+  "aree": [
+   "famiglia-natalita",
+   "istruzione-universita-ricerca"
+  ],
+  "sottotema": "Family Act",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "destinatari": [
+   "famiglie"
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Rendere gratuito il nido per ISEE sotto 25.000 euro e con sussidio decrescente fino a 40.000",
+  "citazione": "proponiamo di rendere il nido gratuito per i nuclei con ISEE inferiore a 25.000 euro, garantendo un sussidio decrescente alle famiglie con ISEE tra i 25.000 e 40.000 euro",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Famiglie e natalità",
+  "aree": [
+   "famiglia-natalita",
+   "istruzione-universita-ricerca"
+  ],
+  "sottotema": "Asili nido",
+  "concretezza": 4,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "destinatari": [
+   "famiglie"
+  ],
+  "parametri": [
+   {
+    "cosa": "nido gratuito",
+    "valore": "ISEE sotto 25.000 euro"
+   },
+   {
+    "cosa": "sussidio decrescente",
+    "valore": "ISEE tra 25.000 e 40.000 euro"
+   }
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Introdurre un assegno di rimborso per baby-sitter, badanti ed educatori",
+  "citazione": "assegno di rimborso per i costi sostenuti per servizi di cura di figli piccoli (baby-sitter), genitori anziani (badanti) o persone con disabilità (educatori)",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Famiglie e natalità",
+  "aree": [
+   "famiglia-natalita",
+   "welfare-inclusione"
+  ],
+  "sottotema": "Servizi di cura",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "destinatari": [
+   "famiglie"
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Rendere strutturale il contributo agli enti locali per i centri estivi",
+  "citazione": "rendere strutturale il contributo agli enti locali per la realizzazione dei centri estivi, con il coinvolgimento del Terzo settore",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Famiglie e natalità",
+  "aree": [
+   "famiglia-natalita",
+   "welfare-inclusione"
+  ],
+  "sottotema": "Servizi per l'infanzia",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "destinatari": [
+   "famiglie"
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Spendere per gli under 35 almeno un euro per ogni euro speso per gli over 65",
+  "citazione": "ogni euro speso per la fascia over 65 deve essere accompagnato da almeno un euro speso per la fascia under 35",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Giovani",
+  "aree": [
+   "conti-pubblici",
+   "welfare-inclusione",
+   "pensioni"
+  ],
+  "sottotema": "Equità generazionale",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "destinatari": [
+   "giovani"
+  ],
+  "parametri": [
+   {
+    "cosa": "rapporto spesa under 35 / over 65",
+    "valore": "almeno 1 a 1"
+   }
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Introdurre nei Centri per l'Impiego un servizio di assistenza all'autoimpiego e all'imprenditoria giovanile con fondi PNRR",
+  "citazione": "per introdurre nei CPI un servizio di “assistenza all’autoimpiego e all’imprenditoria giovanile” per giovani under 35 che desiderano avviare un’impresa",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Giovani, 1",
+  "aree": [
+   "economia-imprese",
+   "lavoro"
+  ],
+  "sottotema": "Startup",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "destinatari": [
+   "giovani"
+  ],
+  "parametri": [
+   {
+    "cosa": "fondi PNRR CPI non allocati da usare",
+    "valore": "parte dei 200 milioni di euro"
+   }
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Rafforzare i servizi di orientamento per la transizione tra formazione e lavoro",
+  "citazione": "è necessario rafforzare i servizi di orientamento e l’attivazione di reti orizzontali e verticali tra istituzioni scolastiche/universitarie e imprese",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Giovani, 2",
+  "aree": [
+   "lavoro",
+   "istruzione-universita-ricerca"
+  ],
+  "sottotema": "Orientamento",
+  "concretezza": 2,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "destinatari": [
+   "giovani"
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Riformare Garanzia Giovani anticipando parte delle erogazioni ai giovani di famiglie svantaggiate",
+  "citazione": "Prevediamo l’anticipo di parte delle erogazioni per evitare problemi di liquidità ai giovani di famiglie più svantaggiate",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Giovani, 3",
+  "aree": [
+   "lavoro"
+  ],
+  "sottotema": "Garanzia Giovani",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "destinatari": [
+   "giovani"
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Regolare i tirocini curriculari e prevedere rimborsi spese e indennità minime per tirocini e praticantati",
+  "citazione": "introdurre misure affinché siano attribuiti rimborsi spese e indennità minime per praticantati e tirocini, al fine di scongiurare forme di sfruttamento",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Giovani, 4-5",
+  "aree": [
+   "lavoro"
+  ],
+  "sottotema": "Tirocini",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "destinatari": [
+   "giovani"
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Estendere le lauree abilitanti e professionalizzanti",
+  "citazione": "Estendere l’istituto delle lauree abilitanti e professionalizzanti",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Giovani, 5",
+  "aree": [
+   "istruzione-universita-ricerca",
+   "lavoro"
+  ],
+  "sottotema": "Accesso alle professioni",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "destinatari": [
+   "giovani"
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Rendere obbligatorio l'insegnamento dell'educazione finanziaria",
+  "citazione": "proponiamo di rendere obbligatorio l’insegnamento dell’educazione finanziaria",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Giovani, 6",
+  "aree": [
+   "istruzione-universita-ricerca"
+  ],
+  "sottotema": "Educazione finanziaria",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Promuovere un piano nazionale per le competenze digitali dei giovani dalla scuola primaria",
+  "citazione": "sono necessari investimenti adeguati per promuovere un progetto strategico nazionale alla formazione e allo sviluppo delle competenze digitali dei giovani",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Giovani, 7",
+  "aree": [
+   "innovazione-digitale",
+   "istruzione-universita-ricerca"
+  ],
+  "sottotema": "Competenze digitali",
+  "concretezza": 2,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "destinatari": [
+   "giovani"
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Istituire presso la Presidenza del Consiglio un Dipartimento per la Terza Età",
+  "citazione": "Istituire presso la Presidenza del Consiglio dei Ministri il “Dipartimento per la Terza Età”",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Anziani, 1",
+  "aree": [
+   "welfare-inclusione",
+   "pubblica-amministrazione"
+  ],
+  "sottotema": "Politiche per gli anziani",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "destinatari": [
+   "anziani"
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Istituire un Garante nazionale dei diritti della terza età con controllo diretto delle RSA",
+  "citazione": "Istituire un Garante nazionale dell'anziano che dovrà essere scelto tra persone con comprovate competenze",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Anziani, 2",
+  "aree": [
+   "welfare-inclusione",
+   "sanita"
+  ],
+  "sottotema": "Politiche per gli anziani",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "destinatari": [
+   "anziani"
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Definire linee guida nazionali per i centri sociali per anziani",
+  "citazione": "È necessario definire linee guida nazionali per fornire indicazioni sul funzionamento e la gestione dei centri anziani",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Anziani, 3",
+  "aree": [
+   "welfare-inclusione"
+  ],
+  "sottotema": "Politiche per gli anziani",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "destinatari": [
+   "anziani"
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Offrire screening psicologici e sanitari periodici nei centri anziani",
+  "citazione": "mediante visite/screening periodiche fatte presso i centri per anziani da personale specializzato",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Anziani, 4",
+  "aree": [
+   "sanita",
+   "welfare-inclusione"
+  ],
+  "sottotema": "Prevenzione",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "destinatari": [
+   "anziani"
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Rendere i soggetti della catena dei subappalti responsabili in solido per i mancati versamenti e ispezionare le cooperative entro un mese dall'iscrizione",
+  "citazione": "rendendo tutti i soggetti coinvolti nella catena dei subappalti responsabili in solido per i mancati versamenti",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Terzo settore, 1",
+  "aree": [
+   "welfare-inclusione",
+   "lavoro",
+   "giustizia"
+  ],
+  "sottotema": "Cooperative e frodi",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Coordinare le riforme del Terzo Settore e dello sport e ottenere il via libera UE alle misure fiscali",
+  "citazione": "È di fondamentale importanza coordinare le norme e favorire un dialogo tra i due diversi registri (Terzo Settore e sport)",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Terzo settore, 2",
+  "aree": [
+   "welfare-inclusione",
+   "cultura-sport-turismo"
+  ],
+  "sottotema": "Terzo settore",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Estendere ai volontari gli incentivi della protezione civile, inclusi permessi retribuiti per formazione",
+  "citazione": "si propone di estendere i medesimi incentivi previsti attualmente per la protezione civile, consentendo così ai volontari di accedere a permessi retribuiti",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Terzo settore, 3",
+  "aree": [
+   "welfare-inclusione",
+   "lavoro"
+  ],
+  "sottotema": "Volontariato",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Potenziare e stabilizzare istruzione e inserimento lavorativo dei detenuti per ridurre la recidiva",
+  "citazione": "Potenziare e stabilizzare le attività educative, di istruzione di base, tecnica e professionale, e l’inserimento lavorativo per diminuire la recidiva",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Terzo settore, 4",
+  "aree": [
+   "giustizia",
+   "welfare-inclusione",
+   "lavoro"
+  ],
+  "sottotema": "Carceri",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Stanziare nuove risorse per i contratti PA e approvare i rinnovi in tre mesi",
+  "citazione": "Occorre, dunque, stanziare subito nuove risorse per i prossimi contratti e semplificare l’iter per la loro approvazione: devono bastare tre mesi",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "PA, 1",
+  "aree": [
+   "pubblica-amministrazione",
+   "lavoro"
+  ],
+  "sottotema": "Contratti pubblici",
+  "concretezza": 4,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "parametri": [
+   {
+    "cosa": "tempo massimo per approvare i rinnovi",
+    "valore": "tre mesi"
+   }
+  ],
+  "destinatari": [
+   "dipendenti pubblici"
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Eliminare i tetti al salario accessorio nella PA per premiare la produttività",
+  "citazione": "eliminare i tetti al salario accessorio per premiare la produttività",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "PA, 2",
+  "aree": [
+   "pubblica-amministrazione",
+   "lavoro"
+  ],
+  "sottotema": "Merito e retribuzioni",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "destinatari": [
+   "dipendenti pubblici"
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Esentare dal rinnovo il contrassegno disabili per le invalidità stabilizzate e semplificare le procedure per anziani e disabili",
+  "citazione": "l’esenzione dal rinnovo del Contrassegno disabili per le invalidità stabilizzate",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "PA, 3",
+  "aree": [
+   "pubblica-amministrazione",
+   "welfare-inclusione"
+  ],
+  "sottotema": "Semplificazione",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "destinatari": [
+   "anziani",
+   "persone con disabilità"
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Istituire uno sportello unico digitale SUAPE unificando SUAP e SUE",
+  "citazione": "rimodulare le attività degli sportelli SUAP e SUE al fine di offrire ai cittadini un’interfaccia unica per tutti i servizi (il cosiddetto SUAPE)",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "PA, 3",
+  "aree": [
+   "pubblica-amministrazione",
+   "innovazione-digitale"
+  ],
+  "sottotema": "Semplificazione",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Digitalizzare la raccolta firme per referendum e la presentazione delle liste elettorali",
+  "citazione": "è fondamentale digitalizzare i processi di raccolta firme per referendum e presentazione di liste elettorali nonché i processi di consultazione pubblica",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "PA, 4",
+  "aree": [
+   "istituzioni-riforme",
+   "innovazione-digitale"
+  ],
+  "sottotema": "Partecipazione",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Trasformare le prefetture nel centro unico dello Stato sul territorio",
+  "citazione": "Vogliamo trasformare le nostre prefetture in centro unico dello Stato sul territorio",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "PA, 6",
+  "aree": [
+   "pubblica-amministrazione",
+   "istituzioni-riforme"
+  ],
+  "sottotema": "Organizzazione dello Stato",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Consentire ai dirigenti pubblici esperienze nel settore privato e viceversa",
+  "citazione": "la possibilità per i dirigenti pubblici di compiere anche esperienze nel settore privato e viceversa",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "PA, 7",
+  "aree": [
+   "pubblica-amministrazione"
+  ],
+  "sottotema": "Dirigenza pubblica",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Portare a 750 milioni l'anno il fondo per le spese di progettazione dei comuni per il PNRR",
+  "citazione": "Proponiamo di portare l’attuale fondo ad un totale di 750 milioni di euro ogni anno per tutta la durata del PNRR",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "PNRR, 1",
+  "aree": [
+   "conti-pubblici",
+   "pubblica-amministrazione",
+   "mezzogiorno-territori"
+  ],
+  "sottotema": "PNRR",
+  "concretezza": 4,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "parametri": [
+   {
+    "cosa": "fondo progettazione comuni",
+    "valore": "750 milioni di euro l'anno (oggi 161 milioni)"
+   }
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Consentire ai comuni assunzioni a tempo determinato oltre la soglia del 5% e RUP esterni fino al 2026 per progetti PNRR",
+  "citazione": "bisogna consentire ai comuni di assumere funzionari e dirigenti a tempo determinato (con potere di firma) in misura ulteriore rispetto alla soglia legale del 5%, fino al 2026",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "PNRR, 2",
+  "aree": [
+   "conti-pubblici",
+   "pubblica-amministrazione"
+  ],
+  "sottotema": "PNRR",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Escludere gli incentivi dei progetti PNRR dal limite del 50% della retribuzione annua dei dipendenti pubblici",
+  "citazione": "proponiamo di non conteggiare gli incentivi derivanti da progetti finanziati dal PNRR per il raggiungimento della soglia del 50%",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "PNRR, 3",
+  "aree": [
+   "conti-pubblici",
+   "pubblica-amministrazione"
+  ],
+  "sottotema": "PNRR",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Obbligare i comuni non capoluogo ad affidare le gare PNRR a soggetti aggregatori regionali",
+  "citazione": "Proponiamo quindi che i comuni non capoluogo di provincia siano obbligati ad affidare la gestione delle gare di appalto ad uno dei soggetti aggregatori regionali",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "PNRR, 4",
+  "aree": [
+   "conti-pubblici",
+   "pubblica-amministrazione"
+  ],
+  "sottotema": "PNRR",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Completare Brescia-Padova, Terzo Valico, Torino-Lione, Salerno-Reggio Calabria e Napoli-Bari",
+  "citazione": "Riteniamo necessario completare le seguenti opere: Brescia-Padova, il Terzo Valico, la Torino-Lione, la Salerno-Reggio Calabria e la Napoli-Bari",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Trasporti, 1",
+  "aree": [
+   "infrastrutture-trasporti"
+  ],
+  "sottotema": "Alta velocità ferroviaria",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Ampliare il Sistema Controllo Marcia Treno e fissare un tetto di età per gli addetti alla sicurezza sui treni",
+  "citazione": "ampliando l’utilizzo del cd. “Sistema Controllo Marcia Treno”, formando personale qualificato per le attività di sicurezza sui treni e fissando un tetto massimo di età per gli addetti",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Trasporti, 2",
+  "aree": [
+   "infrastrutture-trasporti",
+   "sicurezza"
+  ],
+  "sottotema": "Sicurezza ferroviaria",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Integrare porti e interporti e creare autoporti urbani per lo scambio intermodale",
+  "citazione": "Occorre integrare il sistema dei porti con gli interporti nell’entroterra, sviluppare il sistema degli autoporti con una rete di piattaforme logistiche",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Trasporti, 3",
+  "aree": [
+   "infrastrutture-trasporti"
+  ],
+  "sottotema": "Trasporto merci",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Introdurre un Documento unico delle manutenzioni nazionali delle grandi opere e un Documento Finanziario dell'Infrastruttura",
+  "citazione": "Occorre introdurre il “Documento Finanziario dell’Infrastruttura” e il “Documento unico delle manutenzioni nazionali delle grandi opere”",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Trasporti, 4",
+  "aree": [
+   "infrastrutture-trasporti"
+  ],
+  "sottotema": "Manutenzione infrastrutture",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Rilanciare la Conferenza Nazionale Porti e rivedere numero e funzioni delle Autorità di sistema portuale con una cabina di regia",
+  "citazione": "rivedendo ruolo, funzioni e numero delle Autorità di sistema portuale, creando una cabina di regia con il compito di coordinarle",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Trasporti, 5",
+  "aree": [
+   "infrastrutture-trasporti"
+  ],
+  "sottotema": "Porti",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Predisporre un piano nazionale di resilienza al cambiamento climatico in mare e completare la pianificazione dello spazio marittimo",
+  "citazione": "predisporre un piano nazionale di resilienza al cambiamento climatico in mare",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Trasporti, 6",
+  "aree": [
+   "ambiente-animali",
+   "infrastrutture-trasporti",
+   "agricoltura-pesca"
+  ],
+  "sottotema": "Economia del mare",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Implementare lo Sportello Unico Doganale dei Controlli e colmare la carenza di circa 3.500 unità nelle dogane",
+  "citazione": "assicurando l’implementazione dello Sportello Unico Doganale dei Controlli e colmando il fabbisogno di personale dell’agenzia delle dogane",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Trasporti, 7",
+  "aree": [
+   "infrastrutture-trasporti",
+   "pubblica-amministrazione"
+  ],
+  "sottotema": "Porti",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "parametri": [
+   {
+    "cosa": "carenza di personale doganale a fine 2021",
+    "valore": "circa 3.500 unità"
+   }
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Completare le opere di ultimo miglio nei porti di Trieste, Venezia, Civitavecchia, Napoli, Salerno e Ancona entro il 2025",
+  "citazione": "Occorre assicurare il completamento delle opere nei porti di Trieste, Venezia, Civitavecchia, Napoli, Salerno e Ancona entro il 2025, come previsto dal PNRR",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Trasporti, 7",
+  "aree": [
+   "infrastrutture-trasporti"
+  ],
+  "sottotema": "Porti",
+  "concretezza": 4,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "parametri": [
+   {
+    "cosa": "scadenza",
+    "valore": "2025"
+   },
+   {
+    "cosa": "Fondo Complementare per ultimo miglio",
+    "valore": "250 milioni di euro"
+   }
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Continuare a investire nelle reti ad altissima capacità e nella copertura 5G, adeguando le soglie di emissività",
+  "citazione": "Continuare a investire nella copertura delle reti ad altissima capacità (compresa la fibra fino all'utente) e alla copertura 5G",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Innovazione, 1",
+  "aree": [
+   "innovazione-digitale"
+  ],
+  "sottotema": "Banda ultralarga e 5G",
+  "concretezza": 2,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Completare in tempi brevi la digitalizzazione del catasto e incentivare gli smart buildings con leve fiscali",
+  "citazione": "Per fare questo serve completare in tempi brevi la digitalizzazione del catasto, anche con tecnologie satellitari",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Innovazione, 1",
+  "aree": [
+   "innovazione-digitale",
+   "casa",
+   "fisco"
+  ],
+  "sottotema": "Catasto",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Istituire un fondo pubblico/privato per le tecnologie deep tech sul modello DARPA",
+  "citazione": "Si intende istituire un fondo pubblico/privato per le tecnologie deep tech, incluse le Digital Ledger Technologies",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Innovazione, 2",
+  "aree": [
+   "innovazione-digitale",
+   "economia-imprese"
+  ],
+  "sottotema": "Tecnologie emergenti",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Istituire un'unità dedicata all'intelligenza artificiale nel Ministero per l'Innovazione tecnologica",
+  "citazione": "è necessaria un’unità dedicata nel Ministero per l’Innovazione tecnologica oltre al coordinamento interministeriale previsto dalla strategia",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Innovazione, 2",
+  "aree": [
+   "innovazione-digitale",
+   "pubblica-amministrazione"
+  ],
+  "sottotema": "Intelligenza artificiale",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Introdurre una sandbox normativa per le startup ed eliminare le gabelle sulla costituzione delle società",
+  "citazione": "Prevediamo una sandbox normativa che permetta l’incontro agile tra startup e mercato e l’eliminazione di tutte le gabelle relative alla costituzione o al mantenimento della società",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Innovazione, 3",
+  "aree": [
+   "economia-imprese",
+   "innovazione-digitale"
+  ],
+  "sottotema": "Startup",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "destinatari": [
+   "imprese"
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Eliminare la tassazione del capital gain sugli investimenti in startup e venture capital",
+  "citazione": "Proponiamo di eliminare del tutto la tassazione del capital gain sugli investimenti in startup e venture capital",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Innovazione, 4",
+  "aree": [
+   "economia-imprese",
+   "fisco"
+  ],
+  "sottotema": "Startup",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Portare al 50% il credito d'imposta per gli investimenti in innovazione, con maggiorazione se coinvolti centri di ricerca",
+  "citazione": "Riteniamo inoltre necessario innalzare l’aliquota del credito d’imposta per le imprese che effettuano investimenti in innovazione al 50%",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Innovazione, 4",
+  "aree": [
+   "economia-imprese",
+   "fisco",
+   "innovazione-digitale"
+  ],
+  "sottotema": "Startup",
+  "concretezza": 4,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "parametri": [
+   {
+    "cosa": "aliquota del credito d'imposta",
+    "valore": "50%"
+   }
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Revisionare la governance dell'Agenzia Spaziale Italiana e adottare un testo normativo unitario sulla space economy",
+  "citazione": "oltre alla revisione della governance dell’Agenzia Spaziale Italiana e l’adozione di un testo normativo unitario",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Innovazione, 5",
+  "aree": [
+   "innovazione-digitale",
+   "economia-imprese"
+  ],
+  "sottotema": "Space economy",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Organizzare cicli di formazione continua per imprenditori e manodopera agricola con credito d'imposta e decontribuzione",
+  "citazione": "promuovendo lo strumento del credito di imposta e della decontribuzione per l’accesso a percorsi specialistici",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Agricoltura, 1",
+  "aree": [
+   "agricoltura-pesca",
+   "lavoro"
+  ],
+  "sottotema": "Filiere e agroalimentare",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "destinatari": [
+   "imprese agricole"
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Prorogare i permessi di soggiorno dei lavoratori extracomunitari in agricoltura e regolarizzare chi ha un lavoro",
+  "citazione": "una proroga di tutti i permessi di soggiorno dei lavoratori extracomunitari attualmente impiegati nel settore agricolo; la regolarizzazione dei lavoratori extracomunitari che attualmente hanno un lavoro",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Agricoltura, 2",
+  "aree": [
+   "agricoltura-pesca",
+   "immigrazione-cittadinanza",
+   "lavoro"
+  ],
+  "sottotema": "Manodopera agricola",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Ripristinare il sistema dei voucher per le prestazioni occasionali in agricoltura",
+  "citazione": "proponiamo di ripristinare il sistema dei voucher",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Agricoltura, 2",
+  "aree": [
+   "agricoltura-pesca",
+   "lavoro"
+  ],
+  "sottotema": "Manodopera agricola",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Potenziare le garanzie statali per il credito agricolo e introdurre un iper-ammortamento per l'efficientamento idrico",
+  "citazione": "Potenziamento delle garanzie statali a copertura delle richieste di credito effettuate dagli imprenditori agricoli e della pesca",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Agricoltura, 3",
+  "aree": [
+   "agricoltura-pesca",
+   "economia-imprese"
+  ],
+  "sottotema": "Reddito agricolo e PAC",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "destinatari": [
+   "imprese agricole"
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Introdurre un credito d'imposta cedibile per l'acquisto di fertilizzanti e mezzi tecnici di produzione",
+  "citazione": "un contributo per l’acquisto di fertilizzanti e dei mezzi tecnici di produzione sotto forma di credito d’imposta che potrà essere ceduto agli intermediari finanziari",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Agricoltura, 3",
+  "aree": [
+   "agricoltura-pesca",
+   "fisco"
+  ],
+  "sottotema": "Reddito agricolo e PAC",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "destinatari": [
+   "imprese agricole"
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Consentire alle imprese agricole di vendere le eccedenze energetiche come reddito agricolo",
+  "citazione": "Proponiamo di consentire alle imprese agricole di vendere temporaneamente le eccedenze energetiche prodotte dagli impianti per l’autoconsumo",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Agricoltura, 4",
+  "aree": [
+   "agricoltura-pesca",
+   "energia"
+  ],
+  "sottotema": "Rinnovabili",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "destinatari": [
+   "imprese agricole"
+  ]
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Favorire il fotovoltaico su tetti rurali, territori marginali e sistemi agri-voltaici",
+  "citazione": "l’installazione e l’utilizzo di sistemi fotovoltaici dovrà essere favorita sui tetti dei fabbricati rurali",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Agricoltura, 4",
+  "aree": [
+   "agricoltura-pesca",
+   "energia",
+   "ambiente-animali"
+  ],
+  "sottotema": "Consumo di suolo agricolo",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Potenziare e stabilizzare il fondo aiuti alimentari",
+  "citazione": "Potenziare e stabilizzare le risorse del fondo aiuti alimentari",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Agricoltura, 5",
+  "aree": [
+   "agricoltura-pesca",
+   "welfare-inclusione"
+  ],
+  "sottotema": "Aiuti alimentari",
+  "concretezza": 2,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Approvare il decreto legge concordato con le Regioni di modifica della legge 157 sulla fauna selvatica",
+  "citazione": "Serve l’approvazione immediata del decreto legge concordato con le Regioni a modifica della legge 157",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Agricoltura, 6",
+  "aree": [
+   "agricoltura-pesca",
+   "ambiente-animali"
+  ],
+  "sottotema": "Fauna selvatica e caccia",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "azione",
+   "iv"
+  ],
+  "sintesi": "Contrastare la peste suina africana con strumenti normativi urgenti e risorse al commissario straordinario",
+  "citazione": "contrastare, con speciali ed urgenti strumenti normativi e risorse a disposizione del commissario straordinario, la diffusione della peste suina africana",
+  "fonte": "azione-terzo-polo-programma-2022",
+  "punto": "Agricoltura, 6",
+  "aree": [
+   "agricoltura-pesca",
+   "sanita"
+  ],
+  "sottotema": "Fauna selvatica e caccia",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale"
+ }
+]
