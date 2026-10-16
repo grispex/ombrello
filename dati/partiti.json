@@ -1,0 +1,48 @@
+{
+  "versione": "0.1-provvisoria",
+  "data": "2026-10-16",
+  "stato": "Censimento ricostruito da risultati di ricerca, senza accesso diretto ai siti di Camera e Senato. Da verificare sulle pagine ufficiali prima di qualunque pubblicazione.",
+  "criterio": "Ogni partito con almeno un parlamentare in carica, contato singolarmente anche se eletto in liste comuni o federato. Esclusi parlamentari senza partito e senatori a vita.",
+  "gruppi_camera": {
+    "fonte": "https://www.camera.it/leg19/46",
+    "nota": "Numeri riportati dalla pagina ufficiale tramite ricerca; la pagina segnala che possono non essere definitivi.",
+    "FdI": 117, "PD-IDP": 68, "Lega": 56, "FI-PPE": 52, "M5S": 48,
+    "AVS": 10, "Azione-Popolari Europeisti Riformatori-Renew Europe": 10,
+    "Noi Moderati-MAIE-Centro Popolare": 8, "Italia Viva-Casa Riformista": 7,
+    "Misto": { "Futuro Nazionale Vannacci": 9, "Minoranze linguistiche": 4, "+Europa-Stati Uniti d'Europa": 3, "Sud Chiama Nord": 3, "non iscritti a componenti": 4 }
+  },
+  "gruppi_senato": {
+    "fonti": ["https://www.senato.it/composizione/gruppi-parlamentari/riepilogo-della-composizione", "https://www.senato.it/composizione/gruppi-parlamentari/variazioni-nella-composizione-dei-gruppi-del-senato-nella-xix"],
+    "nota": "Fonti non allineate su alcuni numeri (M5S 25 o 26, Misto 8 o 9). Numeri dei gruppi minori non disponibili.",
+    "FdI": 63, "PD-IDP": 36, "Lega": 29, "M5S": 26, "FI-BP-PPE": 20,
+    "altri_gruppi": ["Civici d'Italia-UDC-Noi Moderati (Noi con l'Italia, Coraggio Italia, Italia al Centro)-MAIE-Centro Popolare", "Per le Autonomie (SVP-Patt, Campobase, Sud Chiama Nord)", "Italia Viva-Casa Riformista", "Misto"]
+  },
+  "partiti": [
+    { "id": "fdi", "nome": "Fratelli d'Italia", "sigla": "FdI", "camera": "gruppo FdI", "senato": "gruppo FdI", "collocazione": "maggioranza", "verificato": false },
+    { "id": "pd", "nome": "Partito Democratico", "sigla": "PD", "camera": "gruppo PD-IDP", "senato": "gruppo PD-IDP", "collocazione": "opposizione", "verificato": false },
+    { "id": "lega", "nome": "Lega per Salvini Premier", "sigla": "Lega", "camera": "gruppo Lega", "senato": "gruppo Lega", "collocazione": "maggioranza", "verificato": false },
+    { "id": "fi", "nome": "Forza Italia", "sigla": "FI", "camera": "gruppo FI-PPE", "senato": "gruppo FI-BP-PPE", "collocazione": "maggioranza", "verificato": false },
+    { "id": "m5s", "nome": "Movimento 5 Stelle", "sigla": "M5S", "camera": "gruppo M5S", "senato": "gruppo M5S", "collocazione": "opposizione", "verificato": false },
+    { "id": "fn", "nome": "Futuro Nazionale", "sigla": "FN", "camera": "Misto, componente Futuro Nazionale Vannacci", "senato": "nessun senatore confermato", "collocazione": "da definire", "nota": "Fondato a febbraio 2026 da Roberto Vannacci dopo l'uscita dalla Lega.", "verificato": false },
+    { "id": "ev", "nome": "Europa Verde", "sigla": "EV", "camera": "gruppo AVS", "senato": "da verificare", "collocazione": "opposizione", "verificato": false },
+    { "id": "si", "nome": "Sinistra Italiana", "sigla": "SI", "camera": "gruppo AVS", "senato": "da verificare", "collocazione": "opposizione", "verificato": false },
+    { "id": "azione", "nome": "Azione", "sigla": "Az", "camera": "gruppo Azione-PER-Renew Europe", "senato": "da verificare", "collocazione": "opposizione", "verificato": false },
+    { "id": "iv", "nome": "Italia Viva", "sigla": "IV", "camera": "gruppo Italia Viva-Casa Riformista", "senato": "gruppo Italia Viva-Casa Riformista", "collocazione": "opposizione", "verificato": false },
+    { "id": "piu-europa", "nome": "+Europa", "sigla": "+E", "camera": "Misto, componente +Europa-Stati Uniti d'Europa", "senato": "da verificare", "collocazione": "opposizione", "verificato": false },
+    { "id": "nm", "nome": "Noi Moderati", "sigla": "NM", "camera": "gruppo Noi Moderati-MAIE-Centro Popolare", "senato": "gruppo Civici d'Italia-UDC-Noi Moderati-MAIE-Centro Popolare", "collocazione": "maggioranza", "verificato": false },
+    { "id": "udc", "nome": "Unione di Centro", "sigla": "UDC", "camera": "da verificare", "senato": "gruppo Civici d'Italia-UDC-Noi Moderati-MAIE-Centro Popolare", "collocazione": "maggioranza", "verificato": false },
+    { "id": "centro-popolare", "nome": "Centro Popolare", "sigla": "CP", "camera": "gruppo Noi Moderati-MAIE-Centro Popolare", "senato": "gruppo Civici d'Italia-UDC-Noi Moderati-MAIE-Centro Popolare", "collocazione": "maggioranza", "nota": "Nato nel 2024 (Carfagna, Gelmini, Versace), confluito nei gruppi di Noi Moderati.", "verificato": false },
+    { "id": "maie", "nome": "Movimento Associativo Italiani all'Estero", "sigla": "MAIE", "camera": "gruppo Noi Moderati-MAIE-Centro Popolare", "senato": "gruppo Civici d'Italia-UDC-Noi Moderati-MAIE-Centro Popolare", "collocazione": "da verificare", "verificato": false },
+    { "id": "coraggio-italia", "nome": "Coraggio Italia", "sigla": "CI", "camera": "da verificare", "senato": "da verificare", "collocazione": "maggioranza", "nota": "Citato nella denominazione del gruppo al Senato; parlamentari propri da verificare.", "verificato": false },
+    { "id": "italia-al-centro", "nome": "Italia al Centro", "sigla": "IaC", "camera": "da verificare", "senato": "da verificare", "collocazione": "maggioranza", "nota": "Citato nella denominazione del gruppo al Senato; parlamentari propri da verificare.", "verificato": false },
+    { "id": "civici-italia", "nome": "Civici d'Italia", "sigla": "Civ", "camera": "da verificare", "senato": "gruppo Civici d'Italia-UDC-Noi Moderati-MAIE-Centro Popolare", "collocazione": "da verificare", "nota": "Da chiarire se è un partito autonomo o una sigla di gruppo.", "verificato": false },
+    { "id": "scn", "nome": "Sud chiama Nord", "sigla": "ScN", "camera": "Misto, componente Sud Chiama Nord", "senato": "gruppo Per le Autonomie (da verificare)", "collocazione": "da verificare", "verificato": false },
+    { "id": "svp", "nome": "Südtiroler Volkspartei", "sigla": "SVP", "camera": "Misto, componente Minoranze linguistiche", "senato": "gruppo Per le Autonomie", "collocazione": "da verificare", "verificato": false },
+    { "id": "patt", "nome": "Partito Autonomista Trentino Tirolese", "sigla": "PATT", "camera": "da verificare", "senato": "gruppo Per le Autonomie", "collocazione": "da verificare", "verificato": false },
+    { "id": "campobase", "nome": "Campobase", "sigla": "Cb", "camera": "da verificare", "senato": "gruppo Per le Autonomie", "collocazione": "da verificare", "verificato": false },
+    { "id": "autonomisti-vda", "nome": "Autonomisti valdostani", "sigla": "VdA", "camera": "Misto, componente Minoranze linguistiche (da verificare)", "senato": "da verificare", "collocazione": "da verificare", "nota": "Partito esatto del deputato valdostano da verificare.", "verificato": false },
+    { "id": "per", "nome": "Popolari Europeisti Riformatori", "sigla": "PER", "camera": "gruppo Azione-PER-Renew Europe", "senato": "da verificare", "collocazione": "opposizione", "nota": "Citato nella denominazione del gruppo di Azione; natura e parlamentari da verificare.", "verificato": false },
+    { "id": "demos", "nome": "Demos - Democrazia Solidale", "sigla": "Demos", "camera": "da verificare (eletto nelle liste PD)", "senato": "da verificare", "collocazione": "opposizione", "verificato": false },
+    { "id": "cd", "nome": "Centro Democratico", "sigla": "CD", "camera": "da verificare", "senato": "da verificare", "collocazione": "da verificare", "verificato": false }
+  ]
+}

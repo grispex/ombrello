@@ -1,0 +1,1238 @@
+[
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Garantire la scuola in presenza escludendo il ritorno alla didattica a distanza",
+  "citazione": "Una scuola in presenza (quindi mai più deprivazione culturale);",
+  "punto": "Istruzione, p. 108",
+  "aree": [
+   "istruzione-universita-ricerca"
+  ],
+  "sottotema": "Didattica in presenza",
+  "concretezza": 2
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Formare i docenti in didattica e pedagogia speciale con valutazione psico-attitudinale in ingresso e in itinere",
+  "citazione": "Docenti formati in didattica generale e speciale, pedagogia generale e speciale rivolta ai bisogni educativi speciali [...] con valutazione psico-attitudinale in ingresso e in itinere",
+  "punto": "Istruzione, p. 108",
+  "aree": [
+   "istruzione-universita-ricerca"
+  ],
+  "sottotema": "Insegnanti",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Rafforzare l'alternanza scuola-lavoro",
+  "citazione": "Miglioramento e rafforzamento dell’alternanza scuola-lavoro",
+  "punto": "Istruzione, p. 108",
+  "aree": [
+   "istruzione-universita-ricerca",
+   "lavoro"
+  ],
+  "sottotema": "Scuola e lavoro",
+  "concretezza": 2
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Potenziare gli insegnanti di sostegno e il supporto dopo i 18 anni sul modello 'Aut Academy'",
+  "citazione": "Potenziamento insegnanti di sostegno: non più soli dopo i 18 anni, su modello “Aut Academy” da estendere su scala nazionale",
+  "punto": "Istruzione, p. 108",
+  "aree": [
+   "istruzione-universita-ricerca",
+   "welfare-inclusione"
+  ],
+  "sottotema": "Disabilità",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Richiedere l'assenso esplicito dei genitori per i progetti scolastici su affettività, genere e temi valoriali",
+  "citazione": "Stop alla propaganda a scuola. [...] deve esserci l’esplicito e libero assenso dei genitori o di chi ne fa le veci",
+  "punto": "Istruzione, p. 108",
+  "aree": [
+   "istruzione-universita-ricerca",
+   "diritti-liberta"
+  ],
+  "sottotema": "Educazione e famiglia",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Rendere detraibili le spese per libri e cancelleria scolastica",
+  "citazione": "Stop caro libri con detraibilità fiscale delle spese di istruzione per l’acquisto di libri e cancelleria",
+  "punto": "Istruzione, p. 108",
+  "aree": [
+   "istruzione-universita-ricerca",
+   "fisco"
+  ],
+  "sottotema": "Diritto allo studio",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Riallineare l'offerta di istruzione tecnica e professionale alla domanda dei distretti produttivi",
+  "citazione": "Serve infatti riallineare l'offerta formativa della filiera tecnica e professionale alla domanda proveniente dai distretti economico-produttivi",
+  "punto": "Istruzione, p. 109",
+  "aree": [
+   "istruzione-universita-ricerca",
+   "lavoro"
+  ],
+  "sottotema": "Istruzione tecnica e ITS",
+  "concretezza": 2
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Riorganizzare i curricoli tecnici e professionali con più laboratori e un'area territoriale",
+  "citazione": "Riorganizzare il curricolo di studi dell’istruzione tecnica e professionale potenziando laboratori e prevedendo un’area territoriale",
+  "punto": "Istruzione, p. 109",
+  "aree": [
+   "istruzione-universita-ricerca"
+  ],
+  "sottotema": "Istruzione tecnica e ITS",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Favorire scambi, gemellaggi e stage all'estero per l'istruzione tecnica e professionale",
+  "citazione": "Favorire l’internazionalizzazione del sistema, promuovendo progetti di partenariato, gemellaggi, attività di scambio",
+  "punto": "Istruzione, p. 109",
+  "aree": [
+   "istruzione-universita-ricerca"
+  ],
+  "sottotema": "Istruzione tecnica e ITS",
+  "concretezza": 2
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Inserire l'educazione finanziaria in tutto il sistema di istruzione",
+  "citazione": "Inserire l’educazione finanziaria in tutto il sistema di istruzione e formazione.",
+  "punto": "Istruzione, p. 109",
+  "aree": [
+   "istruzione-universita-ricerca"
+  ],
+  "sottotema": "Programmi scolastici",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Valorizzare gli Istituti tecnici superiori come prosecuzione degli istituti tecnici e professionali",
+  "citazione": "Valorizzare gli istituti tecnici superiori, favorendone il naturale sviluppo come continuazione e perfezionamento di quelli professionali e tecnici.",
+  "punto": "Istruzione, p. 109",
+  "aree": [
+   "istruzione-universita-ricerca"
+  ],
+  "sottotema": "Istruzione tecnica e ITS",
+  "concretezza": 2
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Inserire nell'organico delle scuole l'infermiere scolastico (due oltre 1.200 allievi)",
+  "citazione": "presìdi sanitari di medicina scolastica inserendo nell’organico della scuola la figura dell’infermiere-operatore sanitario, due in quelle con più di 1.200 allievi",
+  "punto": "Istruzione, p. 109",
+  "aree": [
+   "istruzione-universita-ricerca",
+   "sanita"
+  ],
+  "sottotema": "Medicina scolastica",
+  "concretezza": 3,
+  "parametri": [
+   {
+    "cosa": "soglia per due infermieri",
+    "valore": "1.200 allievi"
+   }
+  ]
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Installare sistemi di ventilazione meccanica e sanificazione dell'aria nelle scuole",
+  "citazione": "sistemi di ventilazione meccanica a recupero di calore, sistemi di ventilazione e sanificazione dell’aria con filtri",
+  "punto": "Istruzione, p. 109",
+  "aree": [
+   "istruzione-universita-ricerca",
+   "sanita"
+  ],
+  "sottotema": "Edilizia scolastica",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Ridurre il numero di alunni per classe con spazi e personale aggiuntivi",
+  "citazione": "oltre a investimenti su spazi aggiuntivi e personale per poter ridurre il numero di alunni per classe",
+  "punto": "Istruzione, p. 109",
+  "aree": [
+   "istruzione-universita-ricerca"
+  ],
+  "sottotema": "Classi",
+  "concretezza": 2
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Consentire l'accesso diretto ai corsi di specializzazione sul sostegno a chi ha tre anni di servizio",
+  "citazione": "Chi ha maturato almeno tre anni di esperienza sul campo nel sostegno ad alunni con disabilità deve poter accedere direttamente ai corsi di specializzazione.",
+  "punto": "Istruzione, p. 110",
+  "aree": [
+   "istruzione-universita-ricerca",
+   "welfare-inclusione"
+  ],
+  "sottotema": "Insegnanti",
+  "concretezza": 3,
+  "parametri": [
+   {
+    "cosa": "anni di servizio richiesti",
+    "valore": "3"
+   }
+  ],
+  "copertura": "Senza costi aggiuntivi per lo Stato secondo il programma"
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Superare il precariato, coprire le carenze di docenti e ATA e adeguare gli stipendi agli standard europei",
+  "citazione": "superare il precariato, coprire la carenza personale docente e Ata, adeguare gli stipendi",
+  "punto": "Istruzione, p. 108",
+  "aree": [
+   "istruzione-universita-ricerca",
+   "lavoro"
+  ],
+  "sottotema": "Insegnanti",
+  "concretezza": 2
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Rafforzare i poteri delle forze di polizia e la certezza della pena come deterrenza",
+  "citazione": "Rafforzamento delle prerogative e delle capacità d’intervento delle forze di polizia, assicurando la certezza della pena, anche in funzione di deterrenza",
+  "punto": "Integrazione, p. 111",
+  "aree": [
+   "sicurezza"
+  ],
+  "sottotema": "Forze dell'ordine",
+  "concretezza": 2
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Ampliare le espulsioni e far scontare le pene ai detenuti stranieri nei Paesi d'origine con nuovi accordi",
+  "citazione": "Più ampio ricorso allo strumento dell’espulsione, con l’obiettivo di ottenere che le pene detentive vengano scontate nei Paesi di provenienza, sulla base di nuovi accordi",
+  "punto": "Integrazione, p. 111",
+  "aree": [
+   "immigrazione-cittadinanza",
+   "giustizia"
+  ],
+  "sottotema": "Rimpatri",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Potenziare i servizi sociali per famiglie e giovani di origine immigrata in disagio",
+  "citazione": "Potenziamento del ruolo dei servizi sociali a sostegno di famiglie e giovani di origine immigrata che soffrono di situazioni di disagio",
+  "punto": "Integrazione, p. 111",
+  "aree": [
+   "immigrazione-cittadinanza",
+   "welfare-inclusione"
+  ],
+  "sottotema": "Accoglienza e integrazione",
+  "concretezza": 2
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Affidare alle autorità locali il monitoraggio del percorso di integrazione di adulti e minori stranieri",
+  "citazione": "Attribuzione alle autorità locali, in coordinamento con quelle nazionali, di compiti di monitoraggio e vigilanza del percorso d’integrazione",
+  "punto": "Integrazione, p. 111",
+  "aree": [
+   "immigrazione-cittadinanza"
+  ],
+  "sottotema": "Accoglienza e integrazione",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Consentire un'estensione temporanea del permesso di soggiorno agli stranieri regolari che perdono il lavoro",
+  "citazione": "In tali casi sarà consentito l’ottenimento di un’estensione temporanea del permesso di soggiorno anche se in una condizione di disoccupazione",
+  "punto": "Integrazione, p. 111",
+  "aree": [
+   "immigrazione-cittadinanza",
+   "lavoro"
+  ],
+  "sottotema": "Accoglienza e integrazione",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Introdurre programmi di formazione e collocamento per i giovani di seconda generazione",
+  "citazione": "Introduzione di programmi specifici di formazione professionale e di collocamento per i giovani delle “secondo generazioni”",
+  "punto": "Integrazione, p. 112",
+  "aree": [
+   "immigrazione-cittadinanza",
+   "lavoro"
+  ],
+  "sottotema": "Accoglienza e integrazione",
+  "concretezza": 3,
+  "destinatari": [
+   "giovani"
+  ]
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Adottare misure per garantire ai minori stranieri il completamento dell'obbligo scolastico",
+  "citazione": "Adozione, attraverso le autorità locali e i servizi sociali, di nuove misure a garanzia del “diritto allo studio” dei minori, in modo che gli venga consentito di portare a termine almeno il percorso d’istruzione obbligatorio",
+  "punto": "Integrazione, p. 112",
+  "aree": [
+   "istruzione-universita-ricerca",
+   "immigrazione-cittadinanza"
+  ],
+  "sottotema": "Dispersione scolastica",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Introdurre ore aggiuntive di insegnamento dell'italiano per gli alunni stranieri",
+  "citazione": "Introduzione di ore aggiuntive per l’insegnamento dell’italiano, complementari al programma di lezioni ordinario",
+  "punto": "Integrazione, p. 112",
+  "aree": [
+   "istruzione-universita-ricerca",
+   "immigrazione-cittadinanza"
+  ],
+  "sottotema": "Accoglienza e integrazione",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Introdurre politiche attive per l'istruzione delle donne musulmane di seconda generazione",
+  "citazione": "Introduzione di politiche attive volte ad assicurare che le donne musulmane della “seconda generazione” ricevano l’istruzione necessaria",
+  "punto": "Integrazione, p. 112",
+  "aree": [
+   "immigrazione-cittadinanza",
+   "diritti-liberta"
+  ],
+  "sottotema": "Parità di genere",
+  "concretezza": 2,
+  "destinatari": [
+   "donne"
+  ]
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Adottare una nuova strategia contro la radicalizzazione islamista, anche online",
+  "citazione": "Nuova strategia di prevenzione e contrasto nei confronti della radicalizzazione islamista, con particolare attenzione alle attività di proselitismo effettuate su internet e i social media.",
+  "punto": "Integrazione, p. 113",
+  "aree": [
+   "sicurezza",
+   "immigrazione-cittadinanza"
+  ],
+  "sottotema": "Terrorismo e radicalizzazione",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Rafforzare il contrasto al reclutamento di giovani da parte di gruppi di estrema sinistra e anarco-insurrezionalisti",
+  "citazione": "la Lega intende rafforzare l’azione di prevenzione e contrasto del reclutamento degli immigrati, specie dei giovani delle “seconde generazioni”, da parte di organizzazioni radicali di estrema sinistra e anarco-insurrezionaliste",
+  "punto": "Integrazione, p. 113",
+  "aree": [
+   "sicurezza"
+  ],
+  "sottotema": "Terrorismo e radicalizzazione",
+  "concretezza": 2
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Ridurre il cuneo fiscale dei lavoratori di 10 punti per 10 anni",
+  "citazione": "Riduzione del cuneo fiscale per i lavoratori del valore di 10 punti percentuali per 10 anni",
+  "punto": "Lavoro, p. 114",
+  "aree": [
+   "fisco",
+   "lavoro"
+  ],
+  "sottotema": "Cuneo fiscale",
+  "concretezza": 4,
+  "parametri": [
+   {
+    "cosa": "riduzione",
+    "valore": "10 punti percentuali"
+   },
+   {
+    "cosa": "durata",
+    "valore": "10 anni"
+   }
+  ]
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Riconoscere come salario minimo quello stabilito dai CCNL più diffusi del settore",
+  "citazione": "È riconosciuto ai lavoratori un salario minimo pari a quello stabilito dai CCNL più diffusi nel settore",
+  "punto": "Lavoro, p. 114",
+  "aree": [
+   "lavoro"
+  ],
+  "sottotema": "Salario minimo",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Rinnovare subito tutti i contratti collettivi scaduti",
+  "citazione": "Rinnovo immediato di tutti i CCNL scaduti",
+  "punto": "Lavoro, p. 114",
+  "aree": [
+   "lavoro"
+  ],
+  "sottotema": "Contratti e precarietà",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Detassare straordinari e premi di produttività",
+  "citazione": "Detassazione straordinari e premi di produttività",
+  "punto": "Lavoro, p. 114",
+  "aree": [
+   "fisco",
+   "lavoro"
+  ],
+  "sottotema": "Premi di produttività",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Introdurre meccanismi perequativi dei salari contro l'inflazione",
+  "citazione": "Tutelare il potere di acquisto dei salari dall’erosione causata dall’aumento costo della vita definendo adeguati meccanismi perequativi",
+  "punto": "Lavoro, p. 114",
+  "aree": [
+   "lavoro"
+  ],
+  "sottotema": "Salari e inflazione",
+  "concretezza": 2
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Reintrodurre i voucher lavoro",
+  "citazione": "Introduzione dei Voucher Lavoro",
+  "punto": "Lavoro, p. 114",
+  "aree": [
+   "lavoro"
+  ],
+  "sottotema": "Voucher e lavoro occasionale",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Introdurre il reato di sfruttamento per chi impiega lavoratori in nero",
+  "citazione": "Introduzione del reato di sfruttamento per chi utilizza lavoratori in nero",
+  "punto": "Lavoro, p. 114",
+  "aree": [
+   "lavoro",
+   "giustizia"
+  ],
+  "sottotema": "Lavoro sommerso",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Estendere l'apprendistato fino a 35 anni con formazione solo sul lavoro",
+  "citazione": "Estendere l’età anagrafica del contratto di apprendistato fino a 35 anni e prevedere la formazione solo on the job",
+  "punto": "Lavoro, p. 114",
+  "aree": [
+   "lavoro"
+  ],
+  "sottotema": "Occupazione giovanile e femminile",
+  "concretezza": 3,
+  "parametri": [
+   {
+    "cosa": "età massima",
+    "valore": "35 anni"
+   }
+  ],
+  "destinatari": [
+   "giovani"
+  ]
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Rendere strutturale l'esonero contributivo per chi assume under 35",
+  "citazione": "è opportuno rendere strutturale l’esonero contributivo per i datori di lavoro che assumono giovani di età inferiore ai 35 anni",
+  "punto": "Lavoro, p. 114",
+  "aree": [
+   "lavoro",
+   "fisco"
+  ],
+  "sottotema": "Occupazione giovanile e femminile",
+  "concretezza": 3,
+  "parametri": [
+   {
+    "cosa": "età",
+    "valore": "under 35"
+   }
+  ],
+  "destinatari": [
+   "giovani"
+  ]
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Introdurre esoneri contributivi per chi assume donne e flessibilità (agile, part-time) per genitori",
+  "citazione": "occorre da un lato introdurre forme di esonero contributivo per i datori di lavoro che assumono lavoratrici, dall’altro consentire flessibilità nell’espletamento della prestazione lavorativa per lavoratori e lavoratrici con figli",
+  "punto": "Lavoro, p. 114",
+  "aree": [
+   "lavoro",
+   "famiglia-natalita"
+  ],
+  "sottotema": "Occupazione giovanile e femminile",
+  "concretezza": 3,
+  "destinatari": [
+   "donne"
+  ]
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Applicare un'IRPEF fissa del 5% per tre anni ai disoccupati da 24 mesi assunti a tempo indeterminato",
+  "citazione": "Per i lavoratori disoccupati da almeno 24 mesi tassazione Irpef fissa del 5% per i primi tre anni di assunzione a tempo indeterminato",
+  "punto": "Lavoro, p. 114",
+  "aree": [
+   "fisco",
+   "lavoro"
+  ],
+  "sottotema": "IRPEF e aliquote",
+  "concretezza": 4,
+  "parametri": [
+   {
+    "cosa": "aliquota IRPEF",
+    "valore": "5%"
+   },
+   {
+    "cosa": "durata disoccupazione",
+    "valore": "24 mesi"
+   },
+   {
+    "cosa": "durata agevolazione",
+    "valore": "3 anni"
+   }
+  ]
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Detassare totalmente i contributi anti-inflazione dati in busta paga o a partite IVA, con deducibilità al 120% per chi paga",
+  "citazione": "Defiscalizzazione totale dei contributi dati per contrastare l’inflazione dai datori di lavoro in busta paga o dai clienti delle partite Iva con cui sussiste un rapporto stabile di collaborazione [...] e deducibilità al 120% per chi paga il contributo",
+  "punto": "Lavoro, p. 115",
+  "aree": [
+   "fisco",
+   "lavoro"
+  ],
+  "sottotema": "Welfare aziendale",
+  "concretezza": 3,
+  "parametri": [
+   {
+    "cosa": "deducibilità",
+    "valore": "120%"
+   }
+  ]
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Mantenere il reddito di cittadinanza per chi non può lavorare rivedendo accesso e scala di equivalenza",
+  "citazione": "per i percettori inidonei al lavoro, mantenere il sostegno al reddito, rivedendo i criteri di accesso e la scala di equivalenza, dando maggior peso al quoziente familiare",
+  "punto": "Lavoro, p. 115",
+  "aree": [
+   "welfare-inclusione"
+  ],
+  "sottotema": "Povertà e reddito minimo",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Trasformare il reddito di cittadinanza per gli occupabili in ammortizzatore con formazione, tirocinio e assunzione",
+  "citazione": "per i percettori idonei all'attività lavorativa, la misura viene invece riformata trasformandola in un vero e proprio ammortizzatore sociale finalizzato all'occupazione",
+  "punto": "Lavoro, p. 115",
+  "aree": [
+   "welfare-inclusione",
+   "lavoro"
+  ],
+  "sottotema": "Povertà e reddito minimo",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Modulare gli importi del sostegno al reddito secondo le soglie territoriali di povertà assoluta",
+  "citazione": "rimodulando gli importi in funzione delle differenti soglie di povertà assoluta (e quindi del potere d'acquisto) registrate sul territorio nazionale",
+  "punto": "Lavoro, p. 115",
+  "aree": [
+   "welfare-inclusione",
+   "mezzogiorno-territori"
+  ],
+  "sottotema": "Povertà e reddito minimo",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Affidare ai Comuni l'erogazione dei sussidi e i controlli ex ante",
+  "citazione": "I Comuni devono erogare i sussidi ai cittadini",
+  "punto": "Lavoro, p. 116",
+  "aree": [
+   "welfare-inclusione",
+   "istituzioni-riforme"
+  ],
+  "sottotema": "Povertà e reddito minimo",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Rafforzare i servizi sociali e gli uffici comunali per la presa in carico",
+  "citazione": "Vanno rafforzati i servizi sociali che devono prendere i cittadini in carico e vanno potenziati gli uffici comunali dedicati al sociale",
+  "punto": "Lavoro, p. 116",
+  "aree": [
+   "welfare-inclusione"
+  ],
+  "sottotema": "Servizi sociali",
+  "concretezza": 2
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Introdurre un 'reddito di reciprocità': chi riceve sussidi comunali svolge lavori utili alla collettività",
+  "citazione": "Chi riceve sussidi dal Comune deve mettersi a disposizione della collettività con lavori utili.",
+  "punto": "Lavoro, p. 116",
+  "aree": [
+   "welfare-inclusione",
+   "lavoro"
+  ],
+  "sottotema": "Povertà e reddito minimo",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Creare un marchio identitario Made in Italy e unificare sotto un'unica direzione le competenze sulla sua tutela",
+  "citazione": "il “Made in Italy” deve essere tutelato e valorizzato attraverso la creazione di un vero e proprio marchio identitario",
+  "punto": "Made in Italy, p. 117",
+  "aree": [
+   "economia-imprese",
+   "cultura-sport-turismo"
+  ],
+  "sottotema": "Made in Italy e italian sounding",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Istituire un albo nazionale di puericultrici con accesso universale e tassazione progressiva",
+  "citazione": "Albo di puericultrici “di Stato”. [...] Istituire un Albo che aiuti le madri ad individuare queste figure professionali.",
+  "punto": "Pari opportunità, p. 119",
+  "aree": [
+   "famiglia-natalita",
+   "welfare-inclusione"
+  ],
+  "sottotema": "Sostegno alla maternità",
+  "concretezza": 3,
+  "destinatari": [
+   "donne"
+  ]
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Equiparare la durata dei congedi parentali di madre e padre",
+  "citazione": "Congedi parentali di identica durata per la madre e per il padre.",
+  "punto": "Pari opportunità, p. 120",
+  "aree": [
+   "famiglia-natalita",
+   "lavoro"
+  ],
+  "sottotema": "Congedi parentali",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Rendere strutturale Opzione donna",
+  "citazione": "OPZIONE DONNA Trattamento pensionistico diventa strutturale",
+  "punto": "Pensioni, p. 123",
+  "aree": [
+   "pensioni"
+  ],
+  "sottotema": "Quote e uscite anticipate",
+  "concretezza": 3,
+  "destinatari": [
+   "donne"
+  ],
+  "note": "Anche p. 120 (pari opportunità): 'insistere per la proroga di opzione donna'."
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Costituire asili nido nelle sedi pubbliche",
+  "citazione": "Insistere nella costituzione di asili nido (a cominciare dalla costituzione di asIli nido nelle sedi pubbliche)",
+  "punto": "Pari opportunità, p. 120",
+  "aree": [
+   "famiglia-natalita",
+   "pubblica-amministrazione"
+  ],
+  "sottotema": "Asili nido",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Prorogare la decontribuzione per le imprese che assumono donne",
+  "citazione": "Proroga estensione della decontribuzione per le imprese che assumono donne",
+  "punto": "Pari opportunità, p. 120",
+  "aree": [
+   "lavoro",
+   "fisco"
+  ],
+  "sottotema": "Occupazione giovanile e femminile",
+  "concretezza": 3,
+  "destinatari": [
+   "donne"
+  ]
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Adottare misure per la parità salariale tra uomini e donne",
+  "citazione": "Misure volte al sostegno della parità salariale",
+  "punto": "Pari opportunità, p. 120",
+  "aree": [
+   "lavoro",
+   "diritti-liberta"
+  ],
+  "sottotema": "Parità di genere",
+  "concretezza": 2,
+  "destinatari": [
+   "donne"
+  ]
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Cofinanziare le rette universitarie delle donne iscritte a corsi tecnico-scientifici e creare borse dedicate",
+  "citazione": "Proponiamo pertanto il cofinanziamento dello Stato per le rette universitarie delle donne che si iscrivono a corsi di laurea tecnico-scientifici e creazione di borse di studio dedicate",
+  "punto": "Pari opportunità, p. 120",
+  "aree": [
+   "istruzione-universita-ricerca",
+   "diritti-liberta"
+  ],
+  "sottotema": "Diritto allo studio",
+  "concretezza": 3,
+  "destinatari": [
+   "donne"
+  ]
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Garantire la scorta alle donne vittime di stalking",
+  "citazione": "Scorta alle donne vittime di stalking (pdl ravetto; modifiche al dl 6 maggio 2002 n.83)",
+  "punto": "Pari opportunità, p. 121",
+  "aree": [
+   "diritti-liberta",
+   "sicurezza"
+  ],
+  "sottotema": "Violenza di genere",
+  "concretezza": 3,
+  "destinatari": [
+   "donne"
+  ]
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Prevedere l'arresto in flagranza per chi viola le misure cautelari del Codice rosso",
+  "citazione": "Arresto in flagranza per chi non rispetta le misure cautelari del codice rosso",
+  "punto": "Pari opportunità, p. 121",
+  "aree": [
+   "diritti-liberta",
+   "giustizia"
+  ],
+  "sottotema": "Violenza di genere",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Istituire sezioni di tribunale specializzate in violenza di genere",
+  "citazione": "Sezioni di tribunale specializzate in violenza di genere.",
+  "punto": "Pari opportunità, p. 121",
+  "aree": [
+   "giustizia",
+   "diritti-liberta"
+  ],
+  "sottotema": "Violenza di genere",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Organizzare giornate di screening per tumore al seno, papilloma virus e osteoporosi",
+  "citazione": "Giornate di screening per malattie tipicamente femminili (tumore mammario, papilloma virus, osteoporosi ecc.)",
+  "punto": "Pari opportunità, p. 121",
+  "aree": [
+   "sanita"
+  ],
+  "sottotema": "Prevenzione",
+  "concretezza": 3,
+  "destinatari": [
+   "donne"
+  ]
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Informare con campagne pubbliche sulla curva di fertilità femminile",
+  "citazione": "Comunicazione costante (anche tramite servizio televisivo pubblico) del Ministero competente in merito alla curva di fertilità delle donne",
+  "punto": "Pari opportunità, p. 121",
+  "aree": [
+   "sanita",
+   "famiglia-natalita"
+  ],
+  "sottotema": "Prevenzione",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Eliminare l'IVA sugli assorbenti (tampon tax)",
+  "citazione": "Eliminazione Iva pannolini (Tampon Tax)",
+  "punto": "Pari opportunità, p. 121",
+  "aree": [
+   "fisco",
+   "diritti-liberta"
+  ],
+  "sottotema": "IVA",
+  "concretezza": 3,
+  "destinatari": [
+   "donne"
+  ]
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Promuovere attività nelle scuole contro gli stereotipi di genere",
+  "citazione": "Attività di sensibilizzazione nelle scuole per combattere lo stereotipo di genere e in particolare per educare i giovani al rispetto della donna",
+  "punto": "Pari opportunità, p. 121",
+  "aree": [
+   "istruzione-universita-ricerca",
+   "diritti-liberta"
+  ],
+  "sottotema": "Parità di genere",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Superare la legge Fornero con Quota 41: pensione anticipata con 41 anni di contributi",
+  "citazione": "dobbiamo superare la legge Fornero con Quota 41. QUOTA 41 I lavoratori raggiungono il diritto alla pensione anticipata di anzianità con 41 anni di contributi.",
+  "punto": "Pensioni, p. 122",
+  "aree": [
+   "pensioni"
+  ],
+  "sottotema": "Età pensionabile e legge Fornero",
+  "concretezza": 3,
+  "parametri": [
+   {
+    "cosa": "anni di contributi",
+    "valore": "41"
+   }
+  ]
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Anticipare a 63 anni con 20 di contributi la pensione di vecchiaia delle donne",
+  "citazione": "Per le lavoratrici il diritto alla pensione di vecchiaia matura a 63 anni (oggi 67) di età e almeno 20 anni di contributi",
+  "punto": "Pensioni, p. 122",
+  "aree": [
+   "pensioni"
+  ],
+  "sottotema": "Età pensionabile e legge Fornero",
+  "concretezza": 3,
+  "parametri": [
+   {
+    "cosa": "età",
+    "valore": "63 anni (oggi 67)"
+   },
+   {
+    "cosa": "contributi minimi",
+    "valore": "20 anni"
+   }
+  ],
+  "destinatari": [
+   "donne"
+  ]
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Introdurre una pensione di garanzia minima di 1.000 euro per i giovani nel contributivo",
+  "citazione": "Per i giovani lavoratori con carriere interamente nel regime contributivo è riconosciuta, in ogni caso, una pensione minima di 1.000 euro.",
+  "punto": "Pensioni, p. 122",
+  "aree": [
+   "pensioni"
+  ],
+  "sottotema": "Pensioni dei giovani",
+  "concretezza": 3,
+  "parametri": [
+   {
+    "cosa": "pensione minima",
+    "valore": "1.000 euro"
+   }
+  ],
+  "destinatari": [
+   "giovani"
+  ]
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Dare valore previdenziale ai periodi di inattività o formazione",
+  "citazione": "Considerare e dare valore previdenziale anche ai periodi di inattività lavorativa o di formazione",
+  "punto": "Pensioni, p. 122",
+  "aree": [
+   "pensioni"
+  ],
+  "sottotema": "Pensioni dei giovani",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Calcolare la rivalutazione annuale delle pensioni sull'indice Istat al 31 dicembre dell'anno precedente",
+  "citazione": "la rivalutazione annuale è calcolata sulla base dell’indice Istat registrato al 31 dicembre dell’anno precedente a quello oggetto di rivalutazione",
+  "punto": "Pensioni, p. 122",
+  "aree": [
+   "pensioni"
+  ],
+  "sottotema": "Rivalutazione",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Prorogare l'APE sociale",
+  "citazione": "APE SOCIAL Proroga anticipo pensionistico",
+  "punto": "Pensioni, p. 123",
+  "aree": [
+   "pensioni"
+  ],
+  "sottotema": "Quote e uscite anticipate",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Estendere il riscatto agevolato della laurea",
+  "citazione": "Estendere la possibilità agevolata di riscatto contributi per il periodo relativo al percorso di laurea",
+  "punto": "Pensioni, p. 123",
+  "aree": [
+   "pensioni"
+  ],
+  "sottotema": "Pensioni dei giovani",
+  "concretezza": 3
+ }
+]

@@ -1,0 +1,850 @@
+[
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "europeo",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Difendere in sede UE il budget per la promozione dell'agroalimentare sui mercati dei Paesi terzi",
+  "citazione": "nella difesa del budget riservato alla promozione dell’agroalimentare sui mercati dei Paesi terzi",
+  "punto": "Agricoltura, p. 7",
+  "aree": [
+   "agricoltura-pesca",
+   "esteri-europa"
+  ],
+  "sottotema": "Filiere e agroalimentare",
+  "concretezza": 2
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "europeo",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Chiedere la tutela del mercato europeo dalle importazioni che non rispettano gli stessi standard produttivi e del lavoro",
+  "citazione": "nella richiesta di tutelare il mercato europeo dalle importazioni che non rispettano uguali standard produttivi e di rispetto dei diritti del lavoro",
+  "punto": "Agricoltura, p. 7",
+  "aree": [
+   "agricoltura-pesca",
+   "esteri-europa"
+  ],
+  "sottotema": "Commercio internazionale e dazi",
+  "concretezza": 2
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "europeo",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Controllare gli accordi di libero scambio UE perché non aprano il mercato a settori agricoli di Paesi terzi con standard inferiori",
+  "citazione": "nel vigile controllo sulla sottoscrizione da parte dell’Ue di accordi commerciali di libero scambio, affinché non aprano le porte del mercato unico a settori agricoli di Paesi terzi",
+  "punto": "Agricoltura, p. 7",
+  "aree": [
+   "agricoltura-pesca",
+   "esteri-europa"
+  ],
+  "sottotema": "Commercio internazionale e dazi",
+  "concretezza": 2
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Rifinanziare le iniziative per il ricambio generazionale e l'ingresso di giovani e donne in agricoltura",
+  "citazione": "favorendo in particolare l’ingresso dei giovani e delle donne in agricoltura, attraverso il rifinanziamento di iniziative a favore del ricambio generazionale e dell’ampliamento aziendale",
+  "punto": "Agricoltura, p. 8",
+  "aree": [
+   "agricoltura-pesca"
+  ],
+  "sottotema": "Reddito agricolo e PAC",
+  "concretezza": 3,
+  "destinatari": [
+   "giovani",
+   "donne"
+  ]
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Rafforzare gli strumenti di garanzia sui finanziamenti alle imprese agricole e della pesca",
+  "citazione": "rafforzando gli strumenti di garanzia sui finanziamenti a favore delle imprese agricole e della pesca",
+  "punto": "Agricoltura, p. 8",
+  "aree": [
+   "agricoltura-pesca"
+  ],
+  "sottotema": "Credito agricolo",
+  "concretezza": 2,
+  "destinatari": [
+   "imprese"
+  ]
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Rendere più efficace l'attività amministrativa del Ministero dell'agricoltura e del sistema nazionale dei pagamenti",
+  "citazione": "rendendo più puntuale ed efficace l’attività amministrativa del Mipaaf e del sistema nazionale dei pagamenti",
+  "punto": "Agricoltura, p. 8",
+  "aree": [
+   "agricoltura-pesca",
+   "pubblica-amministrazione"
+  ],
+  "sottotema": "Reddito agricolo e PAC",
+  "concretezza": 2
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Investire nelle filiere strategiche per aumentare l'autosufficienza alimentare del Paese",
+  "citazione": "investendo sulle filiere strategiche che più potrebbero concorrere a una maggior autosufficienza alimentare del Paese",
+  "punto": "Agricoltura, p. 8",
+  "aree": [
+   "agricoltura-pesca"
+  ],
+  "sottotema": "Sovranità alimentare",
+  "concretezza": 2
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "europeo",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Riaprire la trattativa con la Commissione UE sugli impegni dell'architettura verde della nuova PAC",
+  "citazione": "dobbiamo puntare a tener tenacemente aperta la trattativa con la Commissione europea per una verifica degli impegni relativi all’architettura verde della nuova Pac",
+  "punto": "Agricoltura, p. 8",
+  "aree": [
+   "agricoltura-pesca",
+   "esteri-europa"
+  ],
+  "sottotema": "Reddito agricolo e PAC",
+  "concretezza": 2
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "europeo",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Chiedere alla Commissione UE una valutazione d'impatto cumulativa del Green Deal sull'agricoltura",
+  "citazione": "Dobbiamo impegnarci nella richiesta alla Commissione europea di una valutazione di impatto cumulativa sui possibili effetti del \"Green Deal\" sul settore agricolo",
+  "punto": "Agricoltura, p. 8",
+  "aree": [
+   "agricoltura-pesca",
+   "ambiente-animali"
+  ],
+  "sottotema": "Green Deal e agricoltura",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "europeo",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Chiedere l'estensione delle deroghe agli obblighi PAC per aumentare la capacità produttiva",
+  "citazione": "Le deroghe, previste ad oggi fino al 2023 da parte della Commissione europea per alcuni obblighi della Pac al fine di aumentare la capacità produttiva su alcune colture specifiche, vanno monitorate chiedendone eventualmente l’estensione",
+  "punto": "Agricoltura, p. 8",
+  "aree": [
+   "agricoltura-pesca"
+  ],
+  "sottotema": "Reddito agricolo e PAC",
+  "concretezza": 2,
+  "parametri": [
+   {
+    "cosa": "scadenza deroghe vigenti",
+    "valore": "2023"
+   }
+  ]
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Mantenere il ruolo delle Regioni nella gestione dello sviluppo rurale nel Piano strategico PAC",
+  "citazione": "è essenziale che, nell’ambito del pilastro dello sviluppo rurale, venga mantenuto e valorizzato il ruolo delle Regioni",
+  "punto": "Agricoltura, p. 9",
+  "aree": [
+   "agricoltura-pesca"
+  ],
+  "sottotema": "Reddito agricolo e PAC",
+  "concretezza": 2
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Introdurre in modo stabile il voucher per il lavoro in agricoltura, rivedendo i limiti del passato",
+  "citazione": "Vogliamo proporre, in modo stabile, l’utilizzo del voucher in agricoltura, che risponda alle necessità di tracciamento del pagamento e che sia reso più efficace rivedendo alcune limitazioni del passato",
+  "punto": "Agricoltura, p. 9",
+  "aree": [
+   "agricoltura-pesca",
+   "lavoro"
+  ],
+  "sottotema": "Voucher e lavoro stagionale",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Rilanciare la filiera foresta-legno incentivando le produzioni nazionali certificate",
+  "citazione": "L’obiettivo è una forte ripresa della filiera foresta-legno, coordinando le filiere dei diversi prodotti con certificazione di prodotto e processo e incentivando soprattutto le produzioni nazionali",
+  "punto": "Agricoltura, p. 10",
+  "aree": [
+   "agricoltura-pesca",
+   "mezzogiorno-territori"
+  ],
+  "sottotema": "Foreste e filiera del legno",
+  "concretezza": 2
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "europeo",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Chiedere all'UE il riconoscimento della competenza nazionale sul settore forestale e della filiera bosco-legno-energia",
+  "citazione": "siamo decisi a sottolineare la competenza Nazionale sul settore forestale, chiedendo con forza il riconoscimento del positivo impatto socio-economico della filiera bosco-legno-energia",
+  "punto": "Agricoltura, p. 10",
+  "aree": [
+   "agricoltura-pesca",
+   "energia"
+  ],
+  "sottotema": "Foreste e filiera del legno",
+  "concretezza": 2
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Valorizzare le filiere locali dei prodotti forestali non legnosi (castagne, funghi)",
+  "citazione": "è importante valorizzare anche le filiere locali di prodotti forestali non legnosi (castagne, funghi)",
+  "punto": "Agricoltura, p. 10",
+  "aree": [
+   "agricoltura-pesca",
+   "mezzogiorno-territori"
+  ],
+  "sottotema": "Aree interne e montagna",
+  "concretezza": 2
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "europeo",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Sostenere un quadro normativo UE per le tecniche di evoluzione assistita (nuove tecniche genomiche) in agricoltura",
+  "citazione": "Abbiamo bisogno che, nei prossimi mesi, venga varato il nuovo quadro europeo di riferimento normativo per lo sviluppo di nuovi strumenti [...] le tecniche di evoluzione assistita permettono di introdurre i miglioramenti genetici specifici",
+  "punto": "Agricoltura, p. 10",
+  "aree": [
+   "agricoltura-pesca",
+   "istruzione-universita-ricerca"
+  ],
+  "sottotema": "Innovazione e TEA",
+  "concretezza": 2
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Creare una filiera italiana della ricerca e applicazione di nuove tecnologie in agricoltura, in rete sotto il Ministero",
+  "citazione": "abbiamo come obiettivo quello della creazione di una vera filiera italiana della ricerca, sviluppo e applicazione di nuove tecniche e tecnologie in agricoltura",
+  "punto": "Agricoltura, p. 10",
+  "aree": [
+   "agricoltura-pesca",
+   "istruzione-universita-ricerca"
+  ],
+  "sottotema": "Innovazione e TEA",
+  "concretezza": 2
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Mettere in rete università, enti di ricerca e consorzi agrari in un distretto per l'innovazione in agricoltura",
+  "citazione": "Mettere in rete, sotto l’egida del Mipaaf, Università, Enti di ricerca, Associazioni scientifiche, fino ad arrivare alle Aziende sperimentali e ai Consorzi agrari",
+  "punto": "Agricoltura, p. 10",
+  "aree": [
+   "agricoltura-pesca",
+   "istruzione-universita-ricerca"
+  ],
+  "sottotema": "Innovazione e TEA",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Contenere ed eradicare la peste suina africana con biosicurezza, abbattimenti selettivi e recupero delle carcasse",
+  "citazione": "I focolai di Peste Suina Africana oggi presenti sul territorio devono rimanere circoscritti, e poi estinti, con un piano efficace di prevenzione sul fronte della biosicurezza, di messa in opera delle strutture necessarie e di selezionati piani di abbattimento dei capi e di recupero delle carcasse",
+  "punto": "Agricoltura, p. 11",
+  "aree": [
+   "agricoltura-pesca",
+   "ambiente-animali"
+  ],
+  "sottotema": "Fauna selvatica e PSA",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Riformare la legge quadro del 1992 sulla fauna selvatica coinvolgendo mondo agricolo e venatorio",
+  "citazione": "È necessaria una corretta riforma della Legge quadro in materia, che risale al 1992, tesa ad affrontare e risolvere il problema tramite il forte coinvolgimento del mondo agricolo e rurale in genere in sintonia con il mondo venatorio",
+  "punto": "Agricoltura, p. 11",
+  "aree": [
+   "ambiente-animali",
+   "agricoltura-pesca"
+  ],
+  "sottotema": "Caccia",
+  "concretezza": 3,
+  "parametri": [
+   {
+    "cosa": "legge da riformare",
+    "valore": "legge quadro 1992 (L. 157/1992)"
+   }
+  ]
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Istituire un tavolo istituzionale con i portatori di interessi sulla gestione della fauna selvatica",
+  "citazione": "A tal proposito verrà istituito un tavolo istituzionale con i portatori di interessi.",
+  "punto": "Agricoltura, p. 11",
+  "aree": [
+   "ambiente-animali",
+   "agricoltura-pesca"
+  ],
+  "sottotema": "Fauna selvatica e PSA",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Avviare subito la realizzazione di piccoli e medi bacini di accumulo dell'acqua piovana",
+  "citazione": "Abbiamo bisogno di mettere subito in cantiere i piccoli e medi bacini di accumulo per aumentare la capacità di stoccaggio dell’acqua piovana che oggi si ferma a un dato insoddisfacente dell’11%",
+  "punto": "Agricoltura, p. 11",
+  "aree": [
+   "agricoltura-pesca",
+   "ambiente-animali"
+  ],
+  "sottotema": "Acqua e irrigazione",
+  "concretezza": 3,
+  "parametri": [
+   {
+    "cosa": "capacità di stoccaggio attuale",
+    "valore": "11%"
+   }
+  ]
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Efficientare la rete idrica per ridurre le perdite",
+  "citazione": "ed efficientare la rete idrica che, in media, disperde quasi il 40% della risorsa",
+  "punto": "Agricoltura, p. 11",
+  "aree": [
+   "agricoltura-pesca",
+   "ambiente-animali",
+   "infrastrutture-trasporti"
+  ],
+  "sottotema": "Acqua e irrigazione",
+  "concretezza": 2,
+  "parametri": [
+   {
+    "cosa": "perdite attuali della rete",
+    "valore": "quasi 40%"
+   }
+  ]
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Riformare il d.lgs. 102/2004 per attivare subito i risarcimenti alle colture colpite da calamità e siccità",
+  "citazione": "Occorre ripensare al sistema di risarcimento dei danni attuando una riforma del decreto legislativo 102 del 2004 che permetta l’attivazione immediata degli interventi per il risarcimento del danno alle colture assicurabili",
+  "punto": "Agricoltura, p. 11",
+  "aree": [
+   "agricoltura-pesca"
+  ],
+  "sottotema": "Calamità e risarcimenti",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Promuovere a livello nazionale le leggi regionali per il recupero delle ex cave come bacini irrigui",
+  "citazione": "è importante che il Mipaaf si faccia promotore su tutto il territorio delle iniziative efficaci già messe in cantiere a livello locale, come è avvenuto per le Regioni che si sono già dotate di una legge per incentivare recupero delle ex cave come bacini irrigui",
+  "punto": "Agricoltura, p. 12",
+  "aree": [
+   "agricoltura-pesca"
+  ],
+  "sottotema": "Acqua e irrigazione",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Introdurre un iter autorizzativo rapido e dedicato per le opere di gestione della risorsa idrica",
+  "citazione": "l’esigenza di avere un iter autorizzativo rapido e dedicato, che abbatta i normali tempi di valutazione ambientale",
+  "punto": "Agricoltura, p. 12",
+  "aree": [
+   "agricoltura-pesca",
+   "pubblica-amministrazione"
+  ],
+  "sottotema": "Acqua e irrigazione",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Valutare una cabina di regia nazionale sulle grandi opere irrigue e sul sostegno all'innovazione irrigua aziendale",
+  "citazione": "Occorre valutare la nomina di una cabina di regia nazionale sulla pianificazione delle opere di più rilevante portata e sulle possibilità di sostegno, anche finanziario, all’innovazione irrigua aziendale",
+  "punto": "Agricoltura, p. 12",
+  "aree": [
+   "agricoltura-pesca"
+  ],
+  "sottotema": "Acqua e irrigazione",
+  "concretezza": 2
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Rendere stabile la cooperazione Italia-Israele sul riutilizzo delle acque reflue",
+  "citazione": "è necessario finalizzare e rendere stabile la cooperazione Italia-Israele in tema di innovazione per il recupero, il trattamento e il riutilizzo delle acque reflue",
+  "punto": "Agricoltura, p. 12",
+  "aree": [
+   "agricoltura-pesca",
+   "esteri-europa"
+  ],
+  "sottotema": "Acqua e irrigazione",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Istituire un Ministero per l'Agroalimentare",
+  "citazione": "occorre pensare all’istituzione di un vero Ministero per l’Agroalimentare",
+  "punto": "Agricoltura, p. 12",
+  "aree": [
+   "agricoltura-pesca",
+   "istituzioni-riforme"
+  ],
+  "sottotema": "Filiere e agroalimentare",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Prevedere incentivi per l'aggregazione tra i soggetti delle filiere agroalimentari",
+  "citazione": "prevedendo incentivi per chi compie il passo di “fare sistema” e organizzando meglio l’offerta del settore sul mercato",
+  "punto": "Agricoltura, p. 12",
+  "aree": [
+   "agricoltura-pesca"
+  ],
+  "sottotema": "Filiere e agroalimentare",
+  "concretezza": 2
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "europeo",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Chiedere all'UE la compatibilità tra crediti d'imposta Industria 4.0 e aiuti allo sviluppo rurale PAC",
+  "citazione": "intendiamo affidare subito anche l’istanza, presso l’Ue, della compatibilità tra gli aiuti previsti da Industria 4.0 sul credito di imposta e quelli dello Sviluppo Rurale della Pac",
+  "punto": "Agricoltura, p. 12",
+  "aree": [
+   "agricoltura-pesca",
+   "fisco"
+  ],
+  "sottotema": "Reddito agricolo e PAC",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "europeo",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Ottenere nella riforma UE delle DOP/IGP una gestione più snella delle modifiche ai disciplinari",
+  "citazione": "per ottenere una gestione più snella delle autorizzazioni e delle modifiche ordinarie dei disciplinari di produzione",
+  "punto": "Agricoltura, p. 12",
+  "aree": [
+   "agricoltura-pesca"
+  ],
+  "sottotema": "Prodotti DOP e IGP",
+  "concretezza": 2
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Ricondurre al Ministero dell'agricoltura le risorse per il contrasto all'italian sounding",
+  "citazione": "Serve ricondurre nel perimetro di competenze del Mipaaf le risorse, anche umane, per il contrasto alle fake news e all’italian sounding",
+  "punto": "Agricoltura, p. 12",
+  "aree": [
+   "agricoltura-pesca",
+   "economia-imprese"
+  ],
+  "sottotema": "Made in Italy e italian sounding",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "europeo",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Sostenere il Nutrinform come alternativa all'etichettatura nutrizionale a semaforo nell'UE",
+  "citazione": "Il “Nutrinform“ proposto dall’Italia insieme ad uno schieramento di Paesi concordi come alternativa all’etichettatura a semaforo, è un sistema che fornisce informazioni corrette",
+  "punto": "Agricoltura, p. 13",
+  "aree": [
+   "agricoltura-pesca",
+   "economia-imprese"
+  ],
+  "sottotema": "Etichettatura degli alimenti",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "europeo",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Rendere obbligatoria in Europa l'etichettatura d'origine degli alimenti e degli ingredienti principali",
+  "citazione": "affinché in Europa sia reso obbligatorio un sistema di etichettatura di origine degli alimenti e dei loro ingredienti principali che sia comprensibile e rimandi all’effettiva provenienza nazionale del prodotto",
+  "punto": "Agricoltura, p. 13",
+  "aree": [
+   "agricoltura-pesca",
+   "economia-imprese"
+  ],
+  "sottotema": "Etichettatura degli alimenti",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Riservare le denominazioni della carne ai soli prodotti di origine animale, sul modello della legge francese",
+  "citazione": "vogliamo presentare la versione italiana della legge francese che prevede di circoscrivere le denominazioni della carne ai soli prodotti di origine animale",
+  "punto": "Agricoltura, p. 13",
+  "aree": [
+   "agricoltura-pesca"
+  ],
+  "sottotema": "Nuovi alimenti e carne coltivata",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Potenziare gli organici delle Forze di polizia per il controllo del territorio",
+  "citazione": "Gli organici delle Forze di Polizia saranno potenziati per un controllo e prevenzione del territorio maggiormente capillare.",
+  "punto": "Antimafia, p. 14",
+  "aree": [
+   "sicurezza"
+  ],
+  "sottotema": "Forze dell'ordine",
+  "concretezza": 2
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Non chiudere alcun ufficio di polizia sul territorio nazionale",
+  "citazione": "Difesa dei presidi di sicurezza: nessuna chiusura degli uffici di polizia su tutto il territorio nazionale",
+  "punto": "Antimafia, p. 14",
+  "aree": [
+   "sicurezza"
+  ],
+  "sottotema": "Forze dell'ordine",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Nominare con l'interdittiva antimafia un commissario che gestisca l'impresa trattenendo gli utili fino all'esito",
+  "citazione": "Nominare con l’interdittiva un commissario che sostituisca l’amministratore della società, gestisca i fondi e gli scoperti di conto corrente e tutti i rapporti contrattuali dell’impresa, paghi gli stipendi, le imposte, tutto il corrente, trattenga senza distribuire gli utili dei lavori",
+  "punto": "Antimafia, p. 14",
+  "aree": [
+   "sicurezza",
+   "economia-imprese"
+  ],
+  "sottotema": "Criminalità organizzata",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Introdurre una norma sulla tracciabilità dei flussi finanziari per opere pubbliche, rifiuti e forniture edili contro le infiltrazioni mafiose",
+  "citazione": "Norma nel pacchetto sicurezza non solo per monitorare le opere pubbliche e impedire di subappaltare la gestione dei rifiuti o la fornitura di materiale edile a imprese mafiose, o il lavoro in nero",
+  "punto": "Antimafia, p. 14",
+  "aree": [
+   "sicurezza",
+   "pubblica-amministrazione"
+  ],
+  "sottotema": "Criminalità organizzata",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Monitorare il dark web e i flussi di denaro legati alla mafia nigeriana",
+  "citazione": "Ma anche per monitorare il dark web e i flussi di denaro legati alla mafia nigeriana",
+  "punto": "Antimafia, p. 14",
+  "aree": [
+   "sicurezza"
+  ],
+  "sottotema": "Criminalità organizzata",
+  "concretezza": 2
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Usare white list per l'investimento dei fondi PNRR",
+  "citazione": "White list per investire al meglio i fondi del PNRR",
+  "punto": "Antimafia, p. 14",
+  "aree": [
+   "sicurezza",
+   "conti-pubblici"
+  ],
+  "sottotema": "PNRR",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Aumentare il fondo per le vittime di mafia",
+  "citazione": "Aumento fondo per le vittime di mafia",
+  "punto": "Antimafia, p. 14",
+  "aree": [
+   "sicurezza"
+  ],
+  "sottotema": "Criminalità organizzata",
+  "concretezza": 2
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Rafforzare le stazioni uniche appaltanti in ogni Regione contro le infiltrazioni mafiose nelle gare",
+  "citazione": "Rafforzare stazioni uniche appaltanti in ogni Regione per contrastare i tentativi di infiltrazione mafiosa nelle gare pubbliche",
+  "punto": "Antimafia, p. 14",
+  "aree": [
+   "sicurezza",
+   "pubblica-amministrazione"
+  ],
+  "sottotema": "Codice degli appalti",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Potenziare i patti della legalità sottoscritti dalle prefetture",
+  "citazione": "Potenziamento dei patti della legalità sottoscritti dalle prefetture messe in condizioni di operatività",
+  "punto": "Antimafia, p. 14",
+  "aree": [
+   "sicurezza"
+  ],
+  "sottotema": "Criminalità organizzata",
+  "concretezza": 2
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Rafforzare i controlli su fondi PNRR, frodi sul Superbonus 110% e cessioni di attività commerciali",
+  "citazione": "Controlli sugli stanziamenti del PNRR, sul 110% oggetto di frode, su cessioni attività commerciali",
+  "punto": "Antimafia, p. 14",
+  "aree": [
+   "sicurezza",
+   "conti-pubblici",
+   "casa"
+  ],
+  "sottotema": "Bonus edilizi",
+  "concretezza": 2
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Potenziare l'Agenzia dei beni confiscati consentendo la vendita dei beni",
+  "citazione": "Potenziamento ed espansione Agenzia dei beni confiscati con possibilità di vendita dei beni",
+  "punto": "Antimafia, p. 15",
+  "aree": [
+   "sicurezza"
+  ],
+  "sottotema": "Beni confiscati",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Sostenere le aziende confiscate alla mafia",
+  "citazione": "Sostegno ad aziende confiscate",
+  "punto": "Antimafia, p. 15",
+  "aree": [
+   "sicurezza",
+   "economia-imprese"
+  ],
+  "sottotema": "Beni confiscati",
+  "concretezza": 2
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Potenziare i patti anti-usura",
+  "citazione": "Potenziamento dei patti anti-usura",
+  "punto": "Antimafia, p. 15",
+  "aree": [
+   "sicurezza"
+  ],
+  "sottotema": "Usura",
+  "concretezza": 2
+ }
+]

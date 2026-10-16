@@ -1,0 +1,1142 @@
+[
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Istituire un Ministero del Mare con delega a pesca e acquacoltura",
+  "citazione": "Istituzione del Ministero del Mare con delega alla pesca e all’acquacoltura",
+  "punto": "Pesca, p. 124",
+  "aree": [
+   "agricoltura-pesca",
+   "istituzioni-riforme"
+  ],
+  "sottotema": "Pesca",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Velocizzare l'erogazione dei contributi e i pagamenti del fermo biologico della pesca",
+  "citazione": "Un Ministero efficiente con sburocratizzazione degli iter amministrativi che tengono ferme le aziende, con una velocizzazione nell’ erogazione dei contributi e nei pagamenti del fermo biologico.",
+  "punto": "Pesca, p. 124",
+  "aree": [
+   "agricoltura-pesca",
+   "pubblica-amministrazione"
+  ],
+  "sottotema": "Pesca",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "europeo",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Rivedere la Politica comune della pesca UE e il principio di precauzione sullo sforzo di pesca",
+  "citazione": "urge rivedere la Politica Comune della Pesca che continua a ritenere nociva la pesca al punto di far prevalere in ogni approccio gestionale i principi di precauzione",
+  "punto": "Pesca, p. 125",
+  "aree": [
+   "agricoltura-pesca",
+   "esteri-europa"
+  ],
+  "sottotema": "Pesca",
+  "concretezza": 2
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "europeo",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Adottare piani di gestione regionali e nazionali per ottenere deroghe ai regolamenti UE sulla pesca",
+  "citazione": "Piano di gestione regionali/nazionali che consentano, tramite evidenza scientifica, le deroghe necessarie e la modifica dei regolamenti europei",
+  "punto": "Pesca, p. 125",
+  "aree": [
+   "agricoltura-pesca"
+  ],
+  "sottotema": "Pesca",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "europeo",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Mantenere la deroga UE alla taglia minima di 22 mm per le vongole",
+  "citazione": "è stata concessa nelle acque territoriali italiane l’applicazione di una taglia minima di riferimento per la conservazione ridotta a 22 mm (rispetto ai 25 mm. originari)",
+  "punto": "Pesca, p. 125",
+  "aree": [
+   "agricoltura-pesca"
+  ],
+  "sottotema": "Pesca",
+  "concretezza": 3,
+  "parametri": [
+   {
+    "cosa": "taglia minima in deroga",
+    "valore": "22 mm"
+   },
+   {
+    "cosa": "taglia ordinaria",
+    "valore": "25 mm"
+   },
+   {
+    "cosa": "scadenza deroga",
+    "valore": "31 dicembre 2022"
+   }
+  ]
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Mantenere la defiscalizzazione del gasolio per i pescherecci e prorogare il credito d'imposta",
+  "citazione": "protezione e mantenimento, a livello italiano e europeo, della defiscalizzazione del gasolio per le imbarcazioni da pesca",
+  "punto": "Pesca, p. 125",
+  "aree": [
+   "agricoltura-pesca",
+   "fisco",
+   "energia"
+  ],
+  "sottotema": "Pesca",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Indicare la data di pesca nell'etichetta dei prodotti ittici",
+  "citazione": "Indicazione della “data di pesca” nell’etichettatura dei prodotti ittici",
+  "punto": "Pesca, p. 126",
+  "aree": [
+   "agricoltura-pesca",
+   "economia-imprese"
+  ],
+  "sottotema": "Etichettatura degli alimenti",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Promuovere il consumo delle specie ittiche meno conosciute",
+  "citazione": "Promuovere il consumo delle specie ittiche meno conosciute, le cosiddette specie povere",
+  "punto": "Pesca, p. 126",
+  "aree": [
+   "agricoltura-pesca"
+  ],
+  "sottotema": "Pesca",
+  "concretezza": 2
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Promuovere pescaturismo e ittiturismo",
+  "citazione": "Promozione del Pescaturismo e dell’Ittiturismo",
+  "punto": "Pesca, p. 126",
+  "aree": [
+   "agricoltura-pesca",
+   "cultura-sport-turismo"
+  ],
+  "sottotema": "Turismo",
+  "concretezza": 2
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Finanziare la demolizione delle vecchie barche e l'ammodernamento della flotta peschereccia",
+  "citazione": "Programma di demolizione che prediliga le vecchie imbarcazioni, incentivi per u ammodernamento delle imbarcazioni",
+  "punto": "Pesca, p. 126",
+  "aree": [
+   "agricoltura-pesca"
+  ],
+  "sottotema": "Pesca",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Rimodulare i canoni demaniali marittimi aumentati del 700%",
+  "citazione": "Rimodulazione dei canoni demaniali marittimi dopo l’aumento sproporzionato avvenuto col governo giallo rosso, che ha inserito una tassa aumentata del 700% rispetto all’esistente",
+  "punto": "Pesca, p. 126",
+  "aree": [
+   "agricoltura-pesca",
+   "fisco"
+  ],
+  "sottotema": "Concorrenza e concessioni",
+  "concretezza": 3,
+  "parametri": [
+   {
+    "cosa": "aumento contestato",
+    "valore": "700%"
+   }
+  ]
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Attuare subito gli ammortizzatori sociali per i lavoratori della pesca",
+  "citazione": "Gli ammortizzatori sociali per la Pesca, previsti con legge di bilancio 2022, devono vedere al più presto attuazione",
+  "punto": "Pesca, p. 126",
+  "aree": [
+   "agricoltura-pesca",
+   "lavoro"
+  ],
+  "sottotema": "Pesca",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Inserire la pesca tra i lavori usuranti con uscita anticipata",
+  "citazione": "Inserire la pesca nei lavori usuranti allo scopo di prevedere l’uscita anticipata dei lavoratori di questo settore",
+  "punto": "Pesca, p. 127",
+  "aree": [
+   "pensioni",
+   "agricoltura-pesca"
+  ],
+  "sottotema": "Lavori usuranti",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Mappare a livello regionale e nazionale i siti idonei all'acquacoltura e investire nella molluschicoltura",
+  "citazione": "definire criteri uniformi per poter redigere una mappatura regionale/nazionale dei luoghi adatti all’insediamento degli impianti",
+  "punto": "Pesca, p. 127",
+  "aree": [
+   "agricoltura-pesca"
+  ],
+  "sottotema": "Acquacoltura",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "europeo",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Opporsi all'obiettivo UE di proteggere il 30% delle acque territoriali",
+  "citazione": "Contrasto alla volontà europea di riservare almeno il 30% delle acque territoriali a tutela ambientale (attualmente siamo già oltre il 20%)",
+  "punto": "Pesca, p. 127",
+  "aree": [
+   "agricoltura-pesca",
+   "ambiente-animali"
+  ],
+  "sottotema": "Parchi e biodiversità",
+  "concretezza": 2,
+  "parametri": [
+   {
+    "cosa": "obiettivo UE contestato",
+    "valore": "30%"
+   }
+  ]
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Risolvere con la Libia le ambiguità sulla condivisione delle acque territoriali per la pesca",
+  "citazione": "A ciò si aggiunge la necessità di una risoluzione urgente delle ambiguità in termini di condivisione delle acque territoriali con la Libia.",
+  "punto": "Pesca, p. 127",
+  "aree": [
+   "agricoltura-pesca",
+   "esteri-europa"
+  ],
+  "sottotema": "Pesca",
+  "concretezza": 2
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Allargare le quote di tonno rosso ai palangari del pesce spada con distribuzione regionale",
+  "citazione": "Allargamento della platea dei fruitori delle quote tonno rosso, utilizzando le quote aggiuntive assegnate dalla ICCAT",
+  "punto": "Pesca, p. 127",
+  "aree": [
+   "agricoltura-pesca"
+  ],
+  "sottotema": "Pesca",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Sviluppare l'allevamento italiano del tonno rosso e mantenere le tonnare fisse",
+  "citazione": "Valorizzazione della filiera del tonno rosso attraverso la produzione di allevamenti italiani",
+  "punto": "Pesca, p. 128",
+  "aree": [
+   "agricoltura-pesca"
+  ],
+  "sottotema": "Pesca",
+  "concretezza": 2
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Aggiornare la definizione di Comune montano",
+  "citazione": "Innanzitutto serve aggiornare la definizione di Comune Montano",
+  "punto": "Aree montane, p. 129",
+  "aree": [
+   "mezzogiorno-territori"
+  ],
+  "sottotema": "Aree interne e montagna",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Superare le strategie SNAI e SNAMI con una nuova strategia per le aree montane",
+  "citazione": "Superamento della SNAI e della SNAMI elaborando una strategia vincente",
+  "punto": "Aree montane, p. 130",
+  "aree": [
+   "mezzogiorno-territori"
+  ],
+  "sottotema": "Aree interne e montagna",
+  "concretezza": 2
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Introdurre una fiscalità montana per le imprese dei Comuni montani che assumono residenti",
+  "citazione": "Introduzione di una Fiscalità Montana per tutte le aziende che svolgono la loro attività nei Comuni montani e si impegnano ad assumere i residenti di questi Comuni",
+  "punto": "Aree montane, p. 130",
+  "aree": [
+   "mezzogiorno-territori",
+   "fisco"
+  ],
+  "sottotema": "Aree interne e montagna",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Concedere sgravi alle imprese urbane che impiegano in telelavoro residenti dei Comuni montani",
+  "citazione": "Sgravi fiscali per le aziende delle aree urbane che si avvalgono di personale in telelavoro residente nei Comuni montani.",
+  "punto": "Aree montane, p. 130",
+  "aree": [
+   "mezzogiorno-territori",
+   "fisco",
+   "lavoro"
+  ],
+  "sottotema": "Lavoro agile",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Agevolare fiscalmente le giovani coppie che si stabiliscono per almeno 5 anni in un Comune montano",
+  "citazione": "Politiche di fiscalità agevolata per tutte le giovani coppie che decideranno di stabilirsi in uno qualsiasi dei Comuni montani per un prolungato periodo di tempo (almeno 5 anni).",
+  "punto": "Aree montane, p. 130",
+  "aree": [
+   "mezzogiorno-territori",
+   "fisco",
+   "famiglia-natalita"
+  ],
+  "sottotema": "Aree interne e montagna",
+  "concretezza": 3,
+  "parametri": [
+   {
+    "cosa": "durata minima",
+    "valore": "5 anni"
+   }
+  ],
+  "destinatari": [
+   "giovani"
+  ]
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Agevolare fiscalmente medici, sanitari e docenti che lavorano almeno 5 anni nei Comuni montani",
+  "citazione": "Politiche di fiscalità agevolata per il personale sanitario e scolastico che deciderà di svolgere la propria professione nei Comuni montani per un periodo non inferiore ai 5 anni.",
+  "punto": "Aree montane, p. 130",
+  "aree": [
+   "mezzogiorno-territori",
+   "sanita",
+   "istruzione-universita-ricerca"
+  ],
+  "sottotema": "Aree interne e montagna",
+  "concretezza": 3,
+  "parametri": [
+   {
+    "cosa": "durata minima",
+    "valore": "5 anni"
+   }
+  ]
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Rafforzare tutele fiscali e burocratiche per maestri di sci e guide alpine",
+  "citazione": "Maggior tutela fiscale e burocratica per le professioni esclusivamente montane come Maestri di Sci e Guide Alpine",
+  "punto": "Aree montane, p. 130",
+  "aree": [
+   "mezzogiorno-territori",
+   "lavoro"
+  ],
+  "sottotema": "Aree interne e montagna",
+  "concretezza": 2
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Semplificare gli adempimenti dei piccoli Comuni montani rivedendo il TUEL",
+  "citazione": "Sburocratizzazione per le amministrazioni comunali sugli adempimenti legislativi, con minore dipendenza dal Segretario Comunale attraverso la revisione del TUEL.",
+  "punto": "Aree montane, p. 130",
+  "aree": [
+   "istituzioni-riforme",
+   "pubblica-amministrazione",
+   "mezzogiorno-territori"
+  ],
+  "sottotema": "Enti locali e province",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Rafforzare competenze e risorse delle Province montane",
+  "citazione": "Rinforzo delle competenze e delle dotazioni finanziarie per le province a specificità montana",
+  "punto": "Aree montane, p. 130",
+  "aree": [
+   "istituzioni-riforme",
+   "mezzogiorno-territori"
+  ],
+  "sottotema": "Enti locali e province",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Ridurre i requisiti minimi di studenti e assistenza per mantenere scuole e ospedali in montagna",
+  "citazione": "Adeguamento dei livelli di assistenza minima, del numero minimo di studenti, per i Comuni montani [...] riducendo i livelli minimi per l’operatività di scuole e ospedali",
+  "punto": "Aree montane, p. 130",
+  "aree": [
+   "mezzogiorno-territori",
+   "sanita",
+   "istruzione-universita-ricerca"
+  ],
+  "sottotema": "Aree interne e montagna",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Sviluppare un'offerta formativa basata sulle realtà locali per fare impresa in montagna",
+  "citazione": "Sviluppo di una proposta formativa e scolastica basata sulle esperienze locali che dia gli strumenti ai giovani per poter fare impresa sul proprio territorio",
+  "punto": "Aree montane, p. 130",
+  "aree": [
+   "istruzione-universita-ricerca",
+   "mezzogiorno-territori"
+  ],
+  "sottotema": "Aree interne e montagna",
+  "concretezza": 2
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "europeo",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Chiedere alla Commissione UE di rivedere la mappatura di ZPS e SIC con i Comuni",
+  "citazione": "Impegno per la riapertura di un tavolo interistituzionale per la revisione in seno alla Commissione Europea della mappatura delle Zone di Protezione Speciale (ZPS) e dei Siti di Interesse Comunitario (SIC)",
+  "punto": "Aree montane, p. 131",
+  "aree": [
+   "ambiente-animali",
+   "mezzogiorno-territori"
+  ],
+  "sottotema": "Parchi e biodiversità",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Semplificare le comunità energetiche nei Comuni montani e sviluppare gli Smart Villages",
+  "citazione": "Semplificazione normativa nella realizzazione di Comunità Energetiche con lo scopo di poter produrre e consumare energia [...] sviluppo degli Smart Villages",
+  "punto": "Aree montane, p. 131",
+  "aree": [
+   "energia",
+   "mezzogiorno-territori"
+  ],
+  "sottotema": "Comunità energetiche",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Istituire un Ministero della Montagna o una delega specifica agli Affari regionali",
+  "citazione": "Istituzione del Ministero della Montagna, o in subordine una delega specifica in seno al ministero degli Affari Regionali",
+  "punto": "Aree montane, p. 131",
+  "aree": [
+   "mezzogiorno-territori",
+   "istituzioni-riforme"
+  ],
+  "sottotema": "Aree interne e montagna",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Introdurre fiscalità di vantaggio e incentivi per le imprese che investono al Sud, anche con distretti produttivi",
+  "citazione": "Fiscalità di vantaggio, agevolazioni normative e amministrative, incentivi finalizzati alla piena occupazione, all’attrazione di capitali, anche tramite la creazione di appositi distretti produttivi innovativi e sostenibili",
+  "punto": "Mezzogiorno, p. 132",
+  "aree": [
+   "mezzogiorno-territori",
+   "fisco",
+   "economia-imprese"
+  ],
+  "sottotema": "Politiche di coesione",
+  "concretezza": 3,
+  "destinatari": [
+   "Sud"
+  ]
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Rafforzare la PA del Sud con semplificazione, competenze manageriali, digitalizzazione e ricambio generazionale",
+  "citazione": "Rafforzamento della PA con nuove modalità di gestione che si basino su semplificazione, sburocratizzazione, inclusione di competenze manageriali, digitalizzazione e rinnovo generazionale",
+  "punto": "Mezzogiorno, p. 132",
+  "aree": [
+   "pubblica-amministrazione",
+   "mezzogiorno-territori"
+  ],
+  "sottotema": "Assunzioni e concorsi",
+  "concretezza": 2,
+  "destinatari": [
+   "Sud"
+  ]
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Aumentare borse di studio, alloggi per studenti e diritto allo studio al Sud",
+  "citazione": "Risorse e incentivi per incrementare borse di studio, alloggi per studenti e diritto allo studio",
+  "punto": "Mezzogiorno, p. 132",
+  "aree": [
+   "istruzione-universita-ricerca",
+   "mezzogiorno-territori"
+  ],
+  "sottotema": "Diritto allo studio",
+  "concretezza": 2,
+  "destinatari": [
+   "Sud"
+  ]
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Collocare al Sud centri nazionali di eccellenza per tecnologia, innovazione e logistica",
+  "citazione": "Ubicazione al Sud di Centri Nazionali di Eccellenza per la promozione della tecnologia, dell’innovazione, della digitalizzazione e della logistica",
+  "punto": "Mezzogiorno, p. 132",
+  "aree": [
+   "mezzogiorno-territori",
+   "innovazione-digitale"
+  ],
+  "sottotema": "Politiche di coesione",
+  "concretezza": 3,
+  "destinatari": [
+   "Sud"
+  ]
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Incentivare l'ingresso dei giovani nel lavoro al Sud con misure per il ripopolamento",
+  "citazione": "Agevolazioni e incentivi mirati nel tempo per favorire l’accesso al mercato del lavoro dei giovani, anche tramite misure per il ripopolamento del Sud",
+  "punto": "Mezzogiorno, p. 133",
+  "aree": [
+   "mezzogiorno-territori",
+   "lavoro"
+  ],
+  "sottotema": "Occupazione giovanile e femminile",
+  "concretezza": 2,
+  "destinatari": [
+   "giovani",
+   "Sud"
+  ]
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Promuovere progetti turistici interregionali al Sud (Magna Grecia, borghi e castelli, turismo delle radici)",
+  "citazione": "Promozione di progetti turistici specifici interconnessi e interregionali, anche con accordi di partenariato tra Regioni e operatori, tra cui la valorizzazione di siti archeologici e storici – “Magna Grecia”",
+  "punto": "Mezzogiorno, p. 133",
+  "aree": [
+   "cultura-sport-turismo",
+   "mezzogiorno-territori"
+  ],
+  "sottotema": "Turismo",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Rafforzare l'efficienza dei centri per l'impiego",
+  "citazione": "Rafforzare e migliorare l’efficienza dei centri per l’impegno allo scopo di avvicinare domanda e offerta",
+  "punto": "Mezzogiorno, p. 133",
+  "aree": [
+   "lavoro"
+  ],
+  "sottotema": "Politiche attive",
+  "concretezza": 2
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Istituire un fondo unico e un coordinatore unico per le ZES con forfettizzazione fiscale",
+  "citazione": "costituzione di un fondo unico per le ZES per dare prospettive di lungo termine agli investitori, istituzione del coordinatore unico per valorizzare le sinergie tra diverse ZES, forfettizzazione fiscale",
+  "punto": "Mezzogiorno, p. 133",
+  "aree": [
+   "mezzogiorno-territori",
+   "economia-imprese"
+  ],
+  "sottotema": "ZES unica",
+  "concretezza": 3,
+  "note": "Il programma richiama un disegno di legge della Lega sulle ZES."
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Garantire la continuità territoriale per le isole",
+  "citazione": "più in generale garantire la piena attuazione della continuità territoriale per le isole",
+  "punto": "Mezzogiorno, p. 133",
+  "aree": [
+   "mezzogiorno-territori",
+   "infrastrutture-trasporti"
+  ],
+  "sottotema": "Isole",
+  "concretezza": 2
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Completare l'alta velocità sulle lunghe percorrenze al Sud e servire le aree non collegate",
+  "citazione": "Completamento dei progetti per l’attuazione dell’Alta Velocità (AV) per i collegamenti sulla lunga percorrenza e maggiori servizi per l’accessibilità alle aree non servite",
+  "punto": "Mezzogiorno, p. 133",
+  "aree": [
+   "infrastrutture-trasporti",
+   "mezzogiorno-territori"
+  ],
+  "sottotema": "Ferrovie e alta velocità",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Mettere in sicurezza ponti, viadotti e gallerie della rete stradale del Sud",
+  "citazione": "Manutenzione e potenziamento delle tratte stradali, con particolare attenzione a ponti, viadotti e gallerie",
+  "punto": "Mezzogiorno, p. 133",
+  "aree": [
+   "infrastrutture-trasporti",
+   "mezzogiorno-territori"
+  ],
+  "sottotema": "Strade",
+  "concretezza": 2
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Realizzare le opere prioritarie al Sud: Napoli-Bari, Salerno-Reggio, Palermo-Catania, SS 106 Jonica e altre",
+  "citazione": "Realizzazione e completamento di progetti infrastrutturali prioritari tra cui: Ponte sullo Stretto di Messina, Napoli-Bari, Salerno-Reggio Calabria, Palermo-Catania, Battipaglia-Potenza-Metaponto, tratta adriatica, messa in sicurezza della Strada Statale 106",
+  "punto": "Mezzogiorno, p. 134",
+  "aree": [
+   "infrastrutture-trasporti",
+   "mezzogiorno-territori"
+  ],
+  "sottotema": "Ferrovie e alta velocità",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Aumentare le risorse per strade secondarie e trasporto pubblico locale nelle aree interne",
+  "citazione": "Maggiori risorse per interventi sulla rete viaria secondaria e per le manutenzioni",
+  "punto": "Mezzogiorno, p. 134",
+  "aree": [
+   "infrastrutture-trasporti",
+   "mezzogiorno-territori"
+  ],
+  "sottotema": "Trasporto pubblico locale",
+  "concretezza": 2
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Investire su telemedicina, assistenza domiciliare e reparti di medicina interna nelle aree interne",
+  "citazione": "Maggiore capillarità dei presidi territoriali e investimenti in favore della telemedicina e delle pratiche di assistenza domiciliare",
+  "punto": "Mezzogiorno, p. 134",
+  "aree": [
+   "sanita",
+   "mezzogiorno-territori"
+  ],
+  "sottotema": "Medicina territoriale",
+  "concretezza": 2
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Riconoscere lo status di insularità nella legislazione con agevolazioni per le isole",
+  "citazione": "Piena attuazione della continuità territoriale con il riconoscimento dello status di insularità nella legislazione",
+  "punto": "Mezzogiorno, p. 134",
+  "aree": [
+   "mezzogiorno-territori"
+  ],
+  "sottotema": "Isole",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Aumentare le risorse per la prevenzione del dissesto idrogeologico e per le reti idriche",
+  "citazione": "Destinare maggiori risorse per interventi per la prevenzione del dissesto idrogeologico (rifacimento argini di fiumi, prevenzione erosione zone costiere, prevenzione frane",
+  "punto": "Mezzogiorno, p. 135",
+  "aree": [
+   "ambiente-animali",
+   "mezzogiorno-territori"
+  ],
+  "sottotema": "Dissesto idrogeologico",
+  "concretezza": 2
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Bonificare la Terra dei Fuochi e riqualificare le ex aree industriali come Bagnoli",
+  "citazione": "Interventi di bonifica dei terreni inquinati e contaminati (es. Terra dei Fuochi) e riqualificazione urbana e ambientale di ex aree industriali (es. Bagnoli)",
+  "punto": "Mezzogiorno, p. 135",
+  "aree": [
+   "ambiente-animali",
+   "mezzogiorno-territori"
+  ],
+  "sottotema": "Inquinamento",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Intensificare i controlli nei pressi dei centri di accoglienza",
+  "citazione": "Intensificazione dei controlli e monitoraggio in prossimità dei centri di accoglienza",
+  "punto": "Mezzogiorno, p. 135",
+  "aree": [
+   "sicurezza",
+   "immigrazione-cittadinanza"
+  ],
+  "sottotema": "Accoglienza e integrazione",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Riqualificare i quartieri degradati e recuperare i giovani coinvolti in attività illegali",
+  "citazione": "Riqualificazione di aree e quartieri sottoposti a degrado e recupero dei giovani coinvolti in attività illegali",
+  "punto": "Mezzogiorno, p. 135",
+  "aree": [
+   "sicurezza",
+   "casa"
+  ],
+  "sottotema": "Rigenerazione urbana",
+  "concretezza": 2
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Contrastare il disagio giovanile con protocolli condivisi tra interno, sociale, sanità e scuola",
+  "citazione": "Per contrastare il disagio giovanile, le dipendenze e le violenze delle quali spesso si sente parlare, è necessario intervenire con protocolli condivisi (interno, politiche sociali, sanità, scuola).",
+  "punto": "Politiche sociali, p. 136",
+  "aree": [
+   "welfare-inclusione",
+   "sicurezza"
+  ],
+  "sottotema": "Devianza minorile",
+  "concretezza": 3,
+  "destinatari": [
+   "giovani"
+  ]
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Certificare l'esperienza del servizio civile universale per l'inserimento lavorativo",
+  "citazione": "Per quanto riguarda il servizio civile universale potrebbe essere interessante proporre una certificazione relativa all’esperienza fatta",
+  "punto": "Politiche sociali, p. 136",
+  "aree": [
+   "welfare-inclusione",
+   "lavoro"
+  ],
+  "sottotema": "Servizio civile",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Aumentare le risorse del piano per la non autosufficienza con un fondo unico nazionale e budget di progetto",
+  "citazione": "Integrando nel piano l’obiettivo di realizzazione di un fondo unico nazionale che attraverso il budget di progetto e quindi la piena realizzazione del progetto di vita possa garantire ad ogni persona una vita il più possibile autonoma",
+  "punto": "Politiche sociali, p. 137",
+  "aree": [
+   "welfare-inclusione"
+  ],
+  "sottotema": "Non autosufficienza e anziani",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Riformare i centri diurni per la disabilità e creare percorsi di formazione-lavoro per gravi disabilità e autismo",
+  "citazione": "Linee guida per pensare ad una riforma dei Centri diurni [...] Percorsi di formazione lavoro mirati e strutturati tipicamente per la grave e gravissima disabilità o autismo (modello Lombardia).",
+  "punto": "Politiche sociali, p. 137",
+  "aree": [
+   "welfare-inclusione",
+   "lavoro"
+  ],
+  "sottotema": "Disabilità",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Attuare pienamente la legge delega sulla disabilità n. 227/2021",
+  "citazione": "Piena attuazione della legge delega sulla disabilità Legge n. 227 del 2021",
+  "punto": "Politiche sociali, p. 137",
+  "aree": [
+   "welfare-inclusione"
+  ],
+  "sottotema": "Disabilità",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Adeguare gli importi delle pensioni di invalidità civile totale e parziale",
+  "citazione": "Adeguamento di tutte le pensioni di invalidità civile totale e parziale, con particolare attenzione alle pensioni di invalidità parziale",
+  "punto": "Politiche sociali, p. 137",
+  "aree": [
+   "welfare-inclusione",
+   "pensioni"
+  ],
+  "sottotema": "Disabilità",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Aumentare la dotazione del Fondo Dopo di Noi",
+  "citazione": "Aumento della dotazione del “FONDO DOPO DI NOI”",
+  "punto": "Politiche sociali, p. 137",
+  "aree": [
+   "welfare-inclusione"
+  ],
+  "sottotema": "Disabilità",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Rivedere la legge 68/1999 sul collocamento mirato con corsi per ragazzi con disabilità e autismo",
+  "citazione": "Inclusione alla formazione e al lavoro: Attraverso la revisione della legge 68, l’istituzione di corsi di formazione specifici per i ragazzi con disabilità e autismo",
+  "punto": "Politiche sociali, p. 138",
+  "aree": [
+   "welfare-inclusione",
+   "lavoro"
+  ],
+  "sottotema": "Disabilità",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Garantire l'accessibilità universale a informazione, cultura e turismo per le persone con disabilità",
+  "citazione": "Promozione di percorsi di mobilità e accessibilità nel senso più ampio e globale del termine, garantendo l’accessibilità universale all’informazione, alla comunicazione, alla cultura ed al turismo",
+  "punto": "Politiche sociali, p. 138",
+  "aree": [
+   "welfare-inclusione"
+  ],
+  "sottotema": "Disabilità",
+  "concretezza": 2
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Estendere a tutta la rete sanitaria i protocolli DAMA per persone con gravi disabilità cognitive",
+  "citazione": "Attraverso la promozione di protocolli di presa in carico avanzata per la cura come, per esempio, i DAMA (Disabled Advanced Medical Assistance), attivabili in tutta la rete sanitaria",
+  "punto": "Politiche sociali, p. 138",
+  "aree": [
+   "sanita",
+   "welfare-inclusione"
+  ],
+  "sottotema": "Disabilità",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Prevedere tutele per lavoratori fragili, immunodepressi e con disabilità grave",
+  "citazione": "Previsione di tutele in favore di tutti i lavoratori fragili, immunodepressi e con disabilità grave",
+  "punto": "Politiche sociali, p. 138",
+  "aree": [
+   "lavoro",
+   "welfare-inclusione"
+  ],
+  "sottotema": "Disabilità",
+  "concretezza": 2
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Riconoscere e sostenere il ruolo del caregiver familiare",
+  "citazione": "Riconoscimento e sostegno al ruolo di cura del caregiver familiare",
+  "punto": "Politiche sociali, p. 138",
+  "aree": [
+   "welfare-inclusione"
+  ],
+  "sottotema": "Non autosufficienza e anziani",
+  "concretezza": 2
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Potenziare il Ministero per le disabilità con più poteri di coordinamento e risorse",
+  "citazione": "Potenziamento del Ministero per la promozione dei diritti delle persone con Disabilità garantendogli maggior responsabilità politica",
+  "punto": "Politiche sociali, p. 138",
+  "aree": [
+   "welfare-inclusione",
+   "istituzioni-riforme"
+  ],
+  "sottotema": "Disabilità",
+  "concretezza": 3
+ }
+]

@@ -1,0 +1,1047 @@
+[
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Estendere gli orari degli ambulatori al sabato e alla domenica e aumentare le sedute operatorie",
+  "citazione": "Ampliare i giorni e gli orari di apertura degli ambulatori, compreso il sabato e la domenica Aumentare le sedute di sala operatoria",
+  "punto": "Sanità, p. 153",
+  "aree": [
+   "sanita"
+  ],
+  "sottotema": "Liste d'attesa",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Integrare i CUP regionali e aziendali",
+  "citazione": "Prevedere l'integrazione dei CUP, e nuovi sistemi di gestione ed invio delle informazioni da parte delle aziende",
+  "punto": "Sanità, p. 153",
+  "aree": [
+   "sanita",
+   "innovazione-digitale"
+  ],
+  "sottotema": "Liste d'attesa",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Coinvolgere la sanità privata convenzionata, complementare alla pubblica, nello smaltimento delle liste d'attesa",
+  "citazione": "Un esempio sono le liste d’attesa che hanno bisogno di risposte rapide dopo due anni di blocco causato dalla pandemia, se gestite in coordinamento tra la sanità",
+  "punto": "Sanità, p. 153",
+  "aree": [
+   "sanita"
+  ],
+  "sottotema": "Sanità privata convenzionata",
+  "concretezza": 2
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Abolire il numero chiuso a Medicina con primo semestre comune e test nazionale sulle materie studiate",
+  "citazione": "Le iscrizioni al corso di laurea in medicina debbono essere libere, senza test d’ingresso. Tutti i candidati potranno iscriversi e frequentare un primo semestre comune. Al termine del primo semestre, sarà previsto un test nazionale",
+  "punto": "Sanità, p. 154",
+  "aree": [
+   "istruzione-universita-ricerca",
+   "sanita"
+  ],
+  "sottotema": "Accesso a Medicina",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Abolire il limite alle borse di specializzazione medica",
+  "citazione": "È necessario abolire entrambi i limiti, riorganizzando i corsi di laurea secondo un nuovo modello ispirato a quello francese",
+  "punto": "Sanità, p. 154",
+  "aree": [
+   "sanita",
+   "istruzione-universita-ricerca"
+  ],
+  "sottotema": "Personale sanitario",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Affidare alle Regioni la programmazione del fabbisogno di medici e infermieri",
+  "citazione": "La programmazione del fabbisogno di personale medico e infermieristico dovrà essere effettuata dalle Regioni contestualmente all’approvazione del Piano Socio Sanitario Regionale",
+  "punto": "Sanità, p. 154",
+  "aree": [
+   "sanita",
+   "istituzioni-riforme"
+  ],
+  "sottotema": "Personale sanitario",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Migliorare il contratto collettivo dei dirigenti medici",
+  "citazione": "Adeguamento migliorativo del CCNL per i dirigenti medici",
+  "punto": "Sanità, p. 154",
+  "aree": [
+   "sanita",
+   "lavoro"
+  ],
+  "sottotema": "Personale sanitario",
+  "concretezza": 2
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Adottare un contratto unico per il personale sociosanitario ovunque operi",
+  "citazione": "Adozione di un unico contratto di lavoro per il personale socio sanitario a prescindere da dove si opera",
+  "punto": "Sanità, p. 154",
+  "aree": [
+   "sanita",
+   "lavoro"
+  ],
+  "sottotema": "Personale sanitario",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Far definire periodicamente al Ministero gli standard minimi di personale delle strutture sociosanitarie",
+  "citazione": "Il Ministero della Salute dovrà definire periodicamente - mediamente per ogni ciclo scolastico - le dotazioni minime standard del personale",
+  "punto": "Sanità, p. 155",
+  "aree": [
+   "sanita"
+  ],
+  "sottotema": "Personale sanitario",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Finanziare il personale delle case e degli ospedali di comunità e potenziare l'assistenza domiciliare",
+  "citazione": "assicurando il finanziamento per l’inserimento nella programmazione dei Piano Socio Sanitari di personale adeguato, sia medico che del comparto",
+  "punto": "Sanità, p. 155",
+  "aree": [
+   "sanita"
+  ],
+  "sottotema": "Medicina territoriale",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Rendere attuativa la norma sulle professioni sanitarie con possibilità di libera professione",
+  "citazione": "Per quanto riguarda le Professioni Sanitarie, andrà declinata in maniera definitiva la norma rendendola attuativa, compresa la possibilità della libera professione",
+  "punto": "Sanità, p. 155",
+  "aree": [
+   "sanita",
+   "lavoro"
+  ],
+  "sottotema": "Personale sanitario",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Rivedere il DM 70 sugli ospedali integrandolo con la riforma territoriale e aggiornare le reti ospedaliere",
+  "citazione": "devono essere rivisti i requisiti stabiliti dal DM 70 per le strutture ospedaliere, con la finalità di renderle organiche alla Riforma Territoriale",
+  "punto": "Sanità, p. 155",
+  "aree": [
+   "sanita"
+  ],
+  "sottotema": "Reti ospedaliere",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Aumentare l'adesione agli screening nei piani regionali di prevenzione",
+  "citazione": "inserendo specifiche azioni di contrasto nel Piano Socio Sanitario Regionale, come l’aumento all’adesione degli screening",
+  "punto": "Sanità, p. 155",
+  "aree": [
+   "sanita"
+  ],
+  "sottotema": "Prevenzione",
+  "concretezza": 2
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Istituire un registro nazionale delle apparecchiature sanitarie per programmarne la sostituzione",
+  "citazione": "Necessità di attuare una programmazione dei presidi Sanitari e Device in modo da monitorare la durata tecnologica e programmare la sostituzione delle apparecchiature obsolete",
+  "punto": "Sanità, p. 155",
+  "aree": [
+   "sanita"
+  ],
+  "sottotema": "Tecnologie sanitarie",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Riformare la medicina generale inserendo i medici di famiglia nelle case di comunità",
+  "citazione": "Le Aziende sanitarie debbono poter condividere la loro attività inserendoli nella programmazione dei servizi al cittadino nelle case di Comunità",
+  "punto": "Sanità, p. 155",
+  "aree": [
+   "sanita"
+  ],
+  "sottotema": "Medicina territoriale",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Rivedere i criteri di riparto del Fondo sanitario pesando età della popolazione ed epidemiologia",
+  "citazione": "vanno rivisti i parametri e i criteri per definire il riparto del Fondo Sanitario tra le Regioni.",
+  "punto": "Sanità, p. 156",
+  "aree": [
+   "sanita",
+   "istituzioni-riforme"
+  ],
+  "sottotema": "Finanziamento del SSN",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Garantire un finanziamento adeguato del SSN, inclusi costi post-Covid ed energetici",
+  "citazione": "Garantire un adeguato finanziamento al SSN in coerenza con la programmazione del personale e delle strutture previste dalla Riforma Sanitaria Territoriale.",
+  "punto": "Sanità, p. 156",
+  "aree": [
+   "sanita"
+  ],
+  "sottotema": "Finanziamento del SSN",
+  "concretezza": 2
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Sviluppare la farmacia dei servizi per screening e servizi di prossimità",
+  "citazione": "con l’inevitabile evoluzione della “Farmacia dei servizi” nell'ambito degli screening e degli altri servizi di prossimità",
+  "punto": "Sanità, p. 156",
+  "aree": [
+   "sanita"
+  ],
+  "sottotema": "Farmaci",
+  "concretezza": 2
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Definire standard nazionali omogenei di qualità e sicurezza per le RSA",
+  "citazione": "Definizione di nuovi standard organizzativi e strutturali finalizzati a garantire livelli di sicurezza e di qualità assistenziale omogenei sul territorio nazionale",
+  "punto": "Sanità, p. 157",
+  "aree": [
+   "sanita",
+   "welfare-inclusione"
+  ],
+  "sottotema": "Non autosufficienza e anziani",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Adottare un sistema nazionale unico di valutazione multidimensionale dei bisogni degli assistiti",
+  "citazione": "Adozione di un sistema univoco nazionale di classificazione e valutazione multidimensionale dei bisogni delle persone assistite",
+  "punto": "Sanità, p. 157",
+  "aree": [
+   "sanita",
+   "welfare-inclusione"
+  ],
+  "sottotema": "Non autosufficienza e anziani",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Obbligare le Regioni ad aggiornare ogni due anni le tariffe della rete extra-ospedaliera",
+  "citazione": "Approvazione di una norma per la quale le Regioni aggiornino con cadenza biennale il sistema tariffario della rete extra-ospedaliera",
+  "punto": "Sanità, p. 157",
+  "aree": [
+   "sanita",
+   "welfare-inclusione"
+  ],
+  "sottotema": "Non autosufficienza e anziani",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Istituire la figura dell'operatore sociosanitario specializzato",
+  "citazione": "Istituzione di una figura intermedia di Operatore Socio-Sanitario “specializzato”",
+  "punto": "Sanità, p. 157",
+  "aree": [
+   "sanita",
+   "lavoro"
+  ],
+  "sottotema": "Personale sanitario",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Equiparare il contratto degli operatori sociosanitari a quello del comparto sanitario",
+  "citazione": "Equiparazione contrattuale tra CCNL del comparto sanitario con quella degli operatori del socio sanitario",
+  "punto": "Sanità, p. 157",
+  "aree": [
+   "sanita",
+   "lavoro"
+  ],
+  "sottotema": "Personale sanitario",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Estendere a RSA e strutture residenziali gli aiuti contro il caro energia e i crediti d'imposta per adeguamenti",
+  "citazione": "Estensione alle strutture della rete residenziale e semiresidenziale delle misure di sostegno volte al contenimento dei costi dell’energia e di credito di imposta",
+  "punto": "Sanità, p. 157",
+  "aree": [
+   "sanita",
+   "energia",
+   "welfare-inclusione"
+  ],
+  "sottotema": "Non autosufficienza e anziani",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Rafforzare l'assistenza sanitaria e residenziale per le persone con disturbi mentali",
+  "citazione": "Rafforzamento delle prestazioni sanitarie, socio-assistenziali e dell'assistenza sociosanitaria semiresidenziale e residenziale per le persone con disturbi mentali",
+  "punto": "Sanità, p. 158",
+  "aree": [
+   "sanita"
+  ],
+  "sottotema": "Salute mentale",
+  "concretezza": 2
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Aumentare i posti letto nei Servizi psichiatrici di diagnosi e cura a 1 ogni 5.000 abitanti",
+  "citazione": "Implementazione dei Servizi Psichiatrici di Diagnosi e Cura per il ricovero dei pazienti psichiatrici volontari prevedendo un incremento di posti letto 1 su 5mila abitanti",
+  "punto": "Sanità, p. 158",
+  "aree": [
+   "sanita"
+  ],
+  "sottotema": "Salute mentale",
+  "concretezza": 3,
+  "parametri": [
+   {
+    "cosa": "posti letto",
+    "valore": "1 ogni 5.000 abitanti"
+   }
+  ]
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Istituire un Fondo per il sostegno psicologico alle famiglie di persone con patologie mentali",
+  "citazione": "Istituzione Fondo per il sostegno psicologico delle famiglie per la gestione familiare del congiunto convivente affetto da patologie mentali",
+  "punto": "Sanità, p. 158",
+  "aree": [
+   "sanita",
+   "welfare-inclusione"
+  ],
+  "sottotema": "Salute mentale",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Adottare un Piano sperimentale per la salute mentale 2022-2026 con nuovi modelli residenziali e inserimento lavorativo",
+  "citazione": "Piano sperimentale per la salute mentale 2022-2026 volto a garantire percorsi di cura efficaci, appropriati e sicuri",
+  "punto": "Sanità, p. 158",
+  "aree": [
+   "sanita"
+  ],
+  "sottotema": "Salute mentale",
+  "concretezza": 3,
+  "parametri": [
+   {
+    "cosa": "periodo",
+    "valore": "2022-2026"
+   }
+  ]
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Sviluppare centri multidisciplinari oncologici e coordinare le reti oncologiche regionali",
+  "citazione": "Sviluppo di centri multidisciplinari di alta specialità, nell'ottica di sviluppare nuove innovazioni terapeutiche, attivando strumenti di coordinamento delle attività delle reti oncologiche regionali",
+  "punto": "Sanità, p. 158",
+  "aree": [
+   "sanita"
+  ],
+  "sottotema": "Tumori",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Garantire una presa in carico multidisciplinare e l'assistenza psicologica dei pazienti oncologici pediatrici",
+  "citazione": "Individuazione di misure ai fini di una corretta ed uniforme presa in carico del paziente oncologico pediatrico",
+  "punto": "Sanità, p. 159",
+  "aree": [
+   "sanita"
+  ],
+  "sottotema": "Tumori",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Istituire un fondo pubblico per la ricerca sui tumori pediatrici e i farmaci orfani",
+  "citazione": "Istituzione di un fondo pubblico per il finanziamento degli studi accademici al fine di incentivare e sostenere la ricerca scientifica riguardo alle patologie oncologiche pediatriche sui farmaci orfani",
+  "punto": "Sanità, p. 159",
+  "aree": [
+   "sanita",
+   "istruzione-universita-ricerca"
+  ],
+  "sottotema": "Fondi per la ricerca",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Sostenere economicamente le famiglie a basso reddito con figli ricoverati lontano da casa",
+  "citazione": "Stanziamento di fondi volti al supporto economico delle famiglie a basso reddito, considerando i costi che le famiglie devono sostenere in caso di ricoveri presso centri di cura distanti",
+  "punto": "Sanità, p. 159",
+  "aree": [
+   "sanita",
+   "welfare-inclusione"
+  ],
+  "sottotema": "Tumori",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Equiparare le vittime del dovere alle vittime del terrorismo e della mafia",
+  "citazione": "anche con la parificazione delle vittime del dovere a quelle del terrorismo o della mafia",
+  "punto": "Sicurezza, p. 161",
+  "aree": [
+   "sicurezza"
+  ],
+  "sottotema": "Forze dell'ordine",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Varare un piano straordinario di almeno 10.000 assunzioni nelle forze di polizia",
+  "citazione": "varare un piano di assunzioni di reintegro del turn over ad integrazione dei pensionamenti e delle carenze di organico di almeno 10mila unità",
+  "punto": "Sicurezza, p. 161",
+  "aree": [
+   "sicurezza"
+  ],
+  "sottotema": "Forze dell'ordine",
+  "concretezza": 3,
+  "parametri": [
+   {
+    "cosa": "assunzioni",
+    "valore": "almeno 10.000"
+   }
+  ]
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Elevare alcune Questure e potenziare commissariati e reparti mobili",
+  "citazione": "Elevazione di alcune Questure con rafforzamento di personale e dotazioni, potenziamento dei commissariati",
+  "punto": "Sicurezza, p. 161",
+  "aree": [
+   "sicurezza"
+  ],
+  "sottotema": "Forze dell'ordine",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Investire nell'edilizia di questure, commissariati e caserme",
+  "citazione": "Bisogna avviare un serio piano di investimenti (adeguamenti e ristrutturazioni) nell’edilizia dei presidi di sicurezza",
+  "punto": "Sicurezza, p. 162",
+  "aree": [
+   "sicurezza"
+  ],
+  "sottotema": "Forze dell'ordine",
+  "concretezza": 2
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Estendere il taser alle specialità della Polizia, alle polizie locali e alla Polizia penitenziaria",
+  "citazione": "L’estensione del Taser alle specialità della Polizia, l’incremento delle dotazioni, sono priorità [...] Si dovrà lavorare per introdurre il Taser nelle dotazioni anche della Polizia Penitenziaria",
+  "punto": "Sicurezza, p. 162",
+  "aree": [
+   "sicurezza"
+  ],
+  "sottotema": "Forze dell'ordine",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Introdurre norme contro le aggressioni agli operatori in divisa, soprattutto nelle manifestazioni",
+  "citazione": "andranno introdotte disposizione normative contro le continue e reiterare aggressioni agli operatori in divisa",
+  "punto": "Sicurezza, p. 162",
+  "aree": [
+   "sicurezza",
+   "giustizia"
+  ],
+  "sottotema": "Forze dell'ordine",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Rinnovare il contratto del comparto sicurezza-difesa aumentando i fondi per tutela legale, sanitaria e previdenza complementare",
+  "citazione": "Bisognerà lavorare al nuovo contratto del comparto sicurezza/difesa con incremento dei fondi per la tutela legale, sanitaria, previdenza complementare e fondo integrativo",
+  "punto": "Sicurezza, p. 162",
+  "aree": [
+   "sicurezza",
+   "lavoro"
+  ],
+  "sottotema": "Forze dell'ordine",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Evitare i ritardi nel pagamento di straordinari e indennità alle forze di polizia",
+  "citazione": "Non procrastinabile sarà la predisposizione di un meccanismo contabile in grado di evitare il ritardo nella liquidazione delle prestazioni straordinarie",
+  "punto": "Sicurezza, p. 162",
+  "aree": [
+   "sicurezza",
+   "lavoro"
+  ],
+  "sottotema": "Forze dell'ordine",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Valutare un nuovo riordino delle carriere delle forze di polizia",
+  "citazione": "Si valuterà, anche con le rappresentanze sindacali, la necessità di un “Nuovo riordino delle carriere”",
+  "punto": "Sicurezza, p. 163",
+  "aree": [
+   "sicurezza"
+  ],
+  "sottotema": "Forze dell'ordine",
+  "concretezza": 2
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Assegnare beni confiscati alla criminalità come alloggi per le forze di polizia",
+  "citazione": "Utilizzo dei beni confiscati alla criminalità organizzata nel processo di riassegnazione dei beni per garantire un fine abitativo e condizioni alloggiative dignitose a forze di polizia",
+  "punto": "Sicurezza, p. 163",
+  "aree": [
+   "sicurezza",
+   "casa"
+  ],
+  "sottotema": "Beni confiscati",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Prevenire i suicidi nelle forze di polizia valorizzandone il benessere",
+  "citazione": "Attenzione e continua valorizzazione del benessere delle forze di polizia per evitare il problema dei suicidi sempre più in aumento",
+  "punto": "Sicurezza, p. 163",
+  "aree": [
+   "sicurezza",
+   "sanita"
+  ],
+  "sottotema": "Forze dell'ordine",
+  "concretezza": 2
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Estendere le body cam agli operatori di ordine pubblico, volanti e celle",
+  "citazione": "Potenziamento delle body cam per chi fa ordine pubblico in piazza, controllo del territorio e prevenzione, su divise e volanti in servizio e celle di sicurezza",
+  "punto": "Sicurezza, p. 163",
+  "aree": [
+   "sicurezza"
+  ],
+  "sottotema": "Forze dell'ordine",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Riportare a 7.000 i militari di Strade sicure e valutare l'aumento a 10.000",
+  "citazione": "Potenziamento militari dell’Operazione Strade Sicure, ripristinando con altri 2mila militari il contingente ordinario riportandolo a 7mila",
+  "punto": "Sicurezza, p. 163",
+  "aree": [
+   "sicurezza",
+   "difesa"
+  ],
+  "sottotema": "Strade sicure",
+  "concretezza": 3,
+  "parametri": [
+   {
+    "cosa": "contingente",
+    "valore": "7.000 militari"
+   },
+   {
+    "cosa": "potenziamento valutato",
+    "valore": "fino a 10.000"
+   }
+  ]
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Introdurre nuove norme contro baby gang, spaccio, rave party e malamovida",
+  "citazione": "Nuove norme per il contrasto a baby gang, spaccio, rave party e malamovida.",
+  "punto": "Sicurezza, p. 163",
+  "aree": [
+   "sicurezza"
+  ],
+  "sottotema": "Devianza minorile",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Promuovere un patto educativo con parrocchie, associazioni ed enti locali contro la devianza giovanile",
+  "citazione": "Nuovi strumenti di prevenzione e patto educativo con le realtà associative territoriali, parrocchie, associazioni, Enti locali, società sportive",
+  "punto": "Sicurezza, p. 164",
+  "aree": [
+   "sicurezza",
+   "welfare-inclusione"
+  ],
+  "sottotema": "Devianza minorile",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Rivedere la soglia di imputabilità dei minori e sanzionare i familiari inadempienti ai doveri educativi",
+  "citazione": "Nuovi strumenti normativi sia con riferimento alla soglia di imputabilità, sia con riferimento all’elemento sanzionatorio nei confronti dei familiari che non adempiono ai doveri educativi",
+  "punto": "Sicurezza, p. 164",
+  "aree": [
+   "sicurezza",
+   "giustizia"
+  ],
+  "sottotema": "Devianza minorile",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Opporsi alla depenalizzazione della coltivazione domestica di cannabis",
+  "citazione": "La Lega si opporrà a qualunque iniziativa parlamentare o referendaria che vada nella direzione della depenalizzazione anche nella coltivazione domestica delle cosiddette “droghe leggere”.",
+  "punto": "Sicurezza, p. 164",
+  "aree": [
+   "sicurezza",
+   "diritti-liberta"
+  ],
+  "sottotema": "Cannabis",
+  "concretezza": 2
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Approvare il progetto di legge 'Tolleranza zero contro lo spaccio'",
+  "citazione": "Si darà concretezza al progetto di legge della Lega denominato “Tolleranza zero contro lo spaccio”",
+  "punto": "Sicurezza, p. 164",
+  "aree": [
+   "sicurezza",
+   "giustizia"
+  ],
+  "sottotema": "Droghe",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Potenziare lo scambio di informazioni tra polizie nazionali e locali e la videosorveglianza",
+  "citazione": "Potenziamento dello scambio informativo tra forze di polizia a ordinamento nazionale e polizia locale a ordinamento locale, potenziamento degli strumenti di videosorveglianza",
+  "punto": "Sicurezza, p. 164",
+  "aree": [
+   "sicurezza"
+  ],
+  "sottotema": "Videosorveglianza",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Portare ad almeno 100 milioni il fondo nazionale per la sicurezza urbana",
+  "citazione": "Il fondo di sicurezza urbana nazionale pari a € 65 milioni per il triennio 2021-2023 andrà nuovamente alimentato, almeno fino a 100 milioni di euro",
+  "punto": "Sicurezza, p. 164",
+  "aree": [
+   "sicurezza"
+  ],
+  "sottotema": "Sicurezza urbana",
+  "concretezza": 3,
+  "parametri": [
+   {
+    "cosa": "fondo attuale",
+    "valore": "65 milioni (2021-2023)"
+   },
+   {
+    "cosa": "fondo proposto",
+    "valore": "almeno 100 milioni"
+   }
+  ]
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Finanziare progetti contro le truffe agli anziani e lo spaccio vicino alle scuole (Scuole sicure)",
+  "citazione": "Contrasto alle truffe agli anziani, contrasto allo spaccio di droga nei pressi delle scuole e nelle piazze attraverso i progetti finanziati con il fondo di sicurezza urbana",
+  "punto": "Sicurezza, p. 164",
+  "aree": [
+   "sicurezza"
+  ],
+  "sottotema": "Sicurezza urbana",
+  "concretezza": 3,
+  "destinatari": [
+   "anziani"
+  ]
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Riformare la Polizia locale riconoscendo il lavoro usurante e stanziando risorse aggiuntive",
+  "citazione": "Imprescindibile e non più rinviabile è la riforma della Polizia Locale in un perimetro definito e alternativo rispetto alle Polizia nazionali",
+  "punto": "Sicurezza, p. 165",
+  "aree": [
+   "sicurezza",
+   "istituzioni-riforme"
+  ],
+  "sottotema": "Polizia locale",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Rifinanziare stabilmente i fondi per i Comuni contro degrado, abusivismo e contraffazione",
+  "citazione": "Implementare i fondi nazionali a disposizione dei Comuni e degli Enti locali per elevare le condizioni di sicurezza dei territori",
+  "punto": "Sicurezza, p. 165",
+  "aree": [
+   "sicurezza",
+   "casa"
+  ],
+  "sottotema": "Rigenerazione urbana",
+  "concretezza": 2
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Rinnovare il contratto delle guardie giurate e riformare la vigilanza privata",
+  "citazione": "Nuovo contratto per le GPG guardie giurate per garantire diritti, dignità e tutele e previdenza",
+  "punto": "Sicurezza, p. 166",
+  "aree": [
+   "sicurezza",
+   "lavoro"
+  ],
+  "sottotema": "Vigilanza privata",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Diffondere i protocolli 'Mille occhi per la città' e con i comitati civici",
+  "citazione": "Indispensabili in un processo di potenziamento della sicurezza anche i protocolli con i Comitati civici dei cittadini, le Prefetture e gli Enti locali.",
+  "punto": "Sicurezza, p. 166",
+  "aree": [
+   "sicurezza"
+  ],
+  "sottotema": "Sicurezza urbana",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Completare l'organico dei Vigili del fuoco fino a 40.000 operativi e 5.000 tecnici",
+  "citazione": "serve completare l’organico fino a 40mila unità operative e 5mila unità del Ruolo Tecnico Professionale",
+  "punto": "Sicurezza, p. 166",
+  "aree": [
+   "sicurezza",
+   "pubblica-amministrazione"
+  ],
+  "sottotema": "Vigili del fuoco",
+  "concretezza": 3,
+  "parametri": [
+   {
+    "cosa": "unità operative",
+    "valore": "40.000"
+   },
+   {
+    "cosa": "ruolo tecnico professionale",
+    "valore": "5.000"
+   }
+  ]
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Anticipare di due anni le assunzioni per turnover dei Vigili del fuoco e anticipare i sei scatti stipendiali",
+  "citazione": "Anticipo delle assunzioni per turnover di un biennio Potenziamento degli organici Rinnovo contrattuale Anticipo dei sei scatti stipendiali",
+  "punto": "Sicurezza, p. 166",
+  "aree": [
+   "sicurezza",
+   "lavoro"
+  ],
+  "sottotema": "Vigili del fuoco",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Affidare ai Vigili del fuoco il coordinamento dei piani di emergenza comunali, provinciali e regionali",
+  "citazione": "il Corpo nazionale dei Vigili del Fuoco, dovrà coordinare e concretizzare la stesura dei piani di emergenza comunali",
+  "punto": "Sicurezza, p. 166",
+  "aree": [
+   "sicurezza",
+   "ambiente-animali"
+  ],
+  "sottotema": "Protezione civile",
+  "concretezza": 3
+ }
+]

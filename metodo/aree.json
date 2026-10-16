@@ -1,0 +1,33 @@
+{
+  "versione": "0.1",
+  "data": "2026-10-16",
+  "nota": "Aree in ordine alfabetico. I sotto-temi sono un punto di partenza: verranno completati in base alle proposte raccolte. Una proposta può appartenere a più aree. I destinatari (giovani, donne, famiglie, anziani, imprese, Sud...) sono etichette trasversali, non aree.",
+  "aree": [
+    { "id": "agricoltura-pesca", "nome": "Agricoltura e pesca", "sottotemi": ["Reddito agricolo e PAC", "Filiere e agroalimentare", "Nuovi alimenti e carne coltivata", "Acqua e irrigazione", "Pesca", "Consumo di suolo agricolo"] },
+    { "id": "ambiente-animali", "nome": "Ambiente e animali", "sottotemi": ["Clima ed emissioni", "Rifiuti ed economia circolare", "Dissesto idrogeologico", "Acqua pubblica", "Parchi e biodiversità", "Inquinamento", "Tutela degli animali", "Caccia"] },
+    { "id": "casa", "nome": "Casa", "sottotemi": ["Edilizia pubblica", "Affitti e affitti brevi", "Mutui prima casa", "Bonus edilizi", "Sfratti e morosità", "Rigenerazione urbana", "Condoni edilizi"] },
+    { "id": "conti-pubblici", "nome": "Conti pubblici e PNRR", "sottotemi": ["Debito e deficit", "Regole fiscali europee", "Revisione della spesa", "PNRR", "Privatizzazioni"] },
+    { "id": "cultura-sport-turismo", "nome": "Cultura, sport e turismo", "sottotemi": ["Patrimonio culturale", "Spettacolo e cinema", "Libro e lettura", "Sport di base", "Turismo"] },
+    { "id": "difesa", "nome": "Difesa", "sottotemi": ["Spesa militare e obiettivi NATO", "Difesa europea", "Leva e servizio militare", "Industria della difesa", "Missioni internazionali"] },
+    { "id": "diritti-liberta", "nome": "Diritti e libertà", "sottotemi": ["Fine vita", "Diritti LGBT+", "Aborto", "Parità di genere", "Violenza di genere", "Cannabis", "Maternità surrogata", "Libertà di espressione e privacy"] },
+    { "id": "economia-imprese", "nome": "Economia e imprese", "sottotemi": ["Politica industriale", "PMI e artigianato", "Concorrenza e concessioni", "Credito e banche", "Startup", "Commercio", "Consumatori", "Partecipazioni pubbliche"] },
+    { "id": "energia", "nome": "Energia", "sottotemi": ["Nucleare", "Rinnovabili", "Gas e approvvigionamento", "Bollette e prezzi", "Efficienza energetica", "Comunità energetiche", "Idrogeno"] },
+    { "id": "esteri-europa", "nome": "Esteri ed Europa", "sottotemi": ["Riforma dell'Unione europea", "Ucraina e Russia", "Medio Oriente", "NATO e alleanze", "Africa e Piano Mattei", "Cooperazione allo sviluppo", "Commercio internazionale e dazi"] },
+    { "id": "famiglia-natalita", "nome": "Famiglia e natalità", "sottotemi": ["Assegno unico", "Asili nido", "Congedi parentali", "Quoziente familiare", "Conciliazione vita-lavoro"] },
+    { "id": "fisco", "nome": "Fisco", "sottotemi": ["IRPEF e aliquote", "Flat tax", "Cuneo fiscale", "IVA", "Patrimoni, successioni ed extraprofitti", "Evasione, condoni e rottamazioni", "Tasse sulle imprese", "Web tax e multinazionali"] },
+    { "id": "giustizia", "nome": "Giustizia", "sottotemi": ["Separazione delle carriere e CSM", "Intercettazioni", "Prescrizione", "Reati contro la PA", "Carceri", "Tempi dei processi", "Giustizia civile"] },
+    { "id": "immigrazione-cittadinanza", "nome": "Immigrazione e cittadinanza", "sottotemi": ["Flussi di ingresso regolari", "Sbarchi e frontiere", "Accordi con Paesi terzi", "Accoglienza e integrazione", "Rimpatri", "Cittadinanza", "Protezione internazionale"] },
+    { "id": "informazione-media", "nome": "Informazione e media", "sottotemi": ["Servizio pubblico RAI", "Pluralismo", "Editoria e giornalismo", "Querele temerarie", "Piattaforme e disinformazione"] },
+    { "id": "infrastrutture-trasporti", "nome": "Infrastrutture e trasporti", "sottotemi": ["Ponte sullo Stretto", "Ferrovie e alta velocità", "Trasporto pubblico locale", "Autostrade e concessioni", "Porti e aeroporti", "Codice della strada"] },
+    { "id": "innovazione-digitale", "nome": "Innovazione e digitale", "sottotemi": ["Intelligenza artificiale", "Banda ultralarga", "Cybersicurezza", "Dati e piattaforme", "Spazio"] },
+    { "id": "istituzioni-riforme", "nome": "Istituzioni e riforme", "sottotemi": ["Premierato", "Autonomia differenziata", "Legge elettorale", "Parlamento e bicameralismo", "Referendum e partecipazione", "Finanziamento della politica", "Enti locali e province", "Conflitto di interessi"] },
+    { "id": "istruzione-universita-ricerca", "nome": "Istruzione, università e ricerca", "sottotemi": ["Insegnanti", "Edilizia scolastica", "Diritto allo studio", "Accesso a Medicina", "Istruzione tecnica e ITS", "Dispersione scolastica", "Fondi per la ricerca"] },
+    { "id": "lavoro", "nome": "Lavoro", "sottotemi": ["Salario minimo", "Contratti e precarietà", "Sicurezza sul lavoro", "Occupazione giovanile e femminile", "Orario e settimana corta", "Lavoro agile", "Partecipazione dei lavoratori", "Politiche attive"] },
+    { "id": "mezzogiorno-territori", "nome": "Mezzogiorno e territori", "sottotemi": ["ZES unica", "Politiche di coesione", "Aree interne e montagna", "Isole", "Ricostruzione post-sisma"] },
+    { "id": "pensioni", "nome": "Pensioni", "sottotemi": ["Età pensionabile e legge Fornero", "Quote e uscite anticipate", "Pensioni minime", "Rivalutazione", "Previdenza complementare", "Pensioni dei giovani"] },
+    { "id": "pubblica-amministrazione", "nome": "Pubblica amministrazione", "sottotemi": ["Assunzioni e concorsi", "Semplificazione", "Digitalizzazione della PA", "Codice degli appalti", "Trasparenza e anticorruzione"] },
+    { "id": "sanita", "nome": "Sanità", "sottotemi": ["Finanziamento del SSN", "Liste d'attesa", "Personale sanitario", "Medicina territoriale", "Sanità privata convenzionata", "Farmaci", "Salute mentale", "Prevenzione"] },
+    { "id": "sicurezza", "nome": "Sicurezza", "sottotemi": ["Forze dell'ordine", "Criminalità organizzata", "Legittima difesa", "Devianza minorile", "Droghe", "Videosorveglianza"] },
+    { "id": "welfare-inclusione", "nome": "Welfare e inclusione", "sottotemi": ["Povertà e reddito minimo", "Disabilità", "Non autosufficienza e anziani", "Terzo settore", "Servizio civile"] }
+  ]
+}

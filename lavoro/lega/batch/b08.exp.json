@@ -1,0 +1,1060 @@
+[
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Riportare a 180 giorni la permanenza nei CPR e aprire un CPR per Regione",
+  "citazione": "Ripristino del periodo di permanenza nei Cpr, centri permanenza per i rimpatri, fino a 180 giorni, creazione nuovi Cpr (uno per Regione)",
+  "punto": "Immigrazione, p. 94",
+  "aree": [
+   "immigrazione-cittadinanza"
+  ],
+  "sottotema": "Rimpatri",
+  "concretezza": 3,
+  "parametri": [
+   {
+    "cosa": "permanenza massima",
+    "valore": "180 giorni"
+   },
+   {
+    "cosa": "numero CPR",
+    "valore": "uno per Regione"
+   }
+  ]
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Siglare accordi di rimpatrio con Paesi terzi anche tramite incentivi economici e commerciali",
+  "citazione": "sviluppare accordi, anche attraverso incentivi economici e commerciali, per i rimpatri con i Paesi terzi",
+  "punto": "Immigrazione, p. 94",
+  "aree": [
+   "immigrazione-cittadinanza",
+   "esteri-europa"
+  ],
+  "sottotema": "Rimpatri",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Investire 150 miliardi nelle infrastrutture, metà dal PNRR e metà con partenariati pubblico-privato",
+  "citazione": "Occorre prevedere una «scossa» da 150 miliardi di euro per le infrastrutture del Paese, di cui metà dal PNRR e metà da opportune forme di \"partnership fra pubblico e privato\" (Ppp).",
+  "punto": "Infrastrutture, p. 96",
+  "aree": [
+   "infrastrutture-trasporti",
+   "conti-pubblici"
+  ],
+  "sottotema": "Investimenti infrastrutturali",
+  "concretezza": 4,
+  "parametri": [
+   {
+    "cosa": "investimento complessivo",
+    "valore": "150 miliardi di euro"
+   },
+   {
+    "cosa": "quota PNRR",
+    "valore": "50%"
+   },
+   {
+    "cosa": "quota partenariato pubblico-privato",
+    "valore": "50%"
+   }
+  ],
+  "copertura": "Metà PNRR, metà partenariato pubblico-privato"
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Dotare i principali porti di aree retroportuali e dello status di porti gateway",
+  "citazione": "I principali porti italiani debbono avere lo status di porti Gatway (aree di sdoganamento merci) e non porti Transhipment",
+  "punto": "Infrastrutture, p. 96",
+  "aree": [
+   "infrastrutture-trasporti"
+  ],
+  "sottotema": "Porti e aeroporti",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Completare le tratte ad alta capacità Terzo Valico, corridoio Palermo-Berlino e valico di Trieste",
+  "citazione": "per completare i tratti di Alta Portabilità (Terzo Valico, corridoio Palermo-Berlino, Valico di Trieste)",
+  "punto": "Infrastrutture, p. 96",
+  "aree": [
+   "infrastrutture-trasporti"
+  ],
+  "sottotema": "Ferrovie e alta velocità",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Istituire un Ministero del Mare e della Logistica o un sottosegretariato al mare presso Palazzo Chigi",
+  "citazione": "creare un Ministero del Mare e della Logistica o di un sottosegretariato del mare presso la Presidenza del Consiglio dei Ministri con ruolo di coordinamento tra ministeri",
+  "punto": "Infrastrutture, p. 96",
+  "aree": [
+   "infrastrutture-trasporti",
+   "istituzioni-riforme"
+  ],
+  "sottotema": "Porti e aeroporti",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Rafforzare la vigilanza del Ministero sui concessionari autostradali, sul gestore ferroviario e sulle Autorità portuali",
+  "citazione": "rafforzare ruolo del Ministero nei seguenti ambiti: [...] Settore autostradale: vigilanza sull’attività delle concessionarie",
+  "punto": "Infrastrutture, p. 96",
+  "aree": [
+   "infrastrutture-trasporti"
+  ],
+  "sottotema": "Autostrade e concessioni",
+  "concretezza": 2
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Modificare il codice appalti premiando velocità di realizzazione, qualità, bassa manutenzione e durabilità",
+  "citazione": "I criteri sulla scelta dell’azienda che realizza l’opera devono essere legati alla velocità di realizzazione dell’opera, all’alta qualità, alla bassa manutenzione, alla durabilità dell’opera stessa",
+  "punto": "Infrastrutture, p. 97",
+  "aree": [
+   "pubblica-amministrazione",
+   "infrastrutture-trasporti"
+  ],
+  "sottotema": "Codice degli appalti",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Estendere il 'modello Genova' con una legislazione speciale e commissari con poteri estesi per le grandi opere",
+  "citazione": "La replicazione del “modello Genova” deve essere attuata mediante una nuova legislazione speciale per le grandi opere, istituendo figure commissariali con competenze, poteri estesi e certi di approvazione",
+  "punto": "Infrastrutture, p. 97",
+  "aree": [
+   "infrastrutture-trasporti",
+   "pubblica-amministrazione"
+  ],
+  "sottotema": "Commissari e grandi opere",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Nominare un commissario unico per ogni linea della rete TEN-T",
+  "citazione": "Indicazione di un unico commissario che sovrintenda a tutte le opere da realizzarsi per ogni singola linea.",
+  "punto": "Infrastrutture, p. 97",
+  "aree": [
+   "infrastrutture-trasporti"
+  ],
+  "sottotema": "Commissari e grandi opere",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "europeo",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Inserire nella rete TEN-T porto di Civitavecchia, dorsale Adriatica, linea Milano-Ventimiglia e terminal italiani",
+  "citazione": "inserire nella rete TEN-T alcune infrastrutture italiane fino a ora sorprendentemente escluse",
+  "punto": "Infrastrutture, p. 97-98",
+  "aree": [
+   "infrastrutture-trasporti",
+   "esteri-europa"
+  ],
+  "sottotema": "Ferrovie e alta velocità",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Realizzare il Ponte sullo Stretto per completare il corridoio Berlino-Palermo",
+  "citazione": "completamento del corridoio trans-europeo tra Berlino e Palermo con la realizzazione dellacontinuità territoriale tra Sicilia e Calabria (ponte sullo Stretto).",
+  "punto": "Infrastrutture, p. 98",
+  "aree": [
+   "infrastrutture-trasporti",
+   "mezzogiorno-territori"
+  ],
+  "sottotema": "Ponte sullo Stretto",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Completare le opere della rete core (Torino-Lione, Brennero, Terzo Valico, Napoli-Bari, Diga di Genova, Passante di Bologna)",
+  "citazione": "Il completamento delle opere fondamentali della rete (Torino-Lione, Brennero, Terzo Valico, Napoli-Bari, Diga di Genova, Passante di Bologna, ecc.).",
+  "punto": "Infrastrutture, p. 98",
+  "aree": [
+   "infrastrutture-trasporti"
+  ],
+  "sottotema": "Ferrovie e alta velocità",
+  "concretezza": 3,
+  "parametri": [
+   {
+    "cosa": "completamento rete core",
+    "valore": "2030"
+   },
+   {
+    "cosa": "completamento extended core",
+    "valore": "2040"
+   }
+  ]
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "europeo",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Rinviare il divieto di vendita di auto a benzina e diesel dal 2035 o mitigarne gli impatti",
+  "citazione": "Rimandare il divieto di vendita di autoveicoli a benzina o diesel entro il 2035, o almeno mitigare gli impatti sulla filiera produttiva e sul consumatore finale",
+  "punto": "Infrastrutture, p. 98",
+  "aree": [
+   "infrastrutture-trasporti",
+   "ambiente-animali"
+  ],
+  "sottotema": "Automotive",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "europeo",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Mantenere GNL e nucleare nella tassonomia UE delle fonti sostenibili",
+  "citazione": "Mantenere GNL e nucleare nella “Tassonomia Ue” delle fonti di energia compatibili",
+  "punto": "Infrastrutture, p. 98",
+  "aree": [
+   "energia"
+  ],
+  "sottotema": "Nucleare",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Ampliare il Fondo complementare PNRR per il bio-GNL nei trasporti",
+  "citazione": "Incentivare la produzione di bio-metano e la sua distribuzione nella rete dei trasporti (bio-GNL), ampliando la dotazione del Fondo Complementare PNRR",
+  "punto": "Infrastrutture, p. 98",
+  "aree": [
+   "infrastrutture-trasporti",
+   "energia"
+  ],
+  "sottotema": "Biometano",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Rimuovere i vincoli PNRR al finanziamento di cold ironing, rigassificazione e bunkeraggio GNL nei porti",
+  "citazione": "Occorre rimuovere i vincoli del PNRR [...] al finanziamento di infrastrutture importanti per lo la transizione energetica nei porti, quali il cold ironing, la rigassificazione e il bunkeraggio Lng",
+  "punto": "Infrastrutture, p. 98",
+  "aree": [
+   "infrastrutture-trasporti",
+   "conti-pubblici",
+   "energia"
+  ],
+  "sottotema": "Porti e aeroporti",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Pianificare la rete ferroviaria per corridoi completi con standard omogenei",
+  "citazione": "Ragionare in termini di linee e corridoi anziché di opere e lotti funzionali.",
+  "punto": "Infrastrutture, p. 99",
+  "aree": [
+   "infrastrutture-trasporti"
+  ],
+  "sottotema": "Ferrovie e alta velocità",
+  "concretezza": 2
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Garantire la coesistenza di traffico passeggeri e merci sulla rete AV da Nord a Sud",
+  "citazione": "Garantire uno sviluppo armonico della rete ferroviaria, garantendo la coesistenza di traffico passeggeri e merci, anche sulla rete AV, da Nord a Sud",
+  "punto": "Infrastrutture, p. 99",
+  "aree": [
+   "infrastrutture-trasporti"
+  ],
+  "sottotema": "Ferrovie e alta velocità",
+  "concretezza": 2
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Garantire un collegamento ferroviario di qualità tra Roma e tutti i capoluoghi di Regione",
+  "citazione": "Garantire collegamento ferroviario di qualità tra Roma e tutti i capoluoghi di Regione (per le isole si intendono collegamenti aerei di continuità territoriale)",
+  "punto": "Infrastrutture, p. 99",
+  "aree": [
+   "infrastrutture-trasporti",
+   "mezzogiorno-territori"
+  ],
+  "sottotema": "Ferrovie e alta velocità",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Varare un piano ventennale di ammodernamento strutturale della rete autostradale",
+  "citazione": "Piano strategico di revamping strutturale dell’intera rete autostradale (per i prossimi 20 anni).",
+  "punto": "Infrastrutture, p. 99",
+  "aree": [
+   "infrastrutture-trasporti"
+  ],
+  "sottotema": "Autostrade e concessioni",
+  "concretezza": 3,
+  "parametri": [
+   {
+    "cosa": "orizzonte del piano",
+    "valore": "20 anni"
+   }
+  ]
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Ridurre automaticamente i pedaggi autostradali quando i cantieri riducono le corsie",
+  "citazione": "in caso di riduzione di corsie, si abbassa il livello del servizio offerto, a cui deve necessariamente seguire la riduzione automatica della tariffa",
+  "punto": "Infrastrutture, p. 99",
+  "aree": [
+   "infrastrutture-trasporti",
+   "economia-imprese"
+  ],
+  "sottotema": "Autostrade e concessioni",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Calmierare pedaggi, carburanti e ristorazione sulle autostrade",
+  "citazione": "bisognerebbe operare affinché sia i pedaggi concernenti ogni singola tratta percorsa, sia i prezzi dei carburanti e della ristorazione – attualmente tutti ingiustificatamente esorbitanti – siano ricondotti a prezzi “corretti” e calmierati",
+  "punto": "Infrastrutture, p. 99",
+  "aree": [
+   "infrastrutture-trasporti",
+   "economia-imprese"
+  ],
+  "sottotema": "Autostrade e concessioni",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Imporre maggiore trasparenza sui dati dei concessionari autostradali e più tutele per gli utenti",
+  "citazione": "Occorre assicurare una maggiore trasparenza sull’attività dei concessionari autostradali (dati di traffico per tratte e per singoli caselli",
+  "punto": "Infrastrutture, p. 99",
+  "aree": [
+   "infrastrutture-trasporti"
+  ],
+  "sottotema": "Autostrade e concessioni",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Avviare subito le grandi opere autostradali già finanziate come la Gronda di Genova",
+  "citazione": "bisognerebbe partire subito con le grandi opere, soprattutto con quelle già da tempo assentite e finanziate (si pensi, ad esempio, alla Gronda di Genova)",
+  "punto": "Infrastrutture, p. 100",
+  "aree": [
+   "infrastrutture-trasporti"
+  ],
+  "sottotema": "Autostrade e concessioni",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Rafforzare Mare bonus e Ferro bonus per lo spostamento modale delle merci",
+  "citazione": "Mare bonus, Ferro bonus e altre incentivazioni per aumentare lo shift modale per la riduzione delle emissioni",
+  "punto": "Infrastrutture, p. 100",
+  "aree": [
+   "infrastrutture-trasporti",
+   "ambiente-animali"
+  ],
+  "sottotema": "Trasporto merci",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Trasformare alcune Autorità di sistema portuale in S.p.A. pubbliche con enti locali e deroghe alla legge Madia",
+  "citazione": "Creazione di alcune S.p.A. a capitale pubblico, con nell’azionariato anche gli Enti locali, con deroghe rispetto a Legge Madia",
+  "punto": "Infrastrutture, p. 100",
+  "aree": [
+   "infrastrutture-trasporti",
+   "istituzioni-riforme"
+  ],
+  "sottotema": "Porti e aeroporti",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Obbligare le Autorità portuali a certificazione ISO 9001 e project manager",
+  "citazione": "Tutte le AdSP dovranno dotarsi di certificazioni di qualità ISO 9001",
+  "punto": "Infrastrutture, p. 100",
+  "aree": [
+   "infrastrutture-trasporti",
+   "pubblica-amministrazione"
+  ],
+  "sottotema": "Porti e aeroporti",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Dare autonomia finanziaria ai principali porti aumentando la quota di gettito IVA lasciata a porti e Regioni",
+  "citazione": "È necessario attuare un processo di devolution e autonomia finanziaria delle principali AdSP (aumento della percentuale del gettito Iva lasciato ai porti e alle Regioni",
+  "punto": "Infrastrutture, p. 100",
+  "aree": [
+   "infrastrutture-trasporti",
+   "istituzioni-riforme"
+  ],
+  "sottotema": "Porti e aeroporti",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Attuare il piano RFI per l'ultimo miglio ferroviario di 26 porti e treni da 750 metri sui corridoi",
+  "citazione": "Occorre attuare il piano Rfi per l’ultimo miglio ferroviario prevede che 26 porti italiani siano collegati alla rete ferroviaria, attraverso 19 interventi (230 Meuro)",
+  "punto": "Infrastrutture, p. 101",
+  "aree": [
+   "infrastrutture-trasporti"
+  ],
+  "sottotema": "Porti e aeroporti",
+  "concretezza": 4,
+  "parametri": [
+   {
+    "cosa": "porti collegati",
+    "valore": "26"
+   },
+   {
+    "cosa": "interventi",
+    "valore": "19"
+   },
+   {
+    "cosa": "costo",
+    "valore": "230 milioni di euro"
+   },
+   {
+    "cosa": "lunghezza treni",
+    "valore": "750 metri"
+   }
+  ],
+  "copertura": "PNRR e Fondo complementare"
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Introdurre sgravi fiscali per la formazione e le patenti professionali degli autotrasportatori",
+  "citazione": "promuovere l’accesso alla professione dell’autotrasporto, attraverso sgravi fiscali alla formazione e all’ottenimento delle licenze professionali",
+  "punto": "Infrastrutture, p. 101",
+  "aree": [
+   "infrastrutture-trasporti",
+   "lavoro"
+  ],
+  "sottotema": "Autotrasporto",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Riformare l'Albo dell'autotrasporto ammettendo solo imprese affidabili",
+  "citazione": "riformando nel contempo l’Albo dell’Autotrasporto, garantendo l’accesso e il riconoscimento solo ai soggetti che dimostrano affidabilità",
+  "punto": "Infrastrutture, p. 101",
+  "aree": [
+   "infrastrutture-trasporti"
+  ],
+  "sottotema": "Autotrasporto",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Adattare i certificati bianchi per incentivare il rinnovo delle flotte di autotrasporto",
+  "citazione": "Il sistema dei “certificati bianchi” (Titoli di Efficienza Energetica – TEE) dovrà essere adattato per garantire efficacia nell’incentivazione degli investimenti per il rinnovo delle flotte",
+  "punto": "Infrastrutture, p. 101",
+  "aree": [
+   "infrastrutture-trasporti",
+   "energia"
+  ],
+  "sottotema": "Autotrasporto",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Riformare la legge sugli interporti per promuovere l'intermodalità",
+  "citazione": "attraverso la riforma della legge sugli interporti (che ha ormai 32 anni)",
+  "punto": "Infrastrutture, p. 101-102",
+  "aree": [
+   "infrastrutture-trasporti"
+  ],
+  "sottotema": "Trasporto merci",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Introdurre nel Codice della strada norme per la logistica urbana e i micro-hub di distribuzione",
+  "citazione": "attraverso l’istituzione di norme specifiche nel Codice della Strada per l’incentivazione di veicoli efficienti dal punto di vista ambientale e della percentuale di carico, per la creazione di microhub di distribuzione urbana",
+  "punto": "Infrastrutture, p. 102",
+  "aree": [
+   "infrastrutture-trasporti"
+  ],
+  "sottotema": "Codice della strada",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Realizzare il sistema Pipenet per il trasporto merci a levitazione magnetica Milano-Reggio Calabria",
+  "citazione": "il sistema tecnologico \"Pipenet\", un progetto italiano, formato da tubi ad aria evacuata entro cui viaggiano a più di 1.500 km/h capsule per il trasporto merci a levitazione magnetica",
+  "punto": "Infrastrutture, p. 102",
+  "aree": [
+   "infrastrutture-trasporti",
+   "innovazione-digitale"
+  ],
+  "sottotema": "Trasporto merci",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Varare un piano di rigenerazione urbana con riduzione degli oneri sulle ricostruzioni e ricostruzione dei quartieri popolari",
+  "citazione": "Rivedere i criteri d’uso del materiale edile delle demolizioni, riduzione degli oneri su riedificazioni [...] Ricostruzione dei quartieri popolari delle grandi città con nuove tecniche a basso impatto energetico e ambientale.",
+  "punto": "Infrastrutture, p. 102",
+  "aree": [
+   "casa"
+  ],
+  "sottotema": "Rigenerazione urbana",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Ridefinire le competenze delle Soprintendenze sugli edifici successivi al 1950 e sui manufatti industriali",
+  "citazione": "ridefinizione delle competenze delle sovrintendenze per gli edifici costruiti dopo il 1950 e industriali (silos, ecc.) dalla fine dell’800",
+  "punto": "Infrastrutture, p. 102",
+  "aree": [
+   "casa",
+   "cultura-sport-turismo"
+  ],
+  "sottotema": "Soprintendenze",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Creare una task force e una legge per le opere del Giubileo e delle Olimpiadi Milano-Cortina",
+  "citazione": "Creazione di una task force e di una legge per le opere del Giubileo e delle Olimpiadi Milano-Cortina per recuperare ritardi accumulati",
+  "punto": "Infrastrutture, p. 102",
+  "aree": [
+   "infrastrutture-trasporti",
+   "cultura-sport-turismo"
+  ],
+  "sottotema": "Grandi eventi",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Dare priorità in città alla condivisione sicura di strade e marciapiedi invece che a piste ciclabili e ZTL",
+  "citazione": "la priorità non deve andare alle piste ciclabili e alle Zone a Traffico Limitato, ma alla condivisione della strada e dei marciapiedi in sicurezza (curbside management)",
+  "punto": "Infrastrutture, p. 102",
+  "aree": [
+   "infrastrutture-trasporti"
+  ],
+  "sottotema": "Mobilità urbana",
+  "concretezza": 2
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Estendere il programma 'MaaS for Italy' alle città medie e piccole",
+  "citazione": "Il programma “MaaS for Italy”, che oggi è finanziato per 6 città italiane di grandi dimensioni, dovrà essere esteso alle medie e piccole città",
+  "punto": "Infrastrutture, p. 102",
+  "aree": [
+   "infrastrutture-trasporti",
+   "innovazione-digitale"
+  ],
+  "sottotema": "Trasporto pubblico locale",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Realizzare un programma di desalinizzatori per isole minori e agricoltura",
+  "citazione": "di un programma di desalinizzatori per il rifornimento di acqua potabile per le isole minori e per fini agricoli",
+  "punto": "Infrastrutture, p. 102-103",
+  "aree": [
+   "ambiente-animali",
+   "mezzogiorno-territori",
+   "agricoltura-pesca"
+  ],
+  "sottotema": "Acqua e irrigazione",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Integrare la gestione degli aeroporti almeno a livello regionale nel Piano nazionale aeroporti",
+  "citazione": "occorre promuovere nel Piano una reale integrazione gestionale a livello almeno regionale degli aeroporti italiani",
+  "punto": "Infrastrutture, p. 103",
+  "aree": [
+   "infrastrutture-trasporti"
+  ],
+  "sottotema": "Porti e aeroporti",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Finanziare con il PNRR l'ammodernamento ecologico degli aeroporti, i carburanti SAF e la mobilità aerea urbana",
+  "citazione": "vanno riconsiderati positivamente tutti quei progetti che mirano all'ammodernamento degli aeroporti per trasformarli in strutture ecocompatibili",
+  "punto": "Infrastrutture, p. 103",
+  "aree": [
+   "infrastrutture-trasporti",
+   "conti-pubblici"
+  ],
+  "sottotema": "Porti e aeroporti",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Realizzare il primo spazioporto europeo a Grottaglie",
+  "citazione": "consolidare le attività per la realizzazione del primo spazioporto europeo già individuato sul sito dell'attuale aeroporto di Grottaglie",
+  "punto": "Infrastrutture, p. 103",
+  "aree": [
+   "innovazione-digitale",
+   "infrastrutture-trasporti",
+   "mezzogiorno-territori"
+  ],
+  "sottotema": "Spazio",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Istituire un Ministero dell'innovazione tecnologica per attuare l'agenda digitale del PNRR",
+  "citazione": "Istituzione di un Ministero dell’innovazione tecnologica che sappia attuare con efficacia le misure previste dal PNRR",
+  "punto": "Innovazione, p. 104",
+  "aree": [
+   "innovazione-digitale",
+   "istituzioni-riforme"
+  ],
+  "sottotema": "Agenda digitale",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "europeo",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Tutelare la privacy nella digitalizzazione e nelle norme UE su dati e intelligenza artificiale",
+  "citazione": "Il contributo italiano dovrà essere quello di sottolineare e prevenire i rischi e gl’impatti per i diritti e le libertà dei cittadini, specialmente per quanto concerne la privacy e la protezione dei dati personali",
+  "punto": "Innovazione, p. 104",
+  "aree": [
+   "innovazione-digitale",
+   "diritti-liberta"
+  ],
+  "sottotema": "Intelligenza artificiale",
+  "concretezza": 2
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Creare punti locali di assistenza digitale per cittadini e imprese nei piccoli Comuni",
+  "citazione": "Accompagnamento dei cittadini, delle imprese e della PA nel percorso di cittadinanza digitale con punti di presidio locali, soprattutto nei piccoli Comuni",
+  "punto": "Innovazione, p. 105",
+  "aree": [
+   "pubblica-amministrazione",
+   "innovazione-digitale",
+   "mezzogiorno-territori"
+  ],
+  "sottotema": "Digitalizzazione della PA",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Promuovere l'educazione digitale per chi è in divario digitale, in particolare persone con disabilità",
+  "citazione": "Promozione dell’educazione digitale e dell’inclusione tecnologica delle persone che si trovano in situazioni di divario digitale",
+  "punto": "Innovazione, p. 105",
+  "aree": [
+   "innovazione-digitale",
+   "welfare-inclusione"
+  ],
+  "sottotema": "Divario digitale",
+  "concretezza": 2
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Inserire in Costituzione la tutela dell'identità digitale assegnata dalla nascita",
+  "citazione": "Inserimento in Costituzione della tutela dell’identità digitale (assegnata dalla nascita) come il Codice fiscale",
+  "punto": "Innovazione, p. 105",
+  "aree": [
+   "innovazione-digitale",
+   "istituzioni-riforme"
+  ],
+  "sottotema": "Identità digitale",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Nominare i presidenti di Regione commissari per la connettività e la rete unica",
+  "citazione": "Nomina dei Presidenti delle Regioni e delle Province Autonome a commissario per la connettività per la realizzazione della Rete Unica",
+  "punto": "Innovazione, p. 105",
+  "aree": [
+   "innovazione-digitale",
+   "istituzioni-riforme"
+  ],
+  "sottotema": "Banda ultralarga",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Spegnere la rete in rame entro il 2030",
+  "citazione": "Switch off del Rame entro l’anno 2030",
+  "punto": "Innovazione, p. 105",
+  "aree": [
+   "innovazione-digitale"
+  ],
+  "sottotema": "Banda ultralarga",
+  "concretezza": 4,
+  "parametri": [
+   {
+    "cosa": "scadenza",
+    "valore": "2030"
+   }
+  ]
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Introdurre voucher e crediti d'imposta per l'acquisto di servizi di cybersicurezza",
+  "citazione": "siano sostenuti con un sistema di voucher e crediti d’imposta, che sostengano gli acquisti di servizi cyber",
+  "punto": "Innovazione, p. 105",
+  "aree": [
+   "innovazione-digitale",
+   "fisco"
+  ],
+  "sottotema": "Cybersicurezza",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Favorire tecnologie digitali nazionali o europee negli appalti pubblici e nella domanda privata",
+  "citazione": "l’Italia deve fare la sua parte, incentivando il ricorso a tecnologie nazionali o europee, [...] sia quando si tratta di determinare i parametri di valutazione di offerta nell’ambito del Public procurement",
+  "punto": "Innovazione, p. 105-106",
+  "aree": [
+   "innovazione-digitale",
+   "pubblica-amministrazione"
+  ],
+  "sottotema": "Cybersicurezza",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Introdurre una decontribuzione specifica per le assunzioni nel settore della cybersicurezza",
+  "citazione": "va immaginata una decontribuzione specifica per aiutare il settore che più di tutti farà assunzioni nel prossimo quinquennio",
+  "punto": "Innovazione, p. 106",
+  "aree": [
+   "innovazione-digitale",
+   "lavoro"
+  ],
+  "sottotema": "Cybersicurezza",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Individuare negli enti locali una figura terza per la localizzazione delle antenne e semplificare l'iter",
+  "citazione": "Individuazione da parte degli Enti locali di una figura terza che individui il posizionamento e l’installazione di infrastrutture tecnologiche",
+  "punto": "Innovazione, p. 106",
+  "aree": [
+   "innovazione-digitale",
+   "pubblica-amministrazione"
+  ],
+  "sottotema": "Reti di telecomunicazione",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Rafforzare il contrasto alla pirateria audiovisiva legata alla criminalità organizzata",
+  "citazione": "Il contrasto alla pirateria audiovisiva è centrale per le politiche di sostegno del settore.",
+  "punto": "Innovazione, p. 106",
+  "aree": [
+   "cultura-sport-turismo",
+   "sicurezza"
+  ],
+  "sottotema": "Pirateria",
+  "concretezza": 2
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Ridurre progressivamente il canone RAI fino ad abolirlo nel 2030",
+  "citazione": "Progressiva riduzione del canone Rai fino alla sua definitiva abolizione nell’anno 2030",
+  "punto": "Innovazione, p. 107",
+  "aree": [
+   "informazione-media",
+   "fisco"
+  ],
+  "sottotema": "Servizio pubblico RAI",
+  "concretezza": 4,
+  "parametri": [
+   {
+    "cosa": "abolizione",
+    "valore": "2030"
+   }
+  ]
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Potenziare RaiPlay per competere con le piattaforme di streaming",
+  "citazione": "Potenziare il servizio streaming della Rai con l’intento di rendere RaiPlay fruibile al pari di concorrenti come Netflix e Amazon Prime Video",
+  "punto": "Innovazione, p. 107",
+  "aree": [
+   "informazione-media"
+  ],
+  "sottotema": "Servizio pubblico RAI",
+  "concretezza": 2
+ }
+]

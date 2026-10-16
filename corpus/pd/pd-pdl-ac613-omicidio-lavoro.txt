@@ -1,0 +1,58 @@
+URL: https://documenti.camera.it/apps/commonServices/getDocumento.ashx?sezione=lavori&tipoDoc=testo_pdl&idlegislatura=19&codice=leg.19.pdl.camera.613.19PDL0012370
+
+XIX LEGISLATURA
+CAMERA DEI DEPUTATI
+N. 613
+PROPOSTA DI LEGGE
+d'iniziativa della deputata BRAGA
+Modifiche al codice penale concernenti l'introduzione dei reati di omicidio e di lesioni personali gravi o gravissime commessi con violazione delle norme per la prevenzione degli infortuni sul lavoro e delle malattie professionali
+Presentata il 22 novembre 2022
+  Onorevoli Colleghi! – La Costituzione individua nel lavoro l'elemento qualificante e caratterizzante della partecipazione alla vita sociale, un riferimento essenziale per lo sviluppo della persona, la principale manifestazione della capacità della persona di contribuire al progresso collettivo.
+Alle previsioni dell'articolo 1 e dell'articolo 4 della Costituzione, nel senso sopra indicato, corrispondono la necessaria salvaguardia della persona e della sua integrità psicofisica come principio incondizionato, non essendo ammissibili limitazioni di sorta, quali quelle derivanti, ad esempio, dalla fattibilità economica o dalla convenienza produttiva, quando si tratta di predisporre e mettere in atto condizioni ambientali e di lavoro sicure: depongono univocamente in tal senso altre norme costituzionali, quali l'articolo 32, primo comma, l'articolo 35, primo comma, l'articolo 41, come modificato nel corso della XVIII legislatura.
+Tuttavia i dati riguardanti gli infortuni sul lavoro, anche mortali, evidenziano come il problema della sicurezza sui luoghi di lavoro sia lungi dall'avere trovato una soluzione. Secondo gli ultimi dati dell'Istituto nazionale per l'assicurazione contro gli infortuni sul lavoro, le denunce di infortunio sul lavoro presentate entro il mese di settembre 2022 sono state 536.002, in aumento del 35,2 per cento rispetto alle 396.372 dei primi nove mesi del 2021 (+46,2 per cento rispetto alle 366.598 del periodo gennaio-settembre 2020 e +14,4 per cento rispetto alle 468.698 del periodo gennaio-settembre 2019). I dati rilevati al 30 settembre di ciascun anno evidenziano a livello nazionale per i primi nove mesi del 2022 un incremento rispetto al pari periodo del 2021 sia dei casi avvenuti in occasione di lavoro, passati dai 342.863 del 2021 ai 471.543 del 2022 (+37,5 per cento), sia di quelli cosiddetti in itinere, occorsi cioè nel tragitto di andata o ritorno tra l'abitazione e il posto di lavoro, che hanno fatto registrare un aumento del 20,5 per cento, da 53.509 a 64.459.
+Ai limiti di attuazione concreta di una legislazione antinfortunistica che dagli anni '50 a oggi ha comunque cercato di corrispondere ai princìpi costituzionali, si somma, in maniera crescente, la condizione di un mercato del lavoro in cui vengono alimentate precarietà e lavoro irregolare, che aumentano l'esposizione dei lavoratori a rischi incontrollati; negativamente significativo è il ricorso a subappalti che comportano il frequente utilizzo di lavoro nero e la carenza totale di strumenti materiali e formativi per la prevenzione degli infortuni.
+Pur dovendosi riconoscere che i primi fattori di prevenzione sono gli investimenti materiali in sicurezza – nelle forme della destinazione di risorse al sistema dei controlli e del sostegno alle imprese virtuose – e la crescita formativa e culturale, lo strumento del diritto penale non può essere estraneo a una politica generale della sicurezza.
+L'impianto prevenzionistico, risalente a complessi normativi introdotti negli anni '50 e successivamente modificati e aggiornati sino al decreto legislativo 9 aprile 2008, n. 81, assistiti da sanzioni penali, continua a corrispondere agli scopi per i quali è stato introdotto; il sistema sanzionatorio prevede poi da tempo (a partire dal decreto legislativo 19 dicembre 1994, n. 758) una modalità estintiva del procedimento penale per le violazioni sanate attraverso l'adempimento di prescrizioni, secondo un modello efficace, adottato anche dalla legge 22 maggio 2015, n. 68, nell'ambito del diritto penale dell'ambiente.
+Vi sono poi le norme del codice penale che puniscono le lesioni personali colpose e l'omicidio colposo, che prevedono quali aggravanti l'avere commesso il fatto con violazione delle norme per la prevenzione degli infortuni su lavoro (articolo 589, secondo comma, e articolo 590, terzo comma, del codice penale).
+Tuttavia, a fronte di violazioni delle norme prevenzionistiche e di comportamenti negligenti, imperiti e imprudenti dei datori di lavoro, che effettivamente causino lesioni personali anche gravi o gravissime ovvero la morte di lavoratori, gli attuali minimi edittali di pena, insieme alla possibilità di accedere a riti alternativi, tendono a vanificare l'effetto di prevenzione generale e speciale di queste norme penali.
+A ciò si aggiunge l'ulteriore criticità determinata dall'«invisibilità» delle prestazioni di lavoro irregolari, a causa della quale l'infortunio non viene neppure denunciato, con conseguente impunità dei responsabili.
+Non appare antisistematica l'introduzione nel codice penale delle fattispecie di omicidio sul lavoro e di lesioni personali derivanti da infortuni sul lavoro, assumendo a modello l'analoga introduzione (con la legge 23 marzo 2016, n. 41) di delitti specifici per morte o lesioni cagionate con violazione delle norme sulla disciplina della circolazione stradale.
+Attesa la possibilità di forme di gestione illecita del rapporto di lavoro con effetti protratti nel tempo e che causano malattie professionali le quali possono cagionare lesioni personali o la morte del lavoratore, la medesima disciplina dovrà essere introdotta per morte o lesioni personali del lavoratore derivanti da malattia professionale.
+La presente proposta di legge, pertanto, persegue lo scopo di attribuire maggiore efficacia alla risposta sanzionatoria contro le cause degli infortuni sul lavoro e delle malattie professionali, mantenendo al diritto penale il suo ruolo complementare nella prevenzione di questo fenomeno, rendendolo tuttavia in grado di orientare effettivamente i comportamenti dei consociati.
+Questa finalità potrà essere perseguita:
+introducendo fattispecie delittuose tipiche, di natura colposa, denominate «omicidio sul lavoro» e «lesioni personali derivanti da infortuni sul lavoro»;
+modulando le sanzioni principali e accessorie previste per le fattispecie di cui sopra;
+escludendo espressamente per le fattispecie di cui sopra gli istituti della messa alla prova (articoli 168-bis e seguenti del codice penale) e dell'esclusione della punibilità per particolare tenuità del fatto (articolo 131-bis codice penale);
+introducendo specifiche aggravanti e sanzioni accessorie per la commissione dei reati di cui sopra in occasione o a causa di prestazioni di lavoro comunque irregolari;
+coordinando le nuove norme con il sistema delle prescrizioni di cui al decreto legislativo n. 758 del 1994 per favorire la regolarizzazione delle situazioni di rischio e favorendo il risarcimento del danno.
+Art. 1.
+(Introduzione dell'articolo 589-quater del codice penale, in materia di omicidio sul lavoro)
+1. Dopo l'articolo 589-ter del codice penale è inserito il seguente:
+   «Art. 589-quater. – (Omicidio sul lavoro) – Chiunque cagioni per colpa la morte di una persona con violazione delle norme per la prevenzione degli infortuni sul lavoro e delle malattie professionali è punito con la reclusione da due a sette anni.
+Nell'ipotesi di cui al primo comma, se la morte è cagionata nell'esecuzione di un rapporto di lavoro irregolare sul piano contrattuale o contributivo, la pena è la reclusione da cinque a dieci anni.
+Nelle ipotesi di cui ai commi primo e secondo, a chiunque cagioni la morte di più persone, ovvero la morte di una o più persone e lesioni a una o più persone, si applica la pena che dovrebbe infliggersi per la più grave delle violazioni commesse aumentata fino al triplo, ma la pena non può superare gli anni diciotto.
+Quando ricorrono le circostanze aggravanti di cui ai commi secondo e terzo, le concorrenti circostanze attenuanti non possono essere ritenute equivalenti o prevalenti rispetto alle predette circostanze aggravanti».
+Art. 2.
+(Introduzione dell'articolo 589-quinquies del codice penale, in materia di limiti all'applicabilità della sospensione condizionale della pena)
+1. Dopo l'articolo 589-quater del codice penale, introdotto dall'articolo 1 della presente legge, è inserito il seguente:
+«Art. 589-quinquies. – (Sospensione condizionale della pena per il delitto di omicidio sul lavoro) – La sospensione condizionale della pena irrogata o applicata per il delitto di cui all'articolo 589-quater è sempre subordinata al risarcimento integrale del danno e all'estinzione, ai sensi dell'articolo 24 del decreto legislativo 19 dicembre 1994, n. 758, delle violazioni costituenti presupposto della colpa».
+Art. 3.
+(Introduzione dell'articolo 590-septies del codice penale, in materia di lesioni personali gravi o gravissime sul lavoro)
+1. Dopo l'articolo 590-sexies del codice penale è inserito il seguente:
+   «Art. 590-septies. – (Lesioni personali sul lavoro gravi o gravissime) – Chiunque cagioni per colpa ad altri una lesione personale grave con violazione delle norme sulla prevenzione degli infortuni sul lavoro e delle malattie professionali è punito con la reclusione da tre mesi a un anno.
+Nell'ipotesi di cui al primo comma, se la lesione personale grave è cagionata nell'esecuzione di un rapporto di lavoro irregolare sul piano contrattuale o contributivo, la pena è la reclusione da sei mesi a due anni.
+Chiunque cagioni per colpa ad altri una lesione personale gravissima con violazione delle norme sulla prevenzione degli infortuni sul lavoro e delle malattie professionali è punito con la reclusione da uno a tre anni.
+Nell'ipotesi di cui al terzo comma, se la lesione personale gravissima è cagionata nell'esecuzione di un rapporto di lavoro irregolare sul piano contrattuale o contributivo, la pena è la reclusione da due a sei anni.
+Nelle ipotesi di cui ai commi dal primo al quarto, a chiunque cagioni la lesione di più persone si applica la pena che dovrebbe infliggersi per la più grave delle violazioni commesse aumentata fino al triplo, ma la pena non può superare gli anni sei per le lesioni gravi e gli anni dodici per le lesioni gravissime.
+Quando ricorrono le circostanze aggravanti di cui ai commi secondo e quarto, le concorrenti circostanze attenuanti non possono essere ritenute equivalenti o prevalenti rispetto alle predette circostanze aggravanti».
+Art. 4.
+(Esclusione dell'applicabilità degli istituti dell'esclusione della punibilità per particolare tenuità del fatto e della messa alla prova)
+1. Non sono applicabili ai delitti di cui agli articoli 589-quater e 590-septies gli istituti dell'esclusione della punibilità per particolare tenuità del fatto e della sospensione del procedimento con messa alla prova dell'imputato, di cui rispettivamente agli articoli 131-bis e 168-bis del codice penale.
+Art. 5.
+(Confisca obbligatoria in caso di omicidio sul lavoro aggravato dall'esecuzione di un rapporto di lavoro irregolare sul piano contrattuale o contributivo)
+1. Dopo il numero 1-bis del secondo comma dell'articolo 240 del codice penale è inserito il seguente:
+«1-ter. dell'azienda nella quale si è verificato un omicidio sul lavoro aggravato ai sensi dell'articolo 589-quater, secondo comma».
+Art. 6.
+(Disposizioni di coordinamento)
+1. Il secondo comma dell'articolo 589 e il terzo comma dell'articolo 590 del codice penale sono abrogati.
+Per tornare alla pagina di provenienza azionare il tasto BACK del browser

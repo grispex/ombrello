@@ -1,0 +1,899 @@
+[
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "europeo",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Chiedere in sede europea un tetto al prezzo del gas (price cap)",
+  "citazione": "Insistere in sede europea per l’inserimento in tempi congrui di un Price-CAP europeo al prezzo del gas",
+  "punto": "Energia, p. 53",
+  "aree": [
+   "energia",
+   "esteri-europa"
+  ],
+  "sottotema": "Bollette e prezzi",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Garantire la fornitura prioritaria di gas all'industria del vetro nel piano di emergenza",
+  "citazione": "Prevedere nella imminente revisione del Piano di Emergenza Gas la garanzia della fornitura prioritaria di gas per l'industria di fabbricazione del vetro",
+  "punto": "Energia, p. 53",
+  "aree": [
+   "energia",
+   "economia-imprese"
+  ],
+  "sottotema": "Gas e approvvigionamento",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Modificare il PiTESAI per riprendere estrazione e produzione nazionale di gas",
+  "citazione": "Riprendere l’esplorazione e la produzione nazionale di gas naturale, anche ricorrendo a modifiche del PiTESAI, al fine di diminuire la dipendenza energetica",
+  "punto": "Energia, p. 53",
+  "aree": [
+   "energia"
+  ],
+  "sottotema": "Gas e approvvigionamento",
+  "concretezza": 3,
+  "parametri": [
+   {
+    "cosa": "produzione nazionale 2001",
+    "valore": "15 miliardi di mc"
+   },
+   {
+    "cosa": "produzione nazionale 2021",
+    "valore": "circa 3 miliardi di mc"
+   }
+  ]
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Riconvertire gli impianti di biogas per produrre biometano anche da immettere in rete",
+  "citazione": "Sostenere lo sviluppo e la valorizzazione delle potenzialità del biometano e del biometano avanzato, mediante la riconversione e l’efficientamento degli impianti di biogas",
+  "punto": "Energia, p. 53",
+  "aree": [
+   "energia",
+   "ambiente-animali"
+  ],
+  "sottotema": "Biometano",
+  "concretezza": 3,
+  "note": "Ripetuto a p. 55 (valorizzazione energetica dei rifiuti)."
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Realizzare almeno un nuovo rigassificatore fisso nel Sud (Gioia Tauro e/o Porto Empedocle)",
+  "citazione": "Sostenere la realizzazione di almeno un nuovo rigassificatore fisso nel sud del Paese (Gioia Tauro e/o Porto Empedocle)",
+  "punto": "Energia, p. 53",
+  "aree": [
+   "energia",
+   "mezzogiorno-territori",
+   "infrastrutture-trasporti"
+  ],
+  "sottotema": "Gas e approvvigionamento",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Sostenere il gasdotto EastMed/Poseidon per importare gas da Israele e Cipro",
+  "citazione": "Sostenere la realizzazione del progetto del gasdotto EastMed/Poseidon che consentirebbe all’Italia di approvvigionarsi di gas da Israele e Cipro",
+  "punto": "Energia, p. 53",
+  "aree": [
+   "energia",
+   "esteri-europa",
+   "infrastrutture-trasporti"
+  ],
+  "sottotema": "Gas e approvvigionamento",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Sostenere il gasdotto Barcellona-Sardegna-Italia",
+  "citazione": "Sostenere la realizzazione del progetto del gasdotto Barcellona – Sardegna – Italia",
+  "punto": "Energia, p. 54",
+  "aree": [
+   "energia",
+   "infrastrutture-trasporti"
+  ],
+  "sottotema": "Gas e approvvigionamento",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Fare dell'Italia l'hub europeo del gas tra Europa e Nord Africa",
+  "citazione": "Attivarsi affinché l’Italia possa concretamente diventare l’hub europeo del gas, collegando l'Europa e il Nord Africa",
+  "punto": "Energia, p. 54",
+  "aree": [
+   "energia",
+   "esteri-europa"
+  ],
+  "sottotema": "Gas e approvvigionamento",
+  "concretezza": 2
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Sbloccare le gare per le concessioni della distribuzione del gas",
+  "citazione": "Sbloccare e accelerare le gare per l'affidamento delle concessioni per il servizio di distribuzione del gas",
+  "punto": "Energia, p. 54",
+  "aree": [
+   "energia",
+   "economia-imprese"
+  ],
+  "sottotema": "Concorrenza e concessioni",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Sostenere la produzione di idrogeno da biomasse, fanghi e digestato (es. torcia al plasma)",
+  "citazione": "Sostenere lo sviluppo di tecnologie che prevedano la produzione di H2, ad esempio la torcia al plasma, impiegando feedstock di tipo biogenico",
+  "punto": "Energia, p. 55",
+  "aree": [
+   "energia",
+   "ambiente-animali"
+  ],
+  "sottotema": "Idrogeno",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Favorire nel breve-medio termine l'idrogeno blu da gas naturale con cattura della CO2",
+  "citazione": "Favorire nel breve-medio termine anche lo sviluppo dell'idrogeno a basse emissioni, ovvero dell'idrogeno 'blu' prodotto dal gas naturale mediante cattura, stoccaggio e riutilizzo della CO2",
+  "punto": "Energia, p. 55",
+  "aree": [
+   "energia"
+  ],
+  "sottotema": "Idrogeno",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Sostenere gli investimenti nelle reti energetiche intelligenti per integrare gas a basse emissioni e rinnovabili",
+  "citazione": "Sostenere gli investimenti delle infrastrutture energetiche, con particolare riferimento alle \"reti intelligenti\"",
+  "punto": "Energia, p. 55",
+  "aree": [
+   "energia"
+  ],
+  "sottotema": "Reti elettriche",
+  "concretezza": 2
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "europeo",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Favorire la nascita di un'industria europea dell'idrogeno",
+  "citazione": "Favorire la nascita di un'industria europea dell'idrogeno per raggiungere economie di scala",
+  "punto": "Energia, p. 56",
+  "aree": [
+   "energia",
+   "economia-imprese"
+  ],
+  "sottotema": "Idrogeno",
+  "concretezza": 2
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Ricostruire una filiera industriale nucleare nazionale di progettazione e realizzazione",
+  "citazione": "Ricostruire nel nostro Paese una filiera nucleare industriale nazionale, sia progettuale che realizzativa",
+  "punto": "Energia, p. 57",
+  "aree": [
+   "energia",
+   "economia-imprese"
+  ],
+  "sottotema": "Nucleare",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Promuovere una campagna di informazione scientifica sul nucleare di ultima generazione",
+  "citazione": "Favorire il dibattito sull'energia dell'atomo basato su rigore scientifico e una campagna di informazione",
+  "punto": "Energia, p. 57",
+  "aree": [
+   "energia"
+  ],
+  "sottotema": "Nucleare",
+  "concretezza": 2
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Sostenere la ricerca su reattori di ultima generazione, SMR e fusione nucleare",
+  "citazione": "Sostenere la ricerca tecnologica sui reattori a fissione nucleare di ultima generazione e sugli SMR, oltre che alla fusione nucleare",
+  "punto": "Energia, p. 57",
+  "aree": [
+   "energia",
+   "istruzione-universita-ricerca"
+  ],
+  "sottotema": "Nucleare",
+  "concretezza": 2
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Rilanciare i corsi universitari di ingegneria e fisica nucleare e gli scambi con Paesi esperti",
+  "citazione": "Recuperare il divario tecnologico favorendo collaborazioni e scambi di personale scientifico qualificato con Paesi dal riconosciuto know how in ambito nucleare, rilanciando corsi universitari di ingegneria e fisica nucleare.",
+  "punto": "Energia, p. 57",
+  "aree": [
+   "energia",
+   "istruzione-universita-ricerca"
+  ],
+  "sottotema": "Nucleare",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Partecipare a progetti nucleari internazionali, anche con la Francia",
+  "citazione": "Favorire la partecipazione a progetti internazionali ed europei, anche mediante collaborazione diretta con la Francia, alla luce del trattato bilaterale",
+  "punto": "Energia, p. 57",
+  "aree": [
+   "energia",
+   "esteri-europa"
+  ],
+  "sottotema": "Nucleare",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Favorire la compartecipazione di imprese italiane a nuovi reattori esteri in cambio di energia a prezzi calmierati",
+  "citazione": "Favorire accordi di compartecipazione tra consorzi di imprese italiane e società estere che pianificano la realizzazione di nuovi reattori nucleari [...] per la previsione di acquisizione di energia elettrica a prezzi calmierati a lungo termine",
+  "punto": "Energia, p. 57",
+  "aree": [
+   "energia"
+  ],
+  "sottotema": "Nucleare",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Completare il deposito nazionale dei rifiuti radioattivi con compensazioni ai territori fin da subito",
+  "citazione": "Portare a compimento l’iter per la realizzazione del deposito unico nazionale dei rifiuti radioattivi. [...] occorre modificare i criteri per il riconoscimento delle compensazioni territoriali che devono partire da subito e non dall'operatività dell'opera",
+  "punto": "Energia, p. 57",
+  "aree": [
+   "energia",
+   "ambiente-animali"
+  ],
+  "sottotema": "Nucleare",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Definire una nuova strategia e un Piano nazionale sul nucleare in un mix energetico bilanciato",
+  "citazione": "Definire una nuova strategia nazionale sul nucleare ed un Piano nazionale che preveda un mix bilanciato fra tutte le fonti energetiche",
+  "punto": "Energia, p. 57",
+  "aree": [
+   "energia"
+  ],
+  "sottotema": "Nucleare",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "europeo",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Opporsi al divieto UE di vendita delle auto a combustione interna dal 2035",
+  "citazione": "è profondamente sbagliato il bando dell'auto a combustione interna dal 2035 come proposto dalla commissione Ue con il pacchetto “Fit for 55”",
+  "punto": "Energia, p. 57",
+  "aree": [
+   "infrastrutture-trasporti",
+   "ambiente-animali",
+   "economia-imprese"
+  ],
+  "sottotema": "Automotive",
+  "concretezza": 2,
+  "parametri": [
+   {
+    "cosa": "data del divieto contestato",
+    "valore": "2035"
+   }
+  ]
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Sostenere la riconversione delle raffinerie verso biocarburanti e carburanti sintetici",
+  "citazione": "Sostenere e promuovere la progressiva evoluzione e trasformazione dei sistemi di produzione, logistica e commercializzazione oggi dedicati ai prodotti fossili verso lo sviluppo dei carburanti low carbon",
+  "punto": "Energia, p. 58",
+  "aree": [
+   "energia",
+   "economia-imprese"
+  ],
+  "sottotema": "Biocarburanti",
+  "concretezza": 2
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Estendere la rete di ricarica elettrica pubblica e privata, anche veloce e ultraveloce",
+  "citazione": "Proseguire con l’estensione e il potenziamento della rete di ricarica elettrica, sia con punti di carica privati, tra domestici e aziendali, sia soprattutto con punti di ricarica ad accesso pubblico",
+  "punto": "Energia, p. 58",
+  "aree": [
+   "infrastrutture-trasporti",
+   "energia"
+  ],
+  "sottotema": "Mobilità elettrica",
+  "concretezza": 2
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Sostenere la filiera delle batterie elettriche (produzione, seconda vita, riciclo)",
+  "citazione": "Sostenere la filiera dei prodotti e dei servizi della mobilità elettrica, comprese le batterie elettriche (per nuova produzione, second life, e riciclo materie prime)",
+  "punto": "Energia, p. 58",
+  "aree": [
+   "economia-imprese",
+   "energia"
+  ],
+  "sottotema": "Automotive",
+  "concretezza": 2
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Proseguire gli ecobonus per rottamare le auto vecchie e acquistare auto a basse emissioni",
+  "citazione": "Sostenere il mercato dei veicoli proseguendo con la campagna di incentivi (ecobonus) finalizzata alla rottamazione delle vecchie auto",
+  "punto": "Energia, p. 58",
+  "aree": [
+   "infrastrutture-trasporti",
+   "ambiente-animali"
+  ],
+  "sottotema": "Automotive",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Sostenere il rinnovo dei mezzi pesanti e dei bus turistici con motori Euro 6 e GNL",
+  "citazione": "Sostenere il rinnovo e l’ammodernamento del parco mezzi delle aziende di trasporto pesante attraverso l'acquisizione di modelli più efficienti dotati di motori Euro 6 classe E e GNL",
+  "punto": "Energia, p. 59",
+  "aree": [
+   "infrastrutture-trasporti"
+  ],
+  "sottotema": "Autotrasporto",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Sviluppare una filiera completa del GNL per il trasporto pesante marittimo e stradale",
+  "citazione": "una linea progettuale e di filiera completa sul GNL, volta a garantire lo sviluppo delle infrastrutture nazionali e misure per il trasporto marittimo",
+  "punto": "Energia, p. 59",
+  "aree": [
+   "infrastrutture-trasporti",
+   "energia"
+  ],
+  "sottotema": "Autotrasporto",
+  "concretezza": 2
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Riconvertire la rete dei distributori di carburante in hub multienergetici razionalizzandone il numero",
+  "citazione": "un piano organico a sostegno della riconversione della rete distributiva di carburanti, in hub multienergetico e multiservizi per la mobilità a basse emissioni, che passi attraverso la razionalizzazione del numero di punti di vendita",
+  "punto": "Energia, p. 59",
+  "aree": [
+   "infrastrutture-trasporti",
+   "energia"
+  ],
+  "sottotema": "Carburanti",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "europeo",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Introdurre in sede UE il criterio LCA (ciclo di vita) per certificare le emissioni dei veicoli",
+  "citazione": "Agire in sede europea per cercare di introdurre il criterio LCA (Life Cycle Assessment) per la valutazione e la certificazione delle emissioni climalteranti dei mezzi",
+  "punto": "Energia, p. 59",
+  "aree": [
+   "ambiente-animali",
+   "infrastrutture-trasporti"
+  ],
+  "sottotema": "Automotive",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Spostare strutturalmente parte degli oneri di sistema dalla bolletta alla fiscalità generale",
+  "citazione": "mediante lo spostamento strutturale di una parte degli oneri di sistema nella fiscalità generale, con particolare riferimento al bonus sociale elettrico e ai regimi tariffari speciali per il servizio ferroviario",
+  "punto": "Energia, p. 60",
+  "aree": [
+   "energia",
+   "fisco"
+  ],
+  "sottotema": "Bollette e prezzi",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Non applicare l'IVA sugli oneri generali di sistema",
+  "citazione": "Prevedere la non applicazione dell'imposta del valore aggiunto sugli oneri generali di sistema",
+  "punto": "Energia, p. 60",
+  "aree": [
+   "energia",
+   "fisco"
+  ],
+  "sottotema": "IVA",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Destinare stabilmente i proventi delle aste CO2 a coprire gli oneri di sistema e un fondo di decarbonizzazione",
+  "citazione": "Consolidare la scelta di destinare stabilmente i proventi delle aste della CO2 a copertura parziale degli oneri generali di sistema per calmierare i prezzi delle bollette",
+  "punto": "Energia, p. 60",
+  "aree": [
+   "energia",
+   "ambiente-animali"
+  ],
+  "sottotema": "Bollette e prezzi",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Analizzare impatti e dipendenza estera dei minerali critici necessari alla transizione",
+  "citazione": "Effettuare un'analisi degli impatti ambientali, economici, sociali e geopolitici in ordine a disponibilità, costi, approvvigionamento e dipendenza estera dei metalli e dei minerali critici",
+  "punto": "Energia, p. 61",
+  "aree": [
+   "energia",
+   "economia-imprese"
+  ],
+  "sottotema": "Materie prime critiche",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Mappare i siti minerari nazionali per una riserva strategica di minerali",
+  "citazione": "Prevedere una mappatura nazionale completa ed aggiornata dei siti minerari già coltivati in passato e/o di possibile coltivazione al fine di perseguire la realizzazione di un piano di “riserva strategica”",
+  "punto": "Energia, p. 61",
+  "aree": [
+   "energia",
+   "economia-imprese"
+  ],
+  "sottotema": "Materie prime critiche",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Promuovere l'estrazione del litio geotermico",
+  "citazione": "Promuovere l’estrazione (con tecnologie a basso impatto ambientale) del litio geotermico presente nel sottosuolo italiano",
+  "punto": "Energia, p. 61",
+  "aree": [
+   "energia",
+   "economia-imprese"
+  ],
+  "sottotema": "Materie prime critiche",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Valutare la creazione di un'impresa pubblica di estrazione di minerali critici e terre rare",
+  "citazione": "Valutare la creazione di una impresa di mining, anche attraverso l’affidamento ad una delle società partecipate dallo Stato, per lo sviluppo delle attività di esplorazione, estrazione e produzione di minerali critici e terre rare",
+  "punto": "Energia, p. 61",
+  "aree": [
+   "energia",
+   "economia-imprese"
+  ],
+  "sottotema": "Partecipazioni pubbliche",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Superare la legge Delrio e ripristinare l'elezione diretta di presidente e consiglio provinciale",
+  "citazione": "Sarà reintrodotta l’elezione diretta del Presidente della Provincia, del Consiglio provinciale e l’istituzione della Giunta Provinciale.",
+  "punto": "Enti locali, p. 62",
+  "aree": [
+   "istituzioni-riforme"
+  ],
+  "sottotema": "Enti locali e province",
+  "concretezza": 3,
+  "parametri": [
+   {
+    "cosa": "legge da superare",
+    "valore": "L. 56/2014"
+   }
+  ]
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Rivedere il testo unico degli enti locali restituendo funzioni e risorse alle Province",
+  "citazione": "portare a compimento la revisione del testo unico degli Enti locali, ripristinando in primis il ruolo di rappresentanza territoriale delle Province",
+  "punto": "Enti locali, p. 62",
+  "aree": [
+   "istituzioni-riforme"
+  ],
+  "sottotema": "Enti locali e province",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Rafforzare le tutele giuridiche dei sindaci nell'esercizio delle loro funzioni",
+  "citazione": "I Sindaci vanno maggiormente salvaguardati poiché oggi, a fronte di zero tutele e moltissimi sacrifici, si devono assumere responsabilità",
+  "punto": "Enti locali, p. 62",
+  "aree": [
+   "istituzioni-riforme",
+   "giustizia"
+  ],
+  "sottotema": "Responsabilità degli amministratori",
+  "concretezza": 2
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Semplificare le assunzioni dei Comuni con vincoli legati solo alla capacità finanziaria dell'ente",
+  "citazione": "I sindaci devono poter assumere con modalità più semplici, con vincoli rapportati esclusivamente alla capacità finanziaria dell’Ente",
+  "punto": "Enti locali, p. 62",
+  "aree": [
+   "pubblica-amministrazione",
+   "istituzioni-riforme"
+  ],
+  "sottotema": "Assunzioni e concorsi",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Accelerare l'assunzione di nuovi segretari comunali",
+  "citazione": "Va accelerato il processo di assunzione di nuovi segretari",
+  "punto": "Enti locali, p. 63",
+  "aree": [
+   "pubblica-amministrazione"
+  ],
+  "sottotema": "Assunzioni e concorsi",
+  "concretezza": 2
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Attribuire funzioni amministrative a Comuni, Province e Città metropolitane nell'autonomia differenziata",
+  "citazione": "esaltare i principi costituzionali di autonomia e sussidiarietà attraverso il riconoscimento delle funzioni amministrative a Comuni, Province e Città metropolitane",
+  "punto": "Enti locali, p. 63",
+  "aree": [
+   "istituzioni-riforme"
+  ],
+  "sottotema": "Autonomia differenziata",
+  "concretezza": 2
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Attuare costi e fabbisogni standard e premiare le amministrazioni locali virtuose",
+  "citazione": "È prioritaria la concreta attuazione dei \"costi e fabbisogni standard”, misura di giustizia amministrativa",
+  "punto": "Enti locali, p. 63",
+  "aree": [
+   "istituzioni-riforme",
+   "conti-pubblici"
+  ],
+  "sottotema": "Federalismo fiscale",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Consentire ai Comuni di indebitarsi per mettere in sicurezza scuole e strade",
+  "citazione": "Deve essere consentito il ricorso all'indebitamento per interventi di investimento finalizzati a superare l'emergenza della messa in sicurezza del proprio patrimonio, in particolare edifici scolastici e infrastrutture viarie",
+  "punto": "Enti locali, p. 63",
+  "aree": [
+   "istituzioni-riforme",
+   "conti-pubblici"
+  ],
+  "sottotema": "Finanza locale",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Istituire un Fondo nazionale per l'accoglienza residenziale dei minori allontanati dalla famiglia",
+  "citazione": "Istituzione di un Fondo nazionale per l’accoglienza residenziale dei minori con lo scopo di sgravare i Comuni dalle spese",
+  "punto": "Enti locali, p. 64",
+  "aree": [
+   "welfare-inclusione",
+   "famiglia-natalita"
+  ],
+  "sottotema": "Minori",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Centralizzare in capo allo Stato e alle Prefetture la presa in carico dei minori stranieri non accompagnati",
+  "citazione": "Per i minori stranieri non accompagnati, invece, la presa in carico deve essere centralizzata e dipendere dallo Stato con strutture gestite direttamente dalla Prefettura.",
+  "punto": "Enti locali, p. 64",
+  "aree": [
+   "immigrazione-cittadinanza",
+   "welfare-inclusione"
+  ],
+  "sottotema": "Accoglienza e integrazione",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Stipulare accordi con i Paesi vicini con garanzie vincolanti su terrorismo e immigrazione irregolare",
+  "citazione": "è necessario stipulare nuovi accordi che rafforzino i legami economici, energetici e strategici dell’Italia con Paesi dell’estero vicino, includendo garanzie vincolanti come la lotta al terrorismo e all’immigrazione irregolare",
+  "punto": "Esteri, p. 65",
+  "aree": [
+   "esteri-europa",
+   "immigrazione-cittadinanza"
+  ],
+  "sottotema": "Accordi con Paesi terzi",
+  "concretezza": 2
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Promuovere una conferenza internazionale di pace sulla guerra in Ucraina",
+  "citazione": "Promuovere, in relazione alla guerra in Ucraina, una grande conferenza di pace che ridefinisca interessi e regole di pacifica convivenza",
+  "punto": "Esteri, p. 65",
+  "aree": [
+   "esteri-europa"
+  ],
+  "sottotema": "Ucraina e Russia",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Partecipare ai tavoli negoziali su Balcani e Armenia-Azerbaigian",
+  "citazione": "l’Italia deve partecipare alla moderazione delle crescenti tensioni nei Balcani e al consolidamento di una vera pace in Paesi post conflitto come l’Armenia e l’Azerbaijan",
+  "punto": "Esteri, p. 65",
+  "aree": [
+   "esteri-europa"
+  ],
+  "sottotema": "Mediazione e pace",
+  "concretezza": 2
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Promuovere una maggiore collaborazione tra gli eserciti europei",
+  "citazione": "Promuovere sul fronte della sicurezza continentale una maggiore collaborazione tra eserciti dei Paese Europei",
+  "punto": "Esteri, p. 65",
+  "aree": [
+   "difesa",
+   "esteri-europa"
+  ],
+  "sottotema": "Difesa europea",
+  "concretezza": 2
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Siglare accordi di rimpatrio con tutti i Paesi extra-UE del Mediterraneo",
+  "citazione": "siglando accordi di rimpatrio dei migranti irregolari con tutti i Paesi non Ue che si affacciano sul Mar Mediterraneo, dalla Turchia fino al Marocco",
+  "punto": "Esteri, p. 66",
+  "aree": [
+   "immigrazione-cittadinanza",
+   "esteri-europa"
+  ],
+  "sottotema": "Rimpatri",
+  "concretezza": 3
+ }
+]

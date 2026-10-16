@@ -1,0 +1,1089 @@
+[
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Limitare la decadenza al singolo consigliere o funzionario colluso invece di sciogliere l'intero Comune",
+  "citazione": "Proponiamo invece che la decadenza riguardi solo la singola persona collusa.",
+  "punto": "Antimafia, p. 15",
+  "aree": [
+   "sicurezza",
+   "istituzioni-riforme"
+  ],
+  "sottotema": "Comuni sciolti per mafia",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Creare un fondo per i commissari prefettizi per assumere personale esterno in sostituzione dei funzionari collusi",
+  "citazione": "Nel caso di funzionario colluso, allontanamento dello stesso e creazione di un fondo ad hoc per i commissari prefettizi volto all’assunzione di personale esterno",
+  "punto": "Antimafia, p. 15",
+  "aree": [
+   "sicurezza",
+   "pubblica-amministrazione"
+  ],
+  "sottotema": "Comuni sciolti per mafia",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Formare interpreti e specialisti della cultura nigeriana e creare liste a disposizione di sindaci e governatori",
+  "citazione": "Formare interpreti, traduttori e specialisti della cultura nigeriana. Creare liste per le suddette categorie a disposizione di sindaci e governatori",
+  "punto": "Antimafia, p. 15",
+  "aree": [
+   "sicurezza"
+  ],
+  "sottotema": "Criminalità organizzata",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Istituire un protocollo con le scuole per percorsi sulla cultura della legalità e contro le mafie",
+  "citazione": "Istituire un protocollo con le scuole che preveda incontri e percorsi formativi volti alla promozione della cultura della legalità e al contrasto alle mafie",
+  "punto": "Antimafia, p. 15",
+  "aree": [
+   "sicurezza",
+   "istruzione-universita-ricerca"
+  ],
+  "sottotema": "Cultura della legalità",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Rafforzare le norme contro il traffico e lo smaltimento illecito dei rifiuti",
+  "citazione": "Implementazione norme su traffico e smaltimento illecito dei rifiuti",
+  "punto": "Antimafia, p. 15",
+  "aree": [
+   "sicurezza",
+   "ambiente-animali"
+  ],
+  "sottotema": "Ecomafie",
+  "concretezza": 2
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Ridurre il perimetro dello Stato e il peso della burocrazia su individui, famiglie e imprese",
+  "citazione": "Serve più in generale un arretramento dello Stato, un ridimensionamento del perimetro del pubblico e una rinnovata fiducia nelle capacità degli individui, delle famiglie e delle imprese",
+  "punto": "Attività produttive, p. 16",
+  "aree": [
+   "economia-imprese",
+   "pubblica-amministrazione"
+  ],
+  "sottotema": "Ruolo dello Stato",
+  "concretezza": 1
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Sostenere le PMI con misure per liquidità, credito, investimenti produttivi e costo del lavoro",
+  "citazione": "le Pmi dovranno continuare a rappresentare l’investimento migliore per un reale rilancio economico, attraverso una serie di misure a sostegno della liquidità e del credito, intervenendo sia sugli incentivi per gli investimenti produttivi che sull’occupazione e sul costo del lavoro",
+  "punto": "Attività produttive, p. 16",
+  "aree": [
+   "economia-imprese"
+  ],
+  "sottotema": "PMI e artigianato",
+  "concretezza": 2,
+  "destinatari": [
+   "imprese"
+  ]
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Snellire e razionalizzare il processo civile",
+  "citazione": "Sul rito civile è necessario, soprattutto, un intervento di snellimento e razionalizzazione.",
+  "punto": "Attività produttive, p. 17",
+  "aree": [
+   "giustizia"
+  ],
+  "sottotema": "Giustizia civile",
+  "concretezza": 2
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Incentivare anche fiscalmente gli strumenti di risoluzione alternativa delle controversie",
+  "citazione": "si devono valorizzare gli strumenti di risoluzione alternativa (consensuali) delle controversie, per limitare il ricorso ai process, anche con incentivi fiscali",
+  "punto": "Attività produttive, p. 17",
+  "aree": [
+   "giustizia"
+  ],
+  "sottotema": "Giustizia civile",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Rivedere le soglie di fallibilità e pignorabilità dei beni nel Codice della crisi d'impresa",
+  "citazione": "Rivedere le soglie di fallibilità d’impresa e pignorabilità dei beni, nonché i criteri di valutazione patrimoniale, per garantire continuità aziendale in periodo di crisi",
+  "punto": "Attività produttive, p. 17",
+  "aree": [
+   "economia-imprese",
+   "giustizia"
+  ],
+  "sottotema": "Crisi d'impresa",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Aumentare la soglia di 20.000 euro di debito IVA per avviare la composizione negoziata della crisi",
+  "citazione": "Aumentare la soglia di 20mila euro per debito scaduto e non versato relativo all’Iva per avviare la composizione negoziata per debiti contro l’Erario",
+  "punto": "Attività produttive, p. 17",
+  "aree": [
+   "economia-imprese",
+   "fisco"
+  ],
+  "sottotema": "Crisi d'impresa",
+  "concretezza": 3,
+  "parametri": [
+   {
+    "cosa": "soglia attuale debito IVA",
+    "valore": "20.000 euro"
+   }
+  ]
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Ottimizzare la compensazione tra crediti verso la PA e debiti delle imprese",
+  "citazione": "Ottimizzare lo strumento della compensazione crediti/debiti con le pubbliche amministrazioni",
+  "punto": "Attività produttive, p. 17",
+  "aree": [
+   "economia-imprese",
+   "pubblica-amministrazione"
+  ],
+  "sottotema": "Pagamenti della PA",
+  "concretezza": 3,
+  "parametri": [
+   {
+    "cosa": "mancati pagamenti PA 2021",
+    "valore": "55,6 miliardi (3,1% del PIL)"
+   }
+  ]
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Sospendere ulteriormente l'invio delle cartelle esattoriali fino a misure deflattive del contenzioso",
+  "citazione": "Ulteriore sospensione invio cartelle fino all’approvazione di misure deflative del contenzioso",
+  "punto": "Attività produttive, p. 17",
+  "aree": [
+   "fisco"
+  ],
+  "sottotema": "Evasione, condoni e rottamazioni",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Cancellare i debiti tributari non più esigibili di importo inferiore giacenti nel magazzino fiscale",
+  "citazione": "Cancellazione di tutti i debiti tributari non più esigibili di importo inferiore, giacenti presso il c.d. magazzino fiscale",
+  "punto": "Attività produttive, p. 17",
+  "aree": [
+   "fisco"
+  ],
+  "sottotema": "Evasione, condoni e rottamazioni",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Introdurre una nuova rottamazione e un saldo e stralcio per le aziende in difficoltà",
+  "citazione": "Nuova rottamazione e saldo e stralcio per aziende in difficoltà; non si tratta di un condono, stante che l’importo del debito sarà comunque pagato, ma in maniera rateizzata e senza lievitazione per interessi e sanzioni",
+  "punto": "Attività produttive, p. 17",
+  "aree": [
+   "fisco"
+  ],
+  "sottotema": "Evasione, condoni e rottamazioni",
+  "concretezza": 3,
+  "destinatari": [
+   "imprese"
+  ]
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Introdurre una definizione agevolata strutturale delle liti tributarie pendenti con percentuali legate agli esiti dei giudizi",
+  "citazione": "Definizione agevolata strutturale delle liti pendenti [...] con il pagamento, in caso di soccombenza della parte diversa del ricorrente, del 50% del valore della controversia nella pronuncia di primo grado, del 30% del valore della controversia nella pronuncia di secondo grado e del 10%",
+  "punto": "Attività produttive, p. 17-18",
+  "aree": [
+   "fisco",
+   "giustizia"
+  ],
+  "sottotema": "Contenzioso tributario",
+  "concretezza": 3,
+  "parametri": [
+   {
+    "cosa": "pagamento se Agenzia soccombente in primo grado",
+    "valore": "50%"
+   },
+   {
+    "cosa": "pagamento se soccombente in secondo grado",
+    "valore": "30%"
+   },
+   {
+    "cosa": "pagamento se soccombente in entrambi i gradi",
+    "valore": "10%"
+   }
+  ]
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Impedire all'Agenzia delle entrate di ricorrere in Cassazione dopo la sconfitta in primo e secondo grado",
+  "citazione": "prevedendo altresì che in caso di vittoria in primo e secondo grado di giudizio l’Agenzia non possa più ricorrere",
+  "punto": "Attività produttive, p. 18",
+  "aree": [
+   "fisco",
+   "giustizia"
+  ],
+  "sottotema": "Contenzioso tributario",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Estendere l'accertamento con adesione a tutte le controversie tributarie per consentire transazioni con stralcio parziale",
+  "citazione": "Transazione fiscale, estendendo l’istituto dell’accertamento con adesione a tutte le controversie tributarie",
+  "punto": "Attività produttive, p. 18",
+  "aree": [
+   "fisco"
+  ],
+  "sottotema": "Contenzioso tributario",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Digitalizzare il rapporto tra PA e imprese facendo dialogare le banche dati pubbliche",
+  "citazione": "Digitalizzazione estesa del rapporto tra PA e imprese, soprattutto attraverso il dialogo tra le banche dati pubbliche",
+  "punto": "Attività produttive, p. 18",
+  "aree": [
+   "pubblica-amministrazione",
+   "innovazione-digitale"
+  ],
+  "sottotema": "Digitalizzazione della PA",
+  "concretezza": 2
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Standardizzare procedimenti e modulistica della PA",
+  "citazione": "Standardizzazione dei procedimenti e della modulistica",
+  "punto": "Attività produttive, p. 18",
+  "aree": [
+   "pubblica-amministrazione"
+  ],
+  "sottotema": "Semplificazione",
+  "concretezza": 2
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Ridurre il numero di enti pubblici coinvolti nello stesso procedimento",
+  "citazione": "Riorganizzazione delle competenze e riduzione del numero di enti pubblici coinvolti nel medesimo procedimento",
+  "punto": "Attività produttive, p. 18",
+  "aree": [
+   "pubblica-amministrazione"
+  ],
+  "sottotema": "Semplificazione",
+  "concretezza": 2
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Sostenere la digitalizzazione delle PMI (lavoro agile, e-commerce, banda ultralarga, formazione ICT)",
+  "citazione": "Modernizzare l’organizzazione del lavoro, implementando tecnologie digitali e nuovi modelli di lavoro flessibile, lavoro agile e Smart Working",
+  "punto": "Attività produttive, p. 18",
+  "aree": [
+   "innovazione-digitale",
+   "economia-imprese"
+  ],
+  "sottotema": "Digitalizzazione delle imprese",
+  "concretezza": 2,
+  "destinatari": [
+   "imprese"
+  ]
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Portare a 5.000 euro i premi di produttività detassabili applicando un'imposta sostitutiva del 5%",
+  "citazione": "Aumentare a 5mia euro gli importi dei premi produttivi correlati ad incrementi di produttività, redditività, qualità, efficienza ed innovazione assoggettabili a imposta sostitutiva e contestualmente, applicarvi un’imposta sostitutiva del 5%",
+  "punto": "Attività produttive, p. 19",
+  "aree": [
+   "fisco",
+   "lavoro"
+  ],
+  "sottotema": "Premi di produttività",
+  "concretezza": 3,
+  "parametri": [
+   {
+    "cosa": "importo massimo premi detassati",
+    "valore": "5.000 euro"
+   },
+   {
+    "cosa": "imposta sostitutiva",
+    "valore": "5%"
+   }
+  ]
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Incentivare il reshoring delle imprese italiane delocalizzate all'estero",
+  "citazione": "dobbiamo operare per il rientro della migliore imprenditoria italiana spostatasi all’estero",
+  "punto": "Attività produttive, p. 19",
+  "aree": [
+   "economia-imprese"
+  ],
+  "sottotema": "Politica industriale",
+  "concretezza": 2
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "europeo",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Prevedere finanziamenti europei per gli IPCEI",
+  "citazione": "Prevedere anche finanziamenti europei visto che si tratta di progetti di cooperazione europea",
+  "punto": "Attività produttive, p. 20",
+  "aree": [
+   "economia-imprese",
+   "esteri-europa"
+  ],
+  "sottotema": "Politica industriale",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Semplificare l'accesso delle PMI agli IPCEI",
+  "citazione": "Inserimento di meccanismi di sburocratizzazione che permettano l’accesso anche alle piccole e medie imprese",
+  "punto": "Attività produttive, p. 20",
+  "aree": [
+   "economia-imprese"
+  ],
+  "sottotema": "Politica industriale",
+  "concretezza": 2,
+  "destinatari": [
+   "imprese"
+  ]
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Proporre nuovi IPCEI a guida italiana in automazione industriale, automotive e alimentare",
+  "citazione": "proporre nuovi IPCEI, a guida italiana, nelle catene del valore in cui domina il Made in Italy, come ad es. automazione industriale, automotive, alimentare",
+  "punto": "Attività produttive, p. 20",
+  "aree": [
+   "economia-imprese"
+  ],
+  "sottotema": "Politica industriale",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Estendere super e iper ammortamento ai macchinari per componenti di impianti a fonti rinnovabili",
+  "citazione": "Implementare le misure di super e iper ammortamento per sgravare i costi in nuovi macchinari di processi produttivi che realizzano i componenti principali di un impianto alimentato da fonti rinnovabili",
+  "punto": "Attività produttive, p. 20",
+  "aree": [
+   "economia-imprese",
+   "energia",
+   "fisco"
+  ],
+  "sottotema": "Industria 4.0",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Potenziare le aliquote del credito d'imposta Transizione 4.0",
+  "citazione": "Potenziare le aliquote del credito d’imposta introdotto con il Piano Transizione 4.0",
+  "punto": "Attività produttive, p. 20",
+  "aree": [
+   "economia-imprese",
+   "fisco"
+  ],
+  "sottotema": "Industria 4.0",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Consentire alle microimprese familiari di sostituire macchinari obsoleti con macchinari usati marchiati CE",
+  "citazione": "prevedendo che le microimprese familiari possano sostituire i vecchi macchinari non più a norma con macchinari, anche usati, che abbiano il marchio della comunità europea",
+  "punto": "Attività produttive, p. 20",
+  "aree": [
+   "economia-imprese"
+  ],
+  "sottotema": "PMI e artigianato",
+  "concretezza": 3,
+  "parametri": [
+   {
+    "cosa": "anno minimo di costruzione",
+    "valore": "successivo al 1° gennaio 2000"
+   },
+   {
+    "cosa": "differenza di età rispetto al macchinario sostituito",
+    "valore": "10 anni in meno"
+   }
+  ]
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Rendere cedibili, anche a banche, i crediti d'imposta per ricerca e sviluppo",
+  "citazione": "Prevedere la possibilità per i soggetti beneficiari di crediti d’imposta per attività di ricerca e sviluppo di optare in luogo dell’utilizzo diretto per la cessione, anche parziale, degli stessi ad altri soggetti",
+  "punto": "Attività produttive, p. 20",
+  "aree": [
+   "economia-imprese",
+   "fisco",
+   "istruzione-universita-ricerca"
+  ],
+  "sottotema": "Ricerca e sviluppo",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Incentivare fiscalmente la ricerca delle imprese in scienze mediche, biotecnologie, IA e sanità digitale",
+  "citazione": "Favorire, anche mediante incentivi fiscali, le attività di ricerca, sviluppo e innovazione da parte delle imprese e incentivare l’attività di studio e sperimentazione nei seguenti settori: scienze mediche e della salute",
+  "punto": "Attività produttive, p. 20",
+  "aree": [
+   "istruzione-universita-ricerca",
+   "sanita",
+   "innovazione-digitale"
+  ],
+  "sottotema": "Ricerca e sviluppo",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Ammettere al credito d'imposta R&S per start up e PMI innovative tutte le spese senza distinzione",
+  "citazione": "Rafforzamento del vigente sistema normativo delle start up innovative e delle Pmi innovative: indicando, con riguardo al credito d’imposta in ricerca e sviluppo, le spese agevolabili senza applicare distinzione tra i costi ammessi",
+  "punto": "Attività produttive, p. 21",
+  "aree": [
+   "economia-imprese",
+   "fisco"
+  ],
+  "sottotema": "Startup",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Consentire il rimborso diretto del credito d'imposta R&S per le start up innovative",
+  "citazione": "Rivedendo il meccanismo di fruizione dello stesso credito d’imposta a favore di modalità di rimborso anche diretto",
+  "punto": "Attività produttive, p. 21",
+  "aree": [
+   "economia-imprese",
+   "fisco"
+  ],
+  "sottotema": "Startup",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Portare strutturalmente al 90% la garanzia del Fondo per le start up innovative",
+  "citazione": "Prevedendo un innalzamento del limite massimo della garanzia concessa dal fondo alle start up innovative al 90%, previo parere della Commissione Europea, in maniera strutturale",
+  "punto": "Attività produttive, p. 21",
+  "aree": [
+   "economia-imprese"
+  ],
+  "sottotema": "Startup",
+  "concretezza": 3,
+  "parametri": [
+   {
+    "cosa": "garanzia massima",
+    "valore": "90%"
+   }
+  ]
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Detassare le plusvalenze delle persone fisiche reinvestite in start up innovative entro quattro anni",
+  "citazione": "detassando le plusvalenze realizzate dalle persone fisiche mediante disinvestimento, qualora le somme incassate siano reinvestite in una start up innovativa entro un arco temporale di quattro anni",
+  "punto": "Attività produttive, p. 21",
+  "aree": [
+   "economia-imprese",
+   "fisco"
+  ],
+  "sottotema": "Startup",
+  "concretezza": 3,
+  "parametri": [
+   {
+    "cosa": "termine di reinvestimento",
+    "valore": "4 anni"
+   }
+  ]
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Estendere il regime fiscale sulle plusvalenze da start up innovative agli investimenti indiretti",
+  "citazione": "Estendendo la normativa sulla tassazione delle plusvalenze derivanti dalla cessione di partecipazioni in start up innovative anche agli investimenti indiretti",
+  "punto": "Attività produttive, p. 21",
+  "aree": [
+   "economia-imprese",
+   "fisco"
+  ],
+  "sottotema": "Startup",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Confermare la possibilità di convertire le perdite fiscali in crediti d'imposta",
+  "citazione": "Confermare la possibilità di convertire le perdite fiscali in crediti d’imposta",
+  "punto": "Attività produttive, p. 21",
+  "aree": [
+   "fisco",
+   "economia-imprese"
+  ],
+  "sottotema": "Tasse sulle imprese",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Mantenere il Fondo automotive fino al 2030 per riconversione, riqualificazione e incentivi all'acquisto di veicoli non inquinanti",
+  "citazione": "Con il decreto Energia abbiamo previsto l’istituzione di un apposito Fondo, per l’anno in corso e per i successivi sino al 2030, al fine di favorire la transizione verde e digitale",
+  "punto": "Attività produttive, p. 21",
+  "aree": [
+   "economia-imprese",
+   "infrastrutture-trasporti"
+  ],
+  "sottotema": "Automotive",
+  "concretezza": 3,
+  "parametri": [
+   {
+    "cosa": "durata del fondo",
+    "valore": "fino al 2030"
+   }
+  ],
+  "note": "Misura già introdotta (decreto Energia 2022) rivendicata dal programma."
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Semplificare le norme istitutive delle Zone logistiche semplificate per estenderne l'applicazione",
+  "citazione": "Semplificare le norme sull’istituzione delle Zls per estendere ulteriormente la portata della loro applicazione",
+  "punto": "Attività produttive, p. 22",
+  "aree": [
+   "economia-imprese",
+   "infrastrutture-trasporti"
+  ],
+  "sottotema": "Zone logistiche semplificate",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Estendere le Zone economiche speciali",
+  "citazione": "Implementare ed estendere le Zone Economiche Speciali (Zes) le cui finalità incentivanti sono quelle di rilanciare gli investimenti strategici in singole aree nel territorio italiano",
+  "punto": "Attività produttive, p. 22",
+  "aree": [
+   "mezzogiorno-territori",
+   "economia-imprese"
+  ],
+  "sottotema": "ZES unica",
+  "concretezza": 2
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "europeo",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Ridurre i requisiti di capitale delle banche nella revisione del regolamento UE CRR per favorire i prestiti",
+  "citazione": "Proponiamo interventi mirati sui requisiti capitale per le Banche, nel contesto di revisione del regolamento europeo CRR 575/2013",
+  "punto": "Banche e mercati, p. 23",
+  "aree": [
+   "economia-imprese",
+   "esteri-europa"
+  ],
+  "sottotema": "Credito e banche",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "europeo",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Portare da 2,5 a 5 milioni la soglia del fattore di sostegno alle PMI nei requisiti di capitale bancari",
+  "citazione": "preservare e se possibile aumentare il fattore di sostegno alle Pmi da 2,5milioni a 5milioni",
+  "punto": "Banche e mercati, p. 23",
+  "aree": [
+   "economia-imprese"
+  ],
+  "sottotema": "Credito e banche",
+  "concretezza": 3,
+  "parametri": [
+   {
+    "cosa": "soglia attuale",
+    "valore": "2,5 milioni di euro"
+   },
+   {
+    "cosa": "soglia proposta",
+    "valore": "5 milioni di euro"
+   }
+  ],
+  "destinatari": [
+   "imprese"
+  ]
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "europeo",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Ridurre i requisiti prudenziali sui mutui garantiti da un capitale sostanziale del mutuatario",
+  "citazione": "Agevolare il trattamento dei mutui riducendo i requisiti prudenziali applicati se a garanzia viene impegnato del capitale sostanziale",
+  "punto": "Banche e mercati, p. 23",
+  "aree": [
+   "casa",
+   "economia-imprese"
+  ],
+  "sottotema": "Mutui prima casa",
+  "concretezza": 3,
+  "destinatari": [
+   "famiglie"
+  ]
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "europeo",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Ridurre i requisiti di fondi propri per il credito a chi gestisce o finanzia infrastrutture di servizi pubblici essenziali",
+  "citazione": "diminuendo i requisiti di fondi propri per il rischio di credito alle entità che gestiscono o finanziano strutture fisiche o sistemi e reti che servono o supportano servizi pubblici essenziali",
+  "punto": "Banche e mercati, p. 23",
+  "aree": [
+   "economia-imprese",
+   "infrastrutture-trasporti"
+  ],
+  "sottotema": "Credito e banche",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "europeo",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Ridurre la ponderazione del rischio per i prestiti a pensionati e dipendenti a tempo indeterminato con cessione dello stipendio",
+  "citazione": "proponiamo di attribuire un fattore di ponderazione del rischio inferiore a quello attualmente in vigore",
+  "punto": "Banche e mercati, p. 23-24",
+  "aree": [
+   "economia-imprese"
+  ],
+  "sottotema": "Credito e banche",
+  "concretezza": 3,
+  "destinatari": [
+   "anziani"
+  ]
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "europeo",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Ridurre i requisiti di capitale sui mutui per le seconde case e chiarire la portabilità dei mutui tra Paesi UE",
+  "citazione": "Agevolare l’acquisto di seconde case e la portabilità del mutuo tra Paesi Ue",
+  "punto": "Banche e mercati, p. 24",
+  "aree": [
+   "casa",
+   "economia-imprese"
+  ],
+  "sottotema": "Mutui",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "europeo",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Rivedere i criteri EBA di definizione del default per non classificare in sofferenza le imprese uscite dalle moratorie",
+  "citazione": "Definizione di Default: Si propone una revisione del quadro di riferimento per l'identificazione delle ristrutturazioni in difficoltà stabilito dall’EBA",
+  "punto": "Banche e mercati, p. 24",
+  "aree": [
+   "economia-imprese"
+  ],
+  "sottotema": "Credito e banche",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "europeo",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Diluire tempi e requisiti del calendar provisioning sui crediti deteriorati",
+  "citazione": "Calendar Provvisioning: Si propone una diluizione dei tempi e dei requisiti al fine di rendere meno oneroso e meno sbrigativo il recupero del credito in sofferenza",
+  "punto": "Banche e mercati, p. 24",
+  "aree": [
+   "economia-imprese"
+  ],
+  "sottotema": "Credito e banche",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "europeo",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Mantenere l'intervento preventivo dei fondi nazionali di garanzia dei depositi nelle crisi bancarie",
+  "citazione": "la Lega propone di mantenere attiva la possibilità d’intervento preventivo dei DGS in caso di [...] mantenere il più possibile a livello nazionale l’ambito decisionale di attivazione",
+  "punto": "Banche e mercati, p. 24-25",
+  "aree": [
+   "economia-imprese",
+   "esteri-europa"
+  ],
+  "sottotema": "Unione bancaria",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "europeo",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Opporsi alla ponderazione del rischio sui titoli di Stato nei bilanci delle banche",
+  "citazione": "No alla ponderazione del rischio sovrano nei bilanci delle Banche: Ci siamo opposti e continueremo ad opporci a qualsiasi proposta europea che possa portare ad una penalizzazione",
+  "punto": "Banche e mercati, p. 25",
+  "aree": [
+   "economia-imprese",
+   "conti-pubblici"
+  ],
+  "sottotema": "Unione bancaria",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "europeo",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Innalzare da 100.000 a 200.000 euro la soglia di garanzia dei depositi bancari",
+  "citazione": "riteniamo sia doveroso innalzare la soglia di tutela per legge dei depositi da 100mila euro a 200mila euro",
+  "punto": "Banche e mercati, p. 25",
+  "aree": [
+   "economia-imprese"
+  ],
+  "sottotema": "Credito e banche",
+  "concretezza": 3,
+  "parametri": [
+   {
+    "cosa": "soglia attuale",
+    "valore": "100.000 euro"
+   },
+   {
+    "cosa": "soglia proposta",
+    "valore": "200.000 euro"
+   }
+  ]
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Tutelare le banche di prossimità e di credito cooperativo per l'accesso al credito dei territori",
+  "citazione": "La tutela delle banche di prossimità, in particolare di quelle di credito cooperativo, non è una battaglia di retroguardia",
+  "punto": "Banche e mercati, p. 25",
+  "aree": [
+   "economia-imprese",
+   "mezzogiorno-territori"
+  ],
+  "sottotema": "Credito e banche",
+  "concretezza": 1
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "europeo",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Introdurre criteri di proporzionalità nella legislazione UE sul credito cooperativo",
+  "citazione": "avviare in Europa una riflessione su come introdurre criteri di proporzionalità nella legislazione riferita al credito cooperativo",
+  "punto": "Banche e mercati, p. 26",
+  "aree": [
+   "economia-imprese"
+  ],
+  "sottotema": "Banche di credito cooperativo",
+  "concretezza": 2
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Rivedere la riforma 2016 delle BCC consentendo modelli di aggregazione IPS come in Germania",
+  "citazione": "una linea più orientata al futuro, che consenta la transizione del credito cooperativo verso sistemi di aggregazione analoghi a quelli adottati dal nostro principale competitor, la Germania",
+  "punto": "Banche e mercati, p. 26",
+  "aree": [
+   "economia-imprese"
+  ],
+  "sottotema": "Banche di credito cooperativo",
+  "concretezza": 3,
+  "parametri": [
+   {
+    "cosa": "riforma da rivedere",
+    "valore": "L. 49/2016"
+   }
+  ]
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Risanare Monte dei Paschi di Siena come componente di un terzo polo bancario italiano",
+  "citazione": "La Lega sostiene la necessità di proseguire nel percorso virtuoso di risanamento dell’istituto per farne una componente di rilievo di un terzo polo bancario italiano",
+  "punto": "Banche e mercati, p. 26",
+  "aree": [
+   "economia-imprese"
+  ],
+  "sottotema": "Partecipazioni pubbliche",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Abolire la Tobin Tax sulle transazioni finanziarie",
+  "citazione": "la prima misura asimmetrica da sopprimere sia la distorsiva Tobin Tax",
+  "punto": "Banche e mercati, p. 26",
+  "aree": [
+   "fisco",
+   "economia-imprese"
+  ],
+  "sottotema": "Tassazione delle rendite finanziarie",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Rendere strutturale il credito d'imposta sulle spese di consulenza per la quotazione delle PMI",
+  "citazione": "Rendere strutturale la misura del credito d'imposta per le spese di consulenza relative alla quotazione delle piccole e medie imprese (PMI).",
+  "punto": "Banche e mercati, p. 27",
+  "aree": [
+   "economia-imprese",
+   "fisco"
+  ],
+  "sottotema": "Mercati dei capitali",
+  "concretezza": 3,
+  "parametri": [
+   {
+    "cosa": "credito d'imposta vigente",
+    "valore": "50% delle spese, max 500.000 euro (ridotto a 200.000)"
+   }
+  ],
+  "destinatari": [
+   "imprese"
+  ]
+ }
+]

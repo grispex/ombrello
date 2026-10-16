@@ -1,0 +1,687 @@
+[
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Alzare da 96.000 a 150.000 euro il massimale del Sisma bonus per le zone sismiche 1 e 2",
+  "citazione": "Modificare il Sisma bonus (attualmente il massimale previsto è di € 96mila, un importo insufficiente per le abitazioni ricadenti in Zone Sismiche 1 e 2 [...] Serve alzare il massimale ad € 150mila",
+  "punto": "Protezione civile, p. 139",
+  "aree": [
+   "casa",
+   "fisco",
+   "mezzogiorno-territori"
+  ],
+  "sottotema": "Bonus edilizi",
+  "concretezza": 3,
+  "parametri": [
+   {
+    "cosa": "massimale attuale",
+    "valore": "96.000 euro"
+   },
+   {
+    "cosa": "massimale proposto",
+    "valore": "150.000 euro"
+   }
+  ]
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Semplificare le procedure (VIA, VINCA, paesaggistica) per le opere di prevenzione del dissesto",
+  "citazione": "Le opere di difesa del suolo e tutte quelle che hanno lo scopo di mitigare i rischi, devono avere un regime normativo semplificato.",
+  "punto": "Protezione civile, p. 139",
+  "aree": [
+   "ambiente-animali",
+   "pubblica-amministrazione"
+  ],
+  "sottotema": "Dissesto idrogeologico",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Velocizzare il riconoscimento dello stato di emergenza e aumentare il Fondo emergenze",
+  "citazione": "Velocizzare l’iter per il riconoscimento dello stato di Emergenza ed incrementare il fondo Emergenza",
+  "punto": "Protezione civile, p. 139",
+  "aree": [
+   "ambiente-animali",
+   "pubblica-amministrazione"
+  ],
+  "sottotema": "Protezione civile",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "europeo",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Chiedere all'UE un fondo per la prevenzione delle catastrofi",
+  "citazione": "Richiedere all'Europa un fondo per la prevenzione",
+  "punto": "Protezione civile, p. 139",
+  "aree": [
+   "ambiente-animali",
+   "esteri-europa"
+  ],
+  "sottotema": "Protezione civile",
+  "concretezza": 2
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Estendere il perimetro d'azione della Protezione civile ad altri rischi e alla prevenzione strutturale",
+  "citazione": "Riflessione su ambito di applicazione dell’art. 16, co. 1 e 2, del Dlgs 1/2018 che definisce il perimetro d’azione del servizio nazionale di protezione civile.",
+  "punto": "Protezione civile, p. 140",
+  "aree": [
+   "ambiente-animali",
+   "istituzioni-riforme"
+  ],
+  "sottotema": "Protezione civile",
+  "concretezza": 2
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Raddoppiare da 250 a 500 milioni i fondi per i danni privati delle alluvioni 2019-2020",
+  "citazione": "Riflessione su incremento dei fondi destinati alla copertura dei danni per patrimonio privato e attività produttive (da € 250 a 500 M)",
+  "punto": "Protezione civile, p. 140",
+  "aree": [
+   "ambiente-animali"
+  ],
+  "sottotema": "Calamità e risarcimenti",
+  "concretezza": 3,
+  "parametri": [
+   {
+    "cosa": "fondi attuali",
+    "valore": "250 milioni"
+   },
+   {
+    "cosa": "fondi proposti",
+    "valore": "500 milioni"
+   }
+  ]
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Rendere sistematico il Fondo per la prevenzione sismica con premialità per le Regioni virtuose",
+  "citazione": "Riflessione sul rendere il finanziamento del Fondo sistematico con sistemi di premialità per le Regioni virtuose e recupero delle risorse per le Regioni che non impiegano i fondi.",
+  "punto": "Protezione civile, p. 141",
+  "aree": [
+   "ambiente-animali",
+   "mezzogiorno-territori"
+  ],
+  "sottotema": "Ricostruzione post-sisma",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Prorogare la Zona franca urbana per le aree del sisma 2016",
+  "citazione": "è necessario e indispensabile che venga prorogata la ZUFS anche nelle prossime annualità.",
+  "punto": "Protezione civile, p. 141",
+  "aree": [
+   "mezzogiorno-territori",
+   "fisco"
+  ],
+  "sottotema": "Ricostruzione post-sisma",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Introdurre norme contro le infiltrazioni criminali nella ricostruzione post-sisma 2016",
+  "citazione": "si rende necessaria l'introduzione di norme che creino degli anticorpi affinché la ricostruzione non diventi preda della malavita",
+  "punto": "Protezione civile, p. 141",
+  "aree": [
+   "mezzogiorno-territori",
+   "sicurezza"
+  ],
+  "sottotema": "Ricostruzione post-sisma",
+  "concretezza": 2
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Far decadere dai contributi e restituire le somme chi vende a terzi l'immobile ricostruito col sisma 2016 prima di due anni",
+  "citazione": "è dichiarato decaduto dalle provvidenze ed è tenuto al rimborso delle somme percepite, maggiorate degli interessi legali",
+  "punto": "Protezione civile, p. 142",
+  "aree": [
+   "mezzogiorno-territori",
+   "casa"
+  ],
+  "sottotema": "Ricostruzione post-sisma",
+  "concretezza": 3,
+  "parametri": [
+   {
+    "cosa": "periodo di vincolo",
+    "valore": "fino a due anni dopo il completamento"
+   }
+  ]
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Usare l'analisi d'impatto della regolamentazione per individuare procedure da semplificare o eliminare",
+  "citazione": "Applicare lo strumento dell’Analisi dell’Impatto della Regolamentazione (AIR) per individuare settori e procedure da semplificare o eliminare",
+  "punto": "PA, p. 143",
+  "aree": [
+   "pubblica-amministrazione"
+  ],
+  "sottotema": "Semplificazione",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Introdurre l'intelligenza artificiale nella PA per automatizzare decisioni semplici, in particolare negli appalti",
+  "citazione": "Introdurre l’uso dell’Intelligenza Artificiale (AI) nella PA, per automatizzare molti processi decisionali basati su semplici procedure di scelta del tipo «Sì/No»",
+  "punto": "PA, p. 143",
+  "aree": [
+   "pubblica-amministrazione",
+   "innovazione-digitale"
+  ],
+  "sottotema": "Intelligenza artificiale",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Collegare tutte le banche dati pubbliche esistenti",
+  "citazione": "collegare tutte le banche dati pubbliche già esistenti",
+  "punto": "PA, p. 143",
+  "aree": [
+   "pubblica-amministrazione",
+   "innovazione-digitale"
+  ],
+  "sottotema": "Digitalizzazione della PA",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Liberalizzare ogni attività economica salvo autorizzazioni previste per legge",
+  "citazione": "Ogni attività economica è libera e non richiede alcuna autorizzazione, a eccezione di quelle esplicitamente indicate dalla legge per particolari e giustificati motivi",
+  "punto": "PA, p. 143",
+  "aree": [
+   "pubblica-amministrazione",
+   "economia-imprese"
+  ],
+  "sottotema": "Semplificazione",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Applicare il principio 'once only': la PA non può chiedere documenti già in suo possesso",
+  "citazione": "la PA non può chiedere la produzione di atti o documenti che siano già in possesso di una qualsiasi amministrazione pubblica",
+  "punto": "PA, p. 143",
+  "aree": [
+   "pubblica-amministrazione"
+  ],
+  "sottotema": "Semplificazione",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Garantire tempi certi per l'emanazione dei provvedimenti amministrativi",
+  "citazione": "il tempo di emanazione dei provvedimenti amministrativi, quando questi siano necessari, deve essere davvero certo",
+  "punto": "PA, p. 143",
+  "aree": [
+   "pubblica-amministrazione"
+  ],
+  "sottotema": "Semplificazione",
+  "concretezza": 2
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "depositata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Consentire la compensazione di tutti i debiti e crediti verso la PA con un Conto unico presso l'Agenzia delle entrate",
+  "citazione": "Possibilità di compensare tutti i debiti e i crediti verso la pubblica amministrazione siano essi di natura tributaria, previdenziale o commerciale",
+  "punto": "PA, p. 144",
+  "aree": [
+   "pubblica-amministrazione",
+   "fisco"
+  ],
+  "sottotema": "Pagamenti della PA",
+  "concretezza": 3,
+  "note": "Il programma richiama il DDL AS 1889 (XVIII legislatura, prima firma Siri), depositato il 22 luglio 2020."
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Rimborsare i crediti IVA e tributari entro 10 giorni senza vincoli, con verifiche successive",
+  "citazione": "La proposta è di imporre che i crediti trimestrali e annuali Iva e gli altri crediti tributari indicati in dichiarazione siano rimborsati nell’arco di 10 giorni senza alcun vincolo.",
+  "punto": "PA, p. 144",
+  "aree": [
+   "fisco",
+   "economia-imprese"
+  ],
+  "sottotema": "Rimborsi fiscali",
+  "concretezza": 3,
+  "parametri": [
+   {
+    "cosa": "termine di rimborso",
+    "valore": "10 giorni"
+   }
+  ]
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Introdurre il carry back delle perdite per le PMI con rimborso IRES sui redditi dei 4 anni precedenti",
+  "citazione": "rimborsare all'impresa che ha subito perdite un valore pari all’Ires di tali perdite nel momento in cui la stessa impresa ha avuto redditi negli anni precedenti, che potremmo delimitare in 4 anni",
+  "punto": "PA, p. 145",
+  "aree": [
+   "fisco",
+   "economia-imprese"
+  ],
+  "sottotema": "Tasse sulle imprese",
+  "concretezza": 3,
+  "parametri": [
+   {
+    "cosa": "periodo di riferimento",
+    "valore": "4 anni"
+   }
+  ],
+  "destinatari": [
+   "imprese"
+  ]
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Concludere l'intesa sull'autonomia differenziata con Lombardia e Veneto",
+  "citazione": "Riprendere senza indugi la trattativa ex art. 116/c. 3 Cost. di Lombardia e Veneto, approdando il più presto possibile alla sottoscrizione dell’Intesa con il Governo",
+  "punto": "Riforme istituzionali, p. 147",
+  "aree": [
+   "istituzioni-riforme"
+  ],
+  "sottotema": "Autonomia differenziata",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Estendere le trattative sull'autonomia alle altre Regioni ordinarie che la chiedono",
+  "citazione": "Valutare l’allargamento delle trattative alle Regioni a Statuto ordinario che intendano seguire il medesimo percorso di Lombardia e Veneto",
+  "punto": "Riforme istituzionali, p. 147",
+  "aree": [
+   "istituzioni-riforme"
+  ],
+  "sottotema": "Autonomia differenziata",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Garantire e valorizzare le autonomie speciali",
+  "citazione": "Inoltre, è fondamentale garantire e valorizzare le autonomie speciali.",
+  "punto": "Riforme istituzionali, p. 147",
+  "aree": [
+   "istituzioni-riforme"
+  ],
+  "sottotema": "Autonomie speciali",
+  "concretezza": 1
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Introdurre il presidenzialismo con elezione diretta del Capo dello Stato sul modello francese",
+  "citazione": "Eleggere direttamente il Capo dello Stato, in un contesto di rafforzamento dei poteri di controllo del Parlamento",
+  "punto": "Riforme istituzionali, p. 148-149",
+  "aree": [
+   "istituzioni-riforme"
+  ],
+  "sottotema": "Premierato",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Dare al Presidente eletto il potere di sciogliere le Camere se è minacciata la stabilità del governo",
+  "citazione": "Potrà sciogliere le Camere nel caso in cui venga minacciata la stabilità dei governi scelti dai cittadini",
+  "punto": "Riforme istituzionali, p. 149",
+  "aree": [
+   "istituzioni-riforme"
+  ],
+  "sottotema": "Premierato",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Mantenere il finanziamento del SSN prevalentemente fiscale riducendo al minimo la compartecipazione",
+  "citazione": "Mantenimento del finanziamento del SSN prevalentemente dal sistema fiscale, e riducendo al minimo la compartecipazione dei cittadini",
+  "punto": "Sanità, p. 150",
+  "aree": [
+   "sanita"
+  ],
+  "sottotema": "Finanziamento del SSN",
+  "concretezza": 2
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Limitare le detrazioni per la sanità integrativa verificandone appropriatezza ed efficacia",
+  "citazione": "Limitare il finanziamento delle prestazioni integrative, verificando la loro appropriatezza ed efficacia nel caso che consentano di far beneficiare di detrazioni fiscali",
+  "punto": "Sanità, p. 150",
+  "aree": [
+   "sanita",
+   "fisco"
+  ],
+  "sottotema": "Sanità privata convenzionata",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Integrare il medico di famiglia nel distretto modificandone lo stato giuridico",
+  "citazione": "una medicina territoriale effettivamente accessibile dal cittadino, modificando l’attuale stato giuridico del Medico di famiglia per integrarlo con l’organizzazione del distretto",
+  "punto": "Sanità, p. 150",
+  "aree": [
+   "sanita"
+  ],
+  "sottotema": "Medicina territoriale",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Attuare la rete territoriale del DM 71 con distretti socio-sanitari di presa in carico",
+  "citazione": "attuazione della rete di strutture territoriali definite dalla Riforma degli standard territoriali previsto dal DM 71",
+  "punto": "Sanità, p. 150",
+  "aree": [
+   "sanita"
+  ],
+  "sottotema": "Medicina territoriale",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Creare una scuola permanente per dirigenti del SSN e un sistema di costi standard",
+  "citazione": "la creazione di una Scuola di formazione permanente di una classe dirigenziale di gestori del SSN [...] grazie all’utilizzo di un sistema di costi standard",
+  "punto": "Sanità, p. 150",
+  "aree": [
+   "sanita",
+   "pubblica-amministrazione"
+  ],
+  "sottotema": "Governance sanitaria",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Contrastare il passaggio a un modello sanitario privatistico assicurativo",
+  "citazione": "contrastando la spinta verso una sanità che possa introdurre un modello privatistico prevalentemente assicurativo",
+  "punto": "Sanità, p. 151",
+  "aree": [
+   "sanita"
+  ],
+  "sottotema": "Sanità privata convenzionata",
+  "concretezza": 1
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Adottare un Piano pandemico nazionale di prevenzione delle malattie infettive",
+  "citazione": "attraverso l’introduzione di un Piano Pandemico Nazionale di prevenzione proattiva e governo dei rischi delle malattie infettive prioritarie (PPN)",
+  "punto": "Sanità, p. 151",
+  "aree": [
+   "sanita"
+  ],
+  "sottotema": "Prevenzione",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Istituire la Rete italiana di preparazione pandemica con un sistema informativo Stato-Regioni",
+  "citazione": "Realizzare la piena operatività di un sistema informativo integrato Stato-Regioni attraverso l’istituzione della Rete italiana di preparazione pandemica (RIPP)",
+  "punto": "Sanità, p. 151",
+  "aree": [
+   "sanita"
+  ],
+  "sottotema": "Prevenzione",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Inserire nei LEA le vaccinazioni raccomandate somministrate dal SSN",
+  "citazione": "attraverso l’inserimento nei LEA delle coperture vaccinali raccomandate definite nel PPN, prevedendo la somministrazione dei vaccini attraverso il SSN",
+  "punto": "Sanità, p. 151",
+  "aree": [
+   "sanita"
+  ],
+  "sottotema": "Prevenzione",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Prevedere un Piano nazionale straordinario di intervento per le emergenze epidemiche",
+  "citazione": "Prevedere l’adozione del Piano nazionale straordinario di intervento (PNS) nel caso in cui il Ministero della Salute rilevi un rischio concreto e attuale",
+  "punto": "Sanità, p. 151",
+  "aree": [
+   "sanita"
+  ],
+  "sottotema": "Prevenzione",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Indennizzare chi ha subito danni permanenti da vaccino con procedura semplificata e digitale",
+  "citazione": "la previsione di un indennizzo da parte dello Stato per chiunque abbia riportato lesioni o infermità dalle quali sia derivata una menomazione permanente",
+  "punto": "Sanità, p. 152",
+  "aree": [
+   "sanita"
+  ],
+  "sottotema": "Vaccini",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Offrire i vaccini anti-Covid senza obbligo, con campagne informative e cure domiciliari",
+  "citazione": "tale trattamento debba essere offerto ai cittadini senza più alcun obbligo, quanto piuttosto garantendo un’ampia campagna di informazione",
+  "punto": "Sanità, p. 152",
+  "aree": [
+   "sanita",
+   "diritti-liberta"
+  ],
+  "sottotema": "Vaccini",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Creare un sistema centralizzato di monitoraggio pubblico dei tempi di attesa in tutte le Regioni",
+  "citazione": "Prevedere un sistema centralizzato di raccolta sistematica e pubblicazione dell'andamento, in tutte le Regioni italiane, delle prestazioni sanitarie",
+  "punto": "Sanità, p. 153",
+  "aree": [
+   "sanita"
+  ],
+  "sottotema": "Liste d'attesa",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Far rispettare il limite dei volumi dell'intramoenia rispetto all'attività SSN",
+  "citazione": "Individuazione di misure volte a garantire il rispetto dei volumi della libera professione rispetto ai volumi dell'attività prestata in SSN",
+  "punto": "Sanità, p. 153",
+  "aree": [
+   "sanita"
+  ],
+  "sottotema": "Liste d'attesa",
+  "concretezza": 3
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "fonte": "lega-programma-governo-2022",
+  "sintesi": "Assumere personale sanitario anche in deroga ai vincoli di spesa per ridurre le liste d'attesa",
+  "citazione": "Aumentare la capacità produttiva aziendale attraverso l'assunzione di ulteriori unità di personale, anche in deroga al rispetto dei vincoli di spesa per il personale",
+  "punto": "Sanità, p. 153",
+  "aree": [
+   "sanita"
+  ],
+  "sottotema": "Personale sanitario",
+  "concretezza": 3
+ }
+]
