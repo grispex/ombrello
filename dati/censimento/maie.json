@@ -6,21 +6,23 @@
   "collocazione": "maggioranza",
   "camera": {
     "gruppo": "NOI MODERATI (NOI CON L'ITALIA, CORAGGIO ITALIA, UDC E ITALIA AL CENTRO)-MAIE-CENTRO POPOLARE",
-    "deputati": "Franco Tirelli (deputato, circoscrizione estero)",
+    "deputati": "Franco Tirelli (1 deputato, circoscrizione estero)",
     "url": "https://www.camera.it/leg19/1083",
     "verificato_direttamente": true
   },
   "senato": {
     "gruppo": "Civici d'Italia-UDC-Noi Moderati (Noi con l'Italia, Coraggio Italia, Italia al Centro)-MAIE-Centro Popolare",
-    "senatori": "Ricardo Merlo (presidente MAIE; non compare fra i membri del gruppo ufficiale Civici d'Italia sulla pagina senato.it consultata; da verificare)",
+    "senatori": "Mario Alejandro Borghese (vicepresidente MAIE, tesoriere del gruppo Civici d'Italia-UDC-NM-MAIE-CP)",
     "url": "https://www.senato.it/composizione/gruppi-parlamentari/variazioni-nella-composizione-dei-gruppi-del-senato-nella-xix",
-    "verificato_direttamente": true
+    "verificato_direttamente": true,
+    "note": "Dalla pagina ufficiale MAIE 'Chi siamo' (https://www.maiemondiale.com/index.php/chisiamo/, 2026-10-16): parlamentari Borghese (senatore) e Tirelli (deputato); il presidente Ricardo Merlo non e' indicato come parlamentare."
   },
-  "note": "Partito autonomo (leader Ricardo Merlo) con 1 deputato e 1 senatore (Wikipedia). Alleato di maggioranza tramite il gruppo comune. Collocazione da verificare.",
+  "note": "Partito autonomo (presidente Ricardo Merlo, fondato 2008) con 2 parlamentari propri (Tirelli, Borghese) in base al sito del partito; nel gruppo comune della maggioranza di centrodestra.",
   "url_fonti": [
     "https://www.camera.it/leg19/1083",
     "https://www.senato.it/composizione/gruppi-parlamentari/variazioni-nella-composizione-dei-gruppi-del-senato-nella-xix",
     "https://www.camera.it/leg19/46",
-    "https://www.senato.it/composizione/gruppi-parlamentari/riepilogo-della-composizione"
+    "https://www.senato.it/composizione/gruppi-parlamentari/riepilogo-della-composizione",
+    "https://www.maiemondiale.com/index.php/chisiamo/"
   ]
 }

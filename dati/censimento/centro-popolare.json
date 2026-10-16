@@ -2,7 +2,7 @@
   "data": "2026-10-16",
   "partito": "centro-popolare",
   "nome": "Centro Popolare",
-  "partito_autonomo": true,
+  "partito_autonomo": false,
   "collocazione": "maggioranza",
   "camera": {
     "gruppo": "NOI MODERATI (NOI CON L'ITALIA, CORAGGIO ITALIA, UDC E ITALIA AL CENTRO)-MAIE-CENTRO POPOLARE",
@@ -16,11 +16,12 @@
     "url": "https://www.senato.it/composizione/gruppi-parlamentari/variazioni-nella-composizione-dei-gruppi-del-senato-nella-xix",
     "verificato_direttamente": true
   },
-  "note": "Partito nato nel 2024 (Carfagna, Gelmini, Versace), presente nella denominazione dei gruppi di Camera e Senato. Tre parlamentari propri, nella maggioranza (area Noi Moderati). Fonti: camera.it e senato.it (variazioni di gruppo); appartenenza di partito da fonti secondarie.",
+  "note": "Centro Popolare (Carfagna, Gelmini, Versace) ha aderito a Noi Moderati nel novembre 2024 (fonte: https://www.noimoderati.it/il-partito, 'L'Adesione di Centro Popolare') e Carfagna e' segretaria di Noi Moderati dal marzo 2025. Compare solo come etichetta nella denominazione dei gruppi di Camera e Senato (camera.it, senato.it), non come partito autonomo con parlamentari propri. Nessuna proposta estratta (le proposte di Carfagna successive all'adesione sono in 'nm').",
   "url_fonti": [
     "https://www.camera.it/leg19/1083",
     "https://www.senato.it/composizione/gruppi-parlamentari/variazioni-nella-composizione-dei-gruppi-del-senato-nella-xix",
     "https://www.camera.it/leg19/46",
-    "https://www.senato.it/composizione/gruppi-parlamentari/riepilogo-della-composizione"
+    "https://www.senato.it/composizione/gruppi-parlamentari/riepilogo-della-composizione",
+    "https://www.noimoderati.it/il-partito"
   ]
 }
