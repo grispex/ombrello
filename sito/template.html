@@ -1,0 +1,334 @@
+<title>Ombrello</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700&family=Source+Sans+3:ital,wght@0,400;0,600;1,400&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+/* Layout: testata con numeri, schede in alto, area di lavoro a una colonna che su schermo largo diventa filtri + risultati. */
+:root {
+  --bg: #f4f6f8;
+  --surface: #ffffff;
+  --fg: #14202b;
+  --muted: #5a6876;
+  --line: #d9e0e6;
+  --accent: #0f6b73;
+  --accent-ink: #ffffff;
+  --accent-soft: #dcefef;
+  --warn-bg: #fff3d6;
+  --warn-fg: #6b4a00;
+  --yes: #1d7a46;
+  --maybe: #a56a00;
+  --no: #b3362f;
+  --none: #8a96a3;
+  --font-display: "Bricolage Grotesque", "Segoe UI", system-ui, sans-serif;
+  --font-body: "Source Sans 3", "Segoe UI", system-ui, sans-serif;
+  --font-mono: "IBM Plex Mono", ui-monospace, Menlo, monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #0f161c; --surface: #172029; --fg: #e6edf3; --muted: #9aa8b5; --line: #2a3541;
+    --accent: #5cc4cc; --accent-ink: #072a2e; --accent-soft: #123a3e;
+    --warn-bg: #3a2f0f; --warn-fg: #f3d58a;
+    --yes: #4cc17f; --maybe: #e0a63f; --no: #ef7b73; --none: #7f8c99;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #0f161c; --surface: #172029; --fg: #e6edf3; --muted: #9aa8b5; --line: #2a3541;
+  --accent: #5cc4cc; --accent-ink: #072a2e; --accent-soft: #123a3e;
+  --warn-bg: #3a2f0f; --warn-fg: #f3d58a;
+  --yes: #4cc17f; --maybe: #e0a63f; --no: #ef7b73; --none: #7f8c99;
+  color-scheme: dark;
+}
+* { box-sizing: border-box; }
+body {
+  background: var(--bg); color: var(--fg); font-family: var(--font-body); font-size: 16px; line-height: 1.5;
+  padding-block: 20px 56px;
+  padding-left: max(16px, env(safe-area-inset-left, 0px));
+  padding-right: max(16px, env(safe-area-inset-right, 0px));
+}
+.wrap { max-width: 1120px; margin: 0 auto; display: flex; flex-direction: column; gap: 20px; }
+h1, h2, h3 { font-family: var(--font-display); margin: 0; text-wrap: balance; line-height: 1.15; }
+h1 { font-size: clamp(2rem, 6vw, 3rem); font-weight: 700; letter-spacing: -0.02em; }
+h2 { font-size: 1.25rem; font-weight: 700; }
+h3 { font-size: 1rem; font-weight: 700; }
+a { color: var(--accent); }
+button, select, input { font: inherit; color: inherit; }
+:focus-visible { outline: 3px solid var(--accent); outline-offset: 2px; border-radius: 4px; }
+
+.head { display: flex; flex-wrap: wrap; gap: 16px 32px; align-items: flex-end; justify-content: space-between; }
+.head p { margin: 6px 0 0; color: var(--muted); max-width: 46ch; }
+.stats { display: flex; gap: 24px; flex-wrap: wrap; }
+.stat b { display: block; font-family: var(--font-display); font-size: 1.75rem; line-height: 1; font-variant-numeric: tabular-nums; }
+.stat span { font-size: .8rem; color: var(--muted); text-transform: uppercase; letter-spacing: .06em; }
+
+.note { background: var(--warn-bg); color: var(--warn-fg); border-radius: 8px; padding: 10px 14px; font-size: .92rem; }
+
+.tabs { display: flex; gap: 4px; border-bottom: 1px solid var(--line); overflow-x: auto; }
+.tab { background: none; border: 0; padding: 10px 14px; cursor: pointer; font-weight: 600; color: var(--muted); border-bottom: 3px solid transparent; white-space: nowrap; }
+.tab[aria-selected="true"] { color: var(--fg); border-bottom-color: var(--accent); }
+.tab.soon { cursor: default; opacity: .6; }
+
+.layout { display: grid; gap: 20px; grid-template-columns: minmax(0, 1fr); }
+@media (min-width: 900px) { .layout { grid-template-columns: 280px minmax(0, 1fr); align-items: start; } .filters { position: sticky; top: 12px; } }
+.filters { background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 14px; display: flex; flex-direction: column; gap: 14px; }
+.field { display: flex; flex-direction: column; gap: 6px; min-width: 0; }
+.field label, .field .lab { font-size: .78rem; text-transform: uppercase; letter-spacing: .06em; color: var(--muted); font-weight: 600; }
+.input { background: var(--bg); border: 1px solid var(--line); border-radius: 8px; padding: 8px 10px; width: 100%; }
+.chips { display: flex; flex-wrap: wrap; gap: 6px; }
+.chip { display: inline-flex; align-items: center; gap: 6px; border: 1px solid var(--line); background: var(--bg); border-radius: 999px; padding: 3px 10px 3px 8px; font-size: .85rem; cursor: pointer; }
+.chip[aria-pressed="true"] { background: var(--accent-soft); border-color: var(--accent); }
+.dot { width: 10px; height: 10px; border-radius: 50%; flex: none; }
+.small { font-size: .85rem; color: var(--muted); }
+.linkbtn { background: none; border: 0; color: var(--accent); cursor: pointer; padding: 0; text-decoration: underline; font-size: .85rem; }
+
+.results { display: flex; flex-direction: column; gap: 10px; min-width: 0; }
+.count { color: var(--muted); font-size: .9rem; }
+.area-h { margin-top: 12px; padding-bottom: 4px; border-bottom: 2px solid var(--fg); font-size: 1.15rem; }
+.sub-h { margin-top: 6px; font-size: .78rem; text-transform: uppercase; letter-spacing: .07em; color: var(--muted); font-weight: 600; }
+.item { background: var(--surface); border: 1px solid var(--line); border-radius: 8px; padding: 10px 12px; display: flex; flex-direction: column; gap: 6px; min-width: 0; }
+.item p { margin: 0; overflow-wrap: anywhere; }
+.meta { display: flex; flex-wrap: wrap; gap: 6px 12px; align-items: center; font-size: .82rem; color: var(--muted); }
+.tag { display: inline-flex; align-items: center; gap: 5px; color: var(--fg); font-weight: 600; }
+.pips { display: inline-flex; gap: 2px; align-items: center; }
+.pips i { width: 7px; height: 7px; border-radius: 50%; background: var(--line); }
+.pips i.on { background: var(--accent); }
+details summary { cursor: pointer; font-size: .85rem; color: var(--accent); }
+blockquote { margin: 6px 0 0; padding: 0 0 0 12px; border-left: 3px solid var(--line); font-style: italic; overflow-wrap: anywhere; }
+.src { font-size: .82rem; color: var(--muted); margin-top: 6px; overflow-wrap: anywhere; }
+.more { align-self: center; background: var(--accent); color: var(--accent-ink); border: 0; border-radius: 8px; padding: 9px 18px; font-weight: 600; cursor: pointer; }
+
+.tablewrap { overflow-x: auto; background: var(--surface); border: 1px solid var(--line); border-radius: 10px; }
+table { border-collapse: collapse; width: 100%; min-width: 760px; }
+th, td { padding: 8px 6px; text-align: center; border-bottom: 1px solid var(--line); font-size: .9rem; }
+th { font-size: .75rem; text-transform: uppercase; letter-spacing: .05em; color: var(--muted); vertical-align: bottom; }
+th:first-child, td:first-child { text-align: left; position: sticky; left: 0; background: var(--surface); min-width: 220px; max-width: 280px; padding-left: 12px; z-index: 1; }
+tr.q { cursor: pointer; }
+tr.q:hover td { background: var(--accent-soft); }
+tr.q:hover td:first-child { background: var(--accent-soft); }
+tr.sel td, tr.sel td:first-child { background: var(--accent-soft); }
+.cell { display: inline-block; min-width: 30px; border-radius: 6px; padding: 1px 6px; font-weight: 600; font-size: .82rem; }
+.cell.S { color: var(--yes); border: 1.5px solid var(--yes); }
+.cell.R { color: var(--maybe); border: 1.5px dashed var(--maybe); }
+.cell.N { color: var(--no); border: 1.5px solid var(--no); }
+.cell.X { color: var(--none); }
+.legend { display: flex; flex-wrap: wrap; gap: 8px 16px; font-size: .85rem; color: var(--muted); align-items: center; }
+.badge { display: inline-block; font-size: .72rem; padding: 1px 7px; border-radius: 999px; background: var(--accent-soft); color: var(--accent); font-weight: 600; margin-left: 6px; white-space: nowrap; }
+.detail { background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 14px; display: flex; flex-direction: column; gap: 10px; }
+.cols { display: grid; gap: 12px; grid-template-columns: repeat(auto-fit, minmax(190px, 1fr)); }
+
+.cmp { display: grid; gap: 4px 10px; grid-template-columns: minmax(110px, 190px) minmax(0, 1fr) minmax(0, 1fr); align-items: center; }
+.cmp .h { font-size: .8rem; color: var(--muted); font-weight: 600; }
+.bar { height: 14px; border-radius: 3px; min-width: 2px; }
+.barrow { display: flex; align-items: center; gap: 6px; font-size: .8rem; font-variant-numeric: tabular-nums; min-width: 0; }
+.sel2 { display: grid; gap: 12px; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); }
+.foot { color: var(--muted); font-size: .85rem; border-top: 1px solid var(--line); padding-top: 14px; }
+@media (prefers-reduced-motion: reduce) { * { scroll-behavior: auto !important; } }
+</style>
+
+<div class="wrap">
+  <header class="head">
+    <div>
+      <h1>Ombrello</h1>
+      <p>Le proposte dei partiti italiani presenti oggi in Parlamento, raccolte dai loro documenti e ordinate per tema. Fotografia al <span id="data"></span>.</p>
+    </div>
+    <div class="stats" id="stats"></div>
+  </header>
+
+  <div class="note"><b>Prototipo.</b> La libreria usa le proposte vere raccolte finora, con citazione e fonte. Le tabelle sulle posizioni dei partiti, in "Questioni" e nel confronto, usano <b>dati di prova</b> e non vanno citate.</div>
+
+  <div class="tabs" role="tablist" aria-label="Sezioni">
+    <button class="tab" role="tab" id="t-lib" aria-selected="true" aria-controls="v-lib">Libreria</button>
+    <button class="tab" role="tab" id="t-que" aria-selected="false" aria-controls="v-que">Questioni</button>
+    <button class="tab" role="tab" id="t-cmp" aria-selected="false" aria-controls="v-cmp">Confronto</button>
+    <span class="tab soon" aria-hidden="true">Mappa 3D · in arrivo</span>
+  </div>
+
+  <section id="v-lib" role="tabpanel" aria-labelledby="t-lib">
+    <div class="layout">
+      <aside class="filters" aria-label="Filtri">
+        <div class="field"><label for="q">Cerca</label><input class="input" id="q" type="search" placeholder="es. pensioni, nucleare, affitti"></div>
+        <div class="field"><label for="area">Area</label><select class="input" id="area"></select></div>
+        <div class="field"><label for="conc">Concretezza minima</label>
+          <select class="input" id="conc">
+            <option value="1">Tutte (anche i principi)</option>
+            <option value="2">Obiettivi e misure</option>
+            <option value="3">Misure precise</option>
+            <option value="4">Misure con cifre</option>
+          </select></div>
+        <div class="field"><span class="lab">Partiti</span><div class="chips" id="chips"></div>
+          <div class="small"><button class="linkbtn" id="clear">Azzera i partiti</button></div></div>
+      </aside>
+      <div class="results" id="res" aria-live="polite"></div>
+    </div>
+  </section>
+
+  <section id="v-que" role="tabpanel" aria-labelledby="t-que" hidden>
+    <div style="display:flex;flex-direction:column;gap:14px">
+      <div class="note" id="avviso"></div>
+      <div class="legend"><span><span class="cell S">Sì</span> favorevole</span><span><span class="cell R">Sì~</span> con riserve</span><span><span class="cell N">No</span> contrario</span><span><span class="cell X">–</span> non espresso</span></div>
+      <div class="tablewrap"><table id="tab"></table></div>
+      <div id="det"></div>
+    </div>
+  </section>
+
+  <section id="v-cmp" role="tabpanel" aria-labelledby="t-cmp" hidden>
+    <div style="display:flex;flex-direction:column;gap:16px">
+      <div class="sel2">
+        <div class="field"><label for="pa">Primo partito</label><select class="input" id="pa"></select></div>
+        <div class="field"><label for="pb">Secondo partito</label><select class="input" id="pb"></select></div>
+      </div>
+      <div><h2>Quante proposte per area</h2><p class="small" style="margin:4px 0 0">Dati veri. Il numero dipende anche da quanti documenti il partito pubblica: non misura l'importanza di un tema.</p></div>
+      <div class="cmp" id="cmp"></div>
+      <div><h2>Dove sono d'accordo</h2><p class="small" style="margin:4px 0 0">Dati di prova.</p></div>
+      <div id="agree"></div>
+    </div>
+  </section>
+
+  <footer class="foot">Ogni proposta riporta la citazione esatta del documento da cui viene. Il metodo di raccolta è descritto nel codebook del progetto. Per ora mancano alcuni partiti piccoli e i voti parlamentari.</footer>
+</div>
+
+<script>
+const D = /*DATI*/null;
+const $ = (id) => document.getElementById(id);
+const P = Object.fromEntries(D.partiti.map(p => [p.id, p]));
+const AREA = Object.fromEntries(D.aree.map(a => [a.id, a.nome]));
+const STATO_LABEL = { annunciata: "Annunciata", depositata: "Depositata", "in discussione": "In discussione", approvata: "Approvata", attuata: "Attuata", respinta: "Respinta", abbandonata: "Abbandonata" };
+const TIPO = { A: "Programma elettorale", B: "Documento del partito", C: "Atto parlamentare", D: "Voto", E: "Atto di governo", F: "Dichiarazione" };
+
+function el(tag, attrs, ...kids) {
+  const e = document.createElement(tag);
+  for (const [k, v] of Object.entries(attrs || {})) {
+    if (k === "class") e.className = v; else if (k === "text") e.textContent = v;
+    else if (k.startsWith("on")) e.addEventListener(k.slice(2), v); else e.setAttribute(k, v);
+  }
+  for (const c of kids) if (c != null) e.append(c.nodeType ? c : document.createTextNode(c));
+  return e;
+}
+const dotOf = (id) => el("i", { class: "dot", style: "background:" + (P[id] ? P[id].colore : "#888") });
+const tag = (id) => el("span", { class: "tag" }, dotOf(id), P[id] ? P[id].sigla : id);
+
+/* testata */
+$("data").textContent = D.data;
+const nPart = D.partiti.filter(p => p.n > 0).length;
+[[D.proposte.length.toLocaleString("it-IT"), "proposte"], [Object.keys(D.fonti).length, "documenti"], [nPart, "partiti"], [D.aree.length, "aree"]]
+  .forEach(([n, l]) => $("stats").append(el("div", { class: "stat" }, el("b", { text: String(n) }), el("span", { text: l }))));
+
+/* schede */
+const tabs = { lib: ["t-lib", "v-lib"], que: ["t-que", "v-que"], cmp: ["t-cmp", "v-cmp"] };
+function show(k) {
+  for (const [key, [t, v]] of Object.entries(tabs)) { $(t).setAttribute("aria-selected", String(key === k)); $(v).hidden = key !== k; }
+  try { history.replaceState(null, "", "#" + k); } catch (e) {}
+}
+for (const k of Object.keys(tabs)) $(tabs[k][0]).addEventListener("click", () => show(k));
+
+/* libreria */
+const state = { q: "", area: "", conc: 1, partiti: new Set(), shown: 120 };
+$("area").append(el("option", { value: "", text: "Tutte le aree" }));
+D.aree.forEach(a => $("area").append(el("option", { value: a.id, text: a.nome })));
+D.partiti.filter(p => p.n > 0).forEach(p => {
+  const b = el("button", { class: "chip", type: "button", "aria-pressed": "false" }, dotOf(p.id), p.sigla, el("span", { class: "small", text: String(p.n) }));
+  b.title = p.nome;
+  b.addEventListener("click", () => {
+    state.partiti.has(p.id) ? state.partiti.delete(p.id) : state.partiti.add(p.id);
+    b.setAttribute("aria-pressed", String(state.partiti.has(p.id))); state.shown = 120; render();
+  });
+  $("chips").append(b);
+});
+$("clear").addEventListener("click", () => { state.partiti.clear(); document.querySelectorAll(".chip").forEach(c => c.setAttribute("aria-pressed", "false")); render(); });
+$("q").addEventListener("input", e => { state.q = e.target.value.trim().toLowerCase(); state.shown = 120; render(); });
+$("area").addEventListener("change", e => { state.area = e.target.value; state.shown = 120; render(); });
+$("conc").addEventListener("change", e => { state.conc = +e.target.value; state.shown = 120; render(); });
+
+function card(r) {
+  const [id, partiti, sintesi, citazione, fonte, aree, sotto, conc, data, stato, punto] = r;
+  const f = D.fonti[fonte] || {};
+  const pips = el("span", { class: "pips", title: "Concretezza " + conc + " su 4" }, ...[1, 2, 3, 4].map(n => el("i", { class: n <= conc ? "on" : "" })));
+  const src = el("div", { class: "src" }, (TIPO[f.k] || "Fonte") + ": ",
+    f.u ? el("a", { href: f.u, target: "_blank", rel: "noopener noreferrer", text: f.t || fonte }) : (f.t || fonte),
+    f.d ? " (" + f.d + ")" : "", punto ? " · " + punto : "");
+  return el("article", { class: "item" },
+    el("p", { text: sintesi }),
+    el("div", { class: "meta" }, ...partiti.map(tag), pips, el("span", { text: STATO_LABEL[stato] || stato }), el("span", { text: data || "" })),
+    el("details", {}, el("summary", { text: "Citazione e fonte" }), el("blockquote", { text: citazione }), src));
+}
+function render() {
+  const q = state.q;
+  const list = D.proposte.filter(r =>
+    (!state.area || r[5].includes(state.area)) && r[7] >= state.conc &&
+    (!state.partiti.size || r[1].some(p => state.partiti.has(p))) &&
+    (!q || r[2].toLowerCase().includes(q) || r[3].toLowerCase().includes(q) || r[6].toLowerCase().includes(q)));
+  const res = $("res"); res.replaceChildren();
+  res.append(el("div", { class: "count", text: list.length.toLocaleString("it-IT") + " proposte" + (list.length > state.shown ? ", prime " + state.shown : "") }));
+  let lastA = null, lastS = null;
+  list.slice(0, state.shown).forEach(r => {
+    const a = state.area || r[5][0];
+    if (a !== lastA) { res.append(el("h2", { class: "area-h", text: AREA[a] })); lastA = a; lastS = null; }
+    if (r[6] !== lastS) { res.append(el("div", { class: "sub-h", text: r[6] })); lastS = r[6]; }
+    res.append(card(r));
+  });
+  if (list.length > state.shown) res.append(el("button", { class: "more", type: "button", text: "Mostra altre", onclick: () => { state.shown += 120; render(); } }));
+  if (!list.length) res.append(el("p", { class: "small", text: "Nessuna proposta con questi filtri." }));
+}
+render();
+
+/* questioni (dati di prova) */
+const POS = { S: ["Sì", "favorevole"], R: ["Sì~", "favorevole con riserve"], N: ["No", "contrario"] };
+const colonne = ["fdi", "lega", "fi", "nm", "fn", "pd", "m5s", "ev", "si", "azione", "iv", "piu-europa"];
+$("avviso").textContent = D.prova.avviso;
+function tipoTouch(pos) {
+  const fav = colonne.filter(p => pos[p] === "S" || pos[p] === "R");
+  const gov = fav.filter(p => P[p].schieramento === "maggioranza").length, opp = fav.filter(p => P[p].schieramento === "opposizione").length;
+  if (fav.length >= 3 && gov && opp) return "trasversale";
+  if (fav.length >= 3) return "interno";
+  return "";
+}
+(function () {
+  const t = $("tab");
+  t.append(el("thead", {}, el("tr", {}, el("th", { text: "Questione" }), ...colonne.map(p => el("th", { title: P[p].nome }, P[p].sigla)))));
+  const body = el("tbody");
+  D.prova.questioni.forEach(q => {
+    const tp = tipoTouch(q.pos);
+    const tr = el("tr", { class: "q", tabindex: "0" },
+      el("td", {}, el("div", { text: q.domanda }), el("div", { class: "small" }, AREA[q.area], tp ? el("span", { class: "badge", text: "punto di contatto " + tp }) : null)),
+      ...colonne.map(p => { const v = q.pos[p]; return el("td", {}, v ? el("span", { class: "cell " + v, "aria-label": POS[v][1], text: POS[v][0] }) : el("span", { class: "cell X", "aria-label": "non espresso", text: "–" })); }));
+    const open = () => { body.querySelectorAll("tr").forEach(r => r.classList.remove("sel")); tr.classList.add("sel"); detail(q); };
+    tr.addEventListener("click", open); tr.addEventListener("keydown", e => { if (e.key === "Enter") open(); });
+    body.append(tr);
+  });
+  t.append(body);
+})();
+function detail(q) {
+  const g = { S: [], R: [], N: [], X: [] };
+  colonne.forEach(p => g[q.pos[p] || "X"].push(p));
+  const col = (k, titolo) => el("div", {}, el("h3", { text: titolo + " (" + g[k].length + ")" }),
+    el("div", { class: "chips", style: "margin-top:6px" }, ...g[k].map(p => el("span", { class: "chip" }, dotOf(p), P[p].sigla))));
+  $("det").replaceChildren(el("div", { class: "detail" }, el("h2", { text: q.domanda }),
+    el("div", { class: "cols" }, col("S", "Favorevoli"), col("R", "Con riserve"), col("N", "Contrari"), col("X", "Non espresso")),
+    el("p", { class: "small", text: "Dati di prova. Nella versione vera, ogni posizione rimanda alle proposte e ai documenti che la dimostrano." })));
+}
+
+/* confronto */
+const sel = D.partiti.filter(p => p.n > 0);
+["pa", "pb"].forEach((id, i) => { sel.forEach(p => $(id).append(el("option", { value: p.id, text: p.nome }))); $(id).value = sel[i === 0 ? 0 : 7].id; $(id).addEventListener("change", cmp); });
+function cmp() {
+  const a = $("pa").value, b = $("pb").value;
+  const n = { [a]: {}, [b]: {} };
+  D.proposte.forEach(r => r[1].forEach(p => { if (n[p]) r[5].forEach(ar => { n[p][ar] = (n[p][ar] || 0) + 1; }); }));
+  const max = Math.max(1, ...D.aree.flatMap(x => [n[a][x.id] || 0, n[b][x.id] || 0]));
+  const c = $("cmp"); c.replaceChildren(el("div"), el("div", { class: "h", text: P[a].nome }), el("div", { class: "h", text: P[b].nome }));
+  const row = (p, ar) => { const v = n[p][ar] || 0; return el("div", { class: "barrow" }, el("div", { class: "bar", style: `width:${Math.max(2, v / max * 100)}%;max-width:calc(100% - 34px);background:${P[p].colore}` }), String(v)); };
+  D.aree.forEach(x => c.append(el("div", { class: "small", text: x.nome }), row(a, x.id), row(b, x.id)));
+  const out = $("agree"); out.replaceChildren();
+  const same = D.prova.questioni.filter(q => q.pos[a] && q.pos[a] === q.pos[b]);
+  const diff = D.prova.questioni.filter(q => q.pos[a] && q.pos[b] && q.pos[a] !== q.pos[b]);
+  if (a === b) { out.append(el("p", { class: "small", text: "Scegli due partiti diversi." })); return; }
+  const ul = (items, t) => el("div", {}, el("h3", { text: t + " (" + items.length + ")" }), el("ul", {}, ...items.map(q => el("li", { text: q.domanda }))));
+  out.append(el("div", { class: "cols", style: "grid-template-columns:repeat(auto-fit,minmax(260px,1fr))" }, ul(same, "Stessa posizione"), ul(diff, "Posizioni diverse")));
+}
+cmp();
+
+/* scheda iniziale dall'ancora */
+const h = (location.hash || "").slice(1);
+if (tabs[h]) show(h);
+</script>

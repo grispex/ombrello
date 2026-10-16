@@ -1,0 +1,12 @@
+{
+  "avviso": "DATI DI PROVA. Le questioni e le posizioni qui sotto servono solo a mostrare come funzionerà la tabella: non sono state verificate sulle fonti e non vanno citate. Saranno sostituite dal pilota su Lavoro, Fisco ed Energia.",
+  "questioni": [
+    {"id": "p1", "area": "lavoro", "domanda": "Introdurre un salario minimo legale?", "pos": {"pd": "S", "m5s": "S", "ev": "S", "si": "S", "azione": "R", "piu-europa": "S", "iv": "R", "fdi": "N", "lega": "N", "fi": "N", "nm": "N", "fn": "N"}},
+    {"id": "p2", "area": "lavoro", "domanda": "Ridurre l'orario di lavoro a parità di salario?", "pos": {"pd": "R", "m5s": "S", "ev": "S", "si": "S", "azione": "N", "piu-europa": "N", "iv": "N", "fdi": "N", "lega": "N", "fi": "N"}},
+    {"id": "p3", "area": "fisco", "domanda": "Estendere la flat tax a più categorie di lavoratori?", "pos": {"lega": "S", "fdi": "S", "fi": "R", "nm": "R", "fn": "S", "azione": "R", "iv": "N", "pd": "N", "m5s": "N", "ev": "N", "si": "N"}},
+    {"id": "p4", "area": "fisco", "domanda": "Introdurre un'imposta sui grandi patrimoni?", "pos": {"pd": "R", "m5s": "S", "ev": "S", "si": "S", "azione": "N", "iv": "N", "piu-europa": "N", "fdi": "N", "lega": "N", "fi": "N"}},
+    {"id": "p5", "area": "fisco", "domanda": "Abbassare le tasse sul lavoro dipendente (cuneo fiscale)?", "pos": {"pd": "S", "m5s": "S", "ev": "S", "si": "S", "azione": "S", "iv": "S", "piu-europa": "S", "fdi": "S", "lega": "S", "fi": "S", "nm": "S", "fn": "S"}},
+    {"id": "p6", "area": "energia", "domanda": "Tornare a produrre energia nucleare in Italia?", "pos": {"fdi": "S", "lega": "S", "fi": "S", "nm": "S", "fn": "S", "azione": "S", "iv": "R", "piu-europa": "R", "pd": "R", "m5s": "N", "ev": "N", "si": "N"}},
+    {"id": "p7", "area": "energia", "domanda": "Fissare un anno per l'uscita dal carbone e dal gas?", "pos": {"ev": "S", "si": "S", "pd": "R", "m5s": "R", "piu-europa": "R", "azione": "N", "iv": "N", "fdi": "N", "lega": "N", "fi": "N"}}
+  ]
+}
