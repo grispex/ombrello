@@ -1,0 +1,26 @@
+{
+  "data": "2026-10-16",
+  "partito": "centro-popolare",
+  "nome": "Centro Popolare",
+  "partito_autonomo": true,
+  "collocazione": "maggioranza",
+  "camera": {
+    "gruppo": "NOI MODERATI (NOI CON L'ITALIA, CORAGGIO ITALIA, UDC E ITALIA AL CENTRO)-MAIE-CENTRO POPOLARE",
+    "deputati": "Maria Rosaria Carfagna (aderisce al gruppo il 30/10/2024) ",
+    "url": "https://www.camera.it/leg19/1083",
+    "verificato_direttamente": true
+  },
+  "senato": {
+    "gruppo": "Civici d'Italia-UDC-Noi Moderati (Noi con l'Italia, Coraggio Italia, Italia al Centro)-MAIE-Centro Popolare",
+    "senatori": "Mariastella Gelmini (30/10/2024), Giusy Versace (27/11/2024)",
+    "url": "https://www.senato.it/composizione/gruppi-parlamentari/variazioni-nella-composizione-dei-gruppi-del-senato-nella-xix",
+    "verificato_direttamente": true
+  },
+  "note": "Partito nato nel 2024 (Carfagna, Gelmini, Versace), presente nella denominazione dei gruppi di Camera e Senato. Tre parlamentari propri, nella maggioranza (area Noi Moderati). Fonti: camera.it e senato.it (variazioni di gruppo); appartenenza di partito da fonti secondarie.",
+  "url_fonti": [
+    "https://www.camera.it/leg19/1083",
+    "https://www.senato.it/composizione/gruppi-parlamentari/variazioni-nella-composizione-dei-gruppi-del-senato-nella-xix",
+    "https://www.camera.it/leg19/46",
+    "https://www.senato.it/composizione/gruppi-parlamentari/riepilogo-della-composizione"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "data": "2026-10-16",
+  "partito": "maie",
+  "nome": "MAIE - Movimento Associativo Italiani all'Estero",
+  "partito_autonomo": true,
+  "collocazione": "maggioranza",
+  "camera": {
+    "gruppo": "NOI MODERATI (NOI CON L'ITALIA, CORAGGIO ITALIA, UDC E ITALIA AL CENTRO)-MAIE-CENTRO POPOLARE",
+    "deputati": "Franco Tirelli (deputato, circoscrizione estero)",
+    "url": "https://www.camera.it/leg19/1083",
+    "verificato_direttamente": true
+  },
+  "senato": {
+    "gruppo": "Civici d'Italia-UDC-Noi Moderati (Noi con l'Italia, Coraggio Italia, Italia al Centro)-MAIE-Centro Popolare",
+    "senatori": "Ricardo Merlo (presidente MAIE; non compare fra i membri del gruppo ufficiale Civici d'Italia sulla pagina senato.it consultata; da verificare)",
+    "url": "https://www.senato.it/composizione/gruppi-parlamentari/variazioni-nella-composizione-dei-gruppi-del-senato-nella-xix",
+    "verificato_direttamente": true
+  },
+  "note": "Partito autonomo (leader Ricardo Merlo) con 1 deputato e 1 senatore (Wikipedia). Alleato di maggioranza tramite il gruppo comune. Collocazione da verificare.",
+  "url_fonti": [
+    "https://www.camera.it/leg19/1083",
+    "https://www.senato.it/composizione/gruppi-parlamentari/variazioni-nella-composizione-dei-gruppi-del-senato-nella-xix",
+    "https://www.camera.it/leg19/46",
+    "https://www.senato.it/composizione/gruppi-parlamentari/riepilogo-della-composizione"
+  ]
+}

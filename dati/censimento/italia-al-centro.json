@@ -1,0 +1,26 @@
+{
+  "data": "2026-10-16",
+  "partito": "italia-al-centro",
+  "nome": "Italia al Centro",
+  "partito_autonomo": false,
+  "collocazione": "maggioranza",
+  "camera": {
+    "gruppo": "NOI MODERATI (NOI CON L'ITALIA, CORAGGIO ITALIA, UDC E ITALIA AL CENTRO)-MAIE-CENTRO POPOLARE",
+    "deputati": 0,
+    "url": "https://www.camera.it/leg19/1083",
+    "verificato_direttamente": true
+  },
+  "senato": {
+    "gruppo": "Civici d'Italia-UDC-Noi Moderati (Noi con l'Italia, Coraggio Italia, Italia al Centro)-MAIE-Centro Popolare",
+    "senatori": 0,
+    "url": "https://www.senato.it/composizione/gruppi-parlamentari/variazioni-nella-composizione-dei-gruppi-del-senato-nella-xix",
+    "verificato_direttamente": true
+  },
+  "note": "Citato solo nella denominazione dei gruppi; confluita nel partito Noi Moderati (maggio 2023, Giovanni Toti presidente del consiglio nazionale NM, non parlamentare). Non e' un partito autonomo con parlamentari. Nessuna proposta estratta.",
+  "url_fonti": [
+    "https://www.camera.it/leg19/1083",
+    "https://www.senato.it/composizione/gruppi-parlamentari/variazioni-nella-composizione-dei-gruppi-del-senato-nella-xix",
+    "https://www.camera.it/leg19/46",
+    "https://www.senato.it/composizione/gruppi-parlamentari/riepilogo-della-composizione"
+  ]
+}
