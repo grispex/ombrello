@@ -1,0 +1,22 @@
+{
+  "partito": "lega",
+  "nome": "Lega per Salvini Premier",
+  "data": "2026-10-16",
+  "partito_autonomo": true,
+  "collocazione": "maggioranza",
+  "camera": {
+    "gruppo": "LEGA - SALVINI PREMIER",
+    "deputati": 56,
+    "metodo": "Conteggio dei deputati con adesione al gruppo gr4132 senza data di fine, da dati.camera.it/sparql (SPARQL, interrogato il 2026-10-16)",
+    "url": "https://dati.camera.it/sparql",
+    "note": "Almeno un ex membro (Laura Ravetto) risulta passato al gruppo Misto il 20.05.2026."
+  },
+  "senato": {
+    "gruppo": "Lega Salvini Premier - Partito Sardo d'Azione",
+    "senatori": 29,
+    "url": "https://www.senato.it/composizione/gruppi-parlamentari/riepilogo-della-composizione",
+    "verificato_direttamente": false,
+    "note": "Il sito del Senato non e' raggiungibile con lo strumento di scarico (risposta vuota); il dato 29 proviene dal riepilogo della composizione dei gruppi indicato da una ricerca web, da riverificare."
+  },
+  "note": "Il gruppo parlamentare comprende anche il Partito Sardo d'Azione al Senato; il partito Lega per Salvini Premier e' autonomo e ha parlamentari propri."
+}
