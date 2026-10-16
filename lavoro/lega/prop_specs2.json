@@ -1,0 +1,341 @@
+[
+ {
+  "partiti": [
+   "lega"
+  ],
+  "sintesi": "Riorganizzare per delega l'istruzione secondaria di secondo grado con corsi di studio di durata quadriennale",
+  "citazione": "Delega al Governo per la riorganizzazione dei percorsi di istruzione secondaria di secondo grado con la previsione della durata quadriennale dei corsi di studio",
+  "fonte": "lega-pdl-1739-camera",
+  "punto": "Relazione illustrativa",
+  "aree": [
+   "istruzione-universita-ricerca"
+  ],
+  "sottotema": "Istruzione tecnica e ITS",
+  "concretezza": 3,
+  "stato": "depositata",
+  "ambito": "nazionale",
+  "parametri": [
+   {
+    "cosa": "durata corsi secondaria di secondo grado",
+    "valore": "4 anni"
+   }
+  ]
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "sintesi": "Istituire un servizio militare e civile universale territoriale di sei mesi per i cittadini tra 18 e 26 anni",
+  "citazione": "prevede l’istituzione di un servizio militare e civile universale territoriale da svolgere esclusivamente nel territorio nazionale e nella propria regione di residenza o domicilio, fatta salva la possibilità di chiedere di svolgere tale servizio in altri ambiti territoriali nazionali e previa autorizzazione dell’autorità preposta, che coinvolga obbligatoriamente, per un periodo di sei mesi, tutti ",
+  "fonte": "lega-pdl-1873-camera",
+  "punto": "Relazione illustrativa",
+  "aree": [
+   "difesa",
+   "welfare-inclusione"
+  ],
+  "sottotema": "Leva e servizio militare",
+  "concretezza": 4,
+  "stato": "depositata",
+  "ambito": "nazionale",
+  "parametri": [
+   {
+    "cosa": "durata del servizio",
+    "valore": "6 mesi"
+   },
+   {
+    "cosa": "fascia di età",
+    "valore": "18-26 anni"
+   }
+  ]
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "sintesi": "Prevedere un'aggravante penale per chi agisce in stato di alterazione psichica dovuta ad abuso di sostanze stupefacenti",
+  "citazione": "Modifica all’articolo 61 del codice penale in materia di circostanza aggravante consistente nell’avere agito in stato di alterazione psichica dovuta all’abuso di sostanze stupefacenti",
+  "fonte": "lega-pdl-1900-camera",
+  "punto": "Relazione illustrativa",
+  "aree": [
+   "sicurezza",
+   "giustizia"
+  ],
+  "sottotema": "Droghe",
+  "concretezza": 3,
+  "stato": "depositata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "sintesi": "Aumentare di un punto percentuale i limiti orari di affollamento pubblicitario della RAI",
+  "citazione": "aumentando di un punto percentuale la trasmissione dei servizi pubblicitari da parte della RAI nella fascia oraria compresa tra le ore 6 e le ore 18 e nella fascia compresa tra le ore 18 e le ore 24.",
+  "fonte": "lega-pdl-1938-camera",
+  "punto": "Relazione illustrativa",
+  "aree": [
+   "informazione-media"
+  ],
+  "sottotema": "Servizio pubblico RAI",
+  "concretezza": 4,
+  "stato": "depositata",
+  "ambito": "nazionale",
+  "parametri": [
+   {
+    "cosa": "aumento tetto pubblicitario RAI",
+    "valore": "+1 punto percentuale"
+   }
+  ]
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "sintesi": "Ampliare i reati che comportano la revoca della cittadinanza",
+  "citazione": "intende quindi modificare il suddetto articolo 10-bis prevedendo ulteriori ipotesi di revoca della cittadinanza ed ampliando quindi l’elenco dei reati ivi previsti.",
+  "fonte": "lega-pdl-2124-camera",
+  "punto": "Relazione illustrativa",
+  "aree": [
+   "immigrazione-cittadinanza",
+   "sicurezza"
+  ],
+  "sottotema": "Cittadinanza",
+  "concretezza": 3,
+  "stato": "depositata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "sintesi": "Richiedere l'attestazione della conoscenza della lingua italiana per ottenere la cittadinanza",
+  "citazione": "Con la modifica di quest’ultimo articolo, prevedendo la necessaria attestazione della conoscenza della lingua italiana, si intende difatti evitare quelle situazioni, spesso riportate dalla cronaca, in cui l’interessato non riesce a prestare correttamente in italiano il giuramento che l’articolo 10 della legge n.",
+  "fonte": "lega-pdl-2124-camera",
+  "punto": "Relazione illustrativa",
+  "aree": [
+   "immigrazione-cittadinanza"
+  ],
+  "sottotema": "Cittadinanza",
+  "concretezza": 3,
+  "stato": "depositata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "sintesi": "Introdurre una rateizzazione a lungo termine, per esempio decennale con rate fisse, dei carichi affidati all'agente della riscossione",
+  "citazione": "l’introduzione di una rateizzazione su un periodo sufficientemente lungo, per esempio dieci anni, con rate di importo fisso ed eguale",
+  "fonte": "lega-pdl-2148-camera",
+  "punto": "Relazione illustrativa",
+  "aree": [
+   "fisco"
+  ],
+  "sottotema": "Evasione, condoni e rottamazioni",
+  "concretezza": 4,
+  "stato": "depositata",
+  "ambito": "nazionale",
+  "parametri": [
+   {
+    "cosa": "durata rateizzazione",
+    "valore": "10 anni (esempio)"
+   }
+  ]
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "sintesi": "Escludere il lupo dall'elenco delle specie particolarmente protette",
+  "citazione": "Modifica all’articolo 2 della legge 11 febbraio 1992, n. 157, in materia di esclusione del lupo (canis lupus) dall’elenco delle specie particolarmente protette",
+  "fonte": "lega-pdl-2162-camera",
+  "punto": "Relazione illustrativa",
+  "aree": [
+   "ambiente-animali",
+   "agricoltura-pesca"
+  ],
+  "sottotema": "Parchi e biodiversità",
+  "concretezza": 3,
+  "stato": "depositata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "sintesi": "Delegare il Governo a disciplinare l'attività di influencer e creatore di contenuti digitali",
+  "citazione": "la presente proposta di legge prevede una delega al Governo per l’adozione di uno o più decreti legislativi volti a disciplinare le attività di influencer e di creatore di contenuti digitali nonché il relativo comparto economico.",
+  "fonte": "lega-pdl-1816-camera",
+  "punto": "Relazione illustrativa",
+  "aree": [
+   "innovazione-digitale",
+   "economia-imprese"
+  ],
+  "sottotema": "Dati e piattaforme",
+  "concretezza": 3,
+  "stato": "depositata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "sintesi": "Delegare il Governo a rivedere la vigilanza sulle cooperative valorizzando il ruolo del revisore",
+  "citazione": "La presente proposta di legge reca una delega al Governo al fine di valorizzare non soltanto lo strumento delle ispezioni, ma anche la figura e il ruolo del revisore nel supportare le cooperative al rispetto della finalità mutualistica.",
+  "fonte": "lega-pdl-1778-camera",
+  "punto": "Relazione illustrativa",
+  "aree": [
+   "economia-imprese"
+  ],
+  "sottotema": "Concorrenza e concessioni",
+  "concretezza": 3,
+  "stato": "depositata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "sintesi": "Inserire il test prenatale non invasivo (NIPT) nei livelli essenziali di assistenza a carico del SSN",
+  "citazione": "intende promuovere la definizione di una disciplina uniforme e l’introduzione del test NIPT nell’ambito delle prestazioni per il controllo della gravidanza garantite dal Servizio sanitario nazionale, in esenzione dalla partecipazione al relativo costo.",
+  "fonte": "lega-pdl-1781-camera",
+  "punto": "Relazione illustrativa",
+  "aree": [
+   "sanita"
+  ],
+  "sottotema": "Prevenzione",
+  "concretezza": 3,
+  "stato": "depositata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "sintesi": "Istituire una Commissione parlamentare di inchiesta sulla raccolta di informazioni su personaggi pubblici tramite accessi abusivi a banche dati investigative",
+  "citazione": "si ritiene opportuno istituire una Commissione parlamentare di inchiesta con l’obiettivo di accertare quali fossero i reali intenti della presunta attività di raccolta di informazioni riguardanti personaggi pubblici attraverso accessi abusivi a banche di dati presso organi investigativi e quale uso sia stato fatto del materiale e dei dati acquisiti.",
+  "fonte": "lega-pdl-2065-camera",
+  "punto": "Relazione illustrativa",
+  "aree": [
+   "giustizia",
+   "istituzioni-riforme"
+  ],
+  "sottotema": "Libertà di espressione e privacy",
+  "concretezza": 3,
+  "stato": "depositata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "sintesi": "Introdurre nuovi reati contro il dossieraggio e il trattamento illecito di dati tramite violazione di sistemi informatici",
+  "citazione": "La presente proposta di legge mira ad arginare il sempre più preoccupante fenomeno del « dossieraggio », ossia del mercato di informazioni sensibili riguardanti soggetti politicamente esposti, imprenditori o semplici privati cittadini, realizzato attraverso la violazione di sistemi informatici protetti.",
+  "fonte": "lega-pdl-2134-camera",
+  "punto": "Relazione illustrativa",
+  "aree": [
+   "giustizia",
+   "innovazione-digitale"
+  ],
+  "sottotema": "Cybersicurezza",
+  "concretezza": 3,
+  "stato": "depositata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "sintesi": "Richiedere per l'elezione a deputato, oltre ai 25 anni, un precedente mandato come sindaco, assessore o consigliere comunale o regionale",
+  "citazione": "prevedendo che possano essere eletti deputati coloro che nel giorno delle elezioni abbiano compiuto i venticinque anni di età e che siano stati titolari, per Atti Parlamentari — 2 XIX LEGISLATURA almeno un mandato, della carica di sindaco o di assessore o consigliere, a livello comunale o regionale.",
+  "fonte": "lega-pdl-1756-camera",
+  "punto": "Relazione illustrativa",
+  "aree": [
+   "istituzioni-riforme"
+  ],
+  "sottotema": "Parlamento e bicameralismo",
+  "concretezza": 3,
+  "stato": "depositata",
+  "ambito": "nazionale",
+  "parametri": [
+   {
+    "cosa": "età minima",
+    "valore": "25 anni"
+   }
+  ],
+  "note": "Proposta di legge costituzionale; esclusi i deputati della circoscrizione Estero."
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "sintesi": "Esentare dalla quota fissa della tassa sui rifiuti le superfici produttive di soli rifiuti speciali",
+  "citazione": "Una delle principali novità prevede l’esenzione totale dalla tassazione sui rifiuti delle superfici dove avvengono le lavorazioni industriali, comprese quelle relative ai magazzini di materie prime, semilavorati e merci, dal momento che producono soltanto rifiuti speciali.",
+  "fonte": "lega-pdl-1989-camera",
+  "punto": "Relazione illustrativa",
+  "aree": [
+   "fisco",
+   "ambiente-animali",
+   "economia-imprese"
+  ],
+  "sottotema": "Rifiuti ed economia circolare",
+  "concretezza": 3,
+  "stato": "depositata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "sintesi": "Estendere a tutti i comuni il sistema di front office delegato alle camere di commercio per lo sportello unico attività produttive",
+  "citazione": "ha lo scopo di uniformare i sistemi informatici per il deposito delle istanze e la gestione telematica del procedimento, nonché di estendere il medesimo strumento di front office per la gestione del SUAP a tutti i comuni.",
+  "fonte": "lega-pdl-1932-camera",
+  "punto": "Relazione illustrativa",
+  "aree": [
+   "pubblica-amministrazione",
+   "economia-imprese"
+  ],
+  "sottotema": "Semplificazione",
+  "concretezza": 3,
+  "stato": "depositata",
+  "ambito": "nazionale"
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "sintesi": "Fissare a 5 euro il tetto delle spese di accertamento per ogni singola violazione stradale a carico del trasgressore",
+  "citazione": "prevede la fissazione di un tetto massimo, pari a 5 euro, per le spese di accertamento di ogni singolo comune.",
+  "fonte": "lega-pdl-1964-camera",
+  "punto": "Relazione illustrativa",
+  "aree": [
+   "infrastrutture-trasporti"
+  ],
+  "sottotema": "Codice della strada",
+  "concretezza": 4,
+  "stato": "depositata",
+  "ambito": "nazionale",
+  "parametri": [
+   {
+    "cosa": "tetto spese di accertamento",
+    "valore": "5 euro"
+   }
+  ]
+ },
+ {
+  "partiti": [
+   "lega"
+  ],
+  "sintesi": "Disciplinare il contratto di rete tra professionisti e la rete-soggetto tra iscritti ad albi, ordini o collegi",
+  "citazione": "con la presente proposta di legge si introduce una disciplina ad hoc per il contratto di rete tra professionisti.",
+  "fonte": "lega-pdl-1753-camera",
+  "punto": "Relazione illustrativa",
+  "aree": [
+   "economia-imprese"
+  ],
+  "sottotema": "PMI e artigianato",
+  "concretezza": 3,
+  "stato": "depositata",
+  "ambito": "nazionale"
+ }
+]

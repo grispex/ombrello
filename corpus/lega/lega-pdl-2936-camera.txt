@@ -1,0 +1,569 @@
+Atti Parlamentari
+
+— 1
+
+—
+
+Camera dei Deputati
+
+XIX LEGISLATURA — DISEGNI DI LEGGE E RELAZIONI — DOCUMENTI
+
+CAMERA DEI DEPUTATI
+
+N. 2936
+—
+
+PROPOSTA DI LEGGE
+D’INIZIATIVA DEI DEPUTATI
+
+CECCHETTI, MOLINARI, GIGLIO VIGNA, GUSMEROLI, ZOFFILI
+
+Introduzione della valutazione di impatto occupazionale dei sistemi di intelligenza artificiale incidenti sull’organizzazione e sullo
+svolgimento di prestazioni lavorative nonché disposizioni per la
+tutela del lavoro umano e dell’occupazione
+
+Presentata il 15 maggio 2026
+
+ONOREVOLI COLLEGHI ! – La presente proposta di legge, recante disposizioni per la
+tutela del lavoro umano nella transizione
+all’intelligenza artificiale, cerca di affrontare e di dare soluzioni concrete alla questione dell’impatto dei sistemi di intelligenza artificiale sul mercato del lavoro,
+considerando anche la recente evoluzione
+giurisprudenziale e le evidenze conoscitive
+emerse nell’ambito dei lavori dell’Osservatorio sull’adozione di sistemi di intelligenza
+artificiale nel mondo del lavoro istituito
+presso il Ministero del lavoro e delle politiche sociali ai sensi dell’articolo 12 della
+legge 23 settembre 2025, n. 132.
+Il dibattito sull’intelligenza artificiale ha
+recentemente superato la fase meramente
+prospettica, assumendo una dimensione concreta e attuale sul piano dei rapporti di
+
+lavoro, come dimostra in modo emblematico la recente sentenza del tribunale di
+Roma, sezione lavoro, n. 9135 del 19 novembre 2025. La citata pronuncia, infatti,
+costituisce uno dei primi casi in cui l’impiego di sistemi di intelligenza artificiale
+emerge, sul piano fattuale, quale elemento
+determinante nel processo di riorganizzazione aziendale, che conduce alla soppressione di una posizione lavorativa. Senza
+entrare nel merito della decisione, si rileva
+che il giudice riconosce che l’intelligenza
+artificiale, in nome dell’efficientamento, della
+riduzione dei costi e di altri elementi, può
+portare come conseguenza finale il licenziamento del lavoratore. In sostanza, vi è il
+riconoscimento implicito che la trasformazione tecnologica delle mansioni possa incidere sulla valutazione di funzionalità di
+
+Atti Parlamentari
+
+— 2
+
+XIX LEGISLATURA
+
+una posizione lavorativa, fino a giustificarne la soppressione. In tal modo, l’intelligenza artificiale diviene, di fatto, un fattore organizzativo idoneo a incidere sull’equilibrio tra la libertà di iniziativa economica e la tutela del lavoro. Si tratta di un
+passaggio tutt’altro che neutro, poiché segnala come l’ordinamento giuridico stia già
+assorbendo gli effetti dell’automazione senza
+che sia ancora disponibile un quadro normativo specifico in grado di governarne le
+conseguenze occupazionali.
+Anche leggendo i contributi raccolti nell’ambito del citato Osservatorio si può individuare, anzi delineare, un possibile futuro scenario caratterizzato da rischi occupazionali strutturali, che rendono urgente un intervento legislativo mirato. I
+rischi sono evidenti: la sostituzione o riduzione delle mansioni nei settori a medio
+contenuto professionale; la polarizzazione
+del lavoro; l’erosione delle possibilità di
+trovare un nuovo posto di lavoro; i disallineamenti tra le competenze possedute e le
+competenze richieste.
+L’intelligenza artificiale non viene formalmente posta a fondamento del licenziamento, ma concorre in modo determinante
+a ridefinire l’assetto delle mansioni e, conseguentemente, a legittimare la soppressione del posto di lavoro. In assenza di
+strumenti normativi preventivi, il rischio è
+che la regolazione dell’impatto occupazionale dell’intelligenza artificiale venga affidata esclusivamente alla giurisprudenza, con
+esiti frammentari e privi di una visione
+sistemica.
+La presente proposta di legge intende
+offrire una prima, ma importante, risposta
+cercando – ma sarà necessario un costante
+monitoraggio – di introdurre strumenti di
+governo della transizione tecnologica, quali
+la valutazione di impatto occupazionale, la
+supervisione umana delle decisioni automatizzate e i meccanismi di compensazione e accompagnamento, in grado di anticipare e gestire gli effetti dell’automazione sul lavoro. I primi dati e i primi casi
+concreti dimostrano che l’impatto dell’intelligenza artificiale sull’occupazione non è
+più una prospettiva futura, ma una realtà
+già operante nel sistema produttivo e giu-
+
+—
+
+Camera dei Deputati
+A.C. 2936
+
+ridico. Questi sono segnali di allerta per il
+legislatore: senza un quadro normativo specifico, l’intelligenza artificiale rischia di incidere sulla tutela del lavoro in modo silenzioso e disorganico.
+La presente proposta di legge rappresenta, pertanto, uno strumento necessario
+e tempestivo per governare tale transizione,
+assicurando che l’innovazione tecnologica
+si accompagni alla salvaguardia della dignità del lavoro umano e alla coesione
+sociale, in coerenza con i princìpi costituzionali e con l’evoluzione del diritto dell’Unione europea. Essa si inserisce nel contesto della profonda trasformazione del mercato del lavoro determinata dalla diffusione dei sistemi di intelligenza artificiale,
+con particolare riferimento all’automazione dei processi produttivi, all’organizzazione algoritmica del lavoro e all’impiego di
+sistemi decisionali automatizzati nei rapporti di lavoro, pubblici e privati. L’evoluzione tecnologica in atto, da un lato, costituisce un fattore di incremento della produttività, dell’efficienza organizzativa e della
+competitività del sistema economico e, dall’altro lato, pone rilevanti questioni di ordine sociale, occupazionale e giuridico connesse alla tutela della dignità del lavoro
+umano, alla salvaguardia dei diritti fondamentali dei lavoratori e alla prevenzione di
+fenomeni di esclusione, polarizzazione occupazionale e discriminazione algoritmica.
+Il legislatore europeo ha affrontato tali
+tematiche mediante l’adozione del regolamento (UE) 2024/1689 del Parlamento europeo e del Consiglio, del 13 giugno 2024,
+che introduce un quadro armonizzato per
+lo sviluppo e l’impiego di sistemi di intelligenza artificiale basato su un approccio
+proporzionato al rischio. In ambito nazionale, la citata legge 23 settembre 2025,
+n. 132, ha definito i princìpi generali e la
+governance dell’intelligenza artificiale in Italia, demandando, tuttavia, a interventi settoriali l’attuazione puntuale delle tutele nei
+diversi ambiti di impiego.
+La presente proposta di legge persegue
+l’obiettivo di governare la transizione all’intelligenza artificiale nel mondo del lavoro, ponendo al centro la persona e la
+qualità dell’occupazione, in coerenza con i
+
+Atti Parlamentari
+
+— 3
+
+XIX LEGISLATURA
+
+princìpi sanciti dagli articoli 1, 4, 35 e 41
+della Costituzione.
+In particolare, essa mira a: tutelare l’occupazione, la dignità e il valore sociale del
+lavoro umano; prevenire gli effetti distorsivi dell’automazione non governata, quali
+la perdita indiscriminata di posti di lavoro,
+la degradazione delle competenze e l’aumento delle disuguaglianze; garantire che
+l’impiego dei sistemi di intelligenza artificiale nei rapporti di lavoro avvenga secondo criteri di trasparenza, proporzionalità, responsabilità umana e non discriminazione; promuovere le politiche attive del
+lavoro, la formazione continua e la riqualificazione professionale, in modo da accompagnare i lavoratori nei processi di
+trasformazione tecnologica.
+La presente proposta di legge si fonda
+sul principio dell’impiego antropocentrico
+dell’intelligenza artificiale, già affermato a
+livello europeo, e lo declina in modo specifico nel contesto lavoristico, rafforzando
+il ruolo della supervisione umana e della
+contrattazione collettiva.
+Elemento centrale della proposta è l’introduzione della valutazione di impatto occupazionale dei sistemi di intelligenza artificiale, quale strumento conoscitivo e preventivo volto a misurare gli effetti dell’introduzione
+dei
+suddetti
+sistemi
+sull’occupazione, sulle mansioni, sulle competenze e sulle condizioni di lavoro. Tale
+strumento si applica prioritariamente ai
+sistemi di intelligenza artificiale ad alto
+rischio, nonché a quelli che, pur non rientrando in tale classificazione, producono
+impatti significativi sull’organizzazione del
+lavoro o sui diritti dei lavoratori.
+La presente proposta di legge afferma il
+principio secondo cui l’impiego dei sistemi
+di intelligenza artificiale non può tradursi
+nella sostituzione integrale e indiscriminata del lavoro umano, in assenza di misure effettive di riqualificazione, ricollocazione o accompagnamento dei lavoratori
+interessati. È previsto un contributo di com-
+
+—
+
+Camera dei Deputati
+A.C. 2936
+
+pensazione occupazionale destinato esclusivamente al finanziamento del Fondo nazionale per la transizione occupazionale da
+impiego di sistemi di intelligenza artificiale,
+volto a sostenere programmi di riqualificazione, ricollocazione e sostegno al reddito.
+Si prevede inoltre che le imprese beneficiarie di contributi, sovvenzioni o finanziamenti pubblici, comunque denominati,
+non possano destinare tali risorse all’acquisizione, allo sviluppo o all’impiego di
+sistemi di intelligenza artificiale qualora
+tali interventi siano finalizzati in modo
+diretto e prevalente alla riduzione del personale impiegato nei processi produttivi o
+organizzativi.
+Inoltre, vengono rafforzati i diritti informativi dei lavoratori, riconoscendo il
+diritto a conoscere l’impiego dei sistemi di
+intelligenza artificiale nel rapporto di lavoro e gli effetti sulle proprie mansioni e
+prospettive professionali, e si valorizza il
+ruolo della contrattazione collettiva di lavoro, quale sede privilegiata per la regolazione dell’impiego dell’intelligenza artificiale nei luoghi di lavoro, in coerenza con
+le migliori pratiche nazionali ed europee.
+In materia sanzionatoria, la presente proposta di legge adotta un’impostazione coerente con la normativa dell’Unione europea, prevedendo sanzioni amministrative
+pecuniarie proporzionate alla gravità delle
+violazioni.
+In conclusione, la presente proposta di
+legge intende offrire una risposta organica
+e bilanciata alle sfide poste dall’impiego dei
+sistemi di intelligenza artificiale nel mondo
+del lavoro, promuovendo un modello di
+innovazione sostenibile, inclusivo e rispettoso dei valori costituzionali. Non si vuole
+ostacolare il progresso tecnologico, ma appare necessario orientare lo sviluppo affinché l’intelligenza artificiale diventi uno strumento di crescita economica e di miglioramento della qualità del lavoro e non un
+fattore di esclusione sociale.
+
+Atti Parlamentari
+
+— 4
+
+—
+
+Camera dei Deputati
+A.C. 2936
+
+XIX LEGISLATURA
+
+PROPOSTA DI LEGGE
+__
+Art. 1.
+(Finalità e princìpi)
+1. La presente legge reca disposizioni in
+materia di impiego dei sistemi di intelligenza artificiale nel mercato del lavoro, al
+fine di:
+a) tutelare l’occupazione, la dignità e
+il valore sociale del lavoro umano;
+b) governare gli effetti occupazionali,
+organizzativi e professionali dell’automazione;
+c) prevenire fenomeni di polarizzazione occupazionale, deterioramento delle
+competenze e discriminazione algoritmica;
+d) promuovere la riqualificazione professionale continua e l’adattamento delle
+competenze;
+e) garantire un impiego antropocentrico, trasparente, proporzionato e responsabile dell’intelligenza artificiale, in coerenza con il regolamento (UE) 2024/1689
+del Parlamento europeo e del Consiglio, del
+13 giugno 2024.
+2. Al fine di tutelare il lavoro umano
+quale valore costituzionalmente protetto, è
+vietato l’impiego di sistemi di intelligenza
+artificiale che determinano la soppressione
+integrale e indiscriminata di mansioni lavorative, ove non accompagnato da misure
+proporzionate e verificabili di tutela, riqualificazione o ricollocazione dei lavoratori
+interessati, nel rispetto dei princìpi di proporzionalità e di ragionevolezza e della
+libertà di iniziativa economica di cui all’articolo 41 della Costituzione.
+3. L’impiego di sistemi di intelligenza
+artificiale nei rapporti di lavoro assicura:
+a) la responsabilità umana delle decisioni;
+b) la comprensibilità e la tracciabilità
+dei processi decisionali;
+
+Atti Parlamentari
+
+— 5
+
+—
+
+Camera dei Deputati
+A.C. 2936
+
+XIX LEGISLATURA
+
+c) la tutela dei diritti fondamentali dei
+lavoratori, nel rispetto dei princìpi di proporzionalità e di ragionevolezza.
+Art. 2.
+(Ambito di applicazione)
+1. Le disposizioni della presente legge si
+applicano:
+a) ai datori di lavoro pubblici e privati;
+b) alle imprese che impiegano sistemi
+di intelligenza artificiale per l’organizzazione, la gestione, il monitoraggio o la trasformazione delle attività lavorative;
+c) alle piattaforme digitali e agli operatori economici che utilizzano sistemi automatizzati decisionali o di gestione algoritmica del lavoro.
+2. Le disposizioni della presente legge si
+applicano altresì ai sistemi di monitoraggio
+digitale e di gestione algoritmica che incidono su mansioni, carichi di lavoro, orari,
+valutazioni, progressioni di carriera o cessazione del rapporto di lavoro nel rispetto
+dell’articolo 4 della legge 20 maggio 1970,
+n. 300.
+3. Le disposizioni della presente legge si
+interpretano e si applicano conformemente
+al regolamento (UE) 2024/1689 e ai princìpi di cui alla legge 23 settembre 2025,
+n. 132, nonché alla disciplina in materia di
+protezione dei dati personali, salute e sicurezza nei luoghi di lavoro e diritti sindacali.
+Art. 3.
+(Introduzione della valutazione di impatto
+occupazionale dei sistemi di intelligenza artificiale)
+1. È introdotta la valutazione di impatto
+occupazionale dei sistemi di intelligenza
+artificiale che, anche in base alla modalità
+di utilizzo:
+a) determinano la soppressione, la riduzione o la trasformazione significativa di
+posti di lavoro;
+
+Atti Parlamentari
+
+— 6
+
+XIX LEGISLATURA
+
+b) incidono in modo rilevante sulle
+mansioni, sulle competenze richieste, sui
+carichi di lavoro, sugli orari, sui livelli
+retributivi o sulle condizioni di salute e di
+sicurezza dei lavoratori.
+2. La valutazione di impatto occupazionale dei sistemi di intelligenza artificiale di
+cui al comma 1 è effettuata, in via prioritaria, sui sistemi di intelligenza artificiale
+classificati ad alto rischio ai sensi dell’articolo 6 del regolamento (UE) 2024/1689,
+nonché sui sistemi che non rientrano in
+tale classificazione ma producono effetti
+significativi sull’organizzazione del lavoro o
+sui diritti dei lavoratori.
+3. La valutazione di impatto occupazionale dei sistemi di intelligenza artificiale
+contiene:
+a) il numero e la tipologia dei posti di
+lavoro potenzialmente interessati;
+b) l’analisi delle mansioni e delle competenze coinvolte, intese come il divario tra
+le competenze possedute dai lavoratori e
+quelle effettivamente richieste dalle imprese;
+c) l’analisi dei fabbisogni di competenze;
+d) la valutazione dell’impatto sulla salute, sulla sicurezza e sui rischi psicosociali
+dei lavoratori;
+e) le misure di mitigazione, riqualificazione, ricollocazione e accompagnamento
+dei lavoratori coinvolti.
+4. La valutazione di impatto occupazionale dei sistemi di intelligenza artificiale è
+trasmessa all’Osservatorio sull’adozione di
+sistemi di intelligenza artificiale nel mondo
+del lavoro istituito ai sensi dell’articolo 12
+della legge 23 settembre 2025, n. 132, ed è
+aggiornata in caso di modifiche sostanziali
+dei sistemi stessi e del loro impiego.
+5. Con il decreto di cui all’articolo 11
+sono stabilite modalità semplificate di redazione della valutazione di impatto occupazionale dei sistemi di intelligenza artificiale per le micro, piccole e medie imprese
+e per le amministrazioni pubbliche.
+
+—
+
+Camera dei Deputati
+A.C. 2936
+
+Atti Parlamentari
+
+— 7
+
+—
+
+Camera dei Deputati
+A.C. 2936
+
+XIX LEGISLATURA
+
+6. Le amministrazioni pubbliche attuano gli obblighi di cui al presente articolo
+in coordinamento con il Piano triennale
+per l’informatica nella pubblica amministrazione previsto dall’articolo 14-bis del
+codice dell’amministrazione digitale, di cui
+al decreto legislativo 7 marzo 2005, n. 82.
+7. La valutazione di impatto occupazionale dei sistemi di intelligenza artificiale ha
+finalità informative e programmatorie, non
+ha natura autorizzatoria e non sostituisce
+gli obblighi di valutazione dei rischi previsti
+dalla normativa in materia di salute e sicurezza nei luoghi di lavoro.
+8. Ai fini del presente articolo, per « impatto occupazionale significativo » si intende una modifica strutturale dell’organizzazione del lavoro idonea a incidere in
+modo non marginale su livelli occupazionali, mansioni, competenze, condizioni di
+lavoro o prospettive professionali dei lavoratori.
+
+Art. 4.
+(Princìpi di non sostituzione automatica e
+supervisione umana)
+1. Nel rispetto dei princìpi di proporzionalità e ragionevolezza e della libertà di
+iniziativa economica di cui all’articolo 41
+della Costituzione, è vietato l’impiego di
+sistemi di intelligenza artificiale finalizzati
+esclusivamente alla sostituzione integrale
+di mansioni lavorative, in assenza di misure effettive di riqualificazione, ricollocazione o accompagnamento dei lavoratori
+interessati.
+2. Ciascun atto che produce effetti diretti sul rapporto di lavoro prevede una
+supervisione umana significativa, responsabile e documentabile, in conformità ai princìpi del regolamento (UE) 2024/1689.
+3. È in ogni caso vietato l’impiego di
+sistemi di intelligenza artificiale per l’adozione automatica di decisioni disciplinari,
+di valutazione o di cessazione del rapporto
+di lavoro, in assenza di un intervento umano
+effettivo e responsabile, ferma restando la
+disciplina vigente.
+
+Atti Parlamentari
+
+— 8
+
+—
+
+Camera dei Deputati
+A.C. 2936
+
+XIX LEGISLATURA
+
+Art. 5.
+(Contributo di compensazione occupazionale)
+1. Le imprese che riducono il personale
+in presenza di un nesso causale diretto e
+prevalente con l’impiego di sistemi di intelligenza artificiale sono tenute al versamento di un contributo di compensazione
+occupazionale.
+2. Il contributo di cui al comma 1 ha
+natura non tributaria ed è finalizzato esclusivamente al finanziamento delle misure di
+cui all’articolo 6.
+3. Il contributo di cui al comma 1 è
+determinato in misura proporzionale:
+a) al numero di posti di lavoro soppressi o trasformati;
+b) al grado di automazione introdotto;
+c) alla dimensione dell’impresa.
+4. L’accertamento del nesso causale diretto e prevalente e la determinazione del
+contributo di cui al comma 1 sono effettuati secondo criteri stabiliti con il decreto
+di cui all’articolo 11.
+5. Ai fini dell’attuazione del presente
+articolo sono previste misure di gradualità
+e di proporzionalità per le micro, piccole e
+medie imprese.
+Art. 6.
+(Condizionalità occupazionale nell’impiego
+di sistemi di intelligenza artificiale finanziati
+con risorse pubbliche)
+1. Le imprese beneficiarie di contributi,
+sovvenzioni o finanziamenti pubblici, comunque denominati, non possono destinare tali risorse all’acquisizione, allo sviluppo o all’impiego di sistemi di intelligenza artificiale finalizzati in modo diretto
+e prevalente alla riduzione del personale
+impiegato nei processi produttivi o organizzativi.
+2. Ai fini del comma 1, per « finalità
+diretta e prevalente di riduzione del personale » si intende l’impiego delle tecnologie di intelligenza artificiale che comporta
+
+Atti Parlamentari
+
+— 9
+
+—
+
+Camera dei Deputati
+A.C. 2936
+
+XIX LEGISLATURA
+
+la soppressione o la riduzione strutturale
+di posti di lavoro non accompagnata da
+misure effettive, verificabili e proporzionate di riqualificazione, ricollocazione o
+valorizzazione delle competenze dei lavoratori interessati.
+3. Nei casi in cui l’impiego di sistemi di
+intelligenza artificiale finanziato con le risorse di cui al comma 1 determina un
+incremento dell’efficienza, della produttività o della qualità dei processi, le imprese
+beneficiarie destinano una quota parte dei
+contributi o finanziamenti ricevuti a interventi di:
+a) formazione continua e aggiornamento delle competenze dei lavoratori;
+b) riqualificazione professionale e riconversione delle mansioni dei lavoratori;
+c) valorizzazione e sviluppo delle competenze dei lavoratori coinvolti nei processi
+interessati dall’impiego dei sistemi di intelligenza artificiale.
+4. Gli obblighi di cui al comma 3 sono
+stabiliti con il decreto di cui all’articolo 11
+in coerenza con gli esiti della valutazione di
+impatto occupazionale dell’intelligenza artificiale di cui all’articolo 3 e costituiscono
+elemento essenziale di valutazione ai fini
+della concessione, del mantenimento e dell’eventuale revoca dei benefìci.
+5. Restano ferme le disposizioni in materia di aiuti di Stato, fondi dell’Unione
+europea e programmi nazionali di incentivazione, nonché la possibilità di prevedere
+criteri di gradualità e modalità semplificate
+per le micro, piccole e medie imprese, nel
+rispetto dei princìpi di proporzionalità e di
+ragionevolezza.
+Art. 7.
+(Fondo nazionale per la transizione occupazionale da impiego di sistemi di intelligenza
+artificiale)
+1. Nello stato di previsione del Ministero
+del lavoro e delle politiche sociali è istituito
+il Fondo nazionale per la transizione occupazionale da impiego di sistemi di intelligenza artificiale, di seguito denominato
+
+Atti Parlamentari
+
+— 10
+
+—
+
+Camera dei Deputati
+A.C. 2936
+
+XIX LEGISLATURA
+
+« Fondo », con una dotazione di 50 milioni
+di euro annui a decorrere dall’anno 2026.
+2. Il Fondo di cui al comma 1 è destinato al finanziamento di:
+a) programmi di riqualificazione professionale e aggiornamento delle competenze dei lavoratori;
+b) percorsi di riconversione e ricollocazione dei lavoratori a rischio;
+c) misure di sostegno al reddito dei
+lavoratori durante le fasi di transizione.
+3. Il Fondo di cui al comma 1 opera in
+coordinamento con il Fondo Nuove Competenze, di cui all’articolo 88, comma 1, del
+decreto-legge 19 maggio 2020, n. 34, convertito, con modificazioni, dalla legge 17
+luglio 2020, n. 77, il Programma nazionale
+per la garanzia di occupabilità lavoratori,
+adottato con decreto del Ministro del lavoro e delle politiche sociali 5 novembre
+2021, pubblicato nella Gazzetta Ufficiale
+n. 306 del 27 dicembre 2021, il Sistema
+informativo per l’inclusione sociale e lavorativa – SIISL, di cui all’articolo 5 del
+decreto-legge 4 maggio 2023, n. 48, convertito, con modificazioni, dalla legge 3 luglio
+2023, n. 85, e gli altri strumenti di politica
+attiva del lavoro previsti dalla normativa
+vigente nazionale e dell’Unione europea.
+Art. 8.
+(Diritti dei lavoratori)
+1. Ciascun lavoratore ha diritto a:
+a) essere informato in modo chiaro
+sull’impiego di sistemi di intelligenza artificiale nel proprio rapporto di lavoro;
+b) conoscere l’impatto dell’impiego di
+sistemi di intelligenza artificiale sulla propria mansione e sulle proprie prospettive
+professionali;
+c) accedere gratuitamente a percorsi
+di formazione e riqualificazione;
+d) ottenere le informazioni circa le
+decisioni algoritmiche che incidono sul rapporto di lavoro.
+
+Atti Parlamentari
+
+— 11
+
+—
+
+Camera dei Deputati
+A.C. 2936
+
+XIX LEGISLATURA
+
+2. È vietata ogni forma di discriminazione algoritmica, diretta o indiretta, nel
+rispetto della normativa vigente nazionale e
+dell’Unione europea.
+
+Art. 9.
+(Contrattazione collettiva e impiego di sistemi di intelligenza artificiale)
+1. L’impiego di sistemi di intelligenza
+artificiale che incidono sull’organizzazione
+del lavoro costituisce materia di informazione, consultazione e contrattazione collettiva.
+2. Gli accordi collettivi di lavoro prevedono:
+a) misure di salvaguardia occupazionale;
+b) programmi di formazione certificata;
+c) strumenti di monitoraggio continuo
+degli effetti occupazionali e organizzativi
+dell’impiego di sistemi di intelligenza artificiale;
+d) organismi bilaterali di confronto e
+verifica.
+
+Art. 10.
+(Sanzioni)
+1. Nei casi di mancata redazione o trasmissione della valutazione di impatto occupazionale dei sistemi di intelligenza artificiale di cui all’articolo 3 si applica una
+sanzione amministrativa pecuniaria da euro
+500 a euro 1.500, proporzionata alla gravità e alla durata della violazione nonché
+alla dimensione dell’impresa.
+2. In caso di impiego di sistemi di intelligenza artificiale in violazione dell’articolo 4 si applica la sanzione amministrativa pecuniaria da euro 1.500 a euro 3.000
+e, nei casi più gravi, la sospensione dell’impiego del sistema di intelligenza artificiale
+fino alla regolarizzazione.
+
+Atti Parlamentari
+
+— 12
+
+—
+
+Camera dei Deputati
+A.C. 2936
+
+XIX LEGISLATURA
+
+Art. 11.
+(Disposizioni attuative e finanziarie)
+1. Entro sei mesi dalla data di entrata in
+vigore della presente legge, con uno o più
+decreti del Ministro del lavoro e delle politiche sociali, di concerto con il Ministro
+dell’economia e delle finanze, sentite le
+parti sociali, sono stabiliti:
+a) le modalità semplificate di redazione della valutazione di impatto occupazionale dei sistemi di intelligenza artificiale
+per le micro, piccole e medie imprese e per
+le amministrazioni pubbliche;
+b) i criteri di determinazione e l’importo del contributo di compensazione occupazionale di cui all’articolo 5;
+c) le modalità di accertamento del
+nesso causale diretto e prevalente di cui
+all’articolo 5;
+d) i criteri di determinazione e le
+modalità di attuazione degli obblighi di cui
+all’articolo 6, comma 3;
+e) le modalità di funzionamento del
+Fondo di cui all’articolo 7.
+2. Agli oneri derivanti dall’attuazione
+della presente legge, pari a 46 milioni di
+euro annui a decorrere dall’anno 2026, si
+provvede nei limiti delle risorse del Fondo
+di cui all’articolo 7, come integrate dai
+contributi di compensazione occupazionale
+di cui all’articolo 5.
+
+*19PDL0196900*
+*19PDL0196900*
+
+

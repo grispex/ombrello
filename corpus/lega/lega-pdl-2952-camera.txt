@@ -1,0 +1,1820 @@
+Atti Parlamentari
+
+— 1
+
+—
+
+Camera dei Deputati
+
+XIX LEGISLATURA — DISEGNI DI LEGGE E RELAZIONI — DOCUMENTI
+
+CAMERA DEI DEPUTATI
+
+N. 2952
+—
+
+PROPOSTA DI LEGGE
+D’INIZIATIVA DEI DEPUTATI
+
+MORRONE, BORRELLI, CANGIANO, IAIA, SIMIANI, RUBANO, VACCARI, BATTISTONI, DARA, GRUPPIONI, LAMPIS, LONGI, MANES,
+MARINO, PISANO, RACHELE SILVESTRI
+
+Modifiche al decreto legislativo 8 giugno 2001, n. 231, in materia
+di responsabilità delle persone giuridiche, delle società e delle
+associazioni, anche prive di personalità giuridica, per fatti illeciti
+dipendenti da reato
+
+Presentata il 5 giugno 2026
+
+ONOREVOLI COLLEGHI ! – La presente proposta di riforma del decreto legislativo 8
+giugno 2001, n. 231, intende delineare un
+equilibrio tra la certezza e la prevedibilità
+del diritto, da una parte, e l’efficienza e la
+responsabilizzazione delle imprese, dall’altra parte, sfruttando appieno il potenziale
+di un’organizzazione nel prevenire il rischio di reato e scongiurando, nei limiti del
+possibile, il cosiddetto « senno di poi » cui è
+esposto il giudizio ex post sull’idoneità del
+sistema di prevenzione attuato dagli enti.
+Nel perseguire questo obiettivo di fondo, la
+presente proposta di legge si muove su due
+direttrici principali: in primo luogo, restituire tassatività alle ipotesi di colpa dell’organizzazione, attraverso una più precisa
+
+definizione dei criteri di imputazione e una
+più articolata descrizione del modello organizzativo, e, in secondo luogo, accentuare
+la dimensione premiale, anche ex post, della
+disciplina recata dal citato decreto legislativo n. 231 del 2001, senza rinunciare al
+richiamo alla necessità di predisporre un’organizzazione efficace e adeguata alla prevenzione degli illeciti.
+La presente proposta di legge si compone di un solo articolo recante novelle di
+modifica puntuale o di integrazione delle
+disposizioni del citato decreto legislativo
+n. 231 del 2001. All’articolo 1, comma 1,
+lettere da a) a c), viene affrontata la questione della natura della responsabilità degli enti, lungamente dibattuta dalla dot-
+
+Atti Parlamentari
+
+— 2
+
+XIX LEGISLATURA
+
+trina e dalla giurisprudenza sino dall’introduzione della disciplina. Già nella relazione ministeriale del decreto legislativo
+n. 231 del 2001 si era evidenziato che l’opzione per la natura amministrativa era
+stata adottata solo in ossequio a un’espressa indicazione di cautela della legge di
+delega 29 settembre 2000, n. 300, rilevando, tuttavia, l’assenza di « insuperabili
+controindicazioni alla creazione di un sistema di vera e propria responsabilità penale degli enti ». La stessa giurisprudenza
+maggioritaria si è espressa per la natura
+sostanzialmente penale della responsabilità
+degli enti (si vedano le sentenze della Corte
+di cassazione, sezione VI penale, n. 23401
+del 15 giugno 2022, n. 33044 del 25 gennaio 2018 e n. 4176 del 13 settembre 2017).
+A livello europeo, inoltre, e ancor più nei
+Paesi di tradizione anglosassone, quali gli
+Stati Uniti d’America, il Canada, l’Australia
+e la Nuova Zelanda, la natura della responsabilità degli enti collettivi è espressamente
+qualificata come penale: in Francia dall’articolo 121-2 del code pénal, in Spagna dall’articolo 31-bis del código penal, in Irlanda
+dal Criminal Justice – Corruption Offences
+– Act 2018, in Belgio dall’articolo 5 del code
+pénal, nei Paesi Bassi dall’articolo 51 del
+Wetboek van Strafrecht. Nonostante non vi
+fossero ragioni ostative all’espressa qualificazione come penale anche nel nostro
+ordinamento, nella presente proposta di
+legge si è comunque ritenuto di non definire la natura della responsabilità degli
+enti e, pertanto, la locuzione « responsabilità amministrativa » contenuta nella rubrica del capo I del decreto legislativo n. 231
+del 2011 è stata sostituita dalla locuzione,
+più neutra, « responsabilità da reato », in
+tal modo volendo, da un lato, mettere in
+evidenza l’autonomia dell’illecito dell’ente
+rispetto al reato della persona fisica e,
+dall’altro lato, confermare contestualmente
+la stretta connessione di dipendenza tra
+l’illecito e il reato. Conseguentemente, nell’articolato la locuzione « responsabilità amministrativa » è stata sostituita dalla locuzione « responsabilità da reato » e le parole
+« amministrativa », « amministrative », « amministrativo » e « amministrativi » sono state
+soppresse.
+
+—
+
+Camera dei Deputati
+A.C. 2952
+
+All’articolo 1, comma 1, lettera e), che
+dispone la sostituzione integrale dell’articolo 1 del decreto legislativo n. 231 del
+2001, si provvede alla ridefinizione dei limiti soggettivi di applicazione della responsabilità degli enti. Il nuovo testo del comma
+2 del citato articolo 1 del decreto legislativo
+viene arricchito della precisazione riguardante la natura collettiva degli enti a cui si
+applica la normativa in questione. Si tratta
+di un dato ormai acquisito dalla prassi, ma
+si è ritenuto opportuno positivizzarlo al
+fine di eliminare ogni dubbio in merito
+all’inapplicabilità della disciplina alle ditte
+individuali, dubbio peraltro già fugato dalla
+giurisprudenza maggioritaria (si veda la
+sentenza della Corte di cassazione, sezione
+III penale, n. 45534 del 13 novembre 2023).
+Tale precisazione lessicale non inficia la
+certa operatività, in astratto, della disciplina rispetto alle società unipersonali, come
+ammesso, a talune condizioni, dalla giurisprudenza della Suprema Corte, nelle recenti sentenze della sezione VI penale,
+n. 45100 del 16 febbraio 2021, e della sezione III penale, n. 42611 del 21 novembre
+2024).
+L’intervento di modifica più rilevante
+sulla definizione dell’ambito soggettivo di
+applicabilità della disciplina recata dal decreto legislativo n. 231 del 2011 si rinviene
+nel nuovo testo dei commi 3 e 4 dell’articolo 1 del medesimo decreto e riguarda
+l’esclusione degli enti di piccole dimensioni.
+A tale proposito, la Corte di cassazione ha
+distinto il profilo formale di assoggettamento degli enti a tale disciplina da quello
+sostanziale, evidenziando la necessità di
+accertare in concreto, in base a parametri
+oggettivi e dimensionali, l’effettiva autonomia della società rispetto agli interessi personali del socio (si veda la sentenza della
+Corte di cassazione, sezione III penale,
+n. 22082 del 12 giugno 2025). In questa
+direzione si muove la presente proposta di
+legge, optando per escludere dall’ambito
+soggettivo di applicazione gli enti di piccole
+dimensioni e aderendo così ai suggerimenti
+di parte della letteratura in materia.
+Si prevede un doppio criterio selettivo
+degli enti di piccole dimensioni: l’uno, con
+riguardo al rapporto tra l’assetto ammini-
+
+Atti Parlamentari
+
+— 3
+
+XIX LEGISLATURA
+
+strativo e il controllo dell’ente, per cui si
+richiede un’effettiva autonomia gestionale e
+organizzativa dell’ente medesimo per il perseguimento dell’oggetto sociale rispetto agli
+interessi dei soggetti che, anche di fatto, lo
+controllano; l’altro, dimensionale (aziendalistico), che si rifà in larga misura ai criteri
+selettivi, già previsti nell’ordinamento, per
+le microimprese o per le imprese minori.
+Allo scopo di arginare potenziali fenomeni
+elusivi di frammentazione dell’attività economica in più unità di piccole dimensioni,
+si è precisato, al nuovo comma 5, che non
+può considerarsi ente di piccole dimensioni
+la società che esercita l’attività di direzione
+e coordinamento di un gruppo di imprese.
+All’articolo 1, comma 1, lettera f), viene
+modificato in più punti l’articolo 4 del
+decreto legislativo n. 231 del 2001, sempre
+sul tema dei soggetti. Al riguardo, si estende
+espressamente la giurisdizione italiana agli
+enti con sede legale nell’Unione europea o
+al di fuori di essa, che operino in Italia
+tramite una stabile organizzazione o una
+struttura priva di personalità giuridica, recependo l’orientamento oramai consolidato
+della giurisprudenza di legittimità (si veda
+la sentenza della Corte di cassazione, sezione VI penale, n. 11626 dell’11 febbraio
+2020). Infine, viene riconfermato il principio del ne bis in idem transnazionale, per
+cui l’ente prosciolto o condannato in via
+definitiva nello Stato in cui ha la propria
+sede non può essere nuovamente processato per il medesimo fatto, distinguendo
+però tra gli enti aventi sede in uno Stato
+membro dell’Unione europea e quelli aventi
+sede in un Paese terzo, per i quali è necessaria la delibazione ordinaria della sentenza di condanna o di assoluzione.
+All’articolo 1, comma 1, lettera g), si
+dispone la sostituzione integrale dell’articolo 5, introducendo, con il nuovo comma
+2, una disciplina specifica per la responsabilità degli enti da reato-presupposto colposo, in coerenza con le indicazioni giurisprudenziali sulla riferibilità dell’interesse
+o vantaggio alla condotta e non all’evento
+(si veda la sentenza della Corte di cassazione, sezioni unite penali, n. 38343 del 18
+settembre 2014), subordinando l’esistenza
+dell’interesse o vantaggio (criterio di impu-
+
+—
+
+Camera dei Deputati
+A.C. 2952
+
+tazione oggettiva) a un’effettiva violazione
+di regole cautelari volta a conseguire un
+risparmio di spesa, un incremento produttivo o altro beneficio economico. Il nuovo
+comma 3 dell’articolo 5 estende la responsabilità all’ente controllante per gli illeciti
+commessi da soggetti riferibili agli enti controllati, ogniqualvolta tali condotte favoriscano o siano commesse nello specifico
+interesse o vantaggio dell’ente controllante.
+Tale disposizione ha un’indubbia portata
+innovativa e affronta il tema della circolazione della responsabilità all’interno dei
+gruppi di imprese. Con la disposizione in
+parola si esplicita anzitutto che l’interesse
+che può coinvolgere la responsabilità della
+società controllante (holding) non è un mero
+interesse di gruppo, ma deve trattarsi di
+una condotta finalizzata a soddisfare o che
+si concretizzi in un interesse o un vantaggio
+specifico della società che esercita la direzione e il coordinamento. In questo quadro, tuttavia, la responsabilità della società
+controllante si estende anche all’ipotesi,
+che allo stato sarebbe da escludere, in cui
+il reato sia commesso esclusivamente da
+soggetti appartenenti alle società controllate: se, da un lato, quindi, il reato deve
+essere commesso proprio nell’interesse della
+capogruppo, dall’altro lato, si onera chi
+svolge funzioni di direzione e coordinamento di un’attività di organizzazione e
+prevenzione degli illeciti, secondo i criteri
+di cui al nuovo articolo 6, commessi dalle
+controllate nel suo interesse o vantaggio. Il
+nuovo comma 4 dell’articolo 5, infine, ricolloca e conferma l’esimente per le condotte commesse dal loro autore nell’interesse esclusivo proprio o di terzi.
+All’articolo 1, comma 1, lettera h), si
+dispone la sostituzione integrale dell’articolo 6 del decreto legislativo n. 231 del
+2001, introducendo una disciplina unitaria
+del criterio di imputazione soggettiva, che
+elimina la distinzione vigente tra il fatto
+commesso dal soggetto apicale e quello
+commesso dal soggetto a questo subordinato e stabilisce che l’ente è responsabile:
+1) se l’organo dirigente non ha adottato ed efficacemente attuato, prima della
+commissione del fatto, un modello di or-
+
+Atti Parlamentari
+
+— 4
+
+XIX LEGISLATURA
+
+ganizzazione, gestione e controllo idoneo a
+ridurre il rischio di reati della stessa specie;
+2) se non è stato affidato all’organismo di cui al nuovo articolo 7-bis il compito di vigilare sul funzionamento, sull’osservanza e sull’aggiornamento di tale modello;
+3) se vi è stata omessa o insufficiente
+vigilanza da parte di detto organismo.
+Il nuovo comma 2 dell’articolo 6 prevede una clausola di equivalenza delle strutture organizzative adottate da enti aventi
+sede fuori del territorio nazionale, purché
+dotate di caratteristiche analoghe a quelle
+stabilite dai nuovi articoli 7 e 7-bis del
+decreto legislativo n. 231 del 2001 e idonee
+a ridurre il rischio del verificarsi di reati
+dello stesso tipo di quello realizzato. Ciò,
+peraltro, assume particolare rilevanza nei
+gruppi multinazionali in conseguenza dell’estensione, di cui al citato articolo 5, comma
+3, della responsabilità alla capogruppo per
+i fatti commessi, nel suo interesse o vantaggio, da soggetti appartenenti alle controllate. In coerenza con le modifiche proposte sulla natura sostanzialmente penale
+della responsabilità dell’ente, si è altresì
+previsto il superamento della presunzione
+di responsabilità nel caso di reati commessi
+da soggetti apicali, uniformando la disciplina del decreto legislativo n. 231 del 2001
+ai princìpi del processo accusatorio. Deve
+evidenziarsi, in particolare, il criterio di
+imputazione prescelto: il canone dell’idoneità a ridurre il rischio, che è stato adottato in tutte le disposizioni del decreto
+legislativo n. 231 del 2001 che attualmente
+si richiamano all'« idoneità del modello a
+prevenire », prende atto, da un lato, di un
+ineliminabile e positivo, come si è detto in
+letteratura, « rischio consentito organizzativo » che deve essere preservato per incentivare margini di fiducia relazionale nelle
+organizzazioni, funzionali altresì all’emersione degli illeciti o dei mancati incidenti e,
+dall’altro lato, dell’impossibilità, molto
+spesso, di adottare cautele preventive che
+promettano ex ante e rivelino ex post una
+capacità impeditiva del reato, specie qualora si tratti di reati dolosi. Ciò dovrebbe
+contribuire a una maggiore prevedibilità
+
+—
+
+Camera dei Deputati
+A.C. 2952
+
+nell’applicazione della disciplina e a evitare
+le distorsioni cognitive del « senno di poi »
+che spesso si manifestano in giurisprudenza.
+Il nuovo comma 3 dell’articolo 6 conferma la misura della confisca « a chiusura », attualmente prevista dal vigente
+comma 5 dell’articolo 6. La collocazione di
+tale disposizione sottolinea la sua operatività anche in caso di assenza di responsabilità dell’ente, qualora il reato abbia comunque generato un profitto in favore di
+esso.
+All’articolo 1, comma 1, lettera i), si
+prevede la sostituzione integrale dell’articolo 7 del decreto legislativo n. 231 del
+2001. Al comma 1 si descrive in modo più
+tassativo il modello di organizzazione, gestione e controllo, in un sistema tripartito
+composto da una parte generale, da una
+parte speciale e dai protocolli operativi,
+ridefinendo in chiave organica e dettagliata
+l’intero impianto del processo di adeguamento. Al comma 2, la parte generale prevede: la descrizione completa della configurazione societaria, degli organi di amministrazione e controllo, del sistema di procure e deleghe, un codice etico strutturato,
+con un’introduzione normativa, i destinatari, le modalità di formazione, i princìpi
+etici e le norme comportamentali, le modalità di accertamento delle violazioni, l’istituzione dei canali di segnalazione interni
+conformi al decreto legislativo 10 marzo
+2023, n. 24, un sistema disciplinare graduato per ruolo, un organismo di vigilanza
+(OdV) definito nella sua composizione e nei
+suoi poteri e le fonti di informazione, tramite la disciplina dei flussi informativi. Al
+comma 3, la parte speciale dettaglia i reatipresupposto, la mappatura delle attività e
+dei processi soggetti a rischi, i princìpi
+generali di comportamento e i contenuti
+essenziali dei protocolli operativi. Al comma
+4, i protocolli operativi di prevenzione designano un responsabile del processo soggetto al rischio di reato, regolano la segregazione delle funzioni, disciplinano i flussi
+informativi verso l’OdV e definiscono modalità di monitoraggio e controllo da parte
+del personale e della dirigenza. Al comma
+5, in particolare, si introduce l’obbligo di
+
+Atti Parlamentari
+
+— 5
+
+XIX LEGISLATURA
+
+aggiornamento periodico del modello in
+relazione ai mutamenti organizzativi, alle
+modifiche normative e ai risultati delle
+verifiche, mentre al comma 6 si dispone
+che le attività di informazione e formazione sono obbligatorie, continue ed estese
+a tutto il personale e ai soggetti coinvolti.
+L’articolo 1, comma 1, lettera l), introduce gli articoli aggiuntivi 7-bis e 7-ter del
+decreto legislativo n. 231 del 2001. Il nuovo
+articolo 7-bis disciplina in maniera puntuale la composizione e le attribuzioni dell’OdV, rafforzandone il ruolo e assegnando
+a esso la responsabilità di garantire il funzionamento e l’osservanza del modello organizzativo con continuità operativa e poteri di iniziativa e controllo autonomi. A tal
+fine, l’OdV può avere accesso senza restrizioni a tutte le informazioni e alla documentazione aziendale e deve essere dotato
+di risorse economiche e strumentali proporzionate alla dimensione dell’ente e alla
+complessità del sistema aziendale. Al comma
+3 si stabiliscono i requisiti di composizione,
+prevedendo un collegio di almeno tre membri dotati di capacità professionali adeguate ai rischi identificati, compreso almeno un professionista iscritto in uno degli
+albi professionali individuati dal decreto
+del Ministro della giustizia 29 dicembre
+2004, n. 320, ed escludendo espressamente,
+nelle società di capitali, l’affidamento delle
+sue funzioni a chi ricopre il ruolo di membro del collegio sindacale, del consiglio di
+sorveglianza o del comitato per il controllo
+di gestione, al fine di assicurare una maggiore specializzazione, competenza e dedizione alla riduzione del rischio di reato.
+Infine, al comma 7, si introduce una disciplina semplificata per gli enti con meno di
+trenta dipendenti, autorizzando la nomina
+di un organo monocratico interno, purché
+diverso dai soggetti apicali e munito dei
+medesimi caratteri di autonomia, professionalità e competenza. L’OdV ha la funzione di preservare l’adeguatezza del sistema di prevenzione, senza però assurgere
+al ruolo di garante rispetto alla commissione di specifici reati: l’attività di controllo
+dell’organismo è di secondo livello, di carattere sistemico, esterna al processo deci-
+
+—
+
+Camera dei Deputati
+A.C. 2952
+
+sionale e, dunque, non si caratterizza per
+l’esercizio di poteri impeditivi.
+Il nuovo articolo 7-ter prevede un regime semplificato per gli enti di medie
+dimensioni, estendendolo anche alla parte
+organizzativa e di gestione, oltre che alla
+composizione dell’OdV. Il sistema semplificato di organizzazione e gestione per tali
+enti, in deroga agli articoli 6, comma 1,
+lettera a), e 7 del decreto legislativo n. 231
+del 2001, come modificati dalla presente
+proposta di legge, si fonda sui princìpi di
+proporzionalità, semplificazione documentale, centralità del datore di lavoro in materia di salute e sicurezza, partecipazione
+attiva dei lavoratori, formazione essenziale
+obbligatoria e gestione delle emergenze in
+forma semplificata. Per agevolare l’attuazione più corretta dei sistemi semplificati
+di riduzione del rischio, si prevede che la
+Commissione consultiva permanente per la
+salute e sicurezza sul lavoro, di cui all’articolo 6 del decreto legislativo 9 aprile
+2008, n. 81, mediante un comitato speciale
+composto da un magistrato e da esperti
+sindacali, professori universitari, avvocati e
+dottori commercialisti, nominati con decreto del Ministro della giustizia, elabori
+modelli di sistemi semplificati differenziati
+per settore e dimensione, da rendere disponibili su una piattaforma digitale del
+medesimo Ministero, garantendo così l’uniformità dei criteri e la continuità delle
+buone pratiche. Inoltre, il comma 7 prevede una riduzione proporzionata della sanzione pecuniaria da irrogare all’ente di
+medie dimensioni quando ai soggetti apicali è già stata inflitta una sanzione penale
+irrevocabile, al fine di evitare una duplicazione punitiva per la medesima contestazione di difetto organizzativo.
+L’autonomia della responsabilità è uno
+dei punti chiave del cosiddetto « sistema
+231 »: a fronte di una colpa di organizzazione ben definita, disgiungere la responsabilità dell’ente da quella della persona
+fisica appare funzionale alle esigenze di
+prevenzione specialmente nei macro-organismi collettivi ed evita, altresì, la ricerca
+del « capro espiatorio » individuale nel caso
+di eventi che hanno la loro origine in gravi
+difetti organizzativi. Lo sviluppo dell’auto-
+
+Atti Parlamentari
+
+— 6
+
+XIX LEGISLATURA
+
+nomia della responsabilità dell’ente, tuttavia, deve essere affiancato a una compiuta
+revisione del sistema premiale previsto dal
+decreto legislativo n. 231 del 2001. Attualmente, a fronte delle numerose ipotesi di
+non punibilità previste per le persone fisiche, l’ente non può mai sfuggire alla « propria » responsabilità malgrado ogni possibile forma di collaborazione ex post, né allo
+stesso è estensibile la non punibilità per
+particolare tenuità del fatto prevista dall’articolo 131-bis del codice penale. La presente proposta di legge vuole riequilibrare
+il sistema: si precisa, quindi, l’autonomia
+della responsabilità dell’ente, precisandone
+i presupposti, e si introduce, parallelamente, un compiuto sistema premiale appositamente pensato per l’ente. L’articolo 1,
+comma 1, lettera m), apporta modifiche
+all’articolo 8 del decreto legislativo n. 231
+del 2001. In primo luogo, interviene sull’ipotesi in cui l’autore del reato non sia
+identificato o non sia colpevole, stabilendo
+che la responsabilità dell’ente sussiste solo
+se il fatto è conseguenza di una mancata o
+difettosa adozione e di un’efficace attuazione del modello di organizzazione, gestione e controllo. Si prevede, dunque, che
+in questi casi non basti dimostrare che
+l’ente avrebbe potuto ridurre il rischio di
+verificazione dell’illecito, come previsto dall’articolo 6, ma occorra la prova che l’ente
+avrebbe potuto impedire il reato secondo i
+princìpi generali della causalità in ambito
+penalistico. Viene poi chiarito che l’ente
+risponde anche quando l’autore non sia
+punibile o il reato si estingua per causa
+diversa dall’amnistia, con l’esplicito richiamo alle esclusioni previste dall’articolo
+17-bis.
+L’articolo 1, comma 1, lettera n), introduce l’articolo aggiuntivo 8-bis del decreto
+legislativo n. 231 del 2001, che rappresenta
+un’innovazione di rilievo, modellata sulla
+speculare ipotesi prevista per la persona
+fisica dall’articolo 131-bis del codice penale: si prevede l’esclusione della responsabilità dell’ente quando l’illecito sia di
+particolare tenuità, alla luce dei criteri già
+previsti all’articolo 11 del medesimo decreto, e che lo stesso sia punito unicamente
+con una sanzione pecuniaria non superiore
+
+—
+
+Camera dei Deputati
+A.C. 2952
+
+nel minimo a trecento quote, purché l’ente
+abbia adottato, prima della commissione
+del fatto, il modello di organizzazione, gestione e controllo. Tale istituto si applica
+anche nelle ipotesi di pluralità di illeciti ai
+sensi dell’articolo 21; tuttavia, in tale caso,
+il giudice, nel valutare la particolare tenuità, deve considerare il complessivo difetto organizzativo alla luce dell’insieme
+degli illeciti dell’ente. Per presunzione assoluta, la particolare tenuità dell’offesa è
+esclusa per i reati più gravi, di cui agli
+articoli 24-ter, 25, 25-quater, 25-quater.1,
+25-quinquies e 25-octies, nonché per il caso
+di reiterazione ai sensi dell’articolo 20. Il
+comma 5 dell’articolo 8-bis esclude, inoltre,
+che si computino le riduzioni previste dall’articolo 12, al fine di determinare il limite
+massimo delle trecento quote, mentre il
+comma 6 del medesimo articolo estende
+l’esclusione anche ai casi in cui la legge
+preveda specificamente la particolare tenuità del danno o del pericolo come causa
+attenuante della sanzione pecuniaria.
+Le modifiche alle disposizioni sanzionatorie contenute nel decreto legislativo n. 231
+del 2001 sono dirette a eliminare alcune
+criticità già evidenziate dalla dottrina.
+L’articolo 1, comma 1, lettera o), introduce il comma aggiuntivo 2-bis dell’articolo
+9 del decreto legislativo n. 231 del 2001,
+prevedendo un principio di coordinamento
+tra le diverse autorità competenti a irrogare le sanzioni nei confronti dell’ente e
+imponendo al giudice, al momento di individuare e quantificare la sanzione applicabile per l’illecito da reato, di tenere conto
+delle eventuali misure punitive, lato sensu,
+già applicate per lo stesso fatto.
+L’articolo 1, comma 1, lettera p), modifica l’articolo 10 del decreto legislativo n. 231
+del 2001 sostituendo il comma 3, con la
+rideterminazione dei valori in euro delle
+quote cui con sono calcolate le sanzioni
+pecuniarie, e introducendo il comma aggiuntivo 3.1, in cui si prevede un meccanismo di rivalutazione della sanzione pecuniaria, mutuato dal citato decreto legislativo n. 81 del 2008, al fine di evitare una
+progressiva perdita di efficacia dissuasiva
+della sanzione stessa; lo stesso comma 3.1
+dispone la destinazione delle maggiori en-
+
+Atti Parlamentari
+
+— 7
+
+XIX LEGISLATURA
+
+trate derivanti dalla suddetta rivalutazione
+all’elaborazione e all’attuazione dei sistemi
+semplificati di cui all’articolo 7-ter.
+L’articolo 1, comma 1, lettera q), modifica il comma 2 dell’articolo 11 del decreto
+legislativo n. 231 del 2001, inserendo, in
+particolare, tra i criteri per la determinazione del numero delle quote da computare
+a titolo di sanzione pecuniaria, anche le
+condizioni finanziarie dell’ente, che si aggiungono a quelle economiche e patrimoniali. Inoltre, per la stima congrua del
+valore della quota si deve tenere anche
+conto dell’efficacia dissuasiva come finalità. Non è più prevista, infine, la misura
+fissa della quota, pari a 103 euro, nell’ipotesi di riduzione della sanzione.
+L’articolo 1, comma 1, lettera r), modifica in più punti l’articolo 12 del decreto
+legislativo n. 231 del 2001. Rispetto all’ipotesi prevista nella lettera a) del comma 1
+nel testo vigente, si è ritenuto più corretto
+intervenire, sul versante oggettivo, in un’ottica special-preventiva e di valorizzazione
+della collaborazione dell’ente, premiando
+la partecipazione fattiva dell’ente stesso
+consistente nella restituzione del vantaggio
+eventualmente ottenuto tramite la messa a
+disposizione ai fini della confisca.
+L’articolo 1, comma 1, lettera s), reca un
+intervento correttivo limitatamente al
+comma 4 dell’articolo 14 del decreto legislativo n. 231 del 2001. La disposizione
+vigente, al comma 1, fa espresso riferimento alla « specifica attività alla quale si
+riferisce l’illecito dell’ente » quale oggetto
+delle sanzioni interdittive, richiamando l’attenzione del giudice sulla circostanza che
+la sanzione interdittiva deve tendere a colpire selettivamente, nei limiti del possibile,
+la specifica attività aziendale nell’ambito
+della quale ha avuto origine il reatopresupposto, neutralizzando « il luogo nel
+quale si è originato l’illecito ». Con la modifica proposta viene positivizzato il diritto
+vivente, aggiungendo al comma 4 del citato
+articolo 14 l’espressa previsione per cui la
+sanzione interdittiva « può essere limitata
+anche solo a una o più unità produttive
+dell’ente, tenuto conto delle modalità di
+realizzazione del fatto nonché dell’esten-
+
+—
+
+Camera dei Deputati
+A.C. 2952
+
+sione e della gravità delle sue conseguenze
+pregiudizievoli ».
+Come anticipato, la presente proposta di
+legge intende ridisegnare completamente il
+sistema premiale previsto dal decreto legislativo n. 231 del 2001, sulla scorta delle
+indicazioni sempre più nette, in tal senso,
+emergenti in letteratura. La prospettiva prescelta si basa sul seguente principio di
+fondo: la tutela, sia pure ex post, dei beni
+giuridici coinvolti nell’attività di impresa
+deve essere incentivata in ogni modo, ma
+contemporaneamente deve essere preceduta da un impegno ex ante a prevenire i
+reati da parte delle organizzazioni complesse.
+Attualmente, la premialità del decreto
+legislativo n. 231 del 2001 è largamente
+incompleta: non vi sono misure codificate
+di non punibilità pur a fronte di un profluvio di istituti premiali riservati alla persona fisica. La presente proposta di legge
+prevede quindi meccanismi tassativi di non
+punibilità, che si affiancano ai casi già
+esistenti di riduzione della sanzione pecuniaria e di esclusione delle sanzioni interdittive, che hanno come presupposto comune, salvo che per l’ipotesi della messa
+alla prova, strutturalmente diversa dalle
+altre, quello della preventiva adozione da
+parte dell’ente di un modello di organizzazione, gestione e controllo, ancorché non
+idoneo ai sensi dell’articolo 7, al fine di non
+svilire la portata preventiva della disciplina
+recata dal decreto stesso.
+In questo quadro, l’articolo 1, comma 1,
+lettera u), introduce l’articolo aggiuntivo
+17-bis del decreto legislativo n. 231 del
+2001, innovando profondamente il sistema
+delle clausole di esclusione automatica all’interno della responsabilità da reato degli
+enti, attraverso la previsione, per la prima
+volta, di una causa di non punibilità basata
+sulla cooperazione attiva e sulla tempestiva
+eliminazione delle carenze organizzative.
+Attualmente l’ordinamento italiano non prevede incentivi per la persona giuridica nel
+caso di segnalazione dell’illecito all’autorità
+giudiziaria; al contrario, la scoperta di un
+illecito da parte dell’ente può esporre lo
+stesso a conseguenze sanzionatorie più severe. In tale modo, inoltre, si positivizza in
+
+Atti Parlamentari
+
+— 8
+
+XIX LEGISLATURA
+
+questa materia una regola generale per
+l’ente, simile, ma per certi versi più rigorosa, a quella prevista per le persone
+fisiche in talune ipotesi di collaborazione
+(si pensi all’articolo 323-ter del codice
+penale).
+In particolare, il comma 1 del nuovo
+articolo 17-bis stabilisce la non punibilità
+per l’ente che, dotato di un modello di
+organizzazione, gestione e controllo anche
+non idoneo, fornisca all’autorità giudiziaria elementi di prova decisivi per ricostruire il fatto o individuare gli autori del
+reato e si adoperi per prevenire ulteriori
+conseguenze, purché tali condotte precedano la formale conoscenza del procedimento penale a suo carico o comunque la
+conoscenza del procedimento a carico del
+soggetto autore del reato-presupposto. La
+precisazione della necessità di previa adozione di un modello di organizzazione,
+gestione e controllo, ancorché non idoneo,
+risponde alla logica sopra richiamata: la
+collaborazione processuale diviene decisiva, a patto che vi sia stato un impegno
+preventivo antecedente al reato. Il comma
+2 del nuovo articolo 17-bis condiziona la
+non punibilità di cui al comma 1 all’eliminazione delle carenze organizzative che
+hanno agevolato il reato, imponendo di
+adottare e attuare efficacemente misure
+correttive idonee a ridurre il rischio di
+reati della stessa specie prima dell’apertura del dibattimento. Tale disposizione
+traduce in obbligo normativo il principio
+di autodisciplina, valorizzando l’adozione
+ex post di perfezionamenti organizzativi e
+procedurali. Il comma 3 del nuovo articolo 17-bis è volto a raccordare l’esclusione della punibilità della persona fisica
+con quella della persona giuridica, al fine
+di salvaguardare la proporzionalità della
+risposta sanzionatoria complessiva connessa al reato presupposto e all’illecito
+dell’ente. In particolare, si prevede una
+disciplina generale della non punibilità in
+relazione alle ipotesi in cui il reatopresupposto si estingua per cause non
+strettamente personali, ossia diverse da
+quelle previste dagli articoli 157, 167, 168ter, 169 e 170 del codice penale nonché
+dagli articoli 445, comma 2, e 460, comma
+
+—
+
+Camera dei Deputati
+A.C. 2952
+
+5, del codice di procedura penale, ovvero
+in cui l’autore non sia punibile per circostanze oggettive, a condizione che l’ente
+abbia preventivamente adottato un modello di organizzazione, gestione e controllo e abbia colmato le proprie lacune
+organizzative prima del dibattimento. La
+ragione principale di tale disposizione risiede nella circostanza che, a fronte di
+alcuni istituti che escludono la responsabilità della persona fisica in caso di riparazione dell’offesa, non pare potersi giustificare la responsabilità di un ente che
+abbia posto rimedio al proprio deficit
+organizzativo. Si prevede, peraltro, una
+serie di condizioni. Innanzitutto, viene operata una selezione di tali istituti di favore
+previsti per la persona fisica: solo le cause
+di estinzione o di non punibilità che si
+attivano in base a parametri oggettivi,
+quali il pagamento della sanzione, la riparazione dell’offesa o del danno, l’adeguamento alle prescrizioni dell’autorità eccetera, possono fondare l’esclusione dell’illecito dell’ente. Per quanto concerne le
+condizioni riferibili all’ente, il beneficio
+viene accordato, conformemente alla logica sopra richiamata, solo se lo stesso
+abbia già adottato un modello di organizzazione, gestione e controllo, per quanto
+inidoneo. Tali enti dovranno comunque
+dimostrare di avere posto rimedio alle
+carenze organizzative, entro il termine
+dell’apertura del dibattimento. Le cause di
+non punibilità di cui ai commi 1 e 3
+soggiacciono, infine, alla condizione che
+l’ente abbia provveduto « al risarcimento
+integrale del danno e all’eliminazione o,
+qualora non sia possibile, all’attenuazione
+delle conseguenze dannose o pericolose
+del reato, anche mediante misure compensative, nonché alla messa a disposizione del profitto ai fini della confisca ».
+Il concetto di misura compensativa è tratto
+dalla relazione ministeriale al decreto legislativo n. 231 del 2001 ed è stato scelto
+in quanto sufficientemente ampio nonché
+idoneo a trascendere la dimensione meramente risarcitoria e ad adattarsi anche
+alle prospettive aperte dall’affermarsi di
+istituti di giustizia riparativa in seguito al
+decreto legislativo 10 ottobre 2022 n. 150.
+
+Atti Parlamentari
+
+— 9
+
+XIX LEGISLATURA
+
+In particolare, l’introduzione della causa
+di non punibilità di cui al comma 1 del
+nuovo articolo 17-bis rende superflua, e
+anzi incoerente, la peculiare disciplina di
+cui al vigente comma 5-bis dell’articolo 25
+in materia di reati contro la pubblica
+amministrazione, che è pertanto abrogato
+dall’articolo 1, comma 1, lettera bb), della
+presente proposta di legge.
+L’articolo 1, comma 1, lettera v), sostituisce integralmente l’articolo 22 del
+decreto legislativo n. 231 del 2001, ridisegnando in modo organico la disciplina
+della prescrizione dell’illecito dell’ente e
+della relativa sanzione, che viene adeguata
+alla logica penalistica, pur mantenendo
+peculiarità proprie della responsabilità degli enti. L’ancoraggio del termine di prescrizione al massimo della pena edittale
+del reato-presupposto, con rinvio all’articolo 158 del codice penale, sostituisce
+l’attuale termine fisso quinquennale, introducendo un meccanismo elastico che si
+adatta alla gravità del reato e rafforza il
+parallelismo con la responsabilità penale
+individuale. Oltre alla previsione espressa
+della possibilità di rinunciare alla prescrizione da parte dell’ente, si è disposto
+l’ampliamento delle ipotesi di sospensione
+e di interruzione stabilite dal codice penale. La cristallizzazione definitiva del
+corso della prescrizione alla sentenza di
+primo grado, con ripresa solo in caso di
+regressione processuale per annullamento,
+si ispira al nuovo modello penalistico contenuto nell’articolo 161-bis del codice penale. Si propone, infine, l’inserimento nella
+medesima disposizione di un’autonoma disciplina della prescrizione della sanzione,
+stabilita nella misura, ritenuta equa, di
+cinque anni dalla pronunzia definitiva di
+condanna, con un richiamo espresso ai
+commi quarto, quinto e sesto dell’articolo
+172 del codice penale, ai fini della decorrenza del termine in casi particolari,
+in quanto compatibili. Infine, in ipotesi di
+accertata reiterazione dell’illecito, alla stregua di quanto previsto dall’articolo 20, si
+prevede il raddoppio del termine di prescrizione della sanzione.
+L’articolo 1, comma 1, lettera aa), introduce l’articolo aggiuntivo 23-bis del de-
+
+—
+
+Camera dei Deputati
+A.C. 2952
+
+creto legislativo n. 231 del 2001, che, innovando il quadro attuale, prevede il nuovo
+istituto della messa alla prova per gli enti.
+Si propone, in particolare, che l’ente interessato debba predisporre un programma
+di riorganizzazione e di responsabilizzazione, nel rispetto di quattro specifiche
+condizioni, indicate nel comma 3. Per
+quanto riguarda l’esecuzione di un’attività
+di utilità sociale, come condizione ulteriore prevista dall’istituto in parola [comma
+3, lettera d)], si è fatto riferimento alla
+nozione di « attività di interesse generale »
+mutuata dalla definizione di cui all’articolo 2 del decreto legislativo 3 luglio 2017,
+n. 112, in materia di impresa sociale. Si
+prevede, inoltre, che il giudice possa indicare ulteriori prescrizioni, anche interdittive, al programma proposto, al fine di
+salvaguardare gli obiettivi di scopo indicati dal comma 2. Le ulteriori indicazioni
+sono mutuate dalla disciplina penalistica
+applicabile alla persona fisica, ritenute
+compatibili per l’ente.
+Per quanto concerne la disciplina processuale, contenuta nel capo III del decreto legislativo n. 231 del 2001, l’articolo
+1, comma 1, lettera ee), introduce l’articolo aggiuntivo 64-bis concernente un rito
+alternativo volto a incentivare la collaborazione processuale e l’autocorrezione organizzativa dell’ente, disciplinandone l’accesso su iniziativa propria o su proposta
+del pubblico ministero, entro termini procedurali stabiliti. In caso di accoglimento,
+il giudice stabilisce un termine di esecuzione, prevedendo un’interlocuzione attiva
+con l’OdV, così assicurando la continuità
+del controllo interno e la trasparenza
+nella fase di messa alla prova. Durante
+l’esecuzione, il giudice può modificare o
+revocare le prescrizioni, su istanza delle
+parti, garantendo un costante raccordo
+tra la funzione giurisdizionale e il sistema
+di adeguamento interno. Al termine della
+prova, se l’esito è favorevole, il giudice
+dichiara estinto l’illecito e ordina la confisca di quanto depositato ai sensi della
+lettera d) del comma 4; in caso contrario,
+il procedimento riprende e gli eventuali
+atti già compiuti vengono valutati ai fini
+dell’eventuale sanzione.
+
+Atti Parlamentari
+
+— 10
+
+XIX LEGISLATURA
+
+Pur non intervenendo in maniera organica sulle disposizioni processuali contenute nel decreto legislativo n. 231 del
+2001, l’introduzione delle cause di non
+punibilità di cui ai nuovi articoli 8-bis e
+17-bis ha richiesto, per coerenza sistematica, di disporre alcune modifiche agli
+articoli 58 in materia di archiviazione e
+67 in materia di sentenza di non doversi
+
+—
+
+Camera dei Deputati
+A.C. 2952
+
+procedere nonché la sostituzione integrale
+degli articoli 61 in materia di provvedimenti emessi all’udienza preliminare e 66
+in materia di sentenza di esclusione della
+responsabilità dell’ente o di non punibilità, prevedendo le relative disposizioni di
+coordinamento con le novelle apportate
+alla disciplina sostanziale.
+
+Atti Parlamentari
+
+— 11
+
+—
+
+Camera dei Deputati
+A.C. 2952
+
+XIX LEGISLATURA
+
+PROPOSTA DI LEGGE
+__
+Art. 1.
+1. Al decreto legislativo 8 giugno 2001,
+n. 231, sono apportate le seguenti modificazioni:
+a) fatta salva la rubrica della sezione
+III, le parole: « responsabilità amministrativa », ovunque ricorrono, sono sostituite
+dalle seguenti: « responsabilità da reato »;
+b) fatto salvo il comma 4 dell’articolo
+1, le parole: « amministrative », « amministrativo » e « amministrativi », ovunque ricorrono, sono soppresse;
+c) al capo I, la rubrica è sostituita
+dalla seguente: « Responsabilità da reato
+dell’ente »;
+d) alla sezione I del capo I, la rubrica
+è sostituita dalla seguente: « Princìpi generali e criteri di attribuzione della responsabilità »;
+e) l’articolo 1 è sostituito dal seguente:
+« Art. 1. – (Soggetti) – 1. Il presente
+decreto legislativo disciplina la responsabilità degli enti per gli illeciti dipendenti da
+reato.
+2. Le disposizioni del presente decreto
+legislativo si applicano agli enti collettivi
+forniti di personalità giuridica e alle società
+e associazioni anche prive di personalità
+giuridica.
+3. Esse non si applicano allo Stato, agli
+enti pubblici territoriali, agli altri enti pubblici non economici nonché agli enti che
+svolgono funzioni di rilievo costituzionale e
+agli enti di piccole dimensioni.
+4. Ai fini del presente decreto legislativo,
+per “enti di piccole dimensioni” si intendono gli enti il cui organo amministrativo,
+al momento della commissione del reato, è
+privo di un’effettiva autonomia organizzativa e gestionale nel perseguimento dell’oggetto sociale rispetto ai soggetti che, anche
+di fatto, ne hanno il controllo, e che pre-
+
+Atti Parlamentari
+
+— 12
+
+XIX LEGISLATURA
+
+sentano congiuntamente i seguenti requisiti:
+a) un attivo patrimoniale complessivo
+annuo non superiore a 220.000 euro;
+b) ricavi delle vendite e delle prestazioni per un ammontare complessivo annuo non superiore a 440.000 euro;
+c) numero medio annuo dei dipendenti occupati non superiore a dieci unità.
+5. Il comma 4 non si applica agli enti
+che esercitano attività di direzione e coordinamento di altra società o ente ai sensi
+degli articoli 2497 e 2545-septies del codice
+civile »;
+f) all’articolo 4:
+1) dopo il comma 2 sono aggiunti i
+seguenti:
+« 2-bis. Le disposizioni del presente decreto si applicano anche agli enti collettivi
+con sede legale in uno Stato dell’Unione
+europea o in uno Stato non appartenente
+all’Unione europea i quali operano nel territorio dello Stato per il tramite di una
+stabile organizzazione priva di personalità
+giuridica ovvero con uno stabilimento o
+una struttura finalizzati alla produzione di
+beni o all’erogazione di servizi, anche se
+privi di autonomia finanziaria e tecnicofunzionale.
+2-ter. L’ente con sede legale in uno Stato
+dell’Unione europea, prosciolto o condannato con provvedimento definitivo nello
+Stato in cui ha sede, non può essere sottoposto in Italia a un nuovo procedimento
+per il medesimo fatto, anche se diversamente qualificato. La disposizione del primo
+periodo si applica all’ente con sede legale in
+uno Stato non appartenente all’Unione europea, previo riconoscimento del provvedimento definitivo di proscioglimento o di
+condanna ai sensi degli articoli 730 e seguenti del codice di procedura penale »;
+2) la rubrica è sostituita dalla seguente: « Reati commessi all’estero e reati
+commessi in Italia da enti con sede principale all’estero »;
+g) l’articolo 5 è sostituito dal seguente:
+« Art. 5. – (Responsabilità dell’ente) – 1.
+L’ente è responsabile per i reati di cui alla
+
+—
+
+Camera dei Deputati
+A.C. 2952
+
+Atti Parlamentari
+
+— 13
+
+XIX LEGISLATURA
+
+sezione III del presente capo commessi nel
+suo interesse o a suo vantaggio:
+a) da persone che rivestono funzioni
+di rappresentanza, di amministrazione o di
+direzione dell’ente stesso o di una sua unità
+organizzativa dotata di autonomia finanziaria e funzionale ovvero da persone che
+esercitano, anche di fatto, la gestione e il
+controllo dello stesso;
+b) da persone sottoposte alla direzione o alla vigilanza di uno dei soggetti di
+cui alla lettera a).
+2. Nel caso di reati colposi commessi dai
+soggetti di cui al comma 1, l’interesse o il
+vantaggio sussiste se la condotta, in violazione di regole di cautela, è stata realizzata
+con il fine di conseguire o ha comunque
+conseguito un risparmio di spesa, un incremento produttivo o un altro beneficio
+suscettibile di valutazione economica in
+favore dell’ente.
+3. L’ente risponde dei reati commessi
+dai soggetti di cui al comma 1 degli enti sui
+quali esercita attività di controllo, direzione o coordinamento ai sensi degli articoli 2359 e 2497 del codice civile, nel caso
+in cui il fatto sia stato commesso nel suo
+specifico interesse o vantaggio.
+4. L’ente non risponde se i soggetti di cui
+al comma 1 hanno agito nell’interesse esclusivo proprio o di terzi »;
+h) l’articolo 6 è sostituito dal seguente:
+« Art. 6. – (Criteri di imputazione soggettiva) – 1. L’ente risponde della condotta
+dei soggetti di cui all’articolo 5 se:
+a) l’organo dirigente non ha adottato
+ed efficacemente attuato, prima della commissione del fatto, un modello di organizzazione, gestione e controllo idoneo a ridurre il rischio che siano commessi reati
+della stessa specie di quello verificatosi,
+secondo quanto previsto dall’articolo 7;
+b) non è stato affidato all’organismo
+di cui all’articolo 7-bis il compito di vigilare
+sul funzionamento, sull’osservanza e sull’aggiornamento del modello di cui alla
+lettera a) del presente comma;
+c) vi è stata omessa o insufficiente
+vigilanza da parte dell’organismo di cui
+
+—
+
+Camera dei Deputati
+A.C. 2952
+
+Atti Parlamentari
+
+— 14
+
+XIX LEGISLATURA
+
+all’articolo 7-bis sull’idoneità e sull’attuazione del modello di cui alla lettera a) del
+presente comma.
+2. La responsabilità degli enti di cui al
+comma 3 dell’articolo 5 è esclusa nel caso
+in cui l’ente abbia adottato una struttura
+organizzativa dotata di misure e caratteristiche equivalenti a quelle di cui agli articoli 7 e 7-bis, idonea a ridurre il rischio che
+siano commessi reati della stessa specie di
+quello verificatosi.
+3. È comunque disposta la confisca del
+profitto che l’ente ha tratto dal reato, anche nella forma per equivalente »;
+i) l’articolo 7 è sostituito dal seguente:
+« Art. 7. – (Modello di organizzazione,
+gestione e controllo) – 1. Il modello di
+organizzazione, gestione e controllo è composto da una parte generale, da una parte
+speciale e dai protocolli operativi di prevenzione finalizzati alla riduzione del rischio di commissione dei reati presupposto.
+2. La parte generale contiene:
+a) la descrizione della configurazione
+societaria dell’ente e degli organi di amministrazione e di controllo che lo compongono nonché del sistema di procure e di
+deleghe;
+b) il codice etico, contenente:
+1) un’introduzione concernente la
+legislazione, le linee guida elaborate dalle
+associazioni di categoria e gli eventuali
+criteri internazionali applicabili all’attività
+dell’ente;
+2) l’indicazione dei destinatari del
+codice e le modalità di informazione e di
+formazione sui contenuti dello stesso;
+3) i princìpi etici di riferimento e le
+norme di comportamento;
+c) la determinazione delle modalità di
+accertamento delle violazioni del modello
+di organizzazione, gestione e controllo medesimo;
+d) l’istituzione dei canali di segnalazione interna, ai sensi del decreto legisla-
+
+—
+
+Camera dei Deputati
+A.C. 2952
+
+Atti Parlamentari
+
+— 15
+
+XIX LEGISLATURA
+
+tivo 10 marzo 2023, n. 24, e la relativa
+procedura operativa;
+e) la determinazione del sistema disciplinare, idoneo a sanzionare le violazioni del modello di organizzazione, gestione e controllo, indicante:
+1) i soggetti destinatari delle sanzioni disciplinari;
+2) l’apparato sanzionatorio distintamente articolato in relazione al ruolo dei
+destinatari;
+3) i criteri per la determinazione
+della sanzione;
+4) le condotte rilevanti, tra le quali
+la violazione del divieto di ritorsione e ogni
+altra violazione ai sensi del decreto legislativo 10 marzo 2023, n. 24;
+5) la regolamentazione del procedimento disciplinare, con la specificazione
+del titolare dell’azione disciplinare, delle
+garanzie a tutela dell’accusato e del soggetto competente ad applicare la sanzione.
+Al sistema disciplinare si applicano, in
+quanto compatibili, le disposizioni della
+legge 20 maggio 1970, n. 300;
+f) l’istituzione, la composizione, il funzionamento e i poteri dell’organismo di
+vigilanza di cui all’articolo 7-bis;
+g) la disciplina dei flussi informativi
+nei confronti dell’organismo di vigilanza di
+cui all’articolo 7-bis;
+h) la previsione di forme di coordinamento e di collaborazione tra i principali
+soggetti aziendali, con specifico riferimento
+ai responsabili delle funzioni di controllo
+comunque denominate;
+i) l’indicazione delle procedure di individuazione e di valutazione dei rischi, che
+prevedano:
+1) la mappatura dei processi esposti
+al rischio di commissione di reato;
+2) l’individuazione dei rischi potenziali per ciascun processo;
+3) l’analisi dell’efficacia del sistema
+preventivo;
+
+—
+
+Camera dei Deputati
+A.C. 2952
+
+Atti Parlamentari
+
+— 16
+
+XIX LEGISLATURA
+
+4) la valutazione dei rischi residui;
+l) le modalità di verifica periodica
+dell’efficacia degli strumenti preventivi e di
+controllo nonché il loro aggiornamento,
+mediante:
+1) la programmazione temporale
+delle verifiche;
+2) l’attribuzione dei compiti e delle
+responsabilità esecutive;
+3) la descrizione analitica delle metodologie da seguire;
+4) le modalità di segnalazione di
+disfunzioni procedurali o di situazioni di
+non conformità;
+5) la documentazione dei controlli
+compiuti.
+3. La parte speciale contiene:
+a) la descrizione dei reati presupposto
+vigenti;
+b) la classificazione delle attività esposte al rischio di commissione di reato, contenente:
+1) l’individuazione delle aree che
+comportano potenziale rischio di reato;
+2) la rilevazione dei processi sensibili dai quali potrebbero derivare le ipotesi
+di reato perseguibili, indicando le direzioni
+e gli incarichi coinvolti;
+3) la rilevazione e la valutazione del
+grado di efficacia dei sistemi operativi e di
+controllo attivi per ciascun processo;
+4) la descrizione delle possibili modalità di commissione di reato;
+c) i princìpi generali di comportamento e i contenuti essenziali delle cautele
+contenute nei protocolli operativi di prevenzione;
+d) la rubrica dei protocolli operativi di
+prevenzione allegati al modello di organizzazione, gestione e controllo.
+4. I protocolli operativi di prevenzione
+contengono:
+a) l’indicazione di un responsabile del
+processo esposto al rischio di commissione
+
+—
+
+Camera dei Deputati
+A.C. 2952
+
+Atti Parlamentari
+
+— 17
+
+XIX LEGISLATURA
+
+di reato, che assicura l’adeguatezza e l’efficacia del processo rispetto alla finalità
+perseguita;
+b) la regolamentazione del processo
+mediante l’individuazione dei soggetti che
+hanno il controllo di una specifica funzione, applicando, ove possibile, pratiche di
+segregazione delle funzioni;
+c) i flussi informativi nei confronti
+dell’organismo di vigilanza di cui all’articolo 7-bis;
+d) il monitoraggio e il controllo esercitati dal personale e dalla dirigenza.
+5. Il modello di organizzazione, gestione
+e controllo di cui al comma 1 è aggiornato
+tenendo conto dei mutamenti organizzativi
+dell’ente, delle modifiche normative intervenute incidenti sul modello medesimo e
+dei risultati della verifica periodica di cui al
+comma 2, lettera l).
+6. Le attività di informazione e di formazione di cui al comma 2, lettera b),
+numero 2):
+a) assicurano la comunicazione al personale e la diffusione della conoscenza del
+modello di organizzazione, gestione e controllo di cui al comma 1;
+b) comprendono l’organizzazione di
+corsi di formazione a partecipazione obbligatoria, erogati con continuità e con verifica della frequenza, per tutto il personale
+e per i soggetti coinvolti nelle procedure
+dell’ente, finalizzati a divulgare e a favorire
+la comprensione delle procedure medesime
+e delle regole comportamentali previste nel
+modello;
+c) sono svolte tenendo conto delle aree
+di rischio gestite e del grado di specializzazione delle diverse categorie di dipendenti »;
+l) dopo l’articolo 7 sono inseriti i
+seguenti:
+« Art. 7-bis. – (Organismo di vigilanza) –
+1. L’organismo di vigilanza cura il funzionamento e l’osservanza del modello di organizzazione, gestione e controllo di cui
+
+—
+
+Camera dei Deputati
+A.C. 2952
+
+Atti Parlamentari
+
+— 18
+
+XIX LEGISLATURA
+
+all’articolo 7 e segnala all’organo dirigente
+le modifiche necessarie.
+2. L’organismo di vigilanza opera in piena
+autonomia e indipendenza rispetto all’organo dirigente e alle altre funzioni dell’ente. Esso dispone di autonomi poteri di
+iniziativa e controllo, che esercita mediante
+attività di ispezione e di vigilanza, compreso il diritto di accedere senza restrizioni
+alle informazioni e alla documentazione
+inerenti all’attività dell’ente.
+3. L’organismo di vigilanza è nominato
+dall’ente e, fermo restando quanto previsto
+dal comma 6, è composto da almeno tre
+membri in possesso dei requisiti di cui al
+comma 5.
+4. L’ente è tenuto, in misura proporzionale alla propria dimensione e complessità,
+a dotare l’organismo di vigilanza di risorse
+economiche e strumentali sufficienti per il
+pieno svolgimento delle sue funzioni.
+5. I componenti dell’organismo di vigilanza sono scelti tra soggetti in possesso di
+capacità e di requisiti professionali adeguati alla natura dei rischi rilevati dall’ente
+nel modello di cui all’articolo 7 del presente decreto. Almeno uno dei componenti
+dell’organismo di vigilanza è iscritto negli
+albi professionali individuati con decreto
+del Ministro della giustizia 29 dicembre
+2004, n. 320.
+6. Nelle società di capitali, i membri del
+collegio sindacale, del consiglio di sorveglianza e del comitato per il controllo della
+gestione non possono essere nominati membri dell’organismo di vigilanza.
+7. Negli enti con meno di trenta dipendenti, l’organismo di vigilanza può essere
+monocratico ed essere composto da un
+soggetto interno all’ente, purché diverso dai
+soggetti di cui all’articolo 5, comma 1, lettera a), nel rispetto dei princìpi di autonomia, professionalità e competenza.
+Art. 7-ter. – (Sistema semplificato di
+organizzazione e gestione per gli enti di
+medie dimensioni) – 1. In deroga a quanto
+previsto dagli articoli 6, comma 1, lettera
+a), e 7, l’ente di cui al comma 7 dell’articolo
+7-bis, che non fa parte di un gruppo di
+imprese, è responsabile per il fatto commesso dai soggetti di cui all’articolo 5,
+
+—
+
+Camera dei Deputati
+A.C. 2952
+
+Atti Parlamentari
+
+— 19
+
+XIX LEGISLATURA
+
+comma 1, se l’organo dirigente non ha
+adottato e attuato, prima della commissione del fatto, un sistema di organizzazione e gestione adeguato all’attività svolta
+e idoneo a ridurre il rischio di commissione
+di reati della stessa specie di quello verificatosi, secondo quanto previsto dal presente articolo.
+2. Salvo quanto previsto dall’articolo 30
+del decreto legislativo 9 aprile 2008, n. 81,
+gli enti di cui al comma 1 del presente
+articolo adottano sistemi semplificati di organizzazione e gestione nel rispetto dei
+criteri di:
+a) proporzionalità, calibrando gli adempimenti organizzativi e di gestione in funzione della dimensione aziendale, del numero dei lavoratori occupati e della tipologia dei rischi presenti nell’attività d’impresa;
+b) semplificazione documentale, prevedendo l’utilizzo di sistemi standardizzati
+e di liste di controllo e procedure sintetiche, purché idonei a garantire la tracciabilità delle attività di prevenzione svolte;
+c) centralità del ruolo del datore di
+lavoro, ai sensi del decreto legislativo 9
+aprile 2008, n. 81, nell’assumere direttamente funzioni non delegabili di responsabilità in materia di sicurezza, di organizzazione e di gestione, qualora previsto dalla
+normativa vigente;
+d) partecipazione attiva dei lavoratori,
+stabilendo modalità semplificate di consultazione e coinvolgimento degli stessi, anche
+mediante incontri periodici informali con
+l’organismo di vigilanza;
+e) formazione essenziale obbligatoria,
+garantita con modalità compatibili con l’organizzazione aziendale, anche mediante
+strumenti digitali o sessioni pratiche;
+f) gestione delle emergenze in forma
+semplificata, con indicazione chiara delle
+misure da adottare e dei soggetti incaricati.
+3. Ai fini di cui alla lettera a) del comma
+2, si tiene conto dei seguenti parametri di
+specificità aziendale:
+a) il numero dei dipendenti occupati,
+da suddividere in fasce con livelli crescenti
+
+—
+
+Camera dei Deputati
+A.C. 2952
+
+Atti Parlamentari
+
+— 20
+
+XIX LEGISLATURA
+
+di articolazione e con la previsione di misure aggiuntive per la tutela di eventuali
+soggetti con esigenze specifiche;
+b) il settore di attività, con classificazione dei diversi livelli di rischio, “basso”,
+“medio” o “alto”, secondo quanto previsto
+nelle tabelle per l’individuazione delle macrocategorie di rischio e corrispondenze
+ATECO 2002-2007, di cui all’allegato 2 all’accordo del 21 dicembre 2011 sancito in
+sede di Conferenza permanente per i rapporti tra lo Stato, le regioni e le province
+autonome di Trento e di Bolzano, pubblicato nella Gazzetta Ufficiale n. 8 dell’11
+gennaio 2012;
+c) la distribuzione temporale delle attività lavorative.
+4. Gli enti di cui al comma 1 garantiscono il monitoraggio almeno annuale dell’efficace attuazione delle misure adottate e
+procedono al loro aggiornamento in caso di
+rilevanti modifiche organizzative, normative o tecniche.
+5. Al fine di garantire livelli uniformi di
+prevenzione del rischio di commissione di
+illeciti da reati nell’attività degli enti di cui
+al comma 1 del presente articolo, la Commissione consultiva permanente per la salute e sicurezza sul lavoro, di cui all’articolo 6 del decreto legislativo 9 aprile 2008,
+n. 81, elabora sistemi semplificati di organizzazione e di gestione, differenziati per
+settore e classe dimensionale, tenuto conto
+dei criteri di cui ai commi 2 e 3 del presente articolo, da rendere disponibili tramite la piattaforma digitale istituzionale
+del Ministero della giustizia.
+6. Per le attività di cui al comma 5 del
+presente articolo, la Commissione consultiva permanente per la salute e sicurezza
+sul lavoro, di cui all’articolo 6 del decreto
+legislativo 9 aprile 2008, n. 81, istituisce un
+comitato speciale permanente per la prevenzione del rischio di illecito nell’attività
+d’impresa, composto da un magistrato con
+funzioni di legittimità designato dal Consiglio superiore della magistratura, da due
+esperti designati delle organizzazioni sindacali dei lavoratori comparativamente più
+rappresentative a livello nazionale, da due
+esperti designati dalle organizzazioni sin-
+
+—
+
+Camera dei Deputati
+A.C. 2952
+
+Atti Parlamentari
+
+— 21
+
+XIX LEGISLATURA
+
+dacali dei datori di lavoro comparativamente più rappresentative a livello nazionale, da due professori universitari di ruolo
+in materie giuridiche, da due avvocati iscritti
+nell’albo speciale per il patrocinio innanzi
+alle magistrature superiori e da due dottori
+commercialisti esperti in materia di responsabilità da reato degli enti collettivi. I componenti del comitato speciale sono nominati con decreto del Ministro della giustizia
+e durano in carica cinque anni. Si applicano i commi 2, primo periodo, 4 e 7
+dell’articolo 6 del citato decreto legislativo
+n. 81 del 2008.
+7. Quando per il medesimo fatto di
+reato da cui deriva la responsabilità dell’ente di cui al comma 1 del presente articolo è stata applicata ai soggetti di cui alla
+lettera a) del comma 1 dell’articolo 5 una
+sanzione penale con provvedimento irrevocabile, il giudice riduce proporzionalmente
+la sanzione da irrogare all’ente ai sensi
+degli articoli 10, 11 e 12. Ai fini del ragguaglio tra la sanzione penale detentiva e la
+sanzione pecuniaria si applica l’articolo 135
+del codice penale.
+8. Ai fini del presente decreto e con
+riferimento agli enti di cui al comma 1, per
+“modello di organizzazione, gestione e controllo” di cui all’articolo 7 si intende il
+sistema semplificato di cui ai commi 1 e 2
+del presente articolo »;
+m) all’articolo 8:
+1) il comma 1 è sostituito dal seguente:
+« 1. Quando l’autore del reato non è
+identificato o non è imputabile, la responsabilità dell’ente sussiste quando il reato è
+stato conseguenza della mancata o difettosa adozione o efficace attuazione del modello di organizzazione, gestione e controllo di cui all’articolo 7 »;
+2) dopo il comma 1 è inserito il
+seguente:
+« 1-bis. Salvo quanto previsto dall’articolo 17-bis, la responsabilità dell’ente sussiste anche quando l’autore del reato non è
+punibile o il reato si estingue per una causa
+diversa dall’amnistia »;
+
+—
+
+Camera dei Deputati
+A.C. 2952
+
+Atti Parlamentari
+
+— 22
+
+XIX LEGISLATURA
+
+n) nella sezione I del capo I, dopo
+l’articolo 8 è aggiunto il seguente:
+« Art. 8-bis. – (Esclusione della responsabilità per particolare tenuità dell’illecito)
+– 1. Negli illeciti dipendenti da reato per i
+quali è prevista la sola sanzione pecuniaria
+non superiore nel minimo a trecento quote,
+la responsabilità dell’ente è esclusa quando,
+secondo i criteri di cui all’articolo 11, comma
+1, l’illecito è di particolare tenuità e l’ente
+ha adottato, prima della commissione del
+reato, un modello di organizzazione, gestione e controllo, ancorché non idoneo ai
+sensi dell’articolo 7.
+2. Nei casi di cui all’articolo 21, la
+responsabilità dell’ente è esclusa qualora
+dalla complessiva valutazione degli illeciti,
+ai sensi dell’articolo 11, comma 1, il difetto
+di organizzazione risulti di particolare tenuità.
+3. Non possono essere ritenuti di particolare tenuità gli illeciti dipendenti da taluno dei reati, consumati o tentati, di cui
+agli articoli 24-ter, 25, 25-quater, 25-quater.1, 25-quinquies e 25-octies, fatte salve le
+ipotesi per le quali la legge prevede una
+circostanza attenuante specifica per la particolare tenuità del reato presupposto.
+4. L’illecito non può essere ritenuto di
+particolare tenuità in caso di reiterazione
+ai sensi dell’articolo 20.
+5. Ai fini della determinazione della
+sanzione pecuniaria prevista nel comma 1,
+non si tiene conto delle riduzioni di cui
+all’articolo 12.
+6. La disposizione del comma 1 si applica anche quando la legge prevede la
+particolare tenuità del danno o del pericolo
+come caso di riduzione della sanzione pecuniaria »;
+o) all’articolo 9, dopo il comma 2 è
+aggiunto il seguente:
+« 2-bis. Nella scelta della sanzione da
+applicare nonché nella commisurazione della
+medesima, il giudice tiene conto di eventuali altre sanzioni, di qualsiasi natura, già
+irrogate nei confronti dell’ente in relazione
+al medesimo fatto ad opera di altre autorità pubbliche »;
+
+—
+
+Camera dei Deputati
+A.C. 2952
+
+Atti Parlamentari
+
+— 23
+
+XIX LEGISLATURA
+
+p) all’articolo 10:
+1) il comma 3 è sostituito dal seguente:
+« 3. Salvo quanto previsto dal comma
+3-bis, l’importo di una quota va dal minimo
+di 258 euro al massimo di 1.549 euro »;
+2) dopo il comma 3 è inserito il
+seguente:
+« 3.1. Gli importi di cui al comma 3 e di
+cui all’articolo 12, comma 1, sono rivalutati, ogni cinque anni, con decreto del Ministro della giustizia, in misura pari alla
+variazione dell’indice dei prezzi al consumo accertata dall’Istituto nazionale di
+statistica con arrotondamento delle cifre al
+decimale superiore. In sede di prima applicazione della presente disposizione la
+rivalutazione è applicata, a decorrere dal 1°
+gennaio 2027, nella misura del 10 per cento
+e si applica esclusivamente alle sanzioni
+irrogate per gli illeciti commessi successivamente a tale data. Le maggiori entrate
+derivanti dalla applicazione del presente
+comma sono destinate al finanziamento di
+un fondo istituito nello stato di previsione
+del Ministero delle imprese e del made in
+Italy, finalizzato a finanziare l’elaborazione
+e l’attuazione dei sistemi semplificati di cui
+all’articolo 7-ter. A tale fine, le risorse di
+cui al terzo periodo sono versate all’entrata
+del bilancio dello Stato per essere riassegnate su apposito capitolo dello stato di
+previsione del Ministero delle imprese e del
+made in Italy »;
+3) al comma 3-bis, la parola: « accertate » è sostituita dalla seguente: « accertare »;
+4) la rubrica è sostituita dalla seguente: « Sanzione pecuniaria »;
+q) l’articolo 11 è sostituito dal seguente:
+« Art. 11. – (Criteri di commisurazione
+della sanzione pecuniaria) – 1. Nella commisurazione della sanzione pecuniaria il
+giudice determina il numero delle quote
+tenendo conto della gravità dell’illecito, del
+grado della responsabilità dell’ente, dell’interesse o del vantaggio conseguito dall’ente
+
+—
+
+Camera dei Deputati
+A.C. 2952
+
+Atti Parlamentari
+
+— 24
+
+XIX LEGISLATURA
+
+nonché dell’attività svolta dall’ente per eliminare o attenuare le conseguenze del fatto
+e per prevenire la commissione di ulteriori
+illeciti.
+2. L’importo della quota è determinato
+sulla base delle condizioni economiche, finanziarie e patrimoniali dell’ente allo scopo
+di assicurare la proporzione e la finalità,
+anche dissuasiva, della sanzione »;
+r) all’articolo 12:
+1) il comma 1 è sostituito dal seguente:
+« 1. La sanzione pecuniaria è ridotta
+della metà e non può comunque essere
+superiore a 100.000 euro se l’autore del
+reato ha commesso il fatto nel prevalente
+interesse proprio o di terzi e l’ente, prima
+della dichiarazione di apertura del dibattimento, ha volontariamente messo a disposizione dell’autorità giudiziaria procedente il profitto conseguito »;
+2) al comma 2, la lettera b) è sostituita dalla seguente:
+« b) è stato adottato e reso operativo
+un modello di organizzazione, gestione e
+controllo idoneo a ridurre il rischio della
+commissione di reati della specie di quello
+verificatosi »;
+3) al comma 3, le parole: « la sanzione è ridotta dalla metà ai due terzi »
+sono sostituite dalle seguenti: « la sanzione
+è ridotta di due terzi »;
+4) il comma 4 è abrogato;
+s) all’articolo 14, il comma 4 è sostituito dal seguente:
+« 4. L’interdizione dall’esercizio dell’attività si applica soltanto quando l’irrogazione di altre sanzioni interdittive risulta
+inadeguata e può essere limitata anche solo
+a una o più unità produttive dell’ente, tenuto conto delle modalità di realizzazione
+del fatto nonché dell’estensione e della gravità delle sue conseguenze pregiudizievoli »;
+t) all’articolo 17:
+1) al comma 1:
+1.1) la lettera a) è sostituita dalla
+seguente:
+« a) l’ente ha risarcito integralmente il
+danno e ha eliminato ovvero, qualora non
+
+—
+
+Camera dei Deputati
+A.C. 2952
+
+Atti Parlamentari
+
+— 25
+
+XIX LEGISLATURA
+
+sia possibile, ha attenuato le conseguenze
+dannose o pericolose del reato, anche mediante misure compensative »;
+1.2) la lettera b) è sostituita dalla
+seguente:
+« b) l’ente ha eliminato le carenze organizzative che hanno agevolato la commissione del reato mediante l’adozione e
+l’attuazione di un modello di organizzazione, gestione e controllo idoneo a ridurre
+il rischio di commissione di reati della
+stessa specie di quello verificatosi »;
+2) al comma 1-bis, le parole: « a
+prevenire reati », ovunque ricorrono, sono
+sostituite dalle seguenti: « a ridurre il rischio di commissione di reati »;
+u) dopo l’articolo 17 è inserito il seguente:
+« Art. 17-bis. – (Cause di non punibilità)
+– 1. L’ente che si sia dotato di un modello
+di organizzazione, gestione e controllo, ancorché non idoneo ai sensi dell’articolo 7,
+non è punibile qualora, prima di avere
+avuto notizia di un procedimento a suo
+carico o a carico della persona fisica autrice del reato, abbia fornito all’autorità
+giudiziaria elementi di prova determinanti
+per la ricostruzione del fatto o per l’individuazione degli autori e si sia adoperato
+per evitare che l’attività delittuosa fosse
+portata a conseguenze ulteriori.
+2. La non punibilità di cui al comma 1
+è comunque subordinata all’eliminazione,
+prima dell’apertura del dibattimento, delle
+carenze organizzative che hanno agevolato
+la commissione del reato, mediante l’adozione e l’efficace attuazione di misure idonee a ridurre il rischio di commissione di
+reati della stessa specie di quello verificatosi.
+3. Fermo restando quanto previsto dall’articolo 8-bis del presente decreto, l’ente
+non è punibile quando il reato presupposto
+è estinto per una causa diversa da quelle
+previste dagli articoli 157, 167, 168-ter, 169
+e 170 del codice penale e dagli articoli 445,
+comma 2, e 460, comma 5, del codice di
+procedura penale e, comunque, nei casi in
+cui è esclusa la punibilità dell’autore del
+
+—
+
+Camera dei Deputati
+A.C. 2952
+
+Atti Parlamentari
+
+— 26
+
+XIX LEGISLATURA
+
+reato per circostanze oggettive, a condizione che lo stesso ente:
+a) abbia adottato, precedentemente al
+fatto di reato, un modello di organizzazione gestione e controllo, anche non idoneo ai sensi dell’articolo 7;
+b) abbia eliminato, prima dell’apertura del dibattimento, le carenze organizzative che hanno agevolato la commissione
+del reato mediante l’adozione di ulteriori
+misure idonee a ridurre il rischio di commissione di reati della stessa specie di quello
+verificatosi.
+4. In ogni caso, l’esclusione della punibilità di cui al presente articolo è subordinata al risarcimento integrale del danno e
+all’eliminazione ovvero, qualora non sia
+possibile, all’attenuazione delle conseguenze
+dannose o pericolose del reato, anche mediante misure compensative, nonché alla
+messa a disposizione del profitto ai fini
+della confisca »;
+v) l’articolo 22 è sostituito dal seguente:
+« Art. 22. – (Prescrizione dell’illecito e
+della sanzione) – 1. La prescrizione estingue l’illecito dell’ente decorso il tempo corrispondente al massimo della pena edittale
+stabilita dalla legge per il reato previsto
+dalla sezione III del capo I. Si applica
+l’articolo 158 del codice penale, se non
+diversamente stabilito.
+2. La prescrizione è sempre espressamente rinunciabile dall’ente.
+3. Il corso della prescrizione rimane
+sospeso in ogni caso in cui la sospensione
+del procedimento è imposta da una disposizione di legge, oltre che nei casi espressamente previsti dall’articolo 159 del codice penale.
+4. Interrompono la prescrizione l’ordinanza di applicazione di misure cautelari
+interdittive e la notificazione dell’atto di
+contestazione dell’illecito a norma dell’articolo 59. In caso di più atti interruttivi, la
+prescrizione decorre dall’ultimo di essi. Si
+applica, in quanto compatibile, il secondo
+comma dell’articolo 161 del codice penale.
+5. Il corso della prescrizione dell’illecito
+cessa definitivamente con la pubblicazione
+
+—
+
+Camera dei Deputati
+A.C. 2952
+
+Atti Parlamentari
+
+— 27
+
+XIX LEGISLATURA
+
+della sentenza di primo grado. Nel caso di
+annullamento che comporti la regressione
+del procedimento al primo grado o a una
+fase anteriore, la prescrizione riprende il
+suo corso dalla data della pronuncia definitiva di annullamento.
+6. Le sanzioni si estinguono nel termine
+di cinque anni dalla data della pronuncia
+definitiva di condanna. Si applicano, in
+quanto compatibili, i commi quarto, quinto
+e sesto dell’articolo 172 del codice penale.
+7. Nei casi di cui all’articolo 20, il termine di cui al comma 6 è raddoppiato »;
+z) all’articolo 23, comma 2, la parola:
+« amministrativa » è soppressa;
+aa) nella sezione II del capo I, dopo
+l’articolo 23 è aggiunto il seguente:
+« Art. 23-bis. – (Sospensione del procedimento con messa alla prova dell’ente) – 1.
+Nei procedimenti per illeciti dipendenti da
+reato puniti con la sanzione pecuniaria non
+superiore nel massimo a cinquecento quote,
+anche congiunta ad altra sanzione, l’ente,
+anche su proposta del pubblico ministero,
+può chiedere la sospensione del procedimento con messa alla prova.
+2. La messa alla prova comporta la
+prestazione di condotte volte all’eliminazione delle conseguenze dannose o pericolose derivanti dall’illecito nonché il risarcimento del danno dallo stesso cagionato e
+l’adesione dell’ente al programma di riorganizzazione e di responsabilizzazione con
+lo scopo di prevenire il rischio di commissione di reati della stessa specie di quello
+verificatosi.
+3. La messa alla prova dell’ente è concessa, in ogni caso, alle seguenti condizioni:
+a) adozione ed efficace attuazione di
+un modello di organizzazione, gestione e
+controllo ai sensi dell’articolo 7, idoneo a
+ridurre il rischio di commissione di reati
+della stessa specie di quello verificatosi;
+b) affidamento all’organismo di cui
+all’articolo 7-bis del compito di vigilare sul
+funzionamento, sull’osservanza e sull’aggiornamento del modello organizzativo di
+cui alla lettera a);
+c) eliminazione delle conseguenze dannose o pericolose dell’illecito, con l’offerta,
+
+—
+
+Camera dei Deputati
+A.C. 2952
+
+Atti Parlamentari
+
+— 28
+
+XIX LEGISLATURA
+
+ove possibile, dell’integrale risarcimento e
+la messa a disposizione dell’ulteriore profitto eventualmente conseguito, anche per
+equivalente, ai fini della confisca di cui
+all’articolo 19;
+d) prestazione di un’attività di utilità
+sociale, concordata con un ente pubblico
+territoriale o un ente pubblico non economico avente sede nel circondario dell’autorità giudiziaria procedente.
+4. Ai fini della lettera d) del comma 3
+del presente decreto, per “attività di utilità
+sociale” si intende un’attività d’impresa di
+interesse generale, come definita dall’articolo 2 del decreto legislativo 3 luglio 2017,
+n. 112, esercitata senza scopo di lucro e
+per finalità civiche e solidaristiche, svolta
+nell’esclusivo interesse di un ente pubblico
+territoriale o di un ente pubblico non economico.
+5. Tenuto conto dei criteri di cui agli
+articoli 11 e 14, il giudice può stabilire
+prescrizioni ulteriori, anche interdittive, da
+applicare al programma di riorganizzazione e responsabilizzazione proposto dall’ente, secondo le finalità di cui al comma
+2 del presente articolo.
+6. Durante il periodo di sospensione del
+procedimento o del processo con messa
+alla prova, il corso della prescrizione dell’illecito è sospeso.
+7. L’esito positivo della prova estingue
+l’illecito dipendente da reato dell’ente e
+ogni altro effetto.
+8. La sospensione del procedimento o
+del processo con messa alla prova dell’ente
+non può essere concessa più di una volta.
+9. La sospensione del procedimento o
+del processo con messa alla prova dell’ente
+è revocata, su richiesta del pubblico ministero:
+a) in caso di grave o reiterata trasgressione del programma approvato o delle
+prescrizioni imposte ovvero di inadempimento totale o parziale della prestazione
+dell’attività di utilità sociale;
+b) in caso di commissione, durante il
+periodo di messa alla prova, di un illecito
+ulteriore rispetto a quello per cui si procede »;
+
+—
+
+Camera dei Deputati
+A.C. 2952
+
+Atti Parlamentari
+
+— 29
+
+XIX LEGISLATURA
+
+bb) all’articolo 25, il comma 5-bis è
+abrogato;
+cc) all’articolo 58, dopo il comma 1
+sono aggiunti i seguenti:
+« 1-bis. Se ritiene di dover archiviare il
+procedimento per particolare tenuità dell’illecito ai sensi dell’articolo 8-bis del presente decreto, il pubblico ministero deve
+darne avviso all’ente sottoposto alle indagini precisando che, nel termine di venti
+giorni, può prendere visione degli atti e
+presentare opposizione in cui indicare, a
+pena di inammissibilità, le ragioni del dissenso rispetto alla richiesta. Il giudice, se
+l’opposizione non è inammissibile, procede
+ai sensi dell’articolo 409, comma 2, del
+codice di procedura penale e, dopo avere
+sentito le parti, se accoglie la richiesta,
+provvede con ordinanza.
+1-ter. Nei casi in cui intenda chiedere
+l’archiviazione per particolare tenuità dell’illecito ai sensi dell’articolo 8-bis, il pubblico ministero deve darne comunicazione
+altresì al procuratore generale presso la
+corte di appello.
+1-quater. In mancanza di opposizione,
+si applica quanto disposto dal comma 1.
+1-quinquies. Quando l’opposizione è
+inammissibile, il giudice dispone l’archiviazione »;
+dd) l’articolo 61 è sostituito dal seguente:
+« Art. 61. – (Provvedimenti emessi all’udienza preliminare) – 1. Il giudice dell’udienza preliminare pronuncia sentenza di
+non luogo a procedere nei casi di estinzione o di improcedibilità della sanzione,
+quando l’ente non è punibile ai sensi dell’articolo 17-bis del presente decreto ovvero
+quando l’illecito stesso non sussiste o gli
+elementi acquisiti non consentono di formulare una ragionevole previsione di condanna dell’ente. Si applicano le disposizioni dell’articolo 426 del codice di procedura penale.
+2. Il giudice dell’udienza preliminare
+pronuncia altresì sentenza di non luogo a
+procedere quando l’ente non è punibile ai
+sensi dell’articolo 8-bis, previa audizione in
+camera di consiglio anche della persona
+offesa, se compare.
+
+—
+
+Camera dei Deputati
+A.C. 2952
+
+Atti Parlamentari
+
+— 30
+
+XIX LEGISLATURA
+
+3. Il decreto che, a seguito dell’udienza
+preliminare, dispone il giudizio nei confronti dell’ente contiene, a pena di nullità,
+la contestazione dell’illecito dipendente dal
+reato, con l’enunciazione, in forma chiara e
+precisa, del fatto che può comportare l’applicazione delle sanzioni e l’indicazione del
+reato da cui l’illecito dipende, dei relativi
+articoli di legge e delle fonti di prova,
+nonché gli elementi identificativi dell’ente »;
+ee) nella sezione VI del capo III, dopo
+l’articolo 64 è aggiunto il seguente:
+« Art. 64-bis. – (Sospensione del procedimento con messa alla prova) – 1. Nei casi
+previsti dall’articolo 23-bis, l’ente, anche su
+proposta del pubblico ministero, può chiedere la sospensione del procedimento con
+messa alla prova. Se il pubblico ministero
+formula la proposta in udienza, l’ente può
+chiedere un termine non superiore a venti
+giorni per presentare la richiesta di sospensione del procedimento con messa alla prova.
+2. La richiesta di cui al comma 1 del
+presente articolo può essere proposta, oralmente o per iscritto, fino a che non sono
+formulate le conclusioni a norma degli articoli 421 e 422 del codice di procedura
+penale ovvero fino alla dichiarazione di
+apertura del dibattimento di primo grado.
+Nel procedimento per decreto, la richiesta
+è presentata con l’atto di opposizione.
+3. La volontà dell’ente è espressa dal
+legale rappresentante, personalmente o per
+mezzo di procuratore munito di procura
+speciale con sottoscrizione autenticata da
+un notaio, da altra persona autorizzata o
+dal difensore.
+4. Alla richiesta di cui al comma 1 è
+allegato il programma di riorganizzazione
+e di responsabilizzazione, che prevede:
+a) il modello di organizzazione, gestione e controllo di cui all’articolo 7 che
+l’ente ha adottato o intende adottare, con
+particolare attenzione agli aspetti innovativi finalizzati a una più efficace riduzione
+del rischio della commissione di reati della
+stessa specie di quello verificatosi;
+b) l’indicazione della composizione dell’organismo di vigilanza di cui all’articolo
+7-bis a cui l’ente ha affidato o intende
+
+—
+
+Camera dei Deputati
+A.C. 2952
+
+Atti Parlamentari
+
+— 31
+
+XIX LEGISLATURA
+
+affidare l’attuazione del modello di organizzazione, gestione e controllo di cui alla
+lettera a), specificando i criteri cui l’organismo di vigilanza deve attenersi per garantire il corretto monitoraggio e funzionamento del modello stesso;
+c) le iniziative risarcitorie adottate o
+da adottare per eliminare le conseguenze
+dannose o pericolose dell’illecito;
+d) l’eventuale offerta, anche per equivalente, del profitto conseguito, ulteriore
+rispetto all’importo risarcito o da risarcire
+al danneggiato, ai fini della confisca di cui
+all’articolo 19, con l’esposizione dei criteri
+adottati per la sua individuazione e quantificazione;
+e) l’indicazione specifica dell’attività
+di utilità sociale che l’ente si è impegnato a
+svolgere con un ente pubblico territoriale o
+un ente pubblico non economico, avente
+sede nel circondario dell’autorità giudiziaria procedente, con precisazione delle modalità, dell’oggetto e dei tempi di presumibile esecuzione.
+5. Ai fini di una compiuta valutazione di
+idoneità del programma di riorganizzazione e di responsabilizzazione presentato
+dall’ente nonché dell’applicazione di eventuali ulteriori prescrizioni ai sensi dell’articolo 23-bis, comma 5, il giudice può acquisire, tramite la polizia giudiziaria o altri
+organi o enti pubblici, ogni informazione
+ritenuta necessaria. Tali informazioni sono
+tempestivamente portate a conoscenza del
+pubblico ministero e del difensore dell’ente, prima dell’adozione del provvedimento del giudice, allo scopo di consentire
+alle parti di dedurre per iscritto nel termine di dieci giorni dalla comunicazione.
+6. Il giudice, se non pronuncia sentenza
+di esclusione della responsabilità dell’ente
+o sentenza di non doversi procedere ai
+sensi dell’articolo 67, decide con ordinanza,
+sentite le parti, sull’idoneità del programma
+e, in caso di accoglimento, stabilisce il
+termine per lo svolgimento del programma
+nonché per il deposito di una relazione
+conclusiva a cura dell’organismo di vigilanza dell’ente, disponendo inoltre le modalità per la conservazione di quanto even-
+
+—
+
+Camera dei Deputati
+A.C. 2952
+
+Atti Parlamentari
+
+— 32
+
+XIX LEGISLATURA
+
+tualmente messo a disposizione ai sensi del
+comma 4, lettera d). Se il termine per lo
+svolgimento del programma è superiore a
+sei mesi, il giudice ordina all’organismo di
+vigilanza dell’ente il deposito, nella segreteria del pubblico ministero procedente, di
+una relazione dettagliata sull’andamento
+del programma almeno ogni tre mesi.
+7. Tenuto conto dei criteri di cui all’articolo 11, il procedimento non può essere
+sospeso per un periodo:
+a) superiore a due anni, quando si
+procede per illeciti per i quali sono previste
+la sanzione pecuniaria e la sanzione interdittiva;
+b) superiore a un anno, quando si
+procede per illeciti per i quali è prevista la
+sola sanzione pecuniaria.
+8. I termini di cui al comma 7 decorrono dall’ordinanza di cui al comma 6.
+9. Contro l’ordinanza che decide sull’istanza di messa alla prova possono ricorrere per cassazione l’ente e il pubblico
+ministero, entro il termine di trenta giorni
+dalla comunicazione o dalla pubblicazione
+dell’ordinanza di cui al comma 6. L’impugnazione non sospende il procedimento.
+10. In caso di reiezione dell’istanza, questa può essere riproposta nel giudizio, prima
+della dichiarazione di apertura del dibattimento. Per quanto non espressamente
+previsto, si osservano, in quanto applicabili, le disposizioni del titolo V-bis del libro
+VI del codice di procedura penale.
+11. Durante lo svolgimento del programma, il giudice, su istanza del pubblico
+ministero o dell’ente, può modificare o revocare, in tutto o in parte, le prescrizioni
+adottate ai sensi dell’articolo 23-bis, comma
+5, previa acquisizione di una relazione sull’andamento del programma approvato, redatta dall’organismo di vigilanza dell’ente.
+12. Scaduto il termine assegnato per lo
+svolgimento del programma di riorganizzazione e di responsabilizzazione approvato, su istanza dell’ente, il giudice, acquisita la relazione finale dell’organismo di
+vigilanza e il parere del pubblico ministero,
+in caso di esito positivo, dichiara estinto
+l’illecito con ogni altra conseguenza di legge
+e ordina la confisca di quanto eventual-
+
+—
+
+Camera dei Deputati
+A.C. 2952
+
+Atti Parlamentari
+
+— 33
+
+XIX LEGISLATURA
+
+mente messo a disposizione ai sensi del
+comma 4, lettera d).
+13. In caso di esito negativo o di richiesta di revoca ai sensi dell’articolo 23-bis,
+comma 9, il giudice, sentite le parti, dispone la prosecuzione del procedimento e
+l’istanza non può essere riproposta. Gli
+impegni assunti dall’ente con il programma
+approvato e già adempiuti sono irretrattabili e di essi si tiene conto ai soli fini
+dell’applicazione delle eventuali sanzioni
+all’esito del giudizio. Si applica il comma
+9 »;
+ff) l’articolo 66 è sostituito dal seguente:
+« Art. 66. – (Sentenza di esclusione della
+responsabilità dell’ente o di non punibilità)
+– 1. Se l’illecito contestato all’ente non
+sussiste o se l’ente non è punibile ai sensi
+dell’articolo 17-bis, il giudice lo dichiara
+con sentenza, indicandone la causa nel
+dispositivo. Allo stesso modo procede quando
+la prova dell’illecito dipendente da reato è
+mancante, insufficiente o contraddittoria »;
+gg) all’articolo 67, dopo il comma 1 è
+aggiunto il seguente:
+« 1-bis. La sentenza di non doversi procedere ai sensi dell’articolo 469 del codice
+di procedura penale è pronunciata anche
+quando l’ente non è punibile ai sensi dell’articolo 8-bis del presente decreto, previa
+audizione in camera di consiglio anche
+della persona offesa, se compare »;
+hh) agli articoli 74, comma 2, lettera
+c), 78, comma 1, e 83, comma 2, la parola:
+« amministrativa » è soppressa.
+
+—
+
+Camera dei Deputati
+A.C. 2952
+
+PAGINA BIANCA
+
+PAGINA BIANCA
+
+*19PDL0203690*
+*19PDL0203690*
+
+

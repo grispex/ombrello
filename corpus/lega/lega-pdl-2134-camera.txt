@@ -1,0 +1,219 @@
+Atti Parlamentari
+
+— 1
+
+—
+
+Camera dei Deputati
+
+XIX LEGISLATURA — DISEGNI DI LEGGE E RELAZIONI — DOCUMENTI
+
+CAMERA DEI DEPUTATI
+
+N. 2134
+—
+
+PROPOSTA DI LEGGE
+D’INIZIATIVA DEI DEPUTATI
+
+MATONE, MOLINARI, BISA, ANDREUZZA, BOF, CECCHETTI, DI MATTINA, GIAGONI, LOIZZO, MARCHETTI, PIERRO, ZIELLO, ZOFFILI
+
+Modifiche al codice penale, al codice di procedura penale e al
+decreto legislativo 8 giugno 2001, n. 231, in materia di delitti
+informatici e trattamento illecito di dati
+
+Presentata il 7 novembre 2024
+
+ONOREVOLI COLLEGHI ! – La presente proposta di legge mira ad arginare il sempre
+più preoccupante fenomeno del « dossieraggio », ossia del mercato di informazioni
+sensibili riguardanti soggetti politicamente
+esposti, imprenditori o semplici privati cittadini, realizzato attraverso la violazione di
+sistemi informatici protetti.
+Si tenga presente che il legislatore è già
+intervenuto sulla materia dell’accesso abusivo ai sistemi informatici o telematici con
+la legge 28 giugno 2024, n. 90, apportando
+importanti modifiche al codice penale e al
+codice di procedura penale, al fine di rafforzare la cybersicurezza nazionale e la
+repressione dei reati informatici.
+Le vicende di cronaca degli ultimi tempi
+hanno tuttavia catturato l’attenzione dei
+proponenti della presente proposta di legge,
+
+evidenziando la necessità di intervenire a
+valle delle violazioni informatiche che alimentano il mercato illecito delle informazioni sensibili, il quale vede sempre più
+società commerciali di dubbia legalità offrire servizi di dossieraggio su commissione
+o di rivendita di informazioni riservate
+presenti nelle banche di dati pubbliche.
+La presente proposta di legge interviene
+sul codice penale attraverso l’introduzione
+di nuove fattispecie di reato. In particolare,
+viene introdotto l’articolo 615-quinquies che
+punisce la diffusione non autorizzata di
+dati o informazioni provenienti da sistemi
+informatici protetti. La norma punisce
+chiunque abusivamente duplica, importa,
+distribuisce, vende, cede, diffonde o divulga
+o semplicemente detiene a scopo commerciale o imprenditoriale dati o informazioni
+
+Atti Parlamentari
+
+— 2
+
+XIX LEGISLATURA
+
+provenienti dalla violazione di un sistema
+informatico telematico protetto da misure
+di sicurezza. Si tratta, quindi, di una condotta che si pone a valle della violazione
+del sistema informatico, condotta già sanzionata dall’articolo 615-ter del codice penale.
+La norma poi prevede un sistema di
+aggravanti simile a quello già previsto dall’articolo 615-ter come modificato dalla legge
+n. 90 del 2024.
+La tutela penale è completata dall’introduzione dell’articolo 615-quater.1, che
+punisce l’acquisto o la detenzione di dati o
+informazioni provenienti da sistemi informatici che siano stati violati. La norma
+punisce chiunque, abusivamente, si procura a qualsiasi titolo, acquista o semplicemente detiene dati o informazioni provenienti dalla violazione di un sistema informatico o telematico protetto. Si tratta
+quindi di una tecnica di tutela penale volta
+ad anticipare la punibilità delle condotte
+attraverso l’introduzione di fattispecie di
+reati-ostacolo sulla falsariga di quanto già
+fatto in tema di repressione del fenomeno
+della pedopornografia minorile (di cui all’articolo 600-quater del codice penale).
+La disciplina è poi completata dalla modifica della fattispecie del reato di estor-
+
+—
+
+Camera dei Deputati
+A.C. 2134
+
+sione, anch’essa già novellata dalla legge
+n. 90 del 2024.
+In particolare, si prende in considerazione la possibilità che l’estorsione avvenga
+mediante la minaccia di compiere i fatti di
+cui all’articolo 615-quater-1, così come introdotto con la presente proposta di legge.
+Sono altresì modificate alcune fattispecie di reato in tema di delitti contro la
+personalità dello Stato, con riferimento agli
+articoli 256, 257, e 258 del codice penale, le
+quali possono essere assimilate perché puniscono il procacciamento di notizie concernenti la sicurezza dello Stato o la condotta di spionaggio politico o militare attraverso il procacciamento di notizie di cui
+l’autorità ha vietato la divulgazione. Per
+ciascuna delle tre fattispecie in oggetto viene
+introdotta una circostanza aggravante consistente nell’aver commesso i fatti di cui
+agli articoli 256, 257 e 258 attraverso la
+violazione di un sistema informatico telematico protetto.
+Sono infine modificati il codice di procedura penale e il decreto legislativo 8
+giugno 2001, n. 231, al fine di adeguare le
+disposizioni di cui alla presente proposta di
+legge alla nuova disciplina introdotta dalla
+legge n. 90 del 2024.
+
+Atti Parlamentari
+
+— 3
+
+—
+
+Camera dei Deputati
+A.C. 2134
+
+XIX LEGISLATURA
+
+PROPOSTA DI LEGGE
+__
+
+Art. 1.
+(Modifiche al codice penale)
+1. Al codice penale sono apportate le
+seguenti modificazioni:
+a) all’articolo 256, dopo il primo
+comma è inserito il seguente:
+« Se i fatti di cui al primo comma sono
+commessi violando un sistema informatico o telematico protetto da misure di
+sicurezza, la pena è aumentata »;
+b) all’articolo 257, dopo il primo
+comma è inserito il seguente:
+« Se i fatti di cui al primo comma sono
+commessi violando un sistema informatico o telematico protetto da misure di
+sicurezza, la pena è aumentata »;
+c) all’articolo 258, dopo il primo
+comma è inserito il seguente:
+« Se i fatti di cui al primo comma sono
+commessi violando un sistema informatico o telematico protetto da misure di
+sicurezza, la pena è aumentata »;
+d) alla sezione IV del capo III del
+titolo XII del libro secondo, dopo l’articolo 615-quater sono aggiunti i seguenti:
+« Art. 615-quater.1. – (Diffusione non
+autorizzata di dati o informazioni provenienti da sistemi informatici protetti) –
+Chiunque duplica, importa, distribuisce,
+vende, cede, diffonde o divulga, detiene a
+scopo commerciale, imprenditoriale o con
+il fine di farsi dare o promettere utilità o
+altri vantaggi, oppure diffonde, pubbli-
+
+Atti Parlamentari
+
+— 4
+
+—
+
+Camera dei Deputati
+A.C. 2134
+
+XIX LEGISLATURA
+
+cizza o fa comunque uso di dati o informazioni provenienti dalla violazione di
+un sistema informatico o telematico protetto da misure di sicurezza è punito con
+la reclusione fino a due anni.
+La pena è aumentata se il fatto è
+commesso da un pubblico ufficiale, da un
+incaricato di un pubblico servizio o da chi
+esercita anche abusivamente la professione di investigatore privato.
+Qualora i fatti di cui ai commi primo
+e secondo riguardino dati o informazioni
+provenienti da sistemi informatici o telematici di interesse militare o relativi all’ordine pubblico o alla sicurezza pubblica
+o alla sanità o alla protezione civile o
+comunque di interesse pubblico, la pena
+è della reclusione da tre a dieci anni.
+Art. 615-quater.2. – (Acquisto o detenzione di dati o informazioni provenienti da
+sistemi informatici protetti) – Chiunque si
+procura, acquista o detiene dati o informazioni provenienti dalla violazione di un
+sistema informatico o telematico protetto
+da misure di sicurezza è punito con la
+reclusione fino a un anno »;
+e) all’articolo 623-quater, dopo la parola: « 615-quater, » sono inserite le seguenti: « 615-quater.1, 615-quater.2, »;
+f) all’articolo 629, terzo comma, dopo
+la parola: « 615-ter, » è inserita la seguente: « 615-quater.1, ».
+
+Art. 2.
+(Modifiche al codice di procedura penale)
+1. Al codice di procedura penale sono
+apportate le seguenti modificazioni:
+a) all’articolo 51, comma 3-quinquies, dopo la parola: « 615-quater, » è
+inserita la seguente: « 615-quater.1, »;
+b) all’articolo 407, comma 2, lettera
+a), numero 7-ter), dopo la parola: « 615quater, » sono inserite le seguenti: « 615quater.1, 615-quater.2, ».
+
+Atti Parlamentari
+
+— 5
+
+—
+
+Camera dei Deputati
+A.C. 2134
+
+XIX LEGISLATURA
+
+Art. 3.
+(Modifica all’articolo 24-bis del decreto legislativo 8 giugno 2001, n. 231)
+1. All’articolo 24-bis, comma 2, del
+decreto legislativo 8 giugno 2001, n. 231,
+dopo la parola: « 615-quater » è inserita la
+seguente « , 615-quater.1 ».
+
+PAGINA BIANCA
+
+PAGINA BIANCA
+
+*19PDL0115070*
+*19PDL0115070*
+
+
