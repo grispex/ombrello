@@ -2,147 +2,173 @@
 <meta name="claude:viewport-fit-sides" content="cover">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700&family=Source+Sans+3:ital,wght@0,400;0,600;1,400&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Archivo+Narrow:wght@500;600;700&family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;1,400&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
 <style>
-/* Layout: testata con numeri, schede in alto, area di lavoro a una colonna che su schermo largo diventa filtri + risultati. */
+/* Tavola tecnica: foglio con cornice doppia, linee sottili d'inchiostro, etichette maiuscole in riquadri,
+   corsivo minuscolo per le categorie, cartiglio in basso. Il buio è una cianografia. */
 :root {
-  --bg: #f4f6f8;
-  --surface: #ffffff;
-  --fg: #14202b;
-  --muted: #5a6876;
-  --line: #d9e0e6;
-  --accent: #0f6b73;
-  --accent-ink: #ffffff;
-  --accent-soft: #dcefef;
-  --warn-bg: #fff3d6;
-  --warn-fg: #6b4a00;
-  --yes: #1d7a46;
-  --maybe: #a56a00;
-  --no: #b3362f;
-  --none: #8a96a3;
-  --font-display: "Bricolage Grotesque", "Segoe UI", system-ui, sans-serif;
-  --font-body: "Source Sans 3", "Segoe UI", system-ui, sans-serif;
+  --paper: #e9e7df;
+  --sheet: #f4f3ed;
+  --ink: #17171b;
+  --ink2: #55555c;
+  --hair: rgba(23, 23, 27, .26);
+  --grid: rgba(23, 23, 27, .08);
+  --accent: #b8342a;
+  --font-label: "Archivo Narrow", "Arial Narrow", Arial, sans-serif;
+  --font-body: "IBM Plex Sans", Helvetica, Arial, sans-serif;
   --font-mono: "IBM Plex Mono", ui-monospace, Menlo, monospace;
 }
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]) {
-    --bg: #0f161c; --surface: #172029; --fg: #e6edf3; --muted: #9aa8b5; --line: #2a3541;
-    --accent: #5cc4cc; --accent-ink: #072a2e; --accent-soft: #123a3e;
-    --warn-bg: #3a2f0f; --warn-fg: #f3d58a;
-    --yes: #4cc17f; --maybe: #e0a63f; --no: #ef7b73; --none: #7f8c99;
+    --paper: #0a1626; --sheet: #0e2036; --ink: #e3ecf7; --ink2: #9db2cc;
+    --hair: rgba(227, 236, 247, .3); --grid: rgba(227, 236, 247, .08); --accent: #ff8f80;
     color-scheme: dark;
   }
 }
 :root[data-theme="dark"] {
-  --bg: #0f161c; --surface: #172029; --fg: #e6edf3; --muted: #9aa8b5; --line: #2a3541;
-  --accent: #5cc4cc; --accent-ink: #072a2e; --accent-soft: #123a3e;
-  --warn-bg: #3a2f0f; --warn-fg: #f3d58a;
-  --yes: #4cc17f; --maybe: #e0a63f; --no: #ef7b73; --none: #7f8c99;
+  --paper: #0a1626; --sheet: #0e2036; --ink: #e3ecf7; --ink2: #9db2cc;
+  --hair: rgba(227, 236, 247, .3); --grid: rgba(227, 236, 247, .08); --accent: #ff8f80;
   color-scheme: dark;
 }
 * { box-sizing: border-box; }
+[hidden] { display: none !important; }
 body {
-  background: var(--bg); color: var(--fg); font-family: var(--font-body); font-size: 16px; line-height: 1.5;
-  padding-block: 20px 56px;
+  background: var(--paper); color: var(--ink); font-family: var(--font-body); font-size: 15.5px; line-height: 1.5;
+  padding-block: 18px 40px;
   padding-left: max(16px, env(safe-area-inset-left, 0px));
   padding-right: max(16px, env(safe-area-inset-right, 0px));
 }
-.wrap { max-width: 1120px; margin: 0 auto; display: flex; flex-direction: column; gap: 20px; }
-h1, h2, h3 { font-family: var(--font-display); margin: 0; text-wrap: balance; line-height: 1.15; }
-h1 { font-size: clamp(2rem, 6vw, 3rem); font-weight: 700; letter-spacing: -0.02em; }
-h2 { font-size: 1.25rem; font-weight: 700; }
-h3 { font-size: 1rem; font-weight: 700; }
-a { color: var(--accent); }
-button, select, input { font: inherit; color: inherit; }
-:focus-visible { outline: 3px solid var(--accent); outline-offset: 2px; border-radius: 4px; }
+h1, h2, h3 { margin: 0; font-family: var(--font-label); text-transform: uppercase; letter-spacing: .09em; font-weight: 700; text-wrap: balance; line-height: 1.15; }
+h2 { font-size: 1.1rem; }
+h3 { font-size: .92rem; }
+a { color: var(--ink); text-decoration-thickness: 1px; text-underline-offset: 3px; }
+button, select, input { font: inherit; color: inherit; border-radius: 0; }
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
 
-.head { display: flex; flex-wrap: wrap; gap: 16px 32px; align-items: flex-end; justify-content: space-between; }
-.head p { margin: 6px 0 0; color: var(--muted); max-width: 46ch; }
-.stats { display: flex; gap: 24px; flex-wrap: wrap; }
-.stat b { display: block; font-family: var(--font-display); font-size: 1.75rem; line-height: 1; font-variant-numeric: tabular-nums; }
-.stat span { font-size: .8rem; color: var(--muted); text-transform: uppercase; letter-spacing: .06em; }
+.sheet { max-width: 1160px; margin: 0 auto; background: var(--sheet); border: 2px solid var(--ink); outline: 1px solid var(--ink); outline-offset: -8px; padding: 22px 18px 20px; display: flex; flex-direction: column; gap: 20px; }
+@media (min-width: 760px) { .sheet { padding: 30px 34px 26px; } }
+.box { border: 2px solid var(--ink); padding: 4px 14px; display: inline-block; font-family: var(--font-label); text-transform: uppercase; letter-spacing: .16em; font-weight: 700; background: var(--sheet); }
+h1.box { font-size: clamp(1.9rem, 6vw, 3rem); letter-spacing: .2em; padding: 6px 18px 6px 22px; }
+.cap { font-style: italic; color: var(--ink2); font-size: .92rem; }
+.head { display: flex; flex-wrap: wrap; gap: 14px 28px; align-items: center; justify-content: space-between; }
+.head p { margin: 8px 0 0; max-width: 46ch; color: var(--ink2); }
+.cells { display: flex; border: 1.5px solid var(--ink); }
+.cells > div { padding: 6px 14px; border-left: 1.5px solid var(--ink); text-align: center; }
+.cells > div:first-child { border-left: 0; }
+.cells b { display: block; font-family: var(--font-mono); font-weight: 500; font-size: 1.35rem; line-height: 1.1; font-variant-numeric: tabular-nums; }
+.cells span { font-family: var(--font-label); font-size: .72rem; text-transform: uppercase; letter-spacing: .12em; color: var(--ink2); }
 
-.note { background: var(--warn-bg); color: var(--warn-fg); border-radius: 8px; padding: 10px 14px; font-size: .92rem; }
+.dash { display: flex; align-items: center; gap: 12px; font-style: italic; color: var(--ink2); font-size: .88rem; }
+.dash::before, .dash::after { content: ""; flex: 1; border-top: 2px dashed var(--ink); }
+.dash.l::before { flex: 0 0 24px; }
+.note { border: 1.5px dashed var(--ink); padding: 8px 12px; font-size: .9rem; }
+.note b.k { font-family: var(--font-label); letter-spacing: .12em; text-transform: uppercase; margin-right: 6px; color: var(--accent); }
 
-.tabs { display: flex; gap: 4px; border-bottom: 1px solid var(--line); overflow-x: auto; }
-.tab { background: none; border: 0; padding: 10px 14px; cursor: pointer; font-weight: 600; color: var(--muted); border-bottom: 3px solid transparent; white-space: nowrap; }
-.tab[aria-selected="true"] { color: var(--fg); border-bottom-color: var(--accent); }
-.tab.soon { cursor: default; opacity: .6; }
+.tabs { display: flex; overflow-x: auto; padding-bottom: 2px; }
+.tab { background: var(--sheet); border: 1.5px solid var(--ink); margin-left: -1.5px; padding: 7px 16px; cursor: pointer; font-family: var(--font-label); text-transform: uppercase; letter-spacing: .14em; font-weight: 600; font-size: .9rem; white-space: nowrap; }
+.tab:first-child { margin-left: 0; }
+.tab[aria-selected="true"] { background: var(--ink); color: var(--sheet); }
 
 .layout { display: grid; gap: 20px; grid-template-columns: minmax(0, 1fr); }
-@media (min-width: 900px) { .layout { grid-template-columns: 280px minmax(0, 1fr); align-items: start; } .filters { position: sticky; top: 12px; } }
-.filters { background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 14px; display: flex; flex-direction: column; gap: 14px; }
-.field { display: flex; flex-direction: column; gap: 6px; min-width: 0; }
-.field label, .field .lab { font-size: .78rem; text-transform: uppercase; letter-spacing: .06em; color: var(--muted); font-weight: 600; }
-.input { background: var(--bg); border: 1px solid var(--line); border-radius: 8px; padding: 8px 10px; width: 100%; }
+@media (min-width: 900px) { .layout { grid-template-columns: 270px minmax(0, 1fr); align-items: start; } .filters { position: sticky; top: 12px; } }
+.filters { border: 1.5px solid var(--ink); padding: 14px; display: flex; flex-direction: column; gap: 14px; }
+.field { display: flex; flex-direction: column; gap: 5px; min-width: 0; }
+.field label, .lab { font-family: var(--font-label); font-size: .78rem; text-transform: uppercase; letter-spacing: .13em; font-weight: 600; }
+.input { background: var(--sheet); border: 1.5px solid var(--ink); padding: 7px 9px; width: 100%; }
 .chips { display: flex; flex-wrap: wrap; gap: 6px; }
-.chip { display: inline-flex; align-items: center; gap: 6px; border: 1px solid var(--line); background: var(--bg); border-radius: 999px; padding: 3px 10px 3px 8px; font-size: .85rem; cursor: pointer; }
-.chip[aria-pressed="true"] { background: var(--accent-soft); border-color: var(--accent); }
-.dot { width: 10px; height: 10px; border-radius: 50%; flex: none; }
-.small { font-size: .85rem; color: var(--muted); }
-.linkbtn { background: none; border: 0; color: var(--accent); cursor: pointer; padding: 0; text-decoration: underline; font-size: .85rem; }
+.chip { display: inline-flex; align-items: center; gap: 6px; border: 1px solid var(--ink); background: var(--sheet); padding: 2px 9px 2px 7px; font-family: var(--font-label); font-size: .86rem; letter-spacing: .05em; cursor: pointer; }
+.chip[aria-pressed="true"] { background: var(--ink); color: var(--sheet); }
+.chip .small { color: inherit; opacity: .7; }
+.dot { width: 10px; height: 10px; flex: none; border: 1px solid var(--ink); display: inline-block; }
+.small { font-size: .84rem; color: var(--ink2); }
+.linkbtn { background: none; border: 0; padding: 0; cursor: pointer; text-decoration: underline; font-size: .84rem; color: var(--ink2); }
 
-.results { display: flex; flex-direction: column; gap: 10px; min-width: 0; }
-.count { color: var(--muted); font-size: .9rem; }
-.area-h { margin-top: 12px; padding-bottom: 4px; border-bottom: 2px solid var(--fg); font-size: 1.15rem; }
-.sub-h { margin-top: 6px; font-size: .78rem; text-transform: uppercase; letter-spacing: .07em; color: var(--muted); font-weight: 600; }
-.item { background: var(--surface); border: 1px solid var(--line); border-radius: 8px; padding: 10px 12px; display: flex; flex-direction: column; gap: 6px; min-width: 0; }
+.results { display: flex; flex-direction: column; gap: 9px; min-width: 0; }
+.count { font-family: var(--font-mono); font-size: .82rem; color: var(--ink2); }
+.area-h { margin-top: 14px; padding: 2px 0 4px; border-bottom: 2px solid var(--ink); font-size: 1.15rem; }
+.sub-h { margin-top: 6px; font-style: italic; color: var(--ink2); font-size: .9rem; }
+.item { border: 1px solid var(--ink); padding: 8px 12px 9px; display: flex; flex-direction: column; gap: 6px; min-width: 0; background: var(--sheet); position: relative; }
+.item .id { font-family: var(--font-mono); font-size: .7rem; color: var(--ink2); }
 .item p { margin: 0; overflow-wrap: anywhere; }
-.meta { display: flex; flex-wrap: wrap; gap: 6px 12px; align-items: center; font-size: .82rem; color: var(--muted); }
-.tag { display: inline-flex; align-items: center; gap: 5px; color: var(--fg); font-weight: 600; }
-.pips { display: inline-flex; gap: 2px; align-items: center; }
-.pips i { width: 7px; height: 7px; border-radius: 50%; background: var(--line); }
-.pips i.on { background: var(--accent); }
-details summary { cursor: pointer; font-size: .85rem; color: var(--accent); }
-blockquote { margin: 6px 0 0; padding: 0 0 0 12px; border-left: 3px solid var(--line); font-style: italic; overflow-wrap: anywhere; }
-.src { font-size: .82rem; color: var(--muted); margin-top: 6px; overflow-wrap: anywhere; }
-.more { align-self: center; background: var(--accent); color: var(--accent-ink); border: 0; border-radius: 8px; padding: 9px 18px; font-weight: 600; cursor: pointer; }
+.meta { display: flex; flex-wrap: wrap; gap: 5px 12px; align-items: center; font-size: .8rem; color: var(--ink2); }
+.tag { display: inline-flex; align-items: center; gap: 5px; color: var(--ink); font-family: var(--font-label); font-weight: 600; letter-spacing: .06em; font-size: .9rem; }
+.pips { display: inline-flex; gap: 3px; align-items: center; }
+.pips i { width: 8px; height: 8px; border: 1px solid var(--ink); border-radius: 50%; }
+.pips i.on { background: var(--ink); }
+details summary { cursor: pointer; font-style: italic; font-size: .85rem; }
+blockquote { margin: 6px 0 0; padding: 0 0 0 12px; border-left: 2px solid var(--ink); overflow-wrap: anywhere; font-size: .92rem; }
+.src { font-size: .8rem; color: var(--ink2); margin-top: 6px; overflow-wrap: anywhere; }
+.more { align-self: center; background: var(--ink); color: var(--sheet); border: 0; padding: 9px 20px; font-family: var(--font-label); text-transform: uppercase; letter-spacing: .14em; font-weight: 600; cursor: pointer; }
 
-.tablewrap { overflow-x: auto; background: var(--surface); border: 1px solid var(--line); border-radius: 10px; }
+.tablewrap { overflow-x: auto; border: 1.5px solid var(--ink); }
 table { border-collapse: collapse; width: 100%; min-width: 760px; }
-th, td { padding: 8px 6px; text-align: center; border-bottom: 1px solid var(--line); font-size: .9rem; }
-th { font-size: .75rem; text-transform: uppercase; letter-spacing: .05em; color: var(--muted); vertical-align: bottom; }
-th:first-child, td:first-child { text-align: left; position: sticky; left: 0; background: var(--surface); min-width: 220px; max-width: 280px; padding-left: 12px; z-index: 1; }
+th, td { padding: 8px 6px; text-align: center; border-bottom: 1px solid var(--hair); border-left: 1px solid var(--hair); }
+th { font-family: var(--font-label); font-size: .78rem; text-transform: uppercase; letter-spacing: .1em; vertical-align: bottom; border-bottom: 1.5px solid var(--ink); }
+th:first-child, td:first-child { text-align: left; position: sticky; left: 0; background: var(--sheet); min-width: 220px; max-width: 280px; padding-left: 12px; z-index: 1; border-left: 0; }
 tr.q { cursor: pointer; }
-tr.q:hover td { background: var(--accent-soft); }
-tr.q:hover td:first-child { background: var(--accent-soft); }
-tr.sel td, tr.sel td:first-child { background: var(--accent-soft); }
-.cell { display: inline-block; min-width: 30px; border-radius: 6px; padding: 1px 6px; font-weight: 600; font-size: .82rem; }
-.cell.S { color: var(--yes); border: 1.5px solid var(--yes); }
-.cell.R { color: var(--maybe); border: 1.5px dashed var(--maybe); }
-.cell.N { color: var(--no); border: 1.5px solid var(--no); }
-.cell.X { color: var(--none); }
-.legend { display: flex; flex-wrap: wrap; gap: 8px 16px; font-size: .85rem; color: var(--muted); align-items: center; }
-.badge { display: inline-block; font-size: .72rem; padding: 1px 7px; border-radius: 999px; background: var(--accent-soft); color: var(--accent); font-weight: 600; margin-left: 6px; white-space: nowrap; }
-.detail { background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 14px; display: flex; flex-direction: column; gap: 10px; }
-.cols { display: grid; gap: 12px; grid-template-columns: repeat(auto-fit, minmax(190px, 1fr)); }
+tr.q:hover td, tr.sel td { background: var(--grid); }
+tr.sel td:first-child { box-shadow: inset 4px 0 0 var(--ink); }
+.cell { display: inline-block; width: 15px; height: 15px; border: 1.5px solid var(--ink); border-radius: 50%; vertical-align: middle; }
+.cell.S { background: var(--ink); }
+.cell.R { background: linear-gradient(90deg, var(--ink) 50%, transparent 50%); }
+.cell.X { border: 0; width: 12px; height: 0; border-top: 1.5px solid var(--hair); border-radius: 0; }
+.legend { display: flex; flex-wrap: wrap; gap: 8px 18px; font-size: .84rem; align-items: center; }
+.legend span { display: inline-flex; gap: 6px; align-items: center; }
+.badge { display: inline-block; font-family: var(--font-label); font-size: .7rem; letter-spacing: .08em; text-transform: uppercase; padding: 0 6px; border: 1px solid var(--ink); margin-left: 6px; white-space: nowrap; }
+.detail { border: 1.5px solid var(--ink); padding: 14px; display: flex; flex-direction: column; gap: 10px; background: var(--sheet); }
+.cols { display: grid; gap: 14px; grid-template-columns: repeat(auto-fit, minmax(190px, 1fr)); }
 
-.cmp { display: grid; gap: 4px 10px; grid-template-columns: minmax(110px, 190px) minmax(0, 1fr) minmax(0, 1fr); align-items: center; }
-.cmp .h { font-size: .8rem; color: var(--muted); font-weight: 600; }
-.bar { height: 14px; border-radius: 3px; min-width: 2px; }
-.barrow { display: flex; align-items: center; gap: 6px; font-size: .8rem; font-variant-numeric: tabular-nums; min-width: 0; }
+.cmp { display: grid; gap: 5px 10px; grid-template-columns: minmax(110px, 190px) minmax(0, 1fr) minmax(0, 1fr); align-items: center; }
+.cmp .h { font-family: var(--font-label); text-transform: uppercase; letter-spacing: .1em; font-weight: 600; font-size: .85rem; }
+.bar { height: 12px; min-width: 2px; border: 1px solid var(--ink); background: var(--ink); }
+.bar.b { background: repeating-linear-gradient(45deg, var(--ink) 0 2px, transparent 2px 5px); }
+.barrow { display: flex; align-items: center; gap: 6px; font-family: var(--font-mono); font-size: .75rem; min-width: 0; }
 .sel2 { display: grid; gap: 12px; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); }
-.foot { color: var(--muted); font-size: .85rem; border-top: 1px solid var(--line); padding-top: 14px; }
-.mapbox { position: relative; height: clamp(360px, 62vh, 620px); background: var(--surface); border: 1px solid var(--line); border-radius: 10px; overflow: hidden; touch-action: none; }
+
+.mapgrid { display: grid; gap: 14px; grid-template-columns: minmax(0, 1fr); }
+@media (min-width: 900px) { .mapgrid { grid-template-columns: minmax(0, 1fr) 250px; } }
+.mapbox { position: relative; height: clamp(420px, 72vh, 720px); border: 1.5px solid var(--ink); background:
+  linear-gradient(var(--grid) 1px, transparent 1px) 0 0 / 28px 28px, linear-gradient(90deg, var(--grid) 1px, transparent 1px) 0 0 / 28px 28px, var(--sheet);
+  touch-action: none; overflow: hidden; }
 .mapbox canvas { width: 100%; height: 100%; display: block; }
-.mmsg { position: absolute; inset: 0; display: grid; place-items: center; padding: 20px; text-align: center; color: var(--muted); }
+.mmsg { position: absolute; inset: 0; display: grid; place-items: center; padding: 20px; text-align: center; color: var(--ink2); background: var(--sheet); }
+.mtool { position: absolute; left: 8px; top: 8px; display: flex; gap: 6px; }
+.mtool button { background: var(--sheet); border: 1.5px solid var(--ink); padding: 3px 10px; font-family: var(--font-label); text-transform: uppercase; letter-spacing: .1em; font-size: .78rem; font-weight: 600; cursor: pointer; }
+.levels { border: 1.5px solid var(--ink); display: flex; flex-direction: column; max-height: clamp(420px, 72vh, 720px); min-height: 0; }
+.levels h3 { padding: 8px 10px; border-bottom: 1.5px solid var(--ink); }
+.levels ol { list-style: none; margin: 0; padding: 0; overflow-y: auto; display: flex; flex-direction: column-reverse; }
+.levels li button { display: grid; grid-template-columns: 26px 1fr; gap: 6px; width: 100%; text-align: left; background: none; border: 0; border-top: 1px solid var(--hair); padding: 4px 10px; cursor: pointer; font-size: .85rem; }
+.levels li button b { font-family: var(--font-mono); font-weight: 500; font-size: .75rem; color: var(--ink2); padding-top: 2px; }
+.levels li button[aria-current="true"] { background: var(--ink); color: var(--sheet); }
+.levels li button[aria-current="true"] b { color: inherit; }
+.levels li.prova button { border-top: 2px dashed var(--ink); font-style: italic; }
+.near { display: grid; grid-template-columns: minmax(90px, 140px) minmax(0, 1fr) 42px; gap: 6px 8px; align-items: center; font-size: .86rem; }
+.near .bar { height: 9px; }
 .layout2 { display: grid; gap: 14px; grid-template-columns: minmax(0, 1fr); }
-@media (min-width: 900px) { .layout2 { grid-template-columns: minmax(0, 1.3fr) minmax(0, 1fr); align-items: start; } }
-.near { display: grid; grid-template-columns: minmax(90px, 140px) minmax(0, 1fr) 40px; gap: 6px 8px; align-items: center; font-size: .88rem; }
-.near .bar { height: 10px; border-radius: 3px; background: var(--accent); }
+@media (min-width: 900px) { .layout2 { grid-template-columns: minmax(0, 1.2fr) minmax(0, 1fr); align-items: start; } }
+
+.block { display: grid; border: 1.5px solid var(--ink); grid-template-columns: minmax(0, 1.6fr) repeat(2, minmax(0, 1fr)); font-size: .78rem; }
+.block > div { padding: 6px 10px; border-left: 1.5px solid var(--ink); border-top: 1.5px solid var(--ink); min-width: 0; overflow-wrap: anywhere; }
+.block > div:nth-child(3n+1) { border-left: 0; }
+.block > div:nth-child(-n+3) { border-top: 0; }
+.block .k { font-family: var(--font-label); text-transform: uppercase; letter-spacing: .12em; color: var(--ink2); display: block; font-size: .68rem; }
+.block .v { font-family: var(--font-mono); }
+@media (max-width: 560px) { .block { grid-template-columns: 1fr; } .block > div { border-left: 0 !important; border-top: 1.5px solid var(--ink) !important; } .block > div:first-child { border-top: 0 !important; } }
 @media (prefers-reduced-motion: reduce) { * { scroll-behavior: auto !important; } }
 </style>
 
-<div class="wrap">
+<div class="sheet">
   <header class="head">
     <div>
-      <h1>Ombrello</h1>
-      <p>Le proposte dei partiti italiani presenti oggi in Parlamento, raccolte dai loro documenti e ordinate per tema. Fotografia al <span id="data"></span>.</p>
+      <h1 class="box">Ombrello</h1>
+      <p>Le proposte dei partiti italiani presenti oggi in Parlamento, raccolte dai loro documenti e ordinate per tema.</p>
     </div>
-    <div class="stats" id="stats"></div>
+    <div class="cells" id="stats"></div>
   </header>
 
-  <div class="note"><b>Prototipo.</b> La libreria usa le proposte vere raccolte finora, con citazione e fonte. Le tabelle sulle posizioni dei partiti, in "Questioni" e nel confronto, usano <b>dati di prova</b> e non vanno citate.</div>
+  <div class="dash l"><span>fotografia al <span id="data"></span></span></div>
+
+  <div class="note"><b class="k">Nota</b> Prototipo. La libreria usa le proposte vere raccolte finora, con citazione e fonte. Le posizioni dei partiti nelle questioni e nel confronto, e il livello di prova della mappa, usano <b>dati di prova</b> e non vanno citati.</div>
 
   <div class="tabs" role="tablist" aria-label="Sezioni">
     <button class="tab" role="tab" id="t-lib" aria-selected="true" aria-controls="v-lib">Libreria</button>
@@ -158,13 +184,13 @@ tr.sel td, tr.sel td:first-child { background: var(--accent-soft); }
         <div class="field"><label for="area">Area</label><select class="input" id="area"></select></div>
         <div class="field"><label for="conc">Concretezza minima</label>
           <select class="input" id="conc">
-            <option value="1">Tutte (anche i principi)</option>
+            <option value="1">Tutte, anche i principi</option>
             <option value="2">Obiettivi e misure</option>
             <option value="3">Misure precise</option>
             <option value="4">Misure con cifre</option>
           </select></div>
         <div class="field"><span class="lab">Partiti</span><div class="chips" id="chips"></div>
-          <div class="small"><button class="linkbtn" id="clear">Azzera i partiti</button></div></div>
+          <div><button class="linkbtn" id="clear">azzera i partiti</button></div></div>
       </aside>
       <div class="results" id="res" aria-live="polite"></div>
     </div>
@@ -173,7 +199,7 @@ tr.sel td, tr.sel td:first-child { background: var(--accent-soft); }
   <section id="v-que" role="tabpanel" aria-labelledby="t-que" hidden>
     <div style="display:flex;flex-direction:column;gap:14px">
       <div class="note" id="avviso"></div>
-      <div class="legend"><span><span class="cell S">Sì</span> favorevole</span><span><span class="cell R">Sì~</span> con riserve</span><span><span class="cell N">No</span> contrario</span><span><span class="cell X">–</span> non espresso</span></div>
+      <div class="legend"><span><i class="cell S"></i> favorevole</span><span><i class="cell R"></i> con riserve</span><span><i class="cell" style="background:none"></i> contrario</span><span><i class="cell X"></i> non espresso</span></div>
       <div class="tablewrap"><table id="tab"></table></div>
       <div id="det"></div>
     </div>
@@ -185,33 +211,41 @@ tr.sel td, tr.sel td:first-child { background: var(--accent-soft); }
         <div class="field"><label for="pa">Primo partito</label><select class="input" id="pa"></select></div>
         <div class="field"><label for="pb">Secondo partito</label><select class="input" id="pb"></select></div>
       </div>
-      <div><h2>Quante proposte per area</h2><p class="small" style="margin:4px 0 0">Dati veri. Il numero dipende anche da quanti documenti il partito pubblica: non misura l'importanza di un tema.</p></div>
+      <div><h2>Proposte per area</h2><p class="small" style="margin:4px 0 0">Dati veri. Il numero dipende anche da quanti documenti il partito pubblica: non misura l'importanza di un tema.</p></div>
       <div class="cmp" id="cmp"></div>
-      <div><h2>Dove sono d'accordo</h2><p class="small" style="margin:4px 0 0">Dati di prova.</p></div>
+      <div class="dash"><span>dati di prova</span></div>
+      <div><h2>Dove sono d'accordo</h2></div>
       <div id="agree"></div>
     </div>
   </section>
 
   <section id="v-map" role="tabpanel" aria-labelledby="t-map" hidden>
     <div style="display:flex;flex-direction:column;gap:14px">
-      <div class="sel2">
-        <div class="field"><label for="mmode">Cosa misura la distanza</label>
-          <select class="input" id="mmode">
-            <option value="testi">Somiglianza dei testi delle proposte (dati veri)</option>
-            <option value="prova">Accordo sulle questioni (dati di prova)</option>
-          </select></div>
-        <div class="field"><label for="marea">Tema</label><select class="input" id="marea"></select></div>
+      <p class="small" style="margin:0">Proiezione a livelli. Ogni piano è un tema; su ogni piano un anello è un partito, e più due anelli sono vicini, più le parole e i temi delle loro proposte si somigliano. La linea verticale unisce lo stesso partito attraverso i temi. <b>La distanza non misura l'accordo</b>: due partiti che parlano delle stesse cose possono volere cose opposte. Il piano tratteggiato in cima usa dati di prova.</p>
+      <div class="mapgrid">
+        <div class="mapbox">
+          <canvas id="mcanvas" aria-label="Mappa 3D a livelli dei partiti. Trascina per ruotare, scorri per ingrandire, tocca un anello per scegliere un partito."></canvas>
+          <div class="mtool"><button type="button" id="mall">Vista d'insieme</button></div>
+          <div class="mmsg" id="mmsg" hidden></div>
+        </div>
+        <aside class="levels" aria-label="Livelli"><h3>Livelli</h3><ol id="mlev"></ol></aside>
       </div>
-      <p class="small" id="mnota" style="margin:0"></p>
-      <div class="mapbox"><canvas id="mcanvas" aria-label="Mappa 3D dei partiti. Trascina per ruotare, scorri per ingrandire, tocca un partito per vedere i più vicini."></canvas><div class="mmsg" id="mmsg" hidden></div></div>
       <div class="layout2">
-        <div class="detail" id="minfo"><h3>Tocca un partito</h3><p class="small" style="margin:0">Trascina per ruotare, scorri o pizzica per ingrandire. Ogni pallino è un partito, grande in proporzione alle proposte raccolte. Più due partiti sono vicini, più si somigliano.</p></div>
+        <div class="detail" id="minfo"></div>
         <div class="chips" id="mchips" role="group" aria-label="Partiti"></div>
       </div>
     </div>
   </section>
 
-  <footer class="foot">Ogni proposta riporta la citazione esatta del documento da cui viene. Il metodo di raccolta è descritto nel codebook del progetto. Per ora mancano alcuni partiti piccoli e i voti parlamentari.</footer>
+  <div class="dash"><span>cartiglio</span></div>
+  <footer class="block" aria-label="Cartiglio">
+    <div><span class="k">Titolo</span>Ombrello, libreria delle proposte dei partiti</div>
+    <div><span class="k">Disegno n.</span><span class="v" id="nprop"></span></div>
+    <div><span class="k">Data</span><span class="v" id="data2"></span></div>
+    <div><span class="k">Fonti</span>Programmi elettorali, documenti ufficiali e atti parlamentari. Ogni proposta riporta la citazione esatta.</div>
+    <div><span class="k">Stato</span>Prototipo</div>
+    <div><span class="k">Mancano</span>Alcuni partiti piccoli, i voti parlamentari</div>
+  </footer>
 </div>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
@@ -221,7 +255,7 @@ const D = {"data":"16 ottobre 2026","aree":[{"id":"agricoltura-pesca","nome":"Ag
 const $ = (id) => document.getElementById(id);
 const P = Object.fromEntries(D.partiti.map(p => [p.id, p]));
 const AREA = Object.fromEntries(D.aree.map(a => [a.id, a.nome]));
-const STATO_LABEL = { annunciata: "Annunciata", depositata: "Depositata", "in discussione": "In discussione", approvata: "Approvata", attuata: "Attuata", respinta: "Respinta", abbandonata: "Abbandonata" };
+const STATO_LABEL = { annunciata: "annunciata", depositata: "depositata", "in discussione": "in discussione", approvata: "approvata", attuata: "attuata", respinta: "respinta", abbandonata: "abbandonata" };
 const TIPO = { A: "Programma elettorale", B: "Documento del partito", C: "Atto parlamentare", D: "Voto", E: "Atto di governo", F: "Dichiarazione" };
 
 function el(tag, attrs, ...kids) {
@@ -237,10 +271,10 @@ const dotOf = (id) => el("i", { class: "dot", style: "background:" + (P[id] ? P[
 const tag = (id) => el("span", { class: "tag" }, dotOf(id), P[id] ? P[id].sigla : id);
 
 /* testata */
-$("data").textContent = D.data;
+$("data").textContent = D.data; $("data2").textContent = D.data; $("nprop").textContent = String(D.proposte.length);
 const nPart = D.partiti.filter(p => p.n > 0).length;
 [[D.proposte.length.toLocaleString("it-IT"), "proposte"], [Object.keys(D.fonti).length, "documenti"], [nPart, "partiti"], [D.aree.length, "aree"]]
-  .forEach(([n, l]) => $("stats").append(el("div", { class: "stat" }, el("b", { text: String(n) }), el("span", { text: l }))));
+  .forEach(([n, l]) => $("stats").append(el("div", {}, el("b", { text: String(n) }), el("span", { text: l }))));
 
 /* schede */
 const tabs = { lib: ["t-lib", "v-lib"], que: ["t-que", "v-que"], cmp: ["t-cmp", "v-cmp"], map: ["t-map", "v-map"] };
@@ -264,7 +298,7 @@ D.partiti.filter(p => p.n > 0).forEach(p => {
   });
   $("chips").append(b);
 });
-$("clear").addEventListener("click", () => { state.partiti.clear(); document.querySelectorAll(".chip").forEach(c => c.setAttribute("aria-pressed", "false")); render(); });
+$("clear").addEventListener("click", () => { state.partiti.clear(); $("chips").querySelectorAll(".chip").forEach(c => c.setAttribute("aria-pressed", "false")); render(); });
 $("q").addEventListener("input", e => { state.q = e.target.value.trim().toLowerCase(); state.shown = 120; render(); });
 $("area").addEventListener("change", e => { state.area = e.target.value; state.shown = 120; render(); });
 $("conc").addEventListener("change", e => { state.conc = +e.target.value; state.shown = 120; render(); });
@@ -277,9 +311,10 @@ function card(r) {
     f.u ? el("a", { href: f.u, target: "_blank", rel: "noopener noreferrer", text: f.t || fonte }) : (f.t || fonte),
     f.d ? " (" + f.d + ")" : "", punto ? " · " + punto : "");
   return el("article", { class: "item" },
+    el("span", { class: "id", text: id }),
     el("p", { text: sintesi }),
-    el("div", { class: "meta" }, ...partiti.map(tag), pips, el("span", { text: STATO_LABEL[stato] || stato }), el("span", { text: data || "" })),
-    el("details", {}, el("summary", { text: "Citazione e fonte" }), el("blockquote", { text: citazione }), src));
+    el("div", { class: "meta" }, ...partiti.map(tag), pips, el("span", { text: STATO_LABEL[stato] || stato }), el("span", { class: "id", text: data || "" })),
+    el("details", {}, el("summary", { text: "citazione e fonte" }), el("blockquote", { text: citazione }), src));
 }
 function render() {
   const q = state.q;
@@ -302,9 +337,9 @@ function render() {
 render();
 
 /* questioni (dati di prova) */
-const POS = { S: ["Sì", "favorevole"], R: ["Sì~", "favorevole con riserve"], N: ["No", "contrario"] };
+const POS = { S: "favorevole", R: "favorevole con riserve", N: "contrario" };
 const colonne = ["fdi", "lega", "fi", "nm", "fn", "pd", "m5s", "ev", "si", "azione", "iv", "piu-europa"];
-$("avviso").textContent = D.prova.avviso;
+$("avviso").replaceChildren(el("b", { class: "k", text: "Dati di prova" }), D.prova.avviso.replace(/^DATI DI PROVA\.\s*/, ""));
 function tipoTouch(pos) {
   const fav = colonne.filter(p => pos[p] === "S" || pos[p] === "R");
   const gov = fav.filter(p => P[p].schieramento === "maggioranza").length, opp = fav.filter(p => P[p].schieramento === "opposizione").length;
@@ -319,8 +354,8 @@ function tipoTouch(pos) {
   D.prova.questioni.forEach(q => {
     const tp = tipoTouch(q.pos);
     const tr = el("tr", { class: "q", tabindex: "0" },
-      el("td", {}, el("div", { text: q.domanda }), el("div", { class: "small" }, AREA[q.area], tp ? el("span", { class: "badge", text: "punto di contatto " + tp }) : null)),
-      ...colonne.map(p => { const v = q.pos[p]; return el("td", {}, v ? el("span", { class: "cell " + v, "aria-label": POS[v][1], text: POS[v][0] }) : el("span", { class: "cell X", "aria-label": "non espresso", text: "–" })); }));
+      el("td", {}, el("div", { text: q.domanda }), el("div", { class: "small", style: "font-style:italic" }, AREA[q.area], tp ? el("span", { class: "badge", text: "contatto " + tp }) : null)),
+      ...colonne.map(p => { const v = q.pos[p] || "X"; return el("td", {}, el("i", { class: "cell " + v, role: "img", "aria-label": POS[v] || "non espresso" })); }));
     const open = () => { body.querySelectorAll("tr").forEach(r => r.classList.remove("sel")); tr.classList.add("sel"); detail(q); };
     tr.addEventListener("click", open); tr.addEventListener("keydown", e => { if (e.key === "Enter") open(); });
     body.append(tr);
@@ -345,165 +380,216 @@ function cmp() {
   const n = { [a]: {}, [b]: {} };
   D.proposte.forEach(r => r[1].forEach(p => { if (n[p]) r[5].forEach(ar => { n[p][ar] = (n[p][ar] || 0) + 1; }); }));
   const max = Math.max(1, ...D.aree.flatMap(x => [n[a][x.id] || 0, n[b][x.id] || 0]));
-  const c = $("cmp"); c.replaceChildren(el("div"), el("div", { class: "h", text: P[a].nome }), el("div", { class: "h", text: P[b].nome }));
-  const row = (p, ar) => { const v = n[p][ar] || 0; return el("div", { class: "barrow" }, el("div", { class: "bar", style: `width:${Math.max(2, v / max * 100)}%;max-width:calc(100% - 34px);background:${P[p].colore}` }), String(v)); };
-  D.aree.forEach(x => c.append(el("div", { class: "small", text: x.nome }), row(a, x.id), row(b, x.id)));
+  const c = $("cmp"); c.replaceChildren(el("div"), el("div", { class: "h", text: "■ " + P[a].nome }), el("div", { class: "h", text: "▨ " + P[b].nome }));
+  const row = (p, ar, cls) => { const v = n[p][ar] || 0; return el("div", { class: "barrow" }, el("div", { class: "bar " + cls, style: `width:${Math.max(2, v / max * 100)}%;max-width:calc(100% - 34px)` }), String(v)); };
+  D.aree.forEach(x => c.append(el("div", { class: "small", text: x.nome }), row(a, x.id, "a"), row(b, x.id, "b")));
   const out = $("agree"); out.replaceChildren();
+  if (a === b) { out.append(el("p", { class: "small", text: "Scegli due partiti diversi." })); return; }
   const same = D.prova.questioni.filter(q => q.pos[a] && q.pos[a] === q.pos[b]);
   const diff = D.prova.questioni.filter(q => q.pos[a] && q.pos[b] && q.pos[a] !== q.pos[b]);
-  if (a === b) { out.append(el("p", { class: "small", text: "Scegli due partiti diversi." })); return; }
   const ul = (items, t) => el("div", {}, el("h3", { text: t + " (" + items.length + ")" }), el("ul", {}, ...items.map(q => el("li", { text: q.domanda }))));
   out.append(el("div", { class: "cols", style: "grid-template-columns:repeat(auto-fit,minmax(260px,1fr))" }, ul(same, "Stessa posizione"), ul(diff, "Posizioni diverse")));
 }
 cmp();
 
-/* mappa 3D */
+/* mappa 3D a livelli (proiezione obliqua: un piano per tema, linee verticali per partito) */
 let mapStarted = false;
 function startMap() {
-  if (mapStarted) { mapResize(); return; }
+  if (mapStarted) { if (window.__mapResize) window.__mapResize(); return; }
   mapStarted = true;
-  const msg = $("mmsg"), canvas = $("mcanvas");
-  const M = D.mappa;
-  $("marea").append(el("option", { value: "tutte", text: "Tutti i temi" }));
-  D.aree.forEach(a => { if (M.testi[a.id]) $("marea").append(el("option", { value: a.id, text: a.nome })); });
+  const canvas = $("mcanvas"), msg = $("mmsg"), M = D.mappa;
   const css = (v) => getComputedStyle(document.documentElement).getPropertyValue(v).trim();
-  let ok = typeof THREE !== "undefined" && THREE.OrbitControls;
-  let renderer;
-  if (ok) { try { renderer = new THREE.WebGLRenderer({ canvas, antialias: true }); renderer.setClearColor(new THREE.Color(css("--surface"))); } catch (e) { ok = false; } }
-  if (!ok) { msg.hidden = false; msg.textContent = "Il browser non riesce a mostrare la mappa 3D. Qui sotto trovi comunque i partiti più vicini."; }
-  const reduce = matchMedia("(prefers-reduced-motion: reduce)").matches;
-  let scene, camera, controls, nodes = {}, lines, selected = null, scope = null, raf = 0, moved = false;
-  const maxN = Math.max(...D.partiti.map(p => p.n));
+  const GAP = 0.5, HALF = 2.1;
+  /* livelli: tutti i temi in basso, aree in ordine alfabetico, dati di prova in cima */
+  const levels = [{ key: "tutte", nome: "Tutti i temi", scope: M.testi.tutte }]
+    .concat(D.aree.filter(a => M.testi[a.id]).map(a => ({ key: a.id, nome: a.nome, scope: M.testi[a.id] })))
+    .concat([{ key: "prova", nome: "Dati di prova", scope: M.prova, prova: true }]);
+  levels.forEach((l, i) => { l.y = i * GAP; l.idx = {}; l.scope.p.forEach((p, j) => { l.idx[p] = j; }); });
+  const H = (levels.length - 1) * GAP;
+  let focus = 0, selected = null, mapResize = null;
 
-  function label(text, color) {
-    const c = document.createElement("canvas"); c.width = 256; c.height = 64;
-    const g = c.getContext("2d"); g.font = "600 34px 'Source Sans 3', sans-serif"; g.textAlign = "center"; g.textBaseline = "middle";
-    g.lineWidth = 8; g.strokeStyle = css("--surface"); g.strokeText(text, 128, 32); g.fillStyle = color; g.fillText(text, 128, 32);
-    const s = new THREE.Sprite(new THREE.SpriteMaterial({ map: new THREE.CanvasTexture(c), transparent: true, depthTest: false }));
-    s.scale.set(0.72, 0.18, 1); s.renderOrder = 5; return s;
-  }
-  function build() {
-    scene = new THREE.Scene();
-    camera = new THREE.PerspectiveCamera(45, 1, 0.1, 100); camera.position.set(0, 0.8, 6);
-    scene.add(new THREE.AmbientLight(0xffffff, 0.75));
-    const dl = new THREE.DirectionalLight(0xffffff, 0.7); dl.position.set(3, 4, 5); scene.add(dl);
-    controls = new THREE.OrbitControls(camera, canvas); controls.enableDamping = true; controls.enablePan = false; controls.minDistance = 2; controls.maxDistance = 9;
-    controls.autoRotate = !reduce; controls.autoRotateSpeed = 0.6;
-    controls.addEventListener("start", () => { controls.autoRotate = false; });
-    D.partiti.forEach(p => {
-      const r = 0.07 + 0.09 * Math.sqrt(Math.max(p.n, 1) / maxN);
-      const mesh = new THREE.Mesh(new THREE.SphereGeometry(r, 24, 18), new THREE.MeshLambertMaterial({ color: p.colore, transparent: true }));
-      mesh.userData.id = p.id; mesh.userData.r = r;
-      const lab = label(p.sigla, css("--fg")); lab.position.y = r + 0.1; mesh.add(lab);
-      mesh.visible = false; scene.add(mesh);
-      nodes[p.id] = { mesh, lab, cur: new THREE.Vector3(), tgt: new THREE.Vector3(), on: false };
-    });
-    const geo = new THREE.BufferGeometry(); geo.setAttribute("position", new THREE.BufferAttribute(new Float32Array(6 * 80), 3));
-    lines = new THREE.LineSegments(geo, new THREE.LineBasicMaterial({ color: new THREE.Color(css("--muted")), transparent: true, opacity: 0.5 })); lines.frustumCulled = false; scene.add(lines);
-  }
-  function setScope() {
-    const mode = $("mmode").value;
-    const key = mode === "prova" ? null : $("marea").value;
-    $("marea").disabled = mode === "prova";
-    scope = mode === "prova" ? M.prova : M.testi[key];
-    $("mnota").textContent = mode === "prova"
-      ? "Dati di prova: la distanza misura quanto i partiti sono in disaccordo sulle sette questioni di esempio. Non ha valore reale."
-      : "Dati veri: la distanza misura quanto si somigliano parole e temi delle proposte di due partiti. Non misura se sono d'accordo: due partiti che parlano delle stesse cose possono volere cose opposte." + (key !== "tutte" ? " Compaiono solo i partiti con almeno 4 proposte su questo tema." : "");
-    if (selected && !scope.p.includes(selected)) selected = null;
-    if (ok) {
-      Object.entries(nodes).forEach(([id, n]) => {
-        const i = scope.p.indexOf(id); n.on = i >= 0;
-        if (i >= 0) { const [x, y, z] = scope.xyz[i]; n.tgt.set(x * 1.8, y * 1.8, z * 1.8); if (!n.mesh.visible) { n.cur.copy(n.tgt); } n.mesh.visible = true; }
-        else n.mesh.visible = false;
-      });
-      updateLines();
-    }
-    chips(); info();
-  }
+  /* elenco dei livelli (scala delle quote) */
+  const lev = $("mlev");
+  levels.forEach((l, i) => {
+    const b = el("button", { type: "button" }, el("b", { text: String(i).padStart(2, "0") }), el("span", { text: l.nome }));
+    const li = el("li", { class: l.prova ? "prova" : "" }, b);
+    b.addEventListener("click", () => setFocus(i, true)); l.btn = b; lev.append(li);
+  });
+  const chipsBox = $("mchips");
+  D.partiti.filter(p => p.n > 0).forEach(p => {
+    const b = el("button", { class: "chip", type: "button", "aria-pressed": "false" }, dotOf(p.id), p.nome);
+    b.addEventListener("click", () => select(p.id)); chipsBox.append(b); p.chip = b;
+  });
+
   function nearest(id, k) {
-    const i = scope.p.indexOf(id);
-    return scope.p.map((q, j) => [q, scope.d[i][j]]).filter(([q]) => q !== id).sort((a, b) => a[1] - b[1]).slice(0, k);
-  }
-  function updateLines() {
-    const pos = lines.geometry.attributes.position.array; let n = 0;
-    const add = (a, b) => { if (n >= 80) return; const A = nodes[a].tgt, B = nodes[b].tgt; pos.set([A.x, A.y, A.z, B.x, B.y, B.z], n * 6); n++; };
-    const seen = new Set();
-    scope.p.forEach(p => nearest(p, 1).forEach(([q]) => { const k = [p, q].sort().join("|"); if (!seen.has(k) && p !== selected) { seen.add(k); add(p, q); } }));
-    if (selected) nearest(selected, 4).forEach(([q]) => add(selected, q));
-    lines.geometry.setDrawRange(0, n * 2); lines.geometry.attributes.position.needsUpdate = true;
-    lines.material.opacity = selected ? 0.9 : 0.4;
-  }
-  function chips() {
-    const box = $("mchips"); box.replaceChildren();
-    scope.p.forEach(id => {
-      const b = el("button", { class: "chip", type: "button", "aria-pressed": String(id === selected) }, dotOf(id), P[id].nome);
-      b.addEventListener("click", () => select(id)); box.append(b);
-    });
+    const sc = levels[focus].scope, i = sc.p.indexOf(id);
+    if (i < 0) return [];
+    return sc.p.map((q, j) => [q, sc.d[i][j]]).filter(([q]) => q !== id).sort((a, b) => a[1] - b[1]).slice(0, k);
   }
   function info() {
     const box = $("minfo"); box.replaceChildren();
-    if (!selected) { box.append(el("h3", { text: "Tocca un partito" }), el("p", { class: "small", style: "margin:0", text: "Trascina per ruotare, scorri o pizzica per ingrandire. Ogni pallino è un partito, grande in proporzione alle proposte raccolte. Più due partiti sono vicini, più si somigliano." })); return; }
-    const p = P[selected], near = nearest(selected, 5), far = nearest(selected, 99).slice(-1)[0];
-    const dmax = Math.max(...scope.d.flat(), 0.01);
-    box.append(el("h2", {}, dotOf(selected), " " + p.nome), el("p", { class: "small", style: "margin:0", text: p.schieramento + " · " + p.n + " proposte raccolte" }),
-      el("h3", { text: "Più vicini" }));
+    const L = levels[focus];
+    box.append(el("h3", { text: "Livello " + String(focus).padStart(2, "0") + " · " + L.nome }));
+    if (L.prova) box.append(el("p", { class: "small", style: "margin:0", text: "Dati di prova: la distanza misura il disaccordo sulle sette questioni di esempio. Non ha valore reale." }));
+    if (!selected) { box.append(el("p", { class: "small", style: "margin:0", text: "Tocca un anello, o un partito qui sotto, per vedere i più vicini e seguire la sua linea attraverso i temi." })); return; }
+    const p = P[selected], pres = levels.filter(l => !l.prova && l.key !== "tutte" && selected in l.idx).length;
+    box.append(el("h2", {}, dotOf(selected), " " + p.nome), el("p", { class: "small", style: "margin:0", text: p.schieramento + " · " + p.n + " proposte · presente in " + pres + " temi su " + (levels.length - 2) }));
+    const near = nearest(selected, 5);
+    if (!near.length) { box.append(el("p", { class: "small", style: "margin:0", text: "Su questo livello il partito non compare (meno di 4 proposte sul tema)." })); return; }
+    const dmax = Math.max(...levels[focus].scope.d.flat(), 0.01);
     const g = el("div", { class: "near" });
     near.forEach(([q, d]) => g.append(el("span", {}, tag(q)), el("div", { class: "bar", style: `width:${Math.max(4, (1 - d / dmax) * 100)}%` }), el("span", { class: "small", text: d.toFixed(2) })));
-    box.append(g, el("p", { class: "small", style: "margin:0", text: "Il più lontano: " + P[far[0]].nome + " (" + far[1].toFixed(2) + "). Numeri bassi = più simili." }));
+    box.append(el("h3", { text: "Più vicini su questo livello" }), g, el("p", { class: "small", style: "margin:0", text: "Numeri bassi = più simili." }));
   }
-  function select(id) {
-    selected = selected === id ? null : id;
-    if (ok) updateLines();
-    chips(); info();
+  function paint() {
+    levels.forEach((l, i) => l.btn.setAttribute("aria-current", String(i === focus)));
+    D.partiti.forEach(p => p.chip && p.chip.setAttribute("aria-pressed", String(p.id === selected)));
+    info();
   }
-  function mapResize() {
-    if (!ok) return;
-    const r = canvas.parentElement.getBoundingClientRect();
-    if (!r.width) return;
-    renderer.setSize(r.width, r.height, false); renderer.setPixelRatio(Math.min(devicePixelRatio, 2));
+  let ok = typeof THREE !== "undefined" && THREE.OrbitControls, renderer;
+  if (ok) { try { renderer = new THREE.WebGLRenderer({ canvas, antialias: true }); renderer.setClearColor(new THREE.Color(css("--sheet")), 1); } catch (e) { ok = false; } }
+  if (!ok) {
+    msg.hidden = false; msg.textContent = "Il browser non riesce a mostrare la mappa 3D. Usa l'elenco dei livelli e dei partiti: il pannello mostra comunque i più vicini.";
+    window.setFocus = null;
+  }
+  function setFocus(i, move) { focus = i; if (ok) refocus(move); paint(); }
+  function select(id) { selected = selected === id ? null : id; if (ok) restyle(); paint(); }
+  paint();
+  if (!ok) { mapResize = null; $("mall").hidden = true; return; }
+
+  /* scena */
+  const reduce = matchMedia("(prefers-reduced-motion: reduce)").matches;
+  const scene = new THREE.Scene();
+  const camera = new THREE.PerspectiveCamera(38, 1, 0.1, 200);
+  const controls = new THREE.OrbitControls(camera, canvas);
+  controls.enableDamping = true; controls.enablePan = false; controls.minDistance = 5; controls.maxDistance = 46;
+  controls.autoRotate = !reduce; controls.autoRotateSpeed = 0.35;
+  controls.addEventListener("start", () => { controls.autoRotate = false; });
+  let tgtY = H / 2, dist = 1, first = true;
+  const col = { ink: new THREE.Color(), hair: new THREE.Color(), accent: new THREE.Color() };
+  const mats = { ink: new THREE.LineBasicMaterial({ transparent: true }), hair: new THREE.LineBasicMaterial({ transparent: true, opacity: 0.55 }), accentL: new THREE.LineBasicMaterial({ transparent: true }) };
+  function themeColors() {
+    const ink = css("--ink"), hair = css("--ink2"), acc = css("--accent");
+    col.ink.set(ink); col.hair.set(hair); col.accent.set(acc);
+    mats.ink.color.copy(col.ink); mats.hair.color.copy(col.hair); mats.accentL.color.copy(col.accent);
+  }
+  themeColors();
+
+  const planes = [], nodes = [], threads = {};
+  const square = (y, s) => [new THREE.Vector3(-s, y, -s), new THREE.Vector3(s, y, -s), new THREE.Vector3(s, y, s), new THREE.Vector3(-s, y, s)];
+  levels.forEach((l, i) => {
+    const grp = new THREE.Group();
+    const frame = new THREE.LineLoop(new THREE.BufferGeometry().setFromPoints(square(l.y, HALF)), mats.ink.clone());
+    const gp = [];
+    for (let k = -1; k <= 1; k++) { gp.push(new THREE.Vector3(k * HALF / 1.5 * 0.75, l.y, -HALF), new THREE.Vector3(k * HALF / 1.5 * 0.75, l.y, HALF), new THREE.Vector3(-HALF, l.y, k * HALF / 1.5 * 0.75), new THREE.Vector3(HALF, l.y, k * HALF / 1.5 * 0.75)); }
+    const grid = new THREE.LineSegments(new THREE.BufferGeometry().setFromPoints(gp), mats.hair.clone());
+    if (l.prova) { frame.material = new THREE.LineDashedMaterial({ dashSize: 0.18, gapSize: 0.12, transparent: true }); frame.computeLineDistances(); }
+    grp.add(frame, grid); scene.add(grp);
+    planes.push({ frame, grid, l });
+  });
+
+  /* nodi: anello piatto + disco di selezione; la terza dimensione dà un lieve scarto di quota */
+  const ringGeo = new THREE.RingGeometry(0.15, 0.2, 28), discGeo = new THREE.CircleGeometry(0.15, 28), hitGeo = new THREE.CircleGeometry(0.3, 12);
+  const hits = [];
+  levels.forEach((l, i) => l.scope.p.forEach((id, j) => {
+    const [x, y, z] = l.scope.xyz[j]; if (!P[id]) return;
+    const pos = new THREE.Vector3(x * HALF * 0.9, l.y + z * 0.1, y * HALF * 0.9);
+    const c = new THREE.Color(P[id].colore);
+    const ring = new THREE.Mesh(ringGeo, new THREE.MeshBasicMaterial({ color: c, transparent: true, side: THREE.DoubleSide }));
+    const disc = new THREE.Mesh(discGeo, new THREE.MeshBasicMaterial({ color: c, transparent: true, opacity: 0.3, side: THREE.DoubleSide }));
+    const hit = new THREE.Mesh(hitGeo, new THREE.MeshBasicMaterial({ visible: false, side: THREE.DoubleSide }));
+    [ring, disc, hit].forEach(m => { m.rotation.x = -Math.PI / 2; m.position.copy(pos); scene.add(m); });
+    hit.userData = { id, level: i }; hits.push(hit);
+    nodes.push({ id, level: i, pos, ring, disc });
+    l.pos = l.pos || {}; l.pos[id] = pos;
+  }));
+  /* fili verticali: lo stesso partito attraverso i livelli */
+  D.partiti.forEach(p => {
+    const pts = []; levels.forEach((l, i) => { if (l.pos && l.pos[p.id] && !l.prova) pts.push(l.pos[p.id]); });
+    if (pts.length < 2) return;
+    const line = new THREE.Line(new THREE.BufferGeometry().setFromPoints(pts), new THREE.LineBasicMaterial({ color: new THREE.Color(p.colore), transparent: true, opacity: 0.35 }));
+    const extra = [0.012, -0.012].map(o => new THREE.Line(new THREE.BufferGeometry().setFromPoints(pts.map(v => v.clone().add(new THREE.Vector3(o, 0, o)))), new THREE.LineBasicMaterial({ color: new THREE.Color(p.colore), transparent: true, opacity: 0 })));
+    scene.add(line); extra.forEach(e => scene.add(e)); threads[p.id] = { line, extra };
+  });
+  /* legami dal partito scelto ai suoi vicini sul livello a fuoco */
+  const bond = new THREE.LineSegments(new THREE.BufferGeometry(), mats.accentL); bond.frustumCulled = false; scene.add(bond);
+  /* etichette: solo livello a fuoco e filo del partito scelto */
+  const labels = new THREE.Group(); scene.add(labels);
+  const cache = {};
+  function sprite(text, strong) {
+    const key = text + "|" + css("--ink") + "|" + strong;
+    if (!cache[key]) {
+      const c = document.createElement("canvas"); c.width = 192; c.height = 56; const g = c.getContext("2d");
+      g.font = "700 34px 'Archivo Narrow', 'Arial Narrow', sans-serif"; g.textAlign = "center"; g.textBaseline = "middle";
+      g.lineWidth = 7; g.strokeStyle = css("--sheet"); g.strokeText(text, 96, 28); g.fillStyle = strong ? css("--accent") : css("--ink"); g.fillText(text, 96, 28);
+      cache[key] = new THREE.CanvasTexture(c);
+    }
+    const s = new THREE.Sprite(new THREE.SpriteMaterial({ map: cache[key], transparent: true, depthTest: false })); s.scale.set(0.9, 0.26, 1); s.renderOrder = 9; return s;
+  }
+  function relabel() {
+    labels.clear();
+    nodes.forEach(n => {
+      const show = n.level === focus || (selected && n.id === selected && !levels[n.level].prova);
+      if (!show) return;
+      const s = sprite(P[n.id].sigla, n.id === selected); s.position.set(n.pos.x, n.pos.y + 0.24, n.pos.z); labels.add(s);
+    });
+  }
+  function restyle() {
+    const near = selected ? nearest(selected, 4).map(q => q[0]) : [];
+    nodes.forEach(n => {
+      const here = n.level === focus, rel = !selected || n.id === selected || (here && near.includes(n.id));
+      const base = here ? 1 : 0.55;
+      n.ring.material.opacity = (selected && !rel ? 0.18 : base); n.disc.material.opacity = (selected && !rel ? 0.05 : here ? 0.35 : 0.12);
+      const sc = n.id === selected ? 1.35 : 1; n.ring.scale.setScalar(sc); n.disc.scale.setScalar(sc);
+    });
+    Object.entries(threads).forEach(([id, t]) => {
+      const on = id === selected;
+      t.line.material.opacity = selected ? (on ? 1 : 0.07) : 0.35; t.extra.forEach(e => { e.material.opacity = on ? 1 : 0; });
+    });
+    planes.forEach((pl, i) => {
+      const f = i === focus;
+      pl.frame.material.opacity = f ? 1 : 0.5; pl.grid.material.opacity = f ? 0.7 : 0.18;
+    });
+    const arr = [];
+    if (selected && levels[focus].pos && levels[focus].pos[selected]) nearest(selected, 4).forEach(([q]) => { const a = levels[focus].pos[selected], b = levels[focus].pos[q]; if (b) arr.push(a.x, a.y, a.z, b.x, b.y, b.z); });
+    bond.geometry.setAttribute("position", new THREE.Float32BufferAttribute(arr, 3)); bond.geometry.computeBoundingSphere();
+    relabel();
+  }
+  function refocus(move) { if (move) tgtY = levels[focus].y + 0.8; restyle(); }
+  window.__mapRefocus = refocus;
+  restyle();
+
+  mapResize = function () {
+    const r = canvas.parentElement.getBoundingClientRect(); if (!r.width) return;
+    renderer.setPixelRatio(Math.min(devicePixelRatio, 2)); renderer.setSize(r.width, r.height, false);
     camera.aspect = r.width / r.height; camera.updateProjectionMatrix();
-    if (!mapResize.done || (r.width / r.height < 1) !== mapResize.narrow) { camera.position.setLength(4.7 / Math.min(1, camera.aspect * 1.05)); mapResize.done = true; mapResize.narrow = r.width / r.height < 1; }
-  }
-  function recolor() {
-    if (!ok) return;
-    Object.values(nodes).forEach(n => { n.mesh.remove(n.lab); n.lab.material.map.dispose(); });
-    D.partiti.forEach(p => { const n = nodes[p.id]; n.lab = label(p.sigla, css("--fg")); n.lab.position.y = n.mesh.userData.r + 0.1; n.mesh.add(n.lab); });
-    lines.material.color = new THREE.Color(css("--muted"));
-    renderer.setClearColor(new THREE.Color(css("--surface")));
-  }
-  function loop() {
-    raf = requestAnimationFrame(loop);
+    const d = 26 / Math.min(1, Math.max(0.6, camera.aspect * 1.1));
+    if (first) { camera.position.set(d * 0.62, H / 2 + d * 0.34, d * 0.78); controls.target.set(0, H / 2, 0); first = false; }
+  };
+  window.__omb = { scene, camera, renderer, controls }; window.__mapResize = mapResize; mapResize(); new ResizeObserver(mapResize).observe(canvas.parentElement);
+  $("mall").addEventListener("click", () => { tgtY = H / 2; });
+
+  const ray = new THREE.Raycaster(), v2 = new THREE.Vector2(); let down = null;
+  canvas.addEventListener("pointerdown", e => { down = [e.clientX, e.clientY]; });
+  canvas.addEventListener("pointerup", e => {
+    if (!down || Math.hypot(e.clientX - down[0], e.clientY - down[1]) > 5) return;
+    const r = canvas.getBoundingClientRect(); v2.set(((e.clientX - r.left) / r.width) * 2 - 1, -((e.clientY - r.top) / r.height) * 2 + 1);
+    ray.setFromCamera(v2, camera);
+    const hit = ray.intersectObjects(hits)[0];
+    if (hit) { focus = hit.object.userData.level; selected = hit.object.userData.id; tgtY = levels[focus].y + 0.8; restyle(); paint(); }
+  });
+  function recolor() { themeColors(); renderer.setClearColor(new THREE.Color(css("--sheet")), 1); planes.forEach(pl => { if (!pl.l.prova) pl.frame.material.color.copy(col.ink); else pl.frame.material.color.copy(col.ink); pl.grid.material.color.copy(col.hair); }); bond.material.color.copy(col.accent); restyle(); }
+  recolor();
+  matchMedia("(prefers-color-scheme: dark)").addEventListener("change", () => setTimeout(recolor, 60));
+  new MutationObserver(() => setTimeout(recolor, 60)).observe(document.documentElement, { attributes: true, attributeFilter: ["data-theme"] });
+
+  (function loop() {
+    requestAnimationFrame(loop);
     if ($("v-map").hidden) return;
-    Object.values(nodes).forEach(n => { if (n.on) { n.cur.lerp(n.tgt, 0.12); n.mesh.position.copy(n.cur); } });
-    Object.entries(nodes).forEach(([id, n]) => {
-      const dim = selected && n.on && id !== selected && !nearest(selected, 4).some(([q]) => q === id);
-      n.mesh.material.opacity = dim ? 0.25 : 1; n.lab.material.opacity = dim ? 0.3 : 1;
-      const s = id === selected ? 1.35 : 1; n.mesh.scale.setScalar(n.mesh.scale.x + (s - n.mesh.scale.x) * 0.2);
-    });
-    if (lines) { const pos = lines.geometry.attributes.position.array; /* le linee seguono la posizione corrente */
-      let n = 0; const seen = new Set(); const set = (a, b) => { const A = nodes[a].cur, B = nodes[b].cur; pos.set([A.x, A.y, A.z, B.x, B.y, B.z], n * 6); n++; };
-      scope.p.forEach(p => nearest(p, 1).forEach(([q]) => { const k = [p, q].sort().join("|"); if (!seen.has(k) && p !== selected && n < 80) { seen.add(k); set(p, q); } }));
-      if (selected) nearest(selected, 4).forEach(([q]) => { if (n < 80) set(selected, q); });
-      lines.geometry.setDrawRange(0, n * 2); lines.geometry.attributes.position.needsUpdate = true; }
+    const dy = (tgtY - controls.target.y) * 0.1;
+    if (Math.abs(dy) > 0.0005) { controls.target.y += dy; camera.position.y += dy; }
     controls.update(); renderer.render(scene, camera);
-  }
-  if (ok) {
-    build(); mapResize();
-    new ResizeObserver(mapResize).observe(canvas.parentElement);
-    const ray = new THREE.Raycaster(), v = new THREE.Vector2(); let down = null;
-    canvas.addEventListener("pointerdown", e => { down = [e.clientX, e.clientY]; });
-    canvas.addEventListener("pointerup", e => {
-      if (!down || Math.hypot(e.clientX - down[0], e.clientY - down[1]) > 5) return;
-      const r = canvas.getBoundingClientRect(); v.set(((e.clientX - r.left) / r.width) * 2 - 1, -((e.clientY - r.top) / r.height) * 2 + 1);
-      ray.setFromCamera(v, camera);
-      const hit = ray.intersectObjects(Object.values(nodes).filter(n => n.on).map(n => n.mesh))[0];
-      if (hit) select(hit.object.userData.id);
-    });
-    matchMedia("(prefers-color-scheme: dark)").addEventListener("change", () => setTimeout(recolor, 50));
-  }
-  $("mmode").addEventListener("change", setScope); $("marea").addEventListener("change", setScope);
-  setScope();
-  if (ok) loop();
+  })();
 }
 
 /* scheda iniziale dall'ancora */
