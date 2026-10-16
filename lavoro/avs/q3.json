@@ -1,0 +1,155 @@
+[
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Introdurre una tassa europea sulle transazioni finanziarie su azioni, obbligazioni e derivati",
+"citazione": "Introdurre una tassa sulle transazioni finanziarie, che copra azioni, obbligazioni e derivati",
+"fonte": "ev-avs-programma-europee-2024",
+"data": "2024-05",
+"aree": [
+"fisco",
+"esteri-europa",
+"economia-imprese"
+],
+"sottotema": "Patrimoni, successioni ed extraprofitti",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "europeo"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Adottare un'imposta europea sui grandi patrimoni",
+"citazione": "Adottare un’imposta europea sui grandi patrimoni, sul modello di quanto proposto nell’Iniziativa dei Cittadini Europei “La grande ricchezza”.",
+"fonte": "ev-avs-programma-europee-2024",
+"data": "2024-05",
+"aree": [
+"fisco",
+"esteri-europa"
+],
+"sottotema": "Patrimoni, successioni ed extraprofitti",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "europeo"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Approvare una direttiva quadro per un reddito minimo europeo",
+"citazione": "Approvare una direttiva quadro per un reddito minimo europeo",
+"fonte": "ev-avs-programma-europee-2024",
+"data": "2024-05",
+"aree": [
+"welfare-inclusione",
+"esteri-europa"
+],
+"sottotema": "Povertà e reddito minimo",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "europeo"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Convocare una conferenza europea sul debito per mutualizzare via BCE la quota di debito oltre il 60% del PIL",
+"citazione": "Convocare una conferenza europea sul debito, con lo scopo di raggiungere un accordo per la ristrutturazione e la mutualizzazione da parte della BCE di quella parte del debito pubblico di tutte le economie dell’area",
+"fonte": "ev-avs-programma-europee-2024",
+"data": "2024-05",
+"aree": [
+"conti-pubblici",
+"esteri-europa"
+],
+"sottotema": "Debito e deficit",
+"concretezza": 4,
+"stato": "annunciata",
+"ambito": "europeo",
+"parametri": [
+{
+"cosa": "soglia di debito da mutualizzare",
+"valore": "parte eccedente il 60% del PIL"
+}
+]
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Consentire alle autorità locali di limitare piattaforme come Airbnb con un quadro normativo europeo",
+"citazione": "Adottare un quadro normativo europeo che consenta alle autorità locali di limitare realmente le attività di piattaforme come Airbnb",
+"fonte": "ev-avs-programma-europee-2024",
+"data": "2024-05",
+"aree": [
+"casa",
+"esteri-europa",
+"cultura-sport-turismo"
+],
+"sottotema": "Affitti e affitti brevi",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "europeo"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Vietare gli sfratti di famiglie vulnerabili senza una nuova sistemazione dignitosa",
+"citazione": "Garantire che nessuna persona o famiglia in situazione di vulnerabilità possa essere sfrattata o allontanata senza che l’amministrazione competente garantisca una nuova sistemazione in condizioni dignitose",
+"fonte": "ev-avs-programma-europee-2024",
+"data": "2024-05",
+"aree": [
+"casa",
+"welfare-inclusione"
+],
+"sottotema": "Sfratti e morosità",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "europeo"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Creare un'industria farmaceutica pubblica europea",
+"citazione": "Promuovere la creazione di una industria farmaceutica pubblica europea",
+"fonte": "ev-avs-programma-europee-2024",
+"data": "2024-05",
+"aree": [
+"sanita",
+"esteri-europa",
+"economia-imprese"
+],
+"sottotema": "Farmaci",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "europeo"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Trasformare la BCE in prestatore di ultima istanza verso le tesorerie nazionali",
+"citazione": "Trasformare la BCE in prestatore di ultima istanza, cosicché possa agire come finanziatore diretto delle tesorerie nazionali",
+"fonte": "ev-avs-programma-europee-2024",
+"data": "2024-05",
+"aree": [
+"conti-pubblici",
+"esteri-europa"
+],
+"sottotema": "Debito e deficit",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "europeo"
+}
+]

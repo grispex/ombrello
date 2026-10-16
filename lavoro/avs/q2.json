@@ -1,0 +1,275 @@
+[
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Istituire un Fondo europeo per investimenti ambientali e sociali da almeno 2.000 miliardi",
+"citazione": "Istituire un Fondo europeo per gli investimenti ambientali e sociali di",
+"fonte": "ev-avs-programma-europee-2024",
+"data": "2024-05",
+"aree": [
+"esteri-europa",
+"ambiente-animali",
+"conti-pubblici"
+],
+"sottotema": "Debito e deficit",
+"concretezza": 4,
+"stato": "annunciata",
+"ambito": "europeo",
+"parametri": [
+{
+"cosa": "dotazione del fondo",
+"valore": "almeno 2.000 miliardi di euro"
+}
+]
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Ridurre le emissioni UE di almeno il 65% entro il 2030 e raggiungere la neutralità climatica nel 2040",
+"citazione": "Costruire un ambizioso pacchetto legislativo “Fit for 1.5°C” che punti a ridurre le emissioni climalteranti di almeno il 65% entro il 2030",
+"fonte": "ev-avs-programma-europee-2024",
+"data": "2024-05",
+"aree": [
+"ambiente-animali",
+"esteri-europa"
+],
+"sottotema": "Clima ed emissioni",
+"concretezza": 4,
+"stato": "annunciata",
+"ambito": "europeo",
+"parametri": [
+{
+"cosa": "riduzione emissioni UE al 2030",
+"valore": "almeno -65%"
+},
+{
+"cosa": "neutralità climatica",
+"valore": "2040"
+}
+]
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Escludere nucleare e cattura della CO2 dal Net Zero Industry Act",
+"citazione": "Escludere il nucleare e la cattura e lo stoccaggio dell’anidride carbonica dalle tecnologie strategiche",
+"fonte": "ev-avs-programma-europee-2024",
+"data": "2024-05",
+"aree": [
+"energia",
+"esteri-europa"
+],
+"sottotema": "Nucleare",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "europeo"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Cessare l'uso del carbone entro il 2030 e di petrolio e gas tra il 2035 e il 2040",
+"citazione": "un piano dettagliato per cessare l’uso di carbone entro il 2030 e di petrolio e gas tra il 2035 e il 2040",
+"fonte": "ev-avs-programma-europee-2024",
+"data": "2024-05",
+"aree": [
+"energia",
+"ambiente-animali"
+],
+"sottotema": "Gas e approvvigionamento",
+"concretezza": 4,
+"stato": "annunciata",
+"ambito": "europeo",
+"parametri": [
+{
+"cosa": "stop carbone",
+"valore": "2030"
+},
+{
+"cosa": "stop petrolio e gas",
+"valore": "2035-2040"
+}
+]
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Collocare gas e nucleare nella categoria rossa della tassonomia UE",
+"citazione": "Introdurre, nella Tassonomia dell’UE, un sistema a semaforo",
+"fonte": "ev-avs-programma-europee-2024",
+"data": "2024-05",
+"aree": [
+"energia",
+"esteri-europa"
+],
+"sottotema": "Nucleare",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "europeo"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Abolire completamente i sussidi ambientalmente dannosi entro il 2030",
+"citazione": "Eliminare gradualmente i Sussidi Ambientalmente Dannosi (SAD) per abolirli completamente entro il 2030.",
+"fonte": "ev-avs-programma-europee-2024",
+"data": "2024-05",
+"aree": [
+"ambiente-animali",
+"fisco"
+],
+"sottotema": "Clima ed emissioni",
+"concretezza": 4,
+"stato": "annunciata",
+"ambito": "europeo",
+"parametri": [
+{
+"cosa": "abolizione SAD",
+"valore": "entro il 2030"
+}
+],
+"note": "Nel 2022 AVS indicava il 2025 per i sussidi fossili (vedi voce del programma politiche 2022)."
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Introdurre un tetto europeo al prezzo di gas ed elettricità finanziato da un'imposta UE sugli extraprofitti energetici",
+"citazione": "Introdurre un tetto europeo annuale al prezzo del gas e dell’elettricità",
+"fonte": "ev-avs-programma-europee-2024",
+"data": "2024-05",
+"aree": [
+"energia",
+"esteri-europa",
+"fisco"
+],
+"sottotema": "Bollette e prezzi",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "europeo"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Adottare una carbon tax sulle aziende non conformi agli standard ambientali, anche sui prodotti extra UE",
+"citazione": "Adottare una Carbon Tax, ovvero un’imposta sulle aziende che non rispettano gli standard ambientali, anche per i prodotti extra UE",
+"fonte": "ev-avs-programma-europee-2024",
+"data": "2024-05",
+"aree": [
+"fisco",
+"ambiente-animali",
+"esteri-europa"
+],
+"sottotema": "Tasse sulle imprese",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "europeo"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Prevedere la gratuità del trasporto pubblico urbano per under 30 e over 65",
+"citazione": "previsione di gratuità per il pubblico gratuito Under 30 e Over 65",
+"fonte": "ev-avs-programma-europee-2024",
+"data": "2024-05",
+"aree": [
+"infrastrutture-trasporti"
+],
+"sottotema": "Trasporto pubblico locale",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "europeo",
+"destinatari": [
+"giovani",
+"anziani"
+]
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Introdurre un biglietto climatico europeo a basso costo",
+"citazione": "Introdurre il “biglietto climatico” ad un costo basso e adattato alle condizioni economiche di ciascun Paese dell’UE.",
+"fonte": "ev-avs-programma-europee-2024",
+"data": "2024-05",
+"aree": [
+"infrastrutture-trasporti",
+"esteri-europa"
+],
+"sottotema": "Ferrovie e alta velocità",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "europeo"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Eliminare i jet privati, vietare i voli brevi con alternative e tassare i frequent flyer",
+"citazione": "Eliminare i jet privati, con divieto di voli a corto raggio dove esistono alternative sostenibili e introdurre una tassa per i frequent flyer",
+"fonte": "ev-avs-programma-europee-2024",
+"data": "2024-05",
+"aree": [
+"infrastrutture-trasporti",
+"ambiente-animali",
+"fisco"
+],
+"sottotema": "Porti e aeroporti",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "europeo"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Tassare il carburante per l'aviazione",
+"citazione": "Introdurre una tassazione sul carburante per l’aviazione.",
+"fonte": "ev-avs-programma-europee-2024",
+"data": "2024-05",
+"aree": [
+"fisco",
+"infrastrutture-trasporti"
+],
+"sottotema": "Porti e aeroporti",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "europeo"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Introdurre un obbligo progressivo di trasporto delle merci su ferro",
+"citazione": "Introdurre un progressivo obbligo di trasporto delle merci su ferro",
+"fonte": "ev-avs-programma-europee-2024",
+"data": "2024-05",
+"aree": [
+"infrastrutture-trasporti"
+],
+"sottotema": "Ferrovie e alta velocità",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "europeo"
+}
+]

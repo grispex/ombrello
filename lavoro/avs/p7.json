@@ -1,0 +1,417 @@
+[
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Assumere psicologi e specialisti di salute mentale nei servizi pubblici territoriali e istituire la psicologia scolastica",
+"citazione": "Prevedere l’assunzione straordinaria di psicologi e specialisti della salute mentale nei sistemi sanitari pubblici territoriali",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"sanita",
+"istruzione-universita-ricerca"
+],
+"sottotema": "Salute mentale",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Istituire la guardia psichiatrica h24 e ambulatori per adolescenti",
+"citazione": "favorire l’istituzione di guardia psichiatrica H24 e ambulatori per adolescenti",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"sanita"
+],
+"sottotema": "Salute mentale",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale",
+"destinatari": [
+"giovani"
+]
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Approvare in via definitiva la tutela dello sport in Costituzione",
+"citazione": "Approvazione definitiva del “disegno di legge sulla tutela dello sport nella Costituzione”",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"cultura-sport-turismo",
+"istituzioni-riforme"
+],
+"sottotema": "Sport di base",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Realizzare un programma nazionale per l'accessibilità degli impianti sportivi",
+"citazione": "Realizzazione di un programma nazionale per “l’accessibilità” degli impianti sportivi.",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"cultura-sport-turismo",
+"welfare-inclusione"
+],
+"sottotema": "Sport di base",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Creare un Ministero del Terzo Settore e ricostituire l'Agenzia per il Terzo settore",
+"citazione": "Creazione del Ministero del Terzo Settore",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"welfare-inclusione",
+"pubblica-amministrazione"
+],
+"sottotema": "Terzo settore",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Escludere gli enti del Terzo settore dall'IRAP",
+"citazione": "Previsione di regimi di esclusione IRAP per gli ETS",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"welfare-inclusione",
+"fisco"
+],
+"sottotema": "Terzo settore",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Aumentare i fondi ai Centri di servizio per il volontariato",
+"citazione": "Aumento delle dotazioni finanziarie a favore dei CSV",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"welfare-inclusione"
+],
+"sottotema": "Terzo settore",
+"concretezza": 2,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Semplificare gli accordi di co-progettazione tra enti del Terzo settore ed enti pubblici",
+"citazione": "semplificazione della procedura amministrativa per la costituzione di accordi di co-progettazione tra ETS ed enti pubblici",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"welfare-inclusione",
+"pubblica-amministrazione"
+],
+"sottotema": "Terzo settore",
+"concretezza": 2,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Facilitare la confisca dei beni mafiosi e il loro riutilizzo a fini sociali",
+"citazione": "Sosteniamo la confisca dei beni della criminalità organizzata, che riteniamo debba essere ulteriormente facilitata",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"sicurezza",
+"giustizia"
+],
+"sottotema": "Criminalità organizzata",
+"concretezza": 2,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Approvare leggi contro agromafie e saccheggio del patrimonio culturale",
+"citazione": "Approvare delle leggi contro agromafie e saccheggio del patrimonio culturale, archeologico e artistico",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"sicurezza",
+"agricoltura-pesca",
+"cultura-sport-turismo"
+],
+"sottotema": "Criminalità organizzata",
+"concretezza": 2,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Istituire in ogni Regione commissioni d'inchiesta su ecomafia e ambiente",
+"citazione": "Istituire, in ogni Regione, Commissioni di inchiesta su ecomafia e ambiente",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"sicurezza",
+"ambiente-animali",
+"istituzioni-riforme"
+],
+"sottotema": "Criminalità organizzata",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Aumentare pene e prescrizione dei reati ambientali",
+"citazione": "Aumentare le pene dei reati ambientali e il periodo della prescrizione",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"giustizia",
+"ambiente-animali"
+],
+"sottotema": "Prescrizione",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Escludere i delitti ambientali e l'incendio boschivo dall'improcedibilità",
+"citazione": "Inserire i delitti ambientali previsti dal titolo VI-bis del Codice Penale e il delitto di incendio boschivo tra quelli per cui non scatta l’improcedibilità",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"giustizia",
+"ambiente-animali"
+],
+"sottotema": "Prescrizione",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Istituire un'anagrafe pubblica dei rifiuti e tracciarli via GPS",
+"citazione": "Istituire un’Anagrafe pubblica dei rifiuti urbani speciali;",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"ambiente-animali",
+"sicurezza"
+],
+"sottotema": "Rifiuti ed economia circolare",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Potenziare il personale dei NOE e delle guardie forestali",
+"citazione": "Potenziare il personale di NOE e Guardie Forestali",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"sicurezza",
+"ambiente-animali"
+],
+"sottotema": "Forze dell'ordine",
+"concretezza": 2,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Cambiare la legge sulle droghe verso la legalizzazione delle droghe leggere",
+"citazione": "Va del tutto cambiata la legge sulle droghe, con i suoi eccessi repressivi.",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"sicurezza",
+"giustizia",
+"diritti-liberta"
+],
+"sottotema": "Droghe",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Ridurre l'uso della custodia cautelare e potenziare le misure alternative alla detenzione",
+"citazione": "Va ridotto l’uso della custodia cautelare che produce circa un terzo della",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"giustizia"
+],
+"sottotema": "Carceri",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Adottare un nuovo regolamento penitenziario con più contatti con i familiari e meno isolamento",
+"citazione": "Va adottato un nuovo regolamento penitenziario che preveda più possibilità di contatti telefonici e visivi",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"giustizia"
+],
+"sottotema": "Carceri",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Vietare i taser e limitare i Daspo urbani",
+"citazione": "Vanno vietati i taser, armi potenzialmente letali.",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"sicurezza"
+],
+"sottotema": "Forze dell'ordine",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Approvare una legge per fermare il consumo di suolo e destinare più fondi PNRR alla difesa dal dissesto",
+"citazione": "Una legge per fermare il consumo di suolo.",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"ambiente-animali",
+"agricoltura-pesca"
+],
+"sottotema": "Dissesto idrogeologico",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Rivedere il Piano strategico nazionale della PAC per una conversione ecologica dell'agricoltura",
+"citazione": "misure che devono tradursi nella revisione del Piano Strategico Nazionale per avviare una profonda e radicale conversione ecologica dell’agricoltura",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"agricoltura-pesca",
+"ambiente-animali"
+],
+"sottotema": "Reddito agricolo e PAC",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Istituire una cabina di regia nazionale per l'emergenza idrica e la ricarica controllata delle falde",
+"citazione": "istituire una cabina di regia nazionale per l’emergenza idrica",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"agricoltura-pesca",
+"ambiente-animali"
+],
+"sottotema": "Acqua e irrigazione",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Introdurre la Patente del Cibo a garanzia di diritti dei lavoratori, ambiente e consumatori",
+"citazione": "Proponiamo l’introduzione della Patente del Cibo",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"agricoltura-pesca",
+"lavoro"
+],
+"sottotema": "Filiere e agroalimentare",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+}
+]

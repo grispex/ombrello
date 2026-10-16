@@ -1,0 +1,12 @@
+from build import build
+I=[
+("E24","Introdurre una tassa sulle transazioni finanziarie, che copra azioni, obbligazioni e derivati","Introdurre una tassa europea sulle transazioni finanziarie su azioni, obbligazioni e derivati","fisco esteri-europa economia-imprese","Patrimoni, successioni ed extraprofitti",3),
+("E24","Adottare un’imposta europea sui grandi patrimoni, sul modello di quanto proposto nell’Iniziativa dei Cittadini Europei “La grande ricchezza”.","Adottare un'imposta europea sui grandi patrimoni","fisco esteri-europa","Patrimoni, successioni ed extraprofitti",3),
+("E24","Approvare una direttiva quadro per un reddito minimo europeo","Approvare una direttiva quadro per un reddito minimo europeo","welfare-inclusione esteri-europa","Povertà e reddito minimo",3),
+("E24","Convocare una conferenza europea sul debito, con lo scopo di raggiungere un accordo per la ristrutturazione e la mutualizzazione da parte della BCE di quella parte del debito pubblico di tutte le economie dell’area","Convocare una conferenza europea sul debito per mutualizzare via BCE la quota di debito oltre il 60% del PIL","conti-pubblici esteri-europa","Debito e deficit",4,{"parametri":[{"cosa":"soglia di debito da mutualizzare","valore":"parte eccedente il 60% del PIL"}]}),
+("E24","Adottare un quadro normativo europeo che consenta alle autorità locali di limitare realmente le attività di piattaforme come Airbnb","Consentire alle autorità locali di limitare piattaforme come Airbnb con un quadro normativo europeo","casa esteri-europa cultura-sport-turismo","Affitti e affitti brevi",3),
+("E24","Garantire che nessuna persona o famiglia in situazione di vulnerabilità possa essere sfrattata o allontanata senza che l’amministrazione competente garantisca una nuova sistemazione in condizioni dignitose","Vietare gli sfratti di famiglie vulnerabili senza una nuova sistemazione dignitosa","casa welfare-inclusione","Sfratti e morosità",3),
+("E24","Promuovere la creazione di una industria farmaceutica pubblica europea","Creare un'industria farmaceutica pubblica europea","sanita esteri-europa economia-imprese","Farmaci",3),
+("E24","Trasformare la BCE in prestatore di ultima istanza, cosicché possa agire come finanziatore diretto delle tesorerie nazionali","Trasformare la BCE in prestatore di ultima istanza verso le tesorerie nazionali","conti-pubblici esteri-europa","Debito e deficit",3),
+]
+build(I,'q3.json')

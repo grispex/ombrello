@@ -1,0 +1,525 @@
+[
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Obbligare chi abbandona uno stabilimento a cederlo o a versare una sanzione pari al 5% del fatturato quinquennale",
+"citazione": "si debba introdurre l’obbligo di assicurare la continuità produttiva attraverso la cessione preventiva dello stabilimento, o in alternativa di versare una sanzione pari al 5% del fatturato degli ultimi 5 anni",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"economia-imprese",
+"lavoro"
+],
+"sottotema": "Politica industriale",
+"concretezza": 4,
+"stato": "annunciata",
+"ambito": "nazionale",
+"parametri": [
+{
+"cosa": "sanzione",
+"valore": "5% del fatturato degli ultimi 5 anni"
+}
+]
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Sostenere la riconversione delle imprese di abbigliamento che usano produzioni animali",
+"citazione": "il sostegno alle imprese dell’abbigliamento per la riconversione delle produzioni animali",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"ambiente-animali",
+"economia-imprese"
+],
+"sottotema": "Tutela degli animali",
+"concretezza": 2,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Attuare il superamento degli animali nei circhi e negli spettacoli viaggianti, esteso ai delfinari",
+"citazione": "attuazione della Legge-delega approvata dal Parlamento nel luglio scorso per il superamento dell’uso degli animali in circhi e spettacoli viaggianti",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"ambiente-animali",
+"cultura-sport-turismo"
+],
+"sottotema": "Tutela degli animali",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Introdurre una moratoria sui nuovi allevamenti intensivi e sull'ampliamento di quelli esistenti",
+"citazione": "moratoria sull’apertura di nuovi allevamenti intensivi e sull’ampliamento di quelli esistenti",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"ambiente-animali",
+"agricoltura-pesca"
+],
+"sottotema": "Tutela degli animali",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Realizzare un programma nazionale di riduzione degli animali allevati",
+"citazione": "realizzazione, come nei Paesi Bassi, di un programma di riduzione degli animali allevati",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"ambiente-animali",
+"agricoltura-pesca"
+],
+"sottotema": "Tutela degli animali",
+"concretezza": 2,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Incentivare la transizione anticipata ad allevamenti senza gabbie",
+"citazione": "misure che incentivino una transizione anticipata a sistemi di allevamento senza gabbie",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"ambiente-animali",
+"agricoltura-pesca"
+],
+"sottotema": "Tutela degli animali",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Rendere obbligatorio lo stordimento preventivo in tutte le macellazioni",
+"citazione": "introduzione dello stordimento preventivo obbligatorio in tutti i tipi di macellazioni",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"ambiente-animali",
+"agricoltura-pesca"
+],
+"sottotema": "Tutela degli animali",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Destinare il 50% dei fondi pubblici per la ricerca a metodi sostitutivi alla sperimentazione animale",
+"citazione": "investimenti nella prevenzione delle malattie e nella ricerca scientifica “human based” con la destinazione del 50% del totale dei fondi pubblici previsti allo scopo",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"ambiente-animali",
+"istruzione-universita-ricerca"
+],
+"sottotema": "Tutela degli animali",
+"concretezza": 4,
+"stato": "annunciata",
+"ambito": "nazionale",
+"parametri": [
+{
+"cosa": "quota fondi pubblici ricerca human based",
+"valore": "50%"
+}
+]
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Bloccare l'articolo 6 del Decreto Concorrenza e rivedere le cartolarizzazioni che mettono in vendita i beni demaniali",
+"citazione": "Per questo proponiamo che venga bloccato l’articolo 6 del “Decreto Concorrenza”",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"cultura-sport-turismo",
+"economia-imprese"
+],
+"sottotema": "Patrimonio culturale",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Inserire i centri storici tra le aree tutelate per legge dell'art. 142 del Codice dei beni culturali",
+"citazione": "Il centro storico, elemento essenziale del nostro patrimonio storico e artistico deve entrare di diritto nelle aree tutelate per legge dell’art. 142 del Codice dei BBCC",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"cultura-sport-turismo",
+"casa"
+],
+"sottotema": "Patrimonio culturale",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Dare piena attuazione all'art. 9 della Costituzione contro il cemento e il consumo di suolo",
+"citazione": "proteggendo il paesaggio ed i suoi elementi costitutivi, dal cemento e dall’asfalto e dall’inutile consumo di suolo",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"ambiente-animali",
+"agricoltura-pesca"
+],
+"sottotema": "Inquinamento",
+"concretezza": 2,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Destinare a verde e boschi urbani le superfici inedificate nelle città",
+"citazione": "destinando a verde e boschi urbani le superfici ancora inedificate nelle città, definendone i confini con cinture boscate",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"ambiente-animali",
+"casa"
+],
+"sottotema": "Clima ed emissioni",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Ampliare le reti di piste ciclabili e le aree pedonali",
+"citazione": "la rete di piste ciclabili vanno allargate",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"infrastrutture-trasporti",
+"ambiente-animali"
+],
+"sottotema": "Trasporto pubblico locale",
+"concretezza": 2,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Varare piani decentrati di autonomia energetica rinnovabile con rottamazione di caldaie e stufe inquinanti",
+"citazione": "Piani decentrati per l’autonomia energetica da fonti rinnovabili, con rottamazione di caldaie e stufe inquinanti",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"energia",
+"ambiente-animali"
+],
+"sottotema": "Inquinamento",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Creare un fondo pubblico per acquisire a prezzo NPL gli immobili a garanzia di crediti deteriorati e destinarli a edilizia pubblica",
+"citazione": "si crei un fondo per l’acquisizione degli immobili posti a garanzia di crediti deteriorati nel sistema bancario, al prezzo di cessione di questa categoria di NPL",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"casa",
+"economia-imprese"
+],
+"sottotema": "Edilizia pubblica",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Stanziare risorse agli enti locali per ripristinare ed efficientare le case popolari",
+"citazione": "importanti risorse aggiuntive vengano messe a disposizione degli enti locali, per l’adeguamento e il ripristino dell’attuale dotazione di case popolari",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"casa",
+"energia"
+],
+"sottotema": "Edilizia pubblica",
+"concretezza": 2,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Rifinanziare i fondi contro gli sfratti per morosità incolpevole e abolire l'art. 5 del decreto Lupi",
+"citazione": "Vanno poi rifinanziati i fondi destinati a contestare gli sfratti per morosità involontaria, e abolito l’art. 5 del decreto Lupi.",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"casa",
+"welfare-inclusione"
+],
+"sottotema": "Sfratti e morosità",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Consentire ai Comuni di fissare un tetto ai posti letto per affitti brevi, comunque non oltre il 20% dei residenti",
+"citazione": "ai Comuni sia data la facoltà di individuare la soglia massima di posti letto destinabili ad affitti brevi, comunque con un limite massimo pari al 20% della popolazione residente",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"casa",
+"cultura-sport-turismo"
+],
+"sottotema": "Affitti e affitti brevi",
+"concretezza": 4,
+"stato": "annunciata",
+"ambito": "nazionale",
+"parametri": [
+{
+"cosa": "limite posti letto per affitti brevi",
+"valore": "20% della popolazione residente"
+}
+]
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Richiedere una licenza comunale per gli affitti brevi, con rotazione ogni cinque anni",
+"citazione": "i locatari debbano essere in possesso di una licenza comunale, con rotazione ogni 5 anni tra i richiedenti",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"casa",
+"cultura-sport-turismo"
+],
+"sottotema": "Affitti e affitti brevi",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Interrompere l'invio di armi in Ucraina e rilanciare il negoziato diplomatico con cessate il fuoco",
+"citazione": "Va interrotto subito l’invio di armi in Ucraina e riaperta la strada del confronto diplomatico",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"esteri-europa",
+"difesa"
+],
+"sottotema": "Ucraina e Russia",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Istituire il dipartimento della Difesa civile non armata e nonviolenta",
+"citazione": "Istituzione del dipartimento della Difesa Civile Non-armata e Nonviolenta",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"difesa",
+"welfare-inclusione"
+],
+"sottotema": "Missioni internazionali",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Aderire come osservatore al Trattato per la proibizione delle armi nucleari",
+"citazione": "Mozione per l’adesione dell’Italia al Trattato per la Proibizione delle Armi Nucleari (TPNW), come stato osservatore",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"difesa",
+"esteri-europa"
+],
+"sottotema": "Spesa militare e obiettivi NATO",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Introdurre una moratoria sulle spese aggiuntive per nuovi armamenti",
+"citazione": "Presentare una proposta per la moratoria delle spese aggiuntive previste dal Ministero della Difesa per le nuove spese d’arma",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"difesa",
+"conti-pubblici"
+],
+"sottotema": "Spesa militare e obiettivi NATO",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Istituire per legge i Corpi civili di pace",
+"citazione": "Legge quadro istitutiva dei Corpi Civili di Pace.",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"difesa",
+"esteri-europa"
+],
+"sottotema": "Missioni internazionali",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Rendere stabile e aperto a tutti il Servizio civile universale",
+"citazione": "Rendere stabile, operativo ed aperto a tutto il Servizio Civile Universale",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"welfare-inclusione",
+"difesa"
+],
+"sottotema": "Servizio civile",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Introdurre l'obiezione fiscale alle spese militari",
+"citazione": "Possibilità di obiezione alle spese militari",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"difesa",
+"fisco"
+],
+"sottotema": "Spesa militare e obiettivi NATO",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Varare un piano di riconversione dell'industria bellica italiana",
+"citazione": "Piano di riconversione per l’industria bellica italiana",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"difesa",
+"economia-imprese"
+],
+"sottotema": "Industria della difesa",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Riconoscere l'ecocidio come quinto crimine internazionale",
+"citazione": "Trasformare l’ecocidio nel quinto reato internazionale soggetto al Tribunale dell’AIA.",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"ambiente-animali",
+"esteri-europa",
+"giustizia"
+],
+"sottotema": "Clima ed emissioni",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+}
+]

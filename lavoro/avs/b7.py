@@ -1,0 +1,27 @@
+from build import build
+I=[
+("P22","Prevedere l’assunzione straordinaria di psicologi e specialisti della salute mentale nei sistemi sanitari pubblici territoriali","Assumere psicologi e specialisti di salute mentale nei servizi pubblici territoriali e istituire la psicologia scolastica","sanita istruzione-universita-ricerca","Salute mentale",3),
+("P22","favorire l’istituzione di guardia psichiatrica H24 e ambulatori per adolescenti","Istituire la guardia psichiatrica h24 e ambulatori per adolescenti","sanita","Salute mentale",3,{"destinatari":["giovani"]}),
+("P22","Approvazione definitiva del “disegno di legge sulla tutela dello sport nella Costituzione”","Approvare in via definitiva la tutela dello sport in Costituzione","cultura-sport-turismo istituzioni-riforme","Sport di base",3),
+("P22","Realizzazione di un programma nazionale per “l’accessibilità” degli impianti sportivi.","Realizzare un programma nazionale per l'accessibilità degli impianti sportivi","cultura-sport-turismo welfare-inclusione","Sport di base",3),
+("P22","Creazione del Ministero del Terzo Settore","Creare un Ministero del Terzo Settore e ricostituire l'Agenzia per il Terzo settore","welfare-inclusione pubblica-amministrazione","Terzo settore",3),
+("P22","Previsione di regimi di esclusione IRAP per gli ETS","Escludere gli enti del Terzo settore dall'IRAP","welfare-inclusione fisco","Terzo settore",3),
+("P22","Aumento delle dotazioni finanziarie a favore dei CSV","Aumentare i fondi ai Centri di servizio per il volontariato","welfare-inclusione","Terzo settore",2),
+("P22","semplificazione della procedura amministrativa per la costituzione di accordi di co-progettazione tra ETS ed enti pubblici","Semplificare gli accordi di co-progettazione tra enti del Terzo settore ed enti pubblici","welfare-inclusione pubblica-amministrazione","Terzo settore",2),
+("P22","Sosteniamo la confisca dei beni della criminalità organizzata, che riteniamo debba essere ulteriormente facilitata","Facilitare la confisca dei beni mafiosi e il loro riutilizzo a fini sociali","sicurezza giustizia","Criminalità organizzata",2),
+("P22","Approvare delle leggi contro agromafie e saccheggio del patrimonio culturale, archeologico e artistico","Approvare leggi contro agromafie e saccheggio del patrimonio culturale","sicurezza agricoltura-pesca cultura-sport-turismo","Criminalità organizzata",2),
+("P22","Istituire, in ogni Regione, Commissioni di inchiesta su ecomafia e ambiente","Istituire in ogni Regione commissioni d'inchiesta su ecomafia e ambiente","sicurezza ambiente-animali istituzioni-riforme","Criminalità organizzata",3),
+("P22","Aumentare le pene dei reati ambientali e il periodo della prescrizione","Aumentare pene e prescrizione dei reati ambientali","giustizia ambiente-animali","Prescrizione",3),
+("P22","Inserire i delitti ambientali previsti dal titolo VI-bis del Codice Penale e il delitto di incendio boschivo tra quelli per cui non scatta l’improcedibilità","Escludere i delitti ambientali e l'incendio boschivo dall'improcedibilità","giustizia ambiente-animali","Prescrizione",3),
+("P22","Istituire un’Anagrafe pubblica dei rifiuti urbani speciali;","Istituire un'anagrafe pubblica dei rifiuti e tracciarli via GPS","ambiente-animali sicurezza","Rifiuti ed economia circolare",3),
+("P22","Potenziare il personale di NOE e Guardie Forestali","Potenziare il personale dei NOE e delle guardie forestali","sicurezza ambiente-animali","Forze dell'ordine",2),
+("P22","Va del tutto cambiata la legge sulle droghe, con i suoi eccessi repressivi.","Cambiare la legge sulle droghe verso la legalizzazione delle droghe leggere","sicurezza giustizia diritti-liberta","Droghe",3),
+("P22","Va ridotto l’uso della custodia cautelare che produce circa un terzo della","Ridurre l'uso della custodia cautelare e potenziare le misure alternative alla detenzione","giustizia","Carceri",3),
+("P22","Va adottato un nuovo regolamento penitenziario che preveda più possibilità di contatti telefonici e visivi","Adottare un nuovo regolamento penitenziario con più contatti con i familiari e meno isolamento","giustizia","Carceri",3),
+("P22","Vanno vietati i taser, armi potenzialmente letali.","Vietare i taser e limitare i Daspo urbani","sicurezza","Forze dell'ordine",3),
+("P22","Una legge per fermare il consumo di suolo.","Approvare una legge per fermare il consumo di suolo e destinare più fondi PNRR alla difesa dal dissesto","ambiente-animali agricoltura-pesca","Dissesto idrogeologico",3),
+("P22","misure che devono tradursi nella revisione del Piano Strategico Nazionale per avviare una profonda e radicale conversione ecologica dell’agricoltura","Rivedere il Piano strategico nazionale della PAC per una conversione ecologica dell'agricoltura","agricoltura-pesca ambiente-animali","Reddito agricolo e PAC",3),
+("P22","istituire una cabina di regia nazionale per l’emergenza idrica","Istituire una cabina di regia nazionale per l'emergenza idrica e la ricarica controllata delle falde","agricoltura-pesca ambiente-animali","Acqua e irrigazione",3),
+("P22","Proponiamo l’introduzione della Patente del Cibo","Introdurre la Patente del Cibo a garanzia di diritti dei lavoratori, ambiente e consumatori","agricoltura-pesca lavoro","Filiere e agroalimentare",3),
+]
+build(I,'p7.json')

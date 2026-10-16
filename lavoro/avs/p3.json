@@ -1,0 +1,594 @@
+[
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Adottare un piano straordinario per l'occupazione femminile e misure per le imprese femminili",
+"citazione": "piano straordinario per l’occupazione femminile e politiche e misure efficaci per le imprese femminili",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"lavoro",
+"diritti-liberta",
+"economia-imprese"
+],
+"sottotema": "Occupazione giovanile e femminile",
+"concretezza": 2,
+"stato": "annunciata",
+"ambito": "nazionale",
+"destinatari": [
+"donne"
+]
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Rendere gli asili nido pubblici e gratuiti e disponibili in tutto il Paese con le risorse del PNRR",
+"citazione": "un piano, a partire dalle risorse del [...] PNRR, per rendere gli asili nido pubblici e gratuiti un servizio essenziale e disponibile sull’intero territorio nazionale",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"famiglia-natalita",
+"conti-pubblici"
+],
+"sottotema": "Asili nido",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale",
+"destinatari": [
+"famiglie"
+]
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Introdurre un equo compenso generalizzato per i lavoratori autonomi",
+"citazione": "un equo compenso generalizzato e proporzionato alla quantità e alla qualità del lavoro svolto",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"lavoro",
+"economia-imprese"
+],
+"sottotema": "Contratti e precarietà",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Prevedere tutele per i lavoratori autonomi in caso di maternità, inattività, invalidità o infortunio",
+"citazione": "la previsione di tutele in caso di maternità, inattività, cessazione temporanea, invalidità o infortunio",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"lavoro",
+"welfare-inclusione"
+],
+"sottotema": "Contratti e precarietà",
+"concretezza": 2,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Non attuare l'autonomia differenziata",
+"citazione": "no all’autonomia differenziata, come chiede un movimento esteso di sindaci e amministratori",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"istituzioni-riforme"
+],
+"sottotema": "Autonomia differenziata",
+"concretezza": 2,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Cumulare tutte le fonti di reddito in un'unica imposta progressiva",
+"citazione": "tutte le fonti di reddito debbano essere cumulate e tassate alla stessa maniera, con un’imposta unica e progressiva",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"fisco"
+],
+"sottotema": "IRPEF e aliquote",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Alzare a 12.000 euro la no tax area e applicare un'aliquota mobile crescente fino al 65% oltre 10 milioni",
+"citazione": "alzare a 12.000 euro la quota di reddito esente da imposte, per poi applicare un’aliquota mobile crescente sul modello tedesco, che arrivi al 65% per i redditi superiori ai 10 milioni di euro",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"fisco"
+],
+"sottotema": "IRPEF e aliquote",
+"concretezza": 4,
+"stato": "annunciata",
+"ambito": "nazionale",
+"parametri": [
+{
+"cosa": "quota di reddito esente",
+"valore": "12.000 euro"
+},
+{
+"cosa": "aliquota massima",
+"valore": "65% oltre 10 milioni di euro"
+}
+]
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Abolire IMU e bollo sugli investimenti e introdurre un'imposta patrimoniale personale unica e progressiva",
+"citazione": "abolire l’IMU e l’imposta di bollo sugli investimenti, per adottare un’imposta patrimoniale personale, unica e progressiva",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"fisco",
+"casa"
+],
+"sottotema": "Patrimoni, successioni ed extraprofitti",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Tassare i patrimoni oltre 5 milioni di euro con aliquota progressiva fino al 2% oltre i 50 milioni",
+"citazione": "aumentare la tassazione sui patrimoni o superiori a 5 milioni di euro, con un’imposta progressiva che cresca fino al 2% oltre i 50 milioni",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"fisco"
+],
+"sottotema": "Patrimoni, successioni ed extraprofitti",
+"concretezza": 4,
+"stato": "annunciata",
+"ambito": "nazionale",
+"parametri": [
+{
+"cosa": "soglia patrimoniale",
+"valore": "5 milioni di euro"
+},
+{
+"cosa": "aliquota massima",
+"valore": "2% oltre 50 milioni"
+}
+]
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Rendere tracciabili i pagamenti promuovendo la moneta elettronica e incrociare le banche dati dei contribuenti",
+"citazione": "procedere alla tracciabilità assoluta dei pagamenti, anche promuovendo l’uso della moneta elettronica",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"fisco"
+],
+"sottotema": "Evasione, condoni e rottamazioni",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Escludere ogni condono, aumentare le risorse per i controlli fiscali e garantire la pena per i reati fiscali",
+"citazione": "negare qualsiasi spazio a condoni, incrementare le risorse a disposizione dei controlli, garantire la certezza della pena per i reati di natura fiscale",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"fisco",
+"giustizia"
+],
+"sottotema": "Evasione, condoni e rottamazioni",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Introdurre l'obbligo di rendicontazione pubblica paese per paese per le multinazionali",
+"citazione": "l’obbligo di rendicontazione pubblica paese per paese",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"fisco",
+"economia-imprese"
+],
+"sottotema": "Web tax e multinazionali",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Raddoppiare l'aliquota minima globale del 15% fissata dal G7",
+"citazione": "che sia raddoppiata l’aliquota al 15% fissata dal G7",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"fisco",
+"esteri-europa"
+],
+"sottotema": "Web tax e multinazionali",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale",
+"parametri": [
+{
+"cosa": "aliquota minima multinazionali",
+"valore": "oltre il 15% (raddoppio)"
+}
+]
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Cancellare gli accordi fiscali segreti dello Stato con le multinazionali estere",
+"citazione": "che siano cancellati gli accordi segreti sul fisco stipulati dallo Stato italiano con le multinazionali estere",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"fisco"
+],
+"sottotema": "Web tax e multinazionali",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Tassare al 100% gli extraprofitti energetici e restituirli con un'elargizione di 1.200 euro a famiglia",
+"citazione": "Noi proponiamo che quegli extraprofitti siano tassati al 100% e restituiti alle lavoratrici e ai lavoratori con una elargizione straordinaria di 1.200 euro a famiglia",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"fisco",
+"energia",
+"welfare-inclusione"
+],
+"sottotema": "Patrimoni, successioni ed extraprofitti",
+"concretezza": 4,
+"stato": "annunciata",
+"ambito": "nazionale",
+"destinatari": [
+"famiglie"
+],
+"parametri": [
+{
+"cosa": "aliquota extraprofitti",
+"valore": "100%"
+},
+{
+"cosa": "elargizione",
+"valore": "1.200 euro a famiglia"
+}
+]
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Promuovere con investimenti pubblici nuovi campioni nazionali nei settori strategici",
+"citazione": "Crediamo che lo Stato debba promuovere investimenti che determinino lo sviluppo di nuovi campioni nazionali nei settori ritenuti strategici",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"economia-imprese"
+],
+"sottotema": "Politica industriale",
+"concretezza": 2,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Creare una governance unitaria delle partecipazioni pubbliche",
+"citazione": "individuare una nuova e unitaria governance delle partecipazioni pubbliche",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"economia-imprese",
+"conti-pubblici"
+],
+"sottotema": "Partecipazioni pubbliche",
+"concretezza": 2,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Riportare sotto controllo pubblico le reti e i servizi essenziali, a partire da acqua ed energia",
+"citazione": "ripensare ad un ritorno al controllo pubblico di tutte le reti infrastrutturali e di servizi essenziali del paese, a partire dall’acqua e dall’energia",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"economia-imprese",
+"energia",
+"ambiente-animali"
+],
+"sottotema": "Partecipazioni pubbliche",
+"concretezza": 2,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Far restituire i contributi pubblici degli ultimi cinque anni alle imprese che delocalizzano riducendo il personale",
+"citazione": "debba restituire tutti i contributi in conto capitale ricevuti nell’ultimo quinquennio",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"economia-imprese",
+"lavoro"
+],
+"sottotema": "Politica industriale",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale",
+"parametri": [
+{
+"cosa": "periodo di restituzione contributi",
+"valore": "ultimo quinquennio"
+}
+]
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Obbligare chi abbandona uno stabilimento a cederlo o a versare una sanzione pari al 5% del fatturato quinquennale",
+"citazione": "oppure di versare una sanzione pari al 5% del fatturato degli ultimi 5 anni",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"economia-imprese",
+"lavoro"
+],
+"sottotema": "Politica industriale",
+"concretezza": 4,
+"stato": "annunciata",
+"ambito": "nazionale",
+"parametri": [
+{
+"cosa": "sanzione",
+"valore": "5% del fatturato degli ultimi 5 anni"
+}
+]
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Raggiungere il 30% di aree protette, di cui il 10% a stretta protezione",
+"citazione": "gli obiettivi del 30% di aree protette, delle quali il 10% di aree a stretta protezione",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"ambiente-animali"
+],
+"sottotema": "Parchi e biodiversità",
+"concretezza": 4,
+"stato": "annunciata",
+"ambito": "nazionale",
+"parametri": [
+{
+"cosa": "aree protette",
+"valore": "30%, di cui 10% a stretta protezione"
+}
+]
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Abolire la caccia",
+"citazione": "L’ Abolizione della caccia.",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"ambiente-animali"
+],
+"sottotema": "Caccia",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Riconoscere gli animali come esseri senzienti e non più come cose",
+"citazione": "gli animali domestici e quelli selvatici non siano più considerati oggetti ma esseri senzienti",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"ambiente-animali"
+],
+"sottotema": "Tutela degli animali",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Istituire un Servizio Ambientale e Forestale come corpo tecnico civile al posto della Forestale soppressa",
+"citazione": "istituendo un nuovo Servizio Ambientale e Forestale (SAF)",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"ambiente-animali",
+"sicurezza"
+],
+"sottotema": "Parchi e biodiversità",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Inasprire le sanzioni penali per maltrattamento e reati contro gli animali",
+"citazione": "introduzione di sanzioni più efficaci nel Codice penale per il contrasto ai maltrattamenti e agli altri reati a danno degli animali",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"ambiente-animali",
+"giustizia"
+],
+"sottotema": "Tutela degli animali",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Istituire un Garante nazionale dei diritti degli animali e un Dipartimento a Palazzo Chigi",
+"citazione": "istituzione di un Garante nazionale dei diritti degli animali e di un Dipartimento presso la Presidenza del Consiglio",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"ambiente-animali"
+],
+"sottotema": "Tutela degli animali",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Ridurre l'IVA su cibo per animali e prestazioni veterinarie",
+"citazione": "riduzione dell’aliquota IVA su cibo per animali e prestazioni veterinarie",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"ambiente-animali",
+"fisco"
+],
+"sottotema": "Tutela degli animali",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Vietare la vendita online e nei negozi di animali d'affezione",
+"citazione": "divieto di commercializzazione e pubblicizzazione sulla rete e l’inibizione della vendita negli esercizi commerciali",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"ambiente-animali"
+],
+"sottotema": "Tutela degli animali",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Potenziare le sanzioni e la repressione del bracconaggio",
+"citazione": "la prevenzione e repressione del bracconaggio, potenziando le sanzioni",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"ambiente-animali"
+],
+"sottotema": "Caccia",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Attuare i divieti di importazione, detenzione e commercio di animali esotici",
+"citazione": "l’attuazione dei divieti di importazione, detenzione e commercializzazione di animali esotici",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"ambiente-animali"
+],
+"sottotema": "Tutela degli animali",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+}
+]

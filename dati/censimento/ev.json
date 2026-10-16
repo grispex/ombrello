@@ -1,0 +1,22 @@
+{
+  "data": "2026-10-16",
+  "partito_autonomo": true,
+  "collocazione": "opposizione",
+  "camera": {
+    "gruppo": "ALLEANZA VERDI E SINISTRA",
+    "deputati_gruppo_avs": 10,
+    "url": "https://www.camera.it/leg19/46",
+    "verificato_direttamente": true,
+    "note": "Consistenza del gruppo AVS (10 deputati, comune a EV e SI) letta su camera.it il 2026-10-16. La ripartizione tra i due partiti non e' stata verificata (elenco del gruppo non scaricabile)."
+  },
+  "senato": {
+    "gruppo": "Gruppo Misto - componente Alleanza Verdi e Sinistra",
+    "senatori": null,
+    "url": "https://www.senato.it/composizione/gruppi-parlamentari/riepilogo-della-composizione",
+    "verificato_direttamente": false,
+    "note": "La pagina del Senato non e' stata scaricabile (risposta 202 vuota). Un documento AGCOM del 10 marzo 2026 indica AVS come componente del Misto, rappresentata da Giuseppe De Cristofaro (SI). Numero di senatori e ripartizione EV/SI da riverificare."
+  },
+  "partito": "ev",
+  "nome": "Europa Verde",
+  "note": "Partito autonomo (co-leader Angelo Bonelli, deputato) con parlamentari nel gruppo AVS alla Camera e nella componente AVS del Misto al Senato. All'opposizione. Fonti AGCOM: https://www.agcom.it/sites/default/files/media/allegato/2026/Elenco_10_3_26%20v2.pdf"
+}

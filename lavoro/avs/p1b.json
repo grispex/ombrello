@@ -1,0 +1,48 @@
+[
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Installare 15 GW l'anno di nuova potenza rinnovabile, con priorità a tetti e aree industriali",
+"citazione": "Accelerare la produzione di energia elettrica rinnovabile fino a raggiungere [...] l’installazione di 15 GW all’anno",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"energia"
+],
+"sottotema": "Rinnovabili",
+"concretezza": 4,
+"stato": "annunciata",
+"ambito": "nazionale",
+"parametri": [
+{
+"cosa": "nuova potenza rinnovabile",
+"valore": "15 GW all'anno"
+}
+]
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Portare gli aiuti pubblici allo sviluppo allo 0,7% del reddito nazionale lordo entro fine legislatura",
+"citazione": "raggiungere entro fine legislatura la quota dello [...] 0,7% di Aiuti Pubblici allo Sviluppo sul reddito nazionale lordo",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"esteri-europa"
+],
+"sottotema": "Cooperazione allo sviluppo",
+"concretezza": 4,
+"stato": "annunciata",
+"ambito": "nazionale",
+"parametri": [
+{
+"cosa": "APS/RNL",
+"valore": "0,7%"
+}
+]
+}
+]

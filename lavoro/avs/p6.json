@@ -1,0 +1,471 @@
+[
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Ripristinare l'organico funzionale con monte ore aggiuntivo per progetti delle scuole",
+"citazione": "Ritornare all’esperienza dell’organico funzionale ovvero di un monte ore aggiuntivo a quello strettamente curricolare",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"istruzione-universita-ricerca"
+],
+"sottotema": "Insegnanti",
+"concretezza": 2,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Assumere e stabilizzare i docenti di sostegno ed estendere tutele agli assistenti per l'autonomia",
+"citazione": "Assumere e garantire stabilità e la maggiore continuità possibile ai docenti di sostegno",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"istruzione-universita-ricerca",
+"welfare-inclusione"
+],
+"sottotema": "Insegnanti",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Introdurre l'educazione sessuale e affettiva laica con cicli di incontri dalla primaria",
+"citazione": "Che sia laica, libera da condizionamenti di matrice religiosa",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"istruzione-universita-ricerca",
+"diritti-liberta"
+],
+"sottotema": "Violenza di genere",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Rendere gratuita l'università e finanziare alloggi, servizi e borse di studio",
+"citazione": "noi proponiamo la gratuità della formazione dall’asilo all’università",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"istruzione-universita-ricerca"
+],
+"sottotema": "Diritto allo studio",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Difendere il valore legale del titolo di studio",
+"citazione": "Va respinto l’attacco al valore legale del titolo di studio",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"istruzione-universita-ricerca"
+],
+"sottotema": "Diritto allo studio",
+"concretezza": 1,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Stabilizzare la ricerca precaria con un programma pluriennale di reclutamento e sblocco del turn over",
+"citazione": "stabilizzando la figura del post doc con un contratto di ricerca e superando il sistema di RTDa-RTDb",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"istruzione-universita-ricerca"
+],
+"sottotema": "Fondi per la ricerca",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Investire il 3% del PIL in istruzione e ricerca",
+"citazione": "sia per adempiere finalmente all’obiettivo del 3% di PIL investito in istruzione e ricerca",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"istruzione-universita-ricerca",
+"conti-pubblici"
+],
+"sottotema": "Fondi per la ricerca",
+"concretezza": 4,
+"stato": "annunciata",
+"ambito": "nazionale",
+"parametri": [
+{
+"cosa": "investimento in istruzione e ricerca",
+"valore": "3% del PIL"
+}
+]
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Aumentare il fondo sanitario di 10 miliardi nei prossimi tre anni",
+"citazione": "è necessario prevedere un aumento del fondo sanitario di 10 miliardi nei prossimi tre anni",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"sanita",
+"conti-pubblici"
+],
+"sottotema": "Finanziamento del SSN",
+"concretezza": 4,
+"stato": "annunciata",
+"ambito": "nazionale",
+"parametri": [
+{
+"cosa": "aumento fondo sanitario",
+"valore": "10 miliardi in tre anni"
+}
+]
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Riallineare la spesa sanitaria pubblica alla media dell'Europa occidentale",
+"citazione": "riallineando progressivamente la spesa sanitaria pubblica italiana alla media dei paesi dell’Europa occidentale",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"sanita",
+"conti-pubblici"
+],
+"sottotema": "Finanziamento del SSN",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Abolire i vantaggi fiscali per polizze sanitarie e fondi integrativi",
+"citazione": "abolire i vantaggi fiscali connessi alla sottoscrizione di polizze assicurative sanitarie e alla partecipazione a fondi sanitari integrativi",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"sanita",
+"fisco"
+],
+"sottotema": "Sanità privata convenzionata",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Riservare i concorsi pubblici in ambito IVG a personale non obiettore",
+"citazione": "normative che consentano solo a personale infermieristico e medico non obiettore di partecipare ai concorsi pubblici",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"sanita",
+"diritti-liberta"
+],
+"sottotema": "Aborto",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Garantire gratuitamente nei consultori contraccezione, aborto ed esami in gravidanza e rilanciare i consultori familiari",
+"citazione": "Contraccezione, aborto ed esami ed eco in gravidanza devono essere realmente a disposizione in forma gratuita nei Consultori.",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"sanita",
+"diritti-liberta"
+],
+"sottotema": "Aborto",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Assumere 40 mila operatori sanitari in tre anni riducendo precariato ed esternalizzazioni",
+"citazione": "l’assunzione di complessivi 40 mila operatori in tre anni",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"sanita",
+"pubblica-amministrazione"
+],
+"sottotema": "Personale sanitario",
+"concretezza": 4,
+"stato": "annunciata",
+"ambito": "nazionale",
+"parametri": [
+{
+"cosa": "assunzioni nel SSN",
+"valore": "40 mila operatori in tre anni"
+}
+]
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Varare un piano straordinario di investimenti pubblici per l'ammodernamento della sanità, evitando la finanza di progetto",
+"citazione": "Un Piano straordinario di investimenti pubblici per l’ammodernamento strutturale e tecnologico della sanità pubblica",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"sanita"
+],
+"sottotema": "Finanziamento del SSN",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Promuovere i farmaci equivalenti e riformare l'AIFA",
+"citazione": "la promozione dell’uso dei farmaci equivalenti",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"sanita"
+],
+"sottotema": "Farmaci",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Creare un'azienda pubblica per produrre farmaci e vaccini",
+"citazione": "Creazione di un’azienda pubblica per la produzione dei farmaci e vaccini",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"sanita",
+"economia-imprese"
+],
+"sottotema": "Farmaci",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Regolare e ridurre fino alla sostituzione l'uso dei PFAS, con protezione sanitaria nei siti contaminati",
+"citazione": "Normare l’uso e la produzione di sostanze chimiche pericolose, anzitutto i composti perfluoroalchilici (Pfas)",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"ambiente-animali",
+"sanita"
+],
+"sottotema": "Inquinamento",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Rivedere le esternalizzazioni nel SSN con ritorno graduale alla gestione diretta",
+"citazione": "Revisione dei servizi esternalizzati, garantendo innanzitutto le condizioni di lavoro e la giusta retribuzione del personale",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"sanita"
+],
+"sottotema": "Sanità privata convenzionata",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Superare la convenzione dei medici di famiglia con un contratto unico di dipendenza dal SSN",
+"citazione": "Superamento delle convenzioni nazionali dei medici di famiglia",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"sanita"
+],
+"sottotema": "Medicina territoriale",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Abolire il numero chiuso nelle facoltà mediche e infermieristiche",
+"citazione": "abolendo il numero chiuso in tutte la facoltà di ambito medico e infermieristico",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"sanita",
+"istruzione-universita-ricerca"
+],
+"sottotema": "Accesso a Medicina",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Istituire la rete dei medici sentinella per l'ambiente",
+"citazione": "istituire la rete dei medici Sentinella",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"sanita",
+"ambiente-animali"
+],
+"sottotema": "Prevenzione",
+"concretezza": 2,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Potenziare l'assistenza domiciliare e superare la contenzione nelle RSA",
+"citazione": "Anziani e persone con disabilità devono poter essere assistiti a casa loro con gli adeguati supporti ai loro familiari",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"welfare-inclusione",
+"sanita"
+],
+"sottotema": "Non autosufficienza e anziani",
+"concretezza": 2,
+"stato": "annunciata",
+"ambito": "nazionale",
+"destinatari": [
+"anziani"
+]
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Investire sull'accessibilità del trasporto pubblico e sull'abbattimento delle barriere architettoniche",
+"citazione": "Si rende necessario investire maggiormente sull’accessibilità dei servizi di trasporto pubblico e sull’abbattimento delle barriere architettoniche.",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"welfare-inclusione",
+"infrastrutture-trasporti"
+],
+"sottotema": "Disabilità",
+"concretezza": 2,
+"stato": "annunciata",
+"ambito": "nazionale",
+"destinatari": [
+"persone con disabilità"
+]
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Difendere e rafforzare il reddito di cittadinanza verso un reddito universale di base",
+"citazione": "intendiamo difendere e rafforzare il reddito di cittadinanza",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"welfare-inclusione"
+],
+"sottotema": "Povertà e reddito minimo",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Incentivare la coabitazione giovani-anziani e altre misure contro la solitudine",
+"citazione": "coabitazione giovani-anziani, in particolare di studenti fuorisede",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"welfare-inclusione",
+"casa"
+],
+"sottotema": "Non autosufficienza e anziani",
+"concretezza": 2,
+"stato": "annunciata",
+"ambito": "nazionale",
+"destinatari": [
+"anziani",
+"giovani"
+]
+}
+]

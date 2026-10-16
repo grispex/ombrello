@@ -1,0 +1,958 @@
+[
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Ridurre le emissioni di gas serra del 70% al 2030 rispetto al 1990 e raggiungere la neutralità climatica nel 2045",
+"citazione": "riducendo le emissioni del 70% al 2030 rispetto al 1990 e procedendo verso la neutralità climatica da raggiungere nel 2045",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"ambiente-animali",
+"energia"
+],
+"sottotema": "Clima ed emissioni",
+"concretezza": 4,
+"stato": "annunciata",
+"ambito": "nazionale",
+"parametri": [
+{
+"cosa": "riduzione emissioni al 2030 (rispetto al 1990)",
+"valore": "-70%"
+},
+{
+"cosa": "neutralità climatica",
+"valore": "2045"
+}
+]
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Realizzare un piano per l'abbandono del gas metano e uscire dalla generazione elettrica a gas entro il 2035",
+"citazione": "garantisca l’uscita dalla generazione a gas nel sistema elettrico entro il 2035",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"energia"
+],
+"sottotema": "Gas e approvvigionamento",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale",
+"parametri": [
+{
+"cosa": "uscita dalla generazione a gas",
+"valore": "2035"
+}
+]
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Eliminare i combustibili fossili dalle abitazioni con rinnovabili, efficienza e pompe di calore",
+"citazione": "Un piano per l’eliminazione dei combustibili fossili dalle abitazioni mediante energie rinnovabili, efficienza energetica, pompe di calore",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"energia",
+"casa"
+],
+"sottotema": "Efficienza energetica",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Rendere gli incentivi all'efficienza energetica duraturi fino al 2030, accessibili ai più deboli e senza sostegno alle caldaie a gas",
+"citazione": "rivedere tutti gli incentivi per renderli duraturi almeno fino al 2030, darne accesso a tutte le fasce sociali e garantirne l’accesso prioritario alle fasce sociali più deboli, escludere il supporto alle caldaie a gas",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"energia",
+"casa"
+],
+"sottotema": "Efficienza energetica",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale",
+"parametri": [
+{
+"cosa": "durata incentivi",
+"valore": "fino al 2030"
+}
+]
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Installare 15 GW l'anno di nuova potenza rinnovabile, con priorità a tetti e aree industriali",
+"citazione": "Accelerare la produzione di energia elettrica rinnovabile fino a raggiungere l’installazione di 15 GW all’anno",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"energia"
+],
+"sottotema": "Rinnovabili",
+"concretezza": 4,
+"stato": "annunciata",
+"ambito": "nazionale",
+"parametri": [
+{
+"cosa": "nuova potenza rinnovabile",
+"valore": "15 GW all'anno"
+}
+]
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Aggiornare il PNIEC secondo gli obiettivi RepowerEU per ridurre la dipendenza dal prezzo del gas",
+"citazione": "Sviluppare una strategia di implementazione degli obiettivi del RepowerEU",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"energia",
+"esteri-europa"
+],
+"sottotema": "Gas e approvvigionamento",
+"concretezza": 2,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Usare le infrastrutture gas esistenti prima di costruirne di nuove",
+"citazione": "Sfruttare tutte le infrastrutture gas esistenti – stoccaggi, gasdotti e rigassificatori – per compensare possibili contrazioni o stop del gas russo prima di considerare nuove infrastrutture gas.",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"energia"
+],
+"sottotema": "Gas e approvvigionamento",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Destinare in via prioritaria al mercato interno il gas oggi esportato",
+"citazione": "il gas esportato andrà utilizzato prioritariamente nel mercato interno",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"energia"
+],
+"sottotema": "Gas e approvvigionamento",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Limitare nel tempo i nuovi contratti di fornitura di gas, legati alla cattura del gas di scarto",
+"citazione": "Nuovi contratti gas devono essere limitati al minor tempo possibile",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"energia"
+],
+"sottotema": "Gas e approvvigionamento",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Fissare in via temporanea un tetto al prezzo del gas",
+"citazione": "si rende urgente fissare in via temporanea un tetto al prezzo del gas",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"energia"
+],
+"sottotema": "Bollette e prezzi",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Fornire sostegni energetici selettivi solo ai più bisognosi senza incentivare i consumi",
+"citazione": "Fornire interventi di sostegno selettivi solo per i più bisognosi, come il bonus per famiglie",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"energia",
+"welfare-inclusione"
+],
+"sottotema": "Bollette e prezzi",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale",
+"destinatari": [
+"famiglie"
+]
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Abolire entro il 2025 i sussidi ai combustibili fossili (oltre 20 miliardi l'anno) e redistribuirli alla transizione",
+"citazione": "vanno aboliti i sussidi fossili, dal valore di oltre 20 miliardi l’anno, entro il 2025",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"energia",
+"ambiente-animali",
+"fisco"
+],
+"sottotema": "Clima ed emissioni",
+"concretezza": 4,
+"stato": "annunciata",
+"ambito": "nazionale",
+"parametri": [
+{
+"cosa": "sussidi fossili da abolire",
+"valore": "oltre 20 miliardi l'anno"
+},
+{
+"cosa": "scadenza",
+"valore": "2025"
+}
+]
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Azzerare la povertà energetica entro il 2025 con una riforma della fiscalità e delle tariffe energetiche",
+"citazione": "ridurre a zero la povertà energetica entro il 2025",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"energia",
+"welfare-inclusione"
+],
+"sottotema": "Bollette e prezzi",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale",
+"parametri": [
+{
+"cosa": "povertà energetica",
+"valore": "zero entro il 2025"
+}
+]
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Introdurre la plastic tax da gennaio 2023",
+"citazione": "Non possiamo più ritardare l’introduzione della plastic tax oltre gennaio 2023",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"ambiente-animali",
+"fisco"
+],
+"sottotema": "Rifiuti ed economia circolare",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale",
+"parametri": [
+{
+"cosa": "entrata in vigore",
+"valore": "gennaio 2023"
+}
+]
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Coprire con rinnovabili l'80% del fabbisogno elettrico al 2030 e quasi il 100% al 2035",
+"citazione": "Raggiungere per il fabbisogno elettrico 80% di penetrazione rinnovabile al 2030 e quasi 100% al 2035",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"energia"
+],
+"sottotema": "Rinnovabili",
+"concretezza": 4,
+"stato": "annunciata",
+"ambito": "nazionale",
+"parametri": [
+{
+"cosa": "quota rinnovabili elettriche 2030",
+"valore": "80%"
+},
+{
+"cosa": "quota 2035",
+"valore": "quasi 100%"
+}
+]
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Realizzare 60 GW di rinnovabili in tre anni con commissari regionali per sbloccare le autorizzazioni",
+"citazione": "realizzare 60GW di rinnovabili entro tre anni individuando anche figure di commissari e sub commissari regionali per sbloccare le autorizzazioni",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"energia",
+"pubblica-amministrazione"
+],
+"sottotema": "Rinnovabili",
+"concretezza": 4,
+"stato": "annunciata",
+"ambito": "nazionale",
+"parametri": [
+{
+"cosa": "potenza rinnovabile",
+"valore": "60 GW in tre anni"
+}
+]
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Dare a Terna il mandato di un piano speciale di accumuli e rete elettrica per decarbonizzare il settore al 2035",
+"citazione": "Dare mandato a Terna per sviluppare un “Piano speciale di accumuli e della rete elettrica”",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"energia"
+],
+"sottotema": "Rinnovabili",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Escludere il ritorno al nucleare",
+"citazione": "No al nucleare, come da mandato dei due referendum.",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"energia"
+],
+"sottotema": "Nucleare",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Vietare le nuove trivellazioni e uscire dalla produzione fossile nazionale entro il 2045",
+"citazione": "Stop a nuove trivelle permanente e piano graduale di uscita dalla produzione fossile nazionale entro il 2045",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"energia",
+"ambiente-animali"
+],
+"sottotema": "Gas e approvvigionamento",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale",
+"parametri": [
+{
+"cosa": "uscita dalla produzione fossile",
+"valore": "2045"
+}
+]
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Rivedere le royalties sulla produzione fossile nazionale per recuperare gli extraprofitti",
+"citazione": "Revisione del sistema delle royalties sulla produzione nazionale per recuperare gli extraprofitti delle imprese fossili",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"energia",
+"fisco"
+],
+"sottotema": "Patrimoni, successioni ed extraprofitti",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Approvare entro 100 giorni una legge per il clima con obiettivi vincolanti, comitato scientifico indipendente e assemblee cittadine",
+"citazione": "Dotarsi di una legge per il clima entro i primi 100 giorni",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"ambiente-animali",
+"istituzioni-riforme"
+],
+"sottotema": "Clima ed emissioni",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale",
+"parametri": [
+{
+"cosa": "tempo di approvazione",
+"valore": "100 giorni"
+}
+]
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Aggiornare e rendere operativo entro sei mesi il Piano nazionale di adattamento ai cambiamenti climatici",
+"citazione": "aggiornare e rendere pienamente operativo il Piano Nazionale di Adattamento ai Cambiamenti Climatici, fermo al 2017, entro i primi 6 mesi della legislatura",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"ambiente-animali"
+],
+"sottotema": "Clima ed emissioni",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale",
+"parametri": [
+{
+"cosa": "scadenza",
+"valore": "6 mesi dall'inizio della legislatura"
+}
+]
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Varare un Piano Salva Foreste e un Piano Salva Mari",
+"citazione": "sviluppare un “Piano Salva Foreste” e un “Piano Salva Mari”",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"ambiente-animali"
+],
+"sottotema": "Parchi e biodiversità",
+"concretezza": 2,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Istituire una cabina di regia per la transizione ecologica a Palazzo Chigi e completare la riforma del MITE",
+"citazione": "instaurare una cabina di regia per la transizione ecologica a Palazzo Chigi",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"ambiente-animali",
+"pubblica-amministrazione"
+],
+"sottotema": "Clima ed emissioni",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Trasformare CDP, SACE e Invitalia in banche per il clima, escludendo il finanziamento a infrastrutture fossili",
+"citazione": "Trasformare CDP, SACE e Invitalia in Banche per il clima",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"ambiente-animali",
+"economia-imprese"
+],
+"sottotema": "Clima ed emissioni",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Varare un piano di investimenti per il risparmio idrico, contro la dispersione delle reti e per la depurazione",
+"citazione": "Un piano di investimenti per il risparmio idrico, sia in ambito urbano che industriale",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"ambiente-animali",
+"agricoltura-pesca"
+],
+"sottotema": "Acqua pubblica",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Escludere il debito verde dal calcolo del debito pregresso nella riforma del Patto di Stabilità",
+"citazione": "Debito buono è debito verde.",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"conti-pubblici",
+"esteri-europa",
+"ambiente-animali"
+],
+"sottotema": "Regole fiscali europee",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Portare gli obiettivi UE 2030 ad almeno il 50% di rinnovabili e al 45% di risparmio energetico",
+"citazione": "portando gli obiettivi 2030 del pacchetto Fit for 55 ad almeno il 50% di penetrazione di rinnovabili e al 45% di risparmio attraverso l’efficienza energetica",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"energia",
+"esteri-europa"
+],
+"sottotema": "Rinnovabili",
+"concretezza": 4,
+"stato": "annunciata",
+"ambito": "nazionale",
+"parametri": [
+{
+"cosa": "quota rinnovabili UE 2030",
+"valore": "almeno 50%"
+},
+{
+"cosa": "risparmio energetico 2030",
+"valore": "45%"
+}
+]
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Adottare una politica europea comune sul gas basata sulla solidarietà tra Stati",
+"citazione": "Una politica comune sul gas basato su meccanismi di solidarietà per condividere volumi a fronte di crisi",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"energia",
+"esteri-europa"
+],
+"sottotema": "Gas e approvvigionamento",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Nominare un inviato speciale per il clima e formare diplomatici climatici",
+"citazione": "dotare di un’inviata/o speciale per il clima di alto livello e di un corpo diplomatico adeguato alla sfida climatica",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"esteri-europa",
+"ambiente-animali"
+],
+"sottotema": "Clima ed emissioni",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Mobilitare almeno 4 miliardi di dollari l'anno di finanza climatica internazionale, metà per adattamento",
+"citazione": "mobilitare almeno 4 miliardi di dollari l’anno in finanza per il clima, di cui 50% da destinare all’adattamento e alle perdite e i danni",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"esteri-europa",
+"ambiente-animali"
+],
+"sottotema": "Cooperazione allo sviluppo",
+"concretezza": 4,
+"stato": "annunciata",
+"ambito": "nazionale",
+"parametri": [
+{
+"cosa": "finanza climatica internazionale",
+"valore": "4 miliardi di dollari l'anno"
+}
+]
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Portare gli aiuti pubblici allo sviluppo allo 0,7% del reddito nazionale lordo entro fine legislatura",
+"citazione": "raggiungere entro fine legislatura la quota dello 0,7% di Aiuti Pubblici allo Sviluppo sul reddito nazionale lordo",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"esteri-europa"
+],
+"sottotema": "Cooperazione allo sviluppo",
+"concretezza": 4,
+"stato": "annunciata",
+"ambito": "nazionale",
+"parametri": [
+{
+"cosa": "APS/RNL",
+"valore": "0,7%"
+}
+]
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Sostenere in sede europea l'importazione di soli prodotti a deforestazione zero con filiere tracciabili",
+"citazione": "garantire filiere tracciabili e certificate per l’importazione dei soli prodotti a deforestazione zero",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"ambiente-animali",
+"agricoltura-pesca",
+"esteri-europa"
+],
+"sottotema": "Parchi e biodiversità",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Finanziare la pianificazione forestale, la gestione sostenibile e la prevenzione degli incendi boschivi",
+"citazione": "Incrementare e finanziare la pianificazione forestale e la certificazione di gestione sostenibile",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"ambiente-animali",
+"agricoltura-pesca"
+],
+"sottotema": "Parchi e biodiversità",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Dotarsi al 2030 di almeno 10 milioni di veicoli elettrici circolanti e 100 mila punti di ricarica pubblica",
+"citazione": "Serve un piano industriale per la mobilità elettrica al 2030 che punti a un obiettivo di veicoli elettrici circolanti di almeno 10 milioni di unità e dotarsi di 100 mila punti di ricarica pubblica",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"infrastrutture-trasporti",
+"energia",
+"economia-imprese"
+],
+"sottotema": "Trasporto pubblico locale",
+"concretezza": 4,
+"stato": "annunciata",
+"ambito": "nazionale",
+"parametri": [
+{
+"cosa": "veicoli elettrici al 2030",
+"valore": "almeno 10 milioni"
+},
+{
+"cosa": "punti di ricarica pubblica",
+"valore": "100 mila"
+}
+]
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Rimodulare gli incentivi auto a favore delle sole auto elettriche, per la prima auto e in base al reddito",
+"citazione": "Il sistema di incentivi auto va rimodulato a sostegno dell’acquisto di sole auto elettriche",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"infrastrutture-trasporti",
+"economia-imprese"
+],
+"sottotema": "Trasporto pubblico locale",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Non realizzare il Ponte sullo Stretto di Messina",
+"citazione": "Ribadiamo il nostro no al ponte sullo stretto di Messina",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"infrastrutture-trasporti"
+],
+"sottotema": "Ponte sullo Stretto",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale",
+"parametri": [
+{
+"cosa": "risorse da destinare ad altre opere",
+"valore": "10 miliardi di euro"
+}
+]
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Non proseguire la linea ferroviaria Torino-Lione",
+"citazione": "Proseguire sul progetto della linea “Torino-Lione” comporta spese di grande entità",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"infrastrutture-trasporti"
+],
+"sottotema": "Ferrovie e alta velocità",
+"concretezza": 2,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Destinare in via prioritaria al trasporto pubblico il fondo complementare del PNRR da 30 miliardi",
+"citazione": "rimodulare il fondo complementare del Pnrr pari a 30 miliardi di euro per destinarlo in via prioritaria agli investimenti sul trasporto pubblico",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"infrastrutture-trasporti",
+"conti-pubblici"
+],
+"sottotema": "Trasporto pubblico locale",
+"concretezza": 4,
+"stato": "annunciata",
+"ambito": "nazionale",
+"parametri": [
+{
+"cosa": "fondo complementare PNRR",
+"valore": "30 miliardi di euro"
+}
+]
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Rendere gratuiti trasporto locale e treni regionali per gli under 30",
+"citazione": "i trasporti pubblici locali e i treni regionali siano resi gratuiti per gli Under 30",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"infrastrutture-trasporti"
+],
+"sottotema": "Trasporto pubblico locale",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale",
+"destinatari": [
+"giovani"
+]
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Introdurre il deposito su cauzione e un Piano plastica a emissioni zero al 2045, riciclando il 90% dei rifiuti plastici",
+"citazione": "Introdurre il sistema di deposito su cauzione come primo punto per un “Piano plastica per emissioni zero al 2045”",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"ambiente-animali"
+],
+"sottotema": "Rifiuti ed economia circolare",
+"concretezza": 4,
+"stato": "annunciata",
+"ambito": "nazionale",
+"parametri": [
+{
+"cosa": "riciclo rifiuti plastici",
+"valore": "90%"
+},
+{
+"cosa": "emissioni plastica",
+"valore": "zero al 2045"
+}
+]
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Introdurre la tariffazione puntuale dei rifiuti e potenziare differenziata e riuso",
+"citazione": "introduzione di sistemi di tariffazione puntuale che facciano pagare le utenze sulla base della produzione effettiva di rifiuti non riciclabili",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"ambiente-animali"
+],
+"sottotema": "Rifiuti ed economia circolare",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Considerare la termovalorizzazione solo come ultima istanza nel piano nazionale rifiuti",
+"citazione": "considerare la termovalorizzazione solo come una soluzione di ultima istanza",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"ambiente-animali"
+],
+"sottotema": "Rifiuti ed economia circolare",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Impedire il trasferimento dei rifiuti fuori dalla regione di produzione",
+"citazione": "Dovrà essere assolutamente impedito spostare i rifiuti fuori dalla propria regione.",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"ambiente-animali"
+],
+"sottotema": "Rifiuti ed economia circolare",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Approvare una legge sul fine vita",
+"citazione": "Una legge sul fine vita che ascolti le disperate richieste di tante e tanti di poter mettere fine alla propria vita con dignità.",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"diritti-liberta"
+],
+"sottotema": "Fine vita",
+"concretezza": 2,
+"stato": "annunciata",
+"ambito": "nazionale"
+},
+{
+"partiti": [
+"ev",
+"si"
+],
+"sintesi": "Legalizzare la coltivazione di cannabis per uso personale",
+"citazione": "Una legge che legalizzi la coltivazione della cannabis per uso personale",
+"fonte": "ev-avs-programma-politiche-2022",
+"data": "2022-08",
+"aree": [
+"diritti-liberta",
+"sicurezza"
+],
+"sottotema": "Cannabis",
+"concretezza": 3,
+"stato": "annunciata",
+"ambito": "nazionale"
+}
+]
