@@ -60,6 +60,7 @@ def main():
         "fonti": {k: v for k, v in fonti.items() if k in usate},
         "proposte": prop,
         "prova": prova,
+        "mappa": json.load(open(os.path.join(BASE, "dati", "mappa.json"), encoding="utf-8")),
     }
     tpl = open(os.path.join(BASE, "sito", "template.html"), encoding="utf-8").read()
     out = tpl.replace("/*DATI*/null", json.dumps(dati, ensure_ascii=False, separators=(",", ":")))
