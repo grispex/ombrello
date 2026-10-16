@@ -1,0 +1,59 @@
+[
+ {
+  "partiti": [
+   "fn"
+  ],
+  "sintesi": "Istituire un Ecosistema Nazionale dei Dati integrato con la Piattaforma Digitale Nazionale Dati",
+  "citazione": "Istituzione di un “Ecosistema Nazionale dei Dati”, che integri informazioni amministrative, fiscali e giudiziarie, collegato alla Piattaforma Digitale Nazionale Dati (PDND), come unico snodo sicuro, con protezione della privacy con tracciabilità degli accessi con indicazione nominativa e causale. Incrociare i dati significa lotta concreta alla criminalità organizzata e alle frodi sui sussidi, mentre si riduce la pressione della “tassa occulta” (la burocrazia) su cittadini e imprese.",
+  "fonte": "fn-sito-programma",
+  "punto": "Cybersicurezza e sovranità digitale",
+  "aree": [
+   "innovazione-digitale",
+   "pubblica-amministrazione"
+  ],
+  "sottotema": "Digitalizzazione della PA",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "data": "2026"
+ },
+ {
+  "partiti": [
+   "fn"
+  ],
+  "sintesi": "Estendere a livello nazionale la formazione su cybersicurezza di dirigenti scolastici e docenti",
+  "citazione": "Estensione a scala nazionale del progetto già avviato nel 2025 dall’Agenzia per la Cybersicurezza Nazionale con il Ministero dell’Istruzione per la formazione specializzata di dirigenti scolastici e docenti. La scuola diventa presidio attivo di consapevolezza digitale, integrando la cybersicurezza nei percorsi di educazione civica.",
+  "fonte": "fn-sito-programma",
+  "punto": "Cybersicurezza e sovranità digitale",
+  "aree": [
+   "innovazione-digitale",
+   "istruzione-universita-ricerca"
+  ],
+  "sottotema": "Cybersicurezza",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "data": "2026"
+ },
+ {
+  "partiti": [
+   "fn"
+  ],
+  "sintesi": "Istituire un Fondo di Garanzia per risarcire le vittime over 65 di frodi online",
+  "citazione": "Istituzione di un Fondo di Garanzia, la cui gestione potrebbe essere affidata a CONSAP, per il risarcimento delle vittime di frodi online over 65, con verifica della veridicità della truffa affidata alle forze di polizia e all’autorità giudiziaria",
+  "fonte": "fn-sito-programma",
+  "punto": "Cybersicurezza e sovranità digitale",
+  "aree": [
+   "innovazione-digitale",
+   "welfare-inclusione"
+  ],
+  "sottotema": "Cybersicurezza",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "data": "2026",
+  "destinatari": [
+   "anziani"
+  ]
+ }
+]

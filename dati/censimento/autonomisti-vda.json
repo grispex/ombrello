@@ -1,0 +1,21 @@
+{
+  "data": "2026-10-16",
+  "partito": "autonomisti-vda",
+  "nome": "Autonomisti valdostani",
+  "partito_autonomo": false,
+  "collocazione": "n/d",
+  "camera": {
+    "gruppo": "MISTO-MINORANZE LINGUISTICHE",
+    "deputati": 1,
+    "url": "https://www.camera.it/leg19/46",
+    "verificato_direttamente": false,
+    "note": "Il deputato valdostano e' Franco Manes, eletto nel collegio uninominale della Valle d'Aosta come candidato indipendente nella coalizione progressista con PD e Union Valdotaine (Pagella Politica, 7 maggio 2024). Non e' risultato iscritto a un partito valdostano."
+  },
+  "senato": {
+    "gruppo": null,
+    "senatori": 0,
+    "url": "https://dati.senato.it/gruppo/69.html",
+    "verificato_direttamente": false
+  },
+  "note": "Il deputato valdostano e' un indipendente, non un esponente di un partito autonomo con parlamentari. Non si estraggono proposte. Il partito esatto (se esiste un'adesione dopo il 2024) resta da verificare su camera.it."
+}

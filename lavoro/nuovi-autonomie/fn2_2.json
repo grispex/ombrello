@@ -1,0 +1,92 @@
+[
+ {
+  "partiti": [
+   "fn"
+  ],
+  "sintesi": "Ispirare la politica commerciale al principio di reciprocità e contrastare le pratiche sleali",
+  "citazione": "La politica commerciale dovrà ispirarsi al principio della reciprocità. L’apertura agli scambi internazionali rappresenta un’opportunità quando si svolge nel rispetto di regole comuni, standard comparabili e condizioni di concorrenza equilibrate. In sede europea e internazionale l’Italia dovrà sostenere strumenti che contrastino pratiche sleali",
+  "fonte": "fn-sito-programma",
+  "punto": "Made in Italy, industria e commercio estero",
+  "aree": [
+   "esteri-europa",
+   "economia-imprese"
+  ],
+  "sottotema": "Commercio internazionale e dazi",
+  "concretezza": 2,
+  "stato": "annunciata",
+  "ambito": "europeo",
+  "data": "2026"
+ },
+ {
+  "partiti": [
+   "fn"
+  ],
+  "sintesi": "Vigilare contro accordi commerciali penalizzanti come il Mercosur",
+  "citazione": "Si dovrà vigilare contro accordi penalizzanti come quelli sostenuti in passato da sinistra e destra (si pensi al recente Mercosur",
+  "fonte": "fn-sito-programma",
+  "punto": "Made in Italy, industria e commercio estero",
+  "aree": [
+   "esteri-europa",
+   "agricoltura-pesca"
+  ],
+  "sottotema": "Commercio internazionale e dazi",
+  "concretezza": 2,
+  "stato": "annunciata",
+  "ambito": "europeo",
+  "data": "2026"
+ },
+ {
+  "partiti": [
+   "fn"
+  ],
+  "sintesi": "Rafforzare tracciabilità e tutela dell'origine dei prodotti anche con la blockchain",
+  "citazione": "Particolare rilievo sarà attribuito alla tracciabilità delle produzioni e alla tutela dell’origine dei prodotti, anche attraverso tecnologie digitali come la blockchain",
+  "fonte": "fn-sito-programma",
+  "punto": "Made in Italy, industria e commercio estero",
+  "aree": [
+   "economia-imprese",
+   "agricoltura-pesca"
+  ],
+  "sottotema": "Consumatori",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "data": "2026"
+ },
+ {
+  "partiti": [
+   "fn"
+  ],
+  "sintesi": "Valorizzare negli appalti strategici qualità, affidabilità delle filiere e valore sul territorio nazionale oltre al prezzo",
+  "citazione": "Nei settori di interesse strategico gli appalti pubblici dovranno valorizzare, nel rispetto della normativa europea, criteri che tengano conto non solo del prezzo, ma anche della qualità, dell’affidabilità delle filiere, della sicurezza degli approvvigionamenti e della capacità di generare valore economico sul territorio nazionale",
+  "fonte": "fn-sito-programma",
+  "punto": "Made in Italy, industria e commercio estero",
+  "aree": [
+   "pubblica-amministrazione",
+   "economia-imprese"
+  ],
+  "sottotema": "Codice degli appalti",
+  "concretezza": 2,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "data": "2026"
+ },
+ {
+  "partiti": [
+   "fn"
+  ],
+  "sintesi": "Sostenere una strategia nazionale ed europea per le materie prime critiche con accordi internazionali",
+  "citazione": "Futuro Nazionale sostiene una strategia nazionale ed europea orientata alla sicurezza degli approvvigionamenti, attraverso accordi internazionali fondati su cooperazione, trasferimento di competenze, sostenibilità e reciproco vantaggio, con particolare attenzione a terre rare",
+  "fonte": "fn-sito-programma",
+  "punto": "Made in Italy, industria e commercio estero",
+  "aree": [
+   "economia-imprese",
+   "esteri-europa"
+  ],
+  "sottotema": "Africa e Piano Mattei",
+  "concretezza": 2,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "data": "2026"
+ }
+]

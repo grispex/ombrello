@@ -1,0 +1,21 @@
+{
+  "data": "2026-10-16",
+  "partito": "patt",
+  "nome": "Partito Autonomista Trentino Tirolese",
+  "partito_autonomo": false,
+  "collocazione": "n/d",
+  "camera": {
+    "gruppo": null,
+    "deputati": 0,
+    "url": "https://www.camera.it/leg19/46",
+    "verificato_direttamente": true
+  },
+  "senato": {
+    "gruppo": "Per le Autonomie (SVP-PATT, Campobase)",
+    "senatori": 0,
+    "url": "https://dati.senato.it/gruppo/69.html",
+    "verificato_direttamente": false,
+    "note": "PATT compare solo nella denominazione del gruppo (storica, dal 2018). Nessun parlamentare PATT risulta nelle fonti: Pagella Politica (7 maggio 2024) elenca i 9 parlamentari autonomisti e nessuno e' PATT; il senatore trentino Patton e' indipendente eletto con il sostegno di Campobase. Ricerca 2026 senza esito."
+  },
+  "note": "Sigla presente solo nel nome del gruppo Per le Autonomie, senza parlamentari propri verificati: non e' un partito con parlamentari in carica. Non si estraggono proposte."
+}

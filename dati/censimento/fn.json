@@ -1,0 +1,26 @@
+{
+  "data": "2026-10-16",
+  "partito": "fn",
+  "nome": "Futuro Nazionale",
+  "partito_autonomo": true,
+  "collocazione": "non in maggioranza; non allineato (componente del Gruppo Misto)",
+  "camera": {
+    "gruppo": "MISTO-FUTURO NAZIONALE VANNACCI - FREE (componente politica del Gruppo Misto)",
+    "deputati": 9,
+    "url": "https://www.camera.it/leg19/46",
+    "verificato_direttamente": true,
+    "note": "Pagina ufficiale camera.it/leg19/46 letta il 2026-10-16: componente con 9 deputati. Ingressi: Pozzolo (4 febbraio 2026), Sasso e Ziello (6 febbraio), componente costituita il 27 maggio 2026, altri ingressi il 6 giugno (Furgiuele, Bof, Pierro, Bergamini) secondo Pagella Politica, Sky TG24, Open."
+  },
+  "senato": {
+    "gruppo": null,
+    "senatori": 0,
+    "url": "https://www.senato.it/composizione/gruppi-parlamentari/riepilogo-della-composizione",
+    "verificato_direttamente": false,
+    "note": "Nessun senatore trovato nelle fonti consultate (ricerche giugno 2026); la pagina del Senato non e' raggiungibile con lo strumento di scarico."
+  },
+  "fonti_secondarie": [
+    "https://pagellapolitica.it/articoli/vannacci-futuro-nazionale-gruppi-parlamento",
+    "https://tg24.sky.it/politica/2026/06/06/futuro-nazionale-cinque-ingressi-partito-vannacci"
+  ],
+  "note": "Partito autonomo fondato a febbraio 2026 da Roberto Vannacci dopo l'uscita dalla Lega; ha parlamentari propri."
+}

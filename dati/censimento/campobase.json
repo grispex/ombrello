@@ -1,0 +1,21 @@
+{
+  "data": "2026-10-16",
+  "partito": "campobase",
+  "nome": "Campobase",
+  "partito_autonomo": true,
+  "collocazione": "opposizione (il senatore Patton si dichiara all'opposizione del governo Meloni)",
+  "camera": {
+    "gruppo": null,
+    "deputati": 0,
+    "url": "https://www.camera.it/leg19/46",
+    "verificato_direttamente": true
+  },
+  "senato": {
+    "gruppo": "Per le Autonomie (SVP-PATT, Campobase)",
+    "senatori": 1,
+    "url": "https://dati.senato.it/gruppo/69.html",
+    "verificato_direttamente": false,
+    "note": "Dal 6 novembre 2023 Campobase e' nel nome del gruppo. Un senatore: Pietro Patton (Trento, tesoriere del gruppo), eletto nel 2022 come indipendente con il sostegno di Campobase (Pagella Politica, 2024). Attribuzione del seggio al partito da confermare: Patton si e' definito indipendente."
+  },
+  "note": "Partito trentino fondato nel 2022, leader Francesco Valduga; parlamentare proprio: un senatore (da riverificare su senato.it)."
+}

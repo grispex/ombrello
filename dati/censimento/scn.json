@@ -1,0 +1,25 @@
+{
+  "data": "2026-10-16",
+  "partito": "scn",
+  "nome": "Sud chiama Nord",
+  "partito_autonomo": true,
+  "collocazione": "da definire (componente del Gruppo Misto; non in maggioranza)",
+  "camera": {
+    "gruppo": "MISTO-SUD CHIAMA NORD (componente politica del Gruppo Misto)",
+    "deputati": 3,
+    "url": "https://www.camera.it/leg19/46",
+    "verificato_direttamente": true,
+    "note": "Pagina camera.it/leg19/46 del 2026-10-16: 3 deputati. Eletto nel 2022 Francesco Gallo (Messina); gli altri due arrivati in corso di legislatura (La Sicilia, 10 ottobre 2026, cita Manlio Messina e Luca Sbardella; non verificato nominativamente)."
+  },
+  "senato": {
+    "gruppo": null,
+    "senatori": 0,
+    "url": "https://dati.senato.it/gruppo/69.html",
+    "verificato_direttamente": true,
+    "note": "Dati del Senato: la dicitura Sud Chiama Nord e' stata tolta dal nome del gruppo Per le Autonomie il 6 novembre 2023; nessun senatore noto."
+  },
+  "fonti_secondarie": [
+    "https://pagellapolitica.it/articoli/chi-sono-parlamentari-autonomisti"
+  ],
+  "note": "Partito autonomo (leader Cateno De Luca) con componente propria alla Camera."
+}

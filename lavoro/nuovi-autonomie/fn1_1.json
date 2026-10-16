@@ -1,0 +1,633 @@
+[
+ {
+  "partiti": [
+   "fn"
+  ],
+  "sintesi": "Promuovere un modello di sviluppo basato su proprietà diffusa, merito e sovranità economica",
+  "citazione": "Futuro Nazionale promuove un modello di sviluppo fondato sulla proprietà diffusa, sul merito, sul valore dell’impresa e del lavoro, sulla libertà economica, sulla solidarietà comunitaria e sulla tutela dell’interesse nazionale",
+  "fonte": "fn-sito-programma",
+  "punto": "Dottrina economica e fiscalità",
+  "aree": [
+   "economia-imprese"
+  ],
+  "sottotema": "Politica industriale",
+  "concretezza": 1,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "data": "2026"
+ },
+ {
+  "partiti": [
+   "fn"
+  ],
+  "sintesi": "Favorire con strumenti fiscali la partecipazione dei lavoratori agli utili d'impresa e l'azionariato diffuso",
+  "citazione": "Per questo il programma favorisce la partecipazione dei lavoratori agli utili dell’impresa e l’azionariato diffuso",
+  "fonte": "fn-sito-programma",
+  "punto": "Dottrina economica e fiscalità",
+  "aree": [
+   "lavoro",
+   "fisco"
+  ],
+  "sottotema": "Partecipazione dei lavoratori",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "data": "2026"
+ },
+ {
+  "partiti": [
+   "fn"
+  ],
+  "sintesi": "Riconquistare spazi di sovranità economica e fiscale rispetto all'Unione europea",
+  "citazione": "Per perseguire tutti questi obiettivi la premessa fondamentale è quella di riconquistare spazi di sovranità economica e fiscale",
+  "fonte": "fn-sito-programma",
+  "punto": "Dottrina economica e fiscalità",
+  "aree": [
+   "esteri-europa",
+   "conti-pubblici"
+  ],
+  "sottotema": "Riforma dell'Unione europea",
+  "concretezza": 2,
+  "stato": "annunciata",
+  "ambito": "europeo",
+  "data": "2026"
+ },
+ {
+  "partiti": [
+   "fn"
+  ],
+  "sintesi": "Rivedere le imposte e i bolli legati alla mera proprietà di veicoli e seconde case",
+  "citazione": "Un sistema fiscale così pervasivo da voler aggredire anche i beni che non producono reddito deve certamente essere rivisto per tornare alla ragionevolezza",
+  "fonte": "fn-sito-programma",
+  "punto": "Dottrina economica e fiscalità",
+  "aree": [
+   "fisco",
+   "casa"
+  ],
+  "sottotema": "Patrimoni, successioni ed extraprofitti",
+  "concretezza": 2,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "data": "2026"
+ },
+ {
+  "partiti": [
+   "fn"
+  ],
+  "sintesi": "Esercitare il potere di veto sul prossimo bilancio pluriennale UE per rimediare al nuovo Patto di Stabilità e Crescita",
+  "citazione": "Per ottenere questo risultato Futuro Nazionale non vede altra strada che quella di esercitare il nostro potere di veto sul prossimo bilancio pluriennale dell’Unione Europea",
+  "fonte": "fn-sito-programma",
+  "punto": "Dottrina economica e fiscalità",
+  "aree": [
+   "conti-pubblici",
+   "esteri-europa"
+  ],
+  "sottotema": "Regole fiscali europee",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "europeo",
+  "data": "2026"
+ },
+ {
+  "partiti": [
+   "fn"
+  ],
+  "sintesi": "Procedere a una revisione organica dei Trattati su cui si fonda l'Unione europea",
+  "citazione": "In questa prospettiva Futuro Nazionale ritiene necessaria una revisione organica dei Trattati su cui si fonda l’Unione europea",
+  "fonte": "fn-sito-programma",
+  "punto": "Dottrina economica e fiscalità",
+  "aree": [
+   "esteri-europa"
+  ],
+  "sottotema": "Riforma dell'Unione europea",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "europeo",
+  "data": "2026"
+ },
+ {
+  "partiti": [
+   "fn"
+  ],
+  "sintesi": "Riformare la Costituzione per ribadire la prevalenza dei suoi principi su ogni trattato internazionale, inclusi quelli europei",
+  "citazione": "Per questo Futuro Nazionale propone una riforma che ribadisca in modo esplicito e indiscutibile la prevalenza dei principi della Costituzione italiana rispetto ad ogni genere di trattati internazionali, inclusi quelli europei",
+  "fonte": "fn-sito-programma",
+  "punto": "Dottrina economica e fiscalità",
+  "aree": [
+   "istituzioni-riforme",
+   "esteri-europa"
+  ],
+  "sottotema": "Riforma dell'Unione europea",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "data": "2026"
+ },
+ {
+  "partiti": [
+   "fn"
+  ],
+  "sintesi": "Riformare il sistema tributario: eliminare norme obsolete e micro-imposte, calendario fiscale stabile e sportello digitale unico",
+  "citazione": "Riforma del sistema tributario fondata su semplicità, equità, stabilità e proporzionalità, con eliminazione delle norme obsolete, riduzione delle micro-imposte, calendario fiscale stabile e sportello digitale unico per gli adempimenti principali",
+  "fonte": "fn-sito-programma",
+  "punto": "Dottrina economica e fiscalità",
+  "aree": [
+   "fisco",
+   "pubblica-amministrazione"
+  ],
+  "sottotema": "Tasse sulle imprese",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "data": "2026"
+ },
+ {
+  "partiti": [
+   "fn"
+  ],
+  "sintesi": "Garantire stabilità pluriennale di aliquote, deduzioni e regole tributarie fondamentali",
+  "citazione": "Continuità fiscale pluriennale, affinché aliquote, deduzioni e regole tributarie fondamentali restino stabili nel tempo, consentendo a famiglie e imprese di programmare investimenti, assunzioni e attività economiche con maggiore certezza",
+  "fonte": "fn-sito-programma",
+  "punto": "Dottrina economica e fiscalità",
+  "aree": [
+   "fisco"
+  ],
+  "sottotema": "Tasse sulle imprese",
+  "concretezza": 2,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "data": "2026"
+ },
+ {
+  "partiti": [
+   "fn"
+  ],
+  "sintesi": "Introdurre il quoziente familiare come criterio fondamentale di applicazione della progressività fiscale",
+  "citazione": "Introduzione di un vero quoziente familiare, che tenga conto ai fini dell’individuazione dell’aliquota fiscale di quante persone il reddito va effettivamente a sostenere. Il quoziente familiare dovrà divenire un criterio fondamentale di applicazione della progressività fiscale, riconoscendo famiglia e natalità come fattori centrali della sostenibilità economica, sociale e previdenziale del Paese.",
+  "fonte": "fn-sito-programma",
+  "punto": "Dottrina economica e fiscalità",
+  "aree": [
+   "fisco",
+   "famiglia-natalita"
+  ],
+  "sottotema": "Quoziente familiare",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "data": "2026",
+  "destinatari": [
+   "famiglie"
+  ]
+ },
+ {
+  "partiti": [
+   "fn"
+  ],
+  "sintesi": "Chiedere in sede UE una deroga strutturale al Patto di Stabilità legata alla demografia",
+  "citazione": "Promozione di una azione politica coraggiosa in sede europea per riconoscere la demografia come vero elemento di crisi dell’Europa (il tasso europeo di fecondità oscilla tra 1,3 e 1,4 figli per donna), mentre una operazione di distrazione di massa continua a proporre quali emergenze continentali quelle trattate dal Green Deal e dal ReArm EU. L’Europa necessita di una deroga strutturale al Patto di Stabilità e Crescita che verta non sulle emissioni di carbonio ma sulla procreazione",
+  "fonte": "fn-sito-programma",
+  "punto": "Dottrina economica e fiscalità",
+  "aree": [
+   "famiglia-natalita",
+   "conti-pubblici"
+  ],
+  "sottotema": "Regole fiscali europee",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "europeo",
+  "data": "2026"
+ },
+ {
+  "partiti": [
+   "fn"
+  ],
+  "sintesi": "Introdurre quote azzurre nei concorsi pubblici riservate ai genitori di famiglie numerose",
+  "citazione": "Introduzione delle “quote azzurre” nei concorsi pubblici, riservando una parte dell’ammontare dei posti a bando ai genitori di famiglie numerose",
+  "fonte": "fn-sito-programma",
+  "punto": "Dottrina economica e fiscalità",
+  "aree": [
+   "pubblica-amministrazione",
+   "famiglia-natalita"
+  ],
+  "sottotema": "Assunzioni e concorsi",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "data": "2026",
+  "destinatari": [
+   "famiglie"
+  ]
+ },
+ {
+  "partiti": [
+   "fn"
+  ],
+  "sintesi": "Ridurre strutturalmente il cuneo fiscale, con priorità per giovani, famiglie e imprese ad alta intensità occupazionale",
+  "citazione": "Riduzione strutturale del cuneo fiscale per aumentare il reddito netto dei lavoratori e ridurre il costo del lavoro, con priorità per giovani, famiglie e imprese ad alta intensità occupazionale",
+  "fonte": "fn-sito-programma",
+  "punto": "Dottrina economica e fiscalità",
+  "aree": [
+   "fisco",
+   "lavoro"
+  ],
+  "sottotema": "Cuneo fiscale",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "data": "2026",
+  "destinatari": [
+   "giovani",
+   "famiglie",
+   "imprese"
+  ]
+ },
+ {
+  "partiti": [
+   "fn"
+  ],
+  "sintesi": "Superare gradualmente il sistema di saldo e acconto per autonomi e piccole imprese",
+  "citazione": "Superamento graduale del sistema di saldo e acconto per autonomi e piccole imprese, orientando la tassazione ai redditi effettivamente prodotti e incassati, secondo modalità compatibili con la continuità della finanza pubblica.",
+  "fonte": "fn-sito-programma",
+  "punto": "Dottrina economica e fiscalità",
+  "aree": [
+   "fisco",
+   "economia-imprese"
+  ],
+  "sottotema": "Tasse sulle imprese",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "data": "2026",
+  "destinatari": [
+   "imprese"
+  ]
+ },
+ {
+  "partiti": [
+   "fn"
+  ],
+  "sintesi": "Estendere il principio di cassa per professionisti e imprese minori, con IVA versata all'incasso",
+  "citazione": "Estensione del principio di cassa per professionisti e imprese minori, favorendo progressivamente il versamento dell’IVA all’effettivo incasso nei limiti consentiti dal quadro normativo.",
+  "fonte": "fn-sito-programma",
+  "punto": "Dottrina economica e fiscalità",
+  "aree": [
+   "fisco"
+  ],
+  "sottotema": "IVA",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "data": "2026",
+  "destinatari": [
+   "imprese"
+  ]
+ },
+ {
+  "partiti": [
+   "fn"
+  ],
+  "sintesi": "Ridurre le aliquote IRPEF e razionalizzare gli scaglioni fino a una tassa piatta a una o due aliquote",
+  "citazione": "Prosecuzione del percorso di riduzione delle aliquote IRPEF e razionalizzazione degli scaglioni, con particolare attenzione alla tutela della classe media e alla neutralità tra diverse categorie di contribuenti, con l’obiettivo di giungere ad un sistema di tassa piatta a una o due aliquote",
+  "fonte": "fn-sito-programma",
+  "punto": "Dottrina economica e fiscalità",
+  "aree": [
+   "fisco"
+  ],
+  "sottotema": "Flat tax",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "data": "2026"
+ },
+ {
+  "partiti": [
+   "fn"
+  ],
+  "sintesi": "Rivedere il rapporto tra regime forfettario e ordinario eliminando gli effetti soglia",
+  "citazione": "Revisione del rapporto tra regime forfettario e regime ordinario, eliminando gli effetti soglia che scoraggiano la crescita del fatturato e prevedendo una transizione graduale, trasparente e anti-elusiva tra i due sistemi",
+  "fonte": "fn-sito-programma",
+  "punto": "Dottrina economica e fiscalità",
+  "aree": [
+   "fisco"
+  ],
+  "sottotema": "Flat tax",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "data": "2026",
+  "destinatari": [
+   "imprese"
+  ]
+ },
+ {
+  "partiti": [
+   "fn"
+  ],
+  "sintesi": "Valutare l'innalzamento del limite del regime agevolato per le partite IVA e una tassazione incrementale sui maggiori ricavi",
+  "citazione": "Valutazione dell’innalzamento del limite del regime agevolato per le partite IVA e introduzione di una tassazione incrementale sui maggiori ricavi, così da favorire crescita ed emersione senza penalizzare chi aumenta la propria attività.",
+  "fonte": "fn-sito-programma",
+  "punto": "Dottrina economica e fiscalità",
+  "aree": [
+   "fisco"
+  ],
+  "sottotema": "Flat tax",
+  "concretezza": 2,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "data": "2026",
+  "destinatari": [
+   "imprese"
+  ]
+ },
+ {
+  "partiti": [
+   "fn"
+  ],
+  "sintesi": "Rivedere deducibilità dei costi d'impresa e ammortamenti per favorire investimenti produttivi",
+  "citazione": "Revisione della deducibilità dei costi d’impresa e del sistema degli ammortamenti, favorendo investimenti produttivi, innovazione, digitalizzazione, efficientamento energetico e beni strumentali",
+  "fonte": "fn-sito-programma",
+  "punto": "Dottrina economica e fiscalità",
+  "aree": [
+   "fisco",
+   "economia-imprese"
+  ],
+  "sottotema": "Tasse sulle imprese",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "data": "2026",
+  "destinatari": [
+   "imprese"
+  ]
+ },
+ {
+  "partiti": [
+   "fn"
+  ],
+  "sintesi": "Estendere la deducibilità delle spese fondamentali tracciabili (sanità, istruzione, casa, figli, disabilità, non autosufficienza)",
+  "citazione": "Progressiva estensione della deducibilità delle spese fondamentali sostenute con strumenti tracciabili, con priorità a sanità, istruzione, abitazione, figli, disabilità e non autosufficienza, accompagnata da una razionalizzazione delle agevolazioni fiscali frammentate.",
+  "fonte": "fn-sito-programma",
+  "punto": "Dottrina economica e fiscalità",
+  "aree": [
+   "fisco"
+  ],
+  "sottotema": "IRPEF e aliquote",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "data": "2026"
+ },
+ {
+  "partiti": [
+   "fn"
+  ],
+  "sintesi": "Ridurre progressivamente l'IVA sui beni essenziali per famiglie e figli, rivedendo se necessario la normativa europea",
+  "citazione": "Progressiva riduzione dell’IVA sui beni essenziali per famiglie e figli, promuovendo, ove necessario, la revisione della normativa europea applicabile.",
+  "fonte": "fn-sito-programma",
+  "punto": "Dottrina economica e fiscalità",
+  "aree": [
+   "fisco",
+   "famiglia-natalita"
+  ],
+  "sottotema": "IVA",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "data": "2026",
+  "destinatari": [
+   "famiglie"
+  ]
+ },
+ {
+  "partiti": [
+   "fn"
+  ],
+  "sintesi": "Rafforzare la deducibilità delle donazioni agli enti del Terzo Settore trasparenti",
+  "citazione": "Rafforzamento della deducibilità delle donazioni agli enti del Terzo Settore che garantiscano trasparenza, corretto utilizzo delle risorse e misurabilità dell’impatto sociale.",
+  "fonte": "fn-sito-programma",
+  "punto": "Dottrina economica e fiscalità",
+  "aree": [
+   "fisco",
+   "welfare-inclusione"
+  ],
+  "sottotema": "Terzo settore",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "data": "2026"
+ },
+ {
+  "partiti": [
+   "fn"
+  ],
+  "sintesi": "Incentivare fiscalmente e contributivamente il rientro in Italia di produzioni strategiche e filiere ad alto valore aggiunto",
+  "citazione": "Incentivi fiscali e contributivi al rientro in Italia delle produzioni strategiche e delle filiere ad alto valore aggiunto, quale strumento di politica industriale e rafforzamento competitivo.",
+  "fonte": "fn-sito-programma",
+  "punto": "Dottrina economica e fiscalità",
+  "aree": [
+   "economia-imprese",
+   "fisco"
+  ],
+  "sottotema": "Politica industriale",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "data": "2026"
+ },
+ {
+  "partiti": [
+   "fn"
+  ],
+  "sintesi": "Introdurre la definizione agevolata dei contenziosi fiscali pregressi",
+  "citazione": "Definizione agevolata dei contenziosi fiscali pregressi, collegata a un sistema tributario più semplice, stabile e orientato alla collaborazione tra amministrazione e contribuente.",
+  "fonte": "fn-sito-programma",
+  "punto": "Dottrina economica e fiscalità",
+  "aree": [
+   "fisco"
+  ],
+  "sottotema": "Evasione, condoni e rottamazioni",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "data": "2026"
+ },
+ {
+  "partiti": [
+   "fn"
+  ],
+  "sintesi": "Rafforzare il contrasto a evasione organizzata, elusione internazionale e frodi, concentrando i controlli",
+  "citazione": "Rafforzamento del contrasto all’evasione fiscale organizzata, all’elusione internazionale, alle frodi e ai trasferimenti artificiosi di base imponibile, concentrando i controlli sui fenomeni economicamente più rilevanti e riducendo gli oneri amministrativi per le piccole imprese corrette.",
+  "fonte": "fn-sito-programma",
+  "punto": "Dottrina economica e fiscalità",
+  "aree": [
+   "fisco"
+  ],
+  "sottotema": "Evasione, condoni e rottamazioni",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "data": "2026"
+ },
+ {
+  "partiti": [
+   "fn"
+  ],
+  "sintesi": "Prevedere che ogni nuovo adempimento amministrativo comporti l'eliminazione o semplificazione di obblighi esistenti",
+  "citazione": "Applicazione del principio secondo cui ogni nuovo adempimento amministrativo dovrà comportare la contestuale eliminazione o semplificazione di obblighi esistenti.",
+  "fonte": "fn-sito-programma",
+  "punto": "Dottrina economica e fiscalità",
+  "aree": [
+   "pubblica-amministrazione"
+  ],
+  "sottotema": "Semplificazione",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "data": "2026"
+ },
+ {
+  "partiti": [
+   "fn"
+  ],
+  "sintesi": "Istituire un Fondo Sovrano per la Crescita Nazionale per investire in infrastrutture, energia, innovazione e imprese",
+  "citazione": "Futuro Nazionale propone l’istituzione del Fondo Sovrano per la Crescita Nazionale quale strumento di investimento strategico destinato a sostenere infrastrutture, energia, innovazione, tecnologie avanzate, ricerca, capitale di rischio e patrimonializzazione delle imprese italiane",
+  "fonte": "fn-sito-programma",
+  "punto": "Dottrina economica e fiscalità",
+  "aree": [
+   "economia-imprese",
+   "conti-pubblici"
+  ],
+  "sottotema": "Partecipazioni pubbliche",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "data": "2026"
+ },
+ {
+  "partiti": [
+   "fn"
+  ],
+  "sintesi": "Far intervenire il Fondo Sovrano a tutela degli asset strategici esposti ad acquisizioni ostili, con il Golden Power",
+  "citazione": "Il Fondo potrà intervenire, anche temporaneamente, nella tutela degli asset strategici quando siano esposti ad acquisizioni ostili o a situazioni capaci di compromettere sicurezza economica, continuità delle filiere produttive o autonomia tecnologica del Paese, in coordinamento con gli strumenti di Golden Power",
+  "fonte": "fn-sito-programma",
+  "punto": "Dottrina economica e fiscalità",
+  "aree": [
+   "economia-imprese"
+  ],
+  "sottotema": "Partecipazioni pubbliche",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "data": "2026"
+ },
+ {
+  "partiti": [
+   "fn"
+  ],
+  "sintesi": "Rafforzare banche territoriali e credito cooperativo e tutelare il risparmio",
+  "citazione": "per questo tutela del risparmio, rafforzamento delle banche territoriali, credito cooperativo e pluralità degli strumenti finanziari sono elementi essenziali della sovranità economica nazionale",
+  "fonte": "fn-sito-programma",
+  "punto": "Dottrina economica e fiscalità",
+  "aree": [
+   "economia-imprese"
+  ],
+  "sottotema": "Credito e banche",
+  "concretezza": 2,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "data": "2026"
+ },
+ {
+  "partiti": [
+   "fn"
+  ],
+  "sintesi": "Consentire il pensionamento dopo 41 anni di contribuzione effettiva con percorso graduale",
+  "citazione": "L’obiettivo programmatico di Futuro Nazionale è consentire il pensionamento dopo 41 anni di contribuzione effettiva, attraverso un percorso graduale compatibile con gli equilibri finanziari e demografici del sistema previdenziale",
+  "fonte": "fn-sito-programma",
+  "punto": "Dottrina economica e fiscalità",
+  "aree": [
+   "pensioni"
+  ],
+  "sottotema": "Età pensionabile e legge Fornero",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "data": "2026"
+ },
+ {
+  "partiti": [
+   "fn"
+  ],
+  "sintesi": "Abbassare l'età pensionabile in base al numero dei figli avuti",
+  "citazione": "correttivi previdenziali da introdurre secondo criteri di sostenibilità e che prevedano un significativo abbassamento dell’età pensionabile sulla base del numero dei figli avuti",
+  "fonte": "fn-sito-programma",
+  "punto": "Dottrina economica e fiscalità",
+  "aree": [
+   "pensioni",
+   "famiglia-natalita"
+  ],
+  "sottotema": "Quote e uscite anticipate",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "data": "2026",
+  "destinatari": [
+   "donne",
+   "famiglie"
+  ]
+ },
+ {
+  "partiti": [
+   "fn"
+  ],
+  "sintesi": "Incentivare la previdenza complementare ampliando la deducibilità dei versamenti",
+  "citazione": "Parallelamente sarà incentivata la previdenza complementare, rafforzandone l’educazione finanziaria e ampliando progressivamente la deducibilità fiscale dei relativi versamenti, con l’obiettivo di integrare le future pensioni e favorire investimenti nell’economia reale nazionale.",
+  "fonte": "fn-sito-programma",
+  "punto": "Dottrina economica e fiscalità",
+  "aree": [
+   "pensioni",
+   "fisco"
+  ],
+  "sottotema": "Previdenza complementare",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "data": "2026"
+ },
+ {
+  "partiti": [
+   "fn"
+  ],
+  "sintesi": "Valutare l'introduzione della moneta fiscale, basata su crediti fiscali di circolazione volontaria",
+  "citazione": "Futuro Nazionale propone di valutare l’introduzione della moneta fiscale quale strumento complementare di politica economica, fondato sulla circolazione volontaria di crediti fiscali e diritti di compensazione tra Stato e contribuenti, senza configurare una moneta alternativa",
+  "fonte": "fn-sito-programma",
+  "punto": "Dottrina economica e fiscalità",
+  "aree": [
+   "conti-pubblici",
+   "fisco"
+  ],
+  "sottotema": "Debito e deficit",
+  "concretezza": 2,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "data": "2026"
+ },
+ {
+  "partiti": [
+   "fn"
+  ],
+  "sintesi": "Introdurre la moneta fiscale gradualmente con ricognizione dei crediti e sperimentazioni circoscritte",
+  "citazione": "L’eventuale introduzione dovrà avvenire gradualmente, attraverso una ricognizione dei crediti fiscali esistenti, seguita da sperimentazioni circoscritte, integralmente tracciabili e sottoposte a monitoraggio indipendente",
+  "fonte": "fn-sito-programma",
+  "punto": "Dottrina economica e fiscalità",
+  "aree": [
+   "conti-pubblici",
+   "fisco"
+  ],
+  "sottotema": "Debito e deficit",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "data": "2026"
+ }
+]

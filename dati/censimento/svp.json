@@ -1,0 +1,25 @@
+{
+  "data": "2026-10-16",
+  "partito": "svp",
+  "nome": "Suedtiroler Volkspartei",
+  "partito_autonomo": true,
+  "collocazione": "ne' maggioranza ne' opposizione (di norma astensione sulla fiducia; posizione autonomista)",
+  "camera": {
+    "gruppo": "MISTO-MINORANZE LINGUISTICHE (componente del Gruppo Misto, 4 deputati complessivi)",
+    "deputati": 3,
+    "url": "https://www.camera.it/leg19/46",
+    "verificato_direttamente": true,
+    "note": "Componente a 4 deputati (camera.it, 2026-10-16): tre SVP (Schullian, Gebhard, Steger) piu' il valdostano Manes, indipendente; nominativi SVP da Pagella Politica (7 maggio 2024), non riverificati."
+  },
+  "senato": {
+    "gruppo": "Per le Autonomie (SVP-PATT, Campobase)",
+    "senatori": 2,
+    "url": "https://dati.senato.it/gruppo/69.html",
+    "verificato_direttamente": false,
+    "note": "Senatori SVP: Julia Unterberger (presidente del gruppo) e Meinhard Durnwalder (Pagella Politica 2024; denominazione del gruppo da dati.senato.it). Sito del Senato non raggiungibile con lo strumento di scarico."
+  },
+  "fonti_secondarie": [
+    "https://pagellapolitica.it/articoli/chi-sono-parlamentari-autonomisti"
+  ],
+  "note": "Partito autonomo con parlamentari propri."
+}

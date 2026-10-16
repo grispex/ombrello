@@ -1,0 +1,622 @@
+[
+ {
+  "partiti": [
+   "fn"
+  ],
+  "sintesi": "Adottare l'ora legale permanente per tutto l'anno",
+  "citazione": "Futuro Nazionale propone l’adozione dell’ora legale permanente per tutto l’anno, con un risparmio potenziale di decine di milioni di euro annui",
+  "fonte": "fn-sito-programma",
+  "punto": "Energia",
+  "aree": [
+   "energia"
+  ],
+  "sottotema": "Efficienza energetica",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "data": "2026"
+ },
+ {
+  "partiti": [
+   "fn"
+  ],
+  "sintesi": "Rimuovere dalle bollette gli incentivi alle nuove installazioni di eolico e solare non autosostenibili",
+  "citazione": "il taglio degli oneri in bolletta attraverso la rimozione degli incentivi sulle nuove istallazioni per le energie degli incentivi per le energie rinnovabili (eolico e solare quando non autosostenibili economicamente) dalle bollette dei cittadini",
+  "fonte": "fn-sito-programma",
+  "punto": "Energia",
+  "aree": [
+   "energia"
+  ],
+  "sottotema": "Bollette e prezzi",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "data": "2026"
+ },
+ {
+  "partiti": [
+   "fn"
+  ],
+  "sintesi": "Puntare su un mix di fonti con rinnovabili, gas, nucleare di nuova generazione, biomasse e carbone in impianti innovativi",
+  "citazione": "Solo un mix equilibrato di fonti – rinnovabili programmabili e non, gas naturale, nucleare di nuova generazione, biomasse, carbone in impianti innovativi e ambientalmente sostenibili",
+  "fonte": "fn-sito-programma",
+  "punto": "Energia",
+  "aree": [
+   "energia"
+  ],
+  "sottotema": "Gas e approvvigionamento",
+  "concretezza": 2,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "data": "2026"
+ },
+ {
+  "partiti": [
+   "fn"
+  ],
+  "sintesi": "Opporsi alle politiche europee Green Deal e Fit for 55",
+  "citazione": "Futuro Nazionale esprime una chiara e ferma contrarietà alle politiche energetiche e ambientali europee fondate su dogmi ideologici anziché su evidenze scientifiche, economicità e interesse nazionale. Il Green Deal europeo, il pacchetto Fit for 55, la strategia 20-20-20 e tutte le successive declinazioni di politiche climatiche vincolanti hanno imposto all’Italia e agli altri Stati membri scadenze forzate, divieti punitivi e obblighi di trasformazione che gravano pesantemente su famiglie, imprese e filiere produttive, senza garantire in cambio né sicurezza energetica né reale riduzione delle emissioni globali.",
+  "fonte": "fn-sito-programma",
+  "punto": "Energia",
+  "aree": [
+   "energia",
+   "ambiente-animali",
+   "esteri-europa"
+  ],
+  "sottotema": "Clima ed emissioni",
+  "concretezza": 2,
+  "stato": "annunciata",
+  "ambito": "europeo",
+  "data": "2026"
+ },
+ {
+  "partiti": [
+   "fn"
+  ],
+  "sintesi": "Riaprire i canali di acquisto del gas dalla Russia e dagli altri partner commerciali",
+  "citazione": "È importante riaprire i canali di acquisto di gas dalla Russia e da tutti quei partner commerciali che vogliono commerciare commodities energetiche con noi",
+  "fonte": "fn-sito-programma",
+  "punto": "Energia",
+  "aree": [
+   "energia",
+   "esteri-europa"
+  ],
+  "sottotema": "Gas e approvvigionamento",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "data": "2026"
+ },
+ {
+  "partiti": [
+   "fn"
+  ],
+  "sintesi": "Riprendere le estrazioni dai giacimenti nazionali e fare dell'Italia un hub energetico del Mediterraneo",
+  "citazione": "La ripresa delle estrazioni dai giacimenti nazionali, lo sfruttamento pieno delle risorse di sottosuolo e mari, e il consolidamento dell’Italia come hub energetico del Mediterraneo",
+  "fonte": "fn-sito-programma",
+  "punto": "Energia",
+  "aree": [
+   "energia"
+  ],
+  "sottotema": "Gas e approvvigionamento",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "data": "2026"
+ },
+ {
+  "partiti": [
+   "fn"
+  ],
+  "sintesi": "Varare un piano organico di lungo periodo sull'efficienza energetica con politiche strutturali al posto degli incentivi emergenziali",
+  "citazione": "Futuro Nazionale propone un piano organico di lungo periodo fondato su tre principi: stabilità normativa, semplificazione amministrativa e selettività degli interventi. Le risorse pubbliche devono essere indirizzate prioritariamente verso gli edifici più energivori e le famiglie con minore capacità di investimento. L’obiettivo è intervenire su almeno tre milioni di abitazioni, contando solo lavori che producano un miglioramento misurabile di fabbisogno, classe energetica e di costi.",
+  "fonte": "fn-sito-programma",
+  "punto": "Energia",
+  "aree": [
+   "energia"
+  ],
+  "sottotema": "Efficienza energetica",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "data": "2026"
+ },
+ {
+  "partiti": [
+   "fn"
+  ],
+  "sintesi": "Riportare l'Italia all'energia nucleare con reattori modulari (SMR) e avanzati (AMR)",
+  "citazione": "Futuro Nazionale sostiene il ritorno dell’Italia all’energia nucleare. Mentre il mondo intero sviluppa e potenzia questa fonte per garantire energia pulita, sicura e costante, l’Italia non può rimanere indietro. Le nuove tecnologie nucleari, a partire dai reattori modulari di piccola taglia (SMR – Small Modular Reactors) e dai reattori avanzati (AMR), saranno alleati fondamentali per abbattere i costi delle bollette e garantire l’autonomia strategica nazionale quando le fonti rinnovabili arriveranno al limite per essere integrate efficacemente nel sistema elettrico.",
+  "fonte": "fn-sito-programma",
+  "punto": "Energia",
+  "aree": [
+   "energia"
+  ],
+  "sottotema": "Nucleare",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "data": "2026"
+ },
+ {
+  "partiti": [
+   "fn"
+  ],
+  "sintesi": "Procedere per fasi sul nucleare, con orizzonte di almeno 20 anni tra autorizzazioni, costruzione ed esercizio",
+  "citazione": "Il ritorno al nucleare richiederà tempi non inferiori ai 20 anni tra autorizzazioni, costruzione e messa in esercizio, ma rappresenta una scelta strategica per garantire, nel lungo periodo, capacità stabile (firm power) e prezzi prevedibili, in maniera complementare alle fonti rinnovabili. Le decisioni dovranno essere per fasi, con confronto trasparente delle alternative e valutazione del costo totale di sistema.",
+  "fonte": "fn-sito-programma",
+  "punto": "Energia",
+  "aree": [
+   "energia"
+  ],
+  "sottotema": "Nucleare",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "data": "2026"
+ },
+ {
+  "partiti": [
+   "fn"
+  ],
+  "sintesi": "Ridurre i tempi di connessione alla rete a meno di 18 mesi",
+  "citazione": "Riduzione tempi di connessione a meno di 18 mesi",
+  "fonte": "fn-sito-programma",
+  "punto": "Energia",
+  "aree": [
+   "energia"
+  ],
+  "sottotema": "Rinnovabili",
+  "concretezza": 4,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "data": "2026"
+ },
+ {
+  "partiti": [
+   "fn"
+  ],
+  "sintesi": "Aumentare gli accumuli di 15 GW entro il 2035",
+  "citazione": "Accumuli: +15 GW entro 2035",
+  "fonte": "fn-sito-programma",
+  "punto": "Energia",
+  "aree": [
+   "energia"
+  ],
+  "sottotema": "Rinnovabili",
+  "concretezza": 4,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "data": "2026"
+ },
+ {
+  "partiti": [
+   "fn"
+  ],
+  "sintesi": "Aumentare la capacità programmabile di 20 GW entro il 2040",
+  "citazione": "Capacità programmabile: +20 GW entro 2040",
+  "fonte": "fn-sito-programma",
+  "punto": "Energia",
+  "aree": [
+   "energia"
+  ],
+  "sottotema": "Gas e approvvigionamento",
+  "concretezza": 4,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "data": "2026"
+ },
+ {
+  "partiti": [
+   "fn"
+  ],
+  "sintesi": "Legare ogni nuova capacità di fotovoltaico ed eolico a contenuti europei, riciclo e capacità produttive interne",
+  "citazione": "Ogni nuova capacità installata dovrebbe essere accompagnata da impegni su contenuti europei, riciclo, riparabilità e sviluppo di capacità produttive interne nei segmenti in cui l’Italia e l’Europa possono costruire vantaggi (elettronica di potenza, cavi, inverter, strutture, sistemi di controllo). Gli accumuli associati alle rinnovabili intermittenti devono privilegiare soluzioni e componenti di filiera nazionale ed europea, evitando di sostituire una dipendenza (combustibili) con un’altra (tecnologie e materie prime critiche).",
+  "fonte": "fn-sito-programma",
+  "punto": "Energia",
+  "aree": [
+   "energia",
+   "economia-imprese"
+  ],
+  "sottotema": "Rinnovabili",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "data": "2026"
+ },
+ {
+  "partiti": [
+   "fn"
+  ],
+  "sintesi": "Proseguire con il fotovoltaico su tetti, parcheggi, capannoni ed edifici pubblici senza oneri in bolletta",
+  "citazione": "Siamo favorevoli a proseguire – senza aggiunta di oneri sulle bollette",
+  "fonte": "fn-sito-programma",
+  "punto": "Energia",
+  "aree": [
+   "energia"
+  ],
+  "sottotema": "Rinnovabili",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "data": "2026"
+ },
+ {
+  "partiti": [
+   "fn"
+  ],
+  "sintesi": "Escludere le pale eoliche dove deturpano paesaggi non replicabili",
+  "citazione": "siamo contrari alle pale eoliche qualora vadano a deturpare paesaggi di bellezze non replicabili",
+  "fonte": "fn-sito-programma",
+  "punto": "Energia",
+  "aree": [
+   "energia",
+   "ambiente-animali"
+  ],
+  "sottotema": "Rinnovabili",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "data": "2026"
+ },
+ {
+  "partiti": [
+   "fn"
+  ],
+  "sintesi": "Pianificare l'eolico con priorità a siti compromessi o offshore e compensazioni stabili ai territori ospitanti",
+  "citazione": "La soluzione è pianificazione preventiva, priorità a siti già compromessi o a soluzioni offshore dove ambientalmente e paesaggisticamente sostenibili, e compensazioni stabili per i territori che ospitano le infrastrutture",
+  "fonte": "fn-sito-programma",
+  "punto": "Energia",
+  "aree": [
+   "energia"
+  ],
+  "sottotema": "Rinnovabili",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "data": "2026"
+ },
+ {
+  "partiti": [
+   "fn"
+  ],
+  "sintesi": "Fare il repowering degli impianti idroelettrici esistenti e digitalizzare la gestione degli invasi",
+  "citazione": "Il repowering degli impianti esistenti e la digitalizzazione della gestione degli invasi consentono di aumentare la producibilità e la reattività del parco idroelettrico senza nuovi invasivi interventi territoriali",
+  "fonte": "fn-sito-programma",
+  "punto": "Energia",
+  "aree": [
+   "energia"
+  ],
+  "sottotema": "Rinnovabili",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "data": "2026"
+ },
+ {
+  "partiti": [
+   "fn"
+  ],
+  "sintesi": "Varare un Piano nazionale dell'acqua con nuove dighe e la rivalutazione del progetto di regimazione del Po",
+  "citazione": "Questo impegno si inserisce in un grande Piano nazionale dell’acqua, che prevede anche la realizzazione di nuove dighe e la rivalutazione del progetto di regimazione del fiume Po e degli altri corsi d’acqua",
+  "fonte": "fn-sito-programma",
+  "punto": "Energia",
+  "aree": [
+   "ambiente-animali",
+   "energia",
+   "infrastrutture-trasporti"
+  ],
+  "sottotema": "Acqua pubblica",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "data": "2026"
+ },
+ {
+  "partiti": [
+   "fn"
+  ],
+  "sintesi": "Valorizzare il bosco incolto per la biomassa legnosa e la filiera del legno",
+  "citazione": "Trasformare questo bosco incolto in bosco perpetuo e utilizzabile per biomassa e per la filiera del legno",
+  "fonte": "fn-sito-programma",
+  "punto": "Energia",
+  "aree": [
+   "energia",
+   "agricoltura-pesca"
+  ],
+  "sottotema": "Rinnovabili",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "data": "2026"
+ },
+ {
+  "partiti": [
+   "fn"
+  ],
+  "sintesi": "Produrre biometano e biogas solo da sottoprodotti e scarti agricoli e agroindustriali e FORSU",
+  "citazione": "Il biometano e il biogas devono essere prodotti esclusivamente attraverso l’utilizzo di sottoprodotti e scarti agricoli, agroindustriali e della frazione organica della raccolta differenziata (FORSU). Questa regola di sostenibilità è vincolante: nessuna conversione di suolo agricolo a colture dedicate, nessuna concorrenza con la filiera alimentare e nessun incentivo all’importazione opaca di materie prime.",
+  "fonte": "fn-sito-programma",
+  "punto": "Energia",
+  "aree": [
+   "energia",
+   "agricoltura-pesca"
+  ],
+  "sottotema": "Rinnovabili",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "data": "2026"
+ },
+ {
+  "partiti": [
+   "fn"
+  ],
+  "sintesi": "Portare il biometano a 5-6 miliardi di metri cubi annui al 2035",
+  "citazione": "costruire una traiettoria verso 5–6 miliardi di m³ annui al 2035, subordinata a una mappa verificata delle matrici sostenibili, al controllo delle perdite di metano, alla copertura delle vasche e alla tutela delle acque. La connessione alla rete o l’uso locale devono essere valutati dove il beneficio sistemico è maggiore: trasporti pesanti, calore di processo, industria e generazione flessibile.",
+  "fonte": "fn-sito-programma",
+  "punto": "Energia",
+  "aree": [
+   "energia"
+  ],
+  "sottotema": "Rinnovabili",
+  "concretezza": 4,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "data": "2026"
+ },
+ {
+  "partiti": [
+   "fn"
+  ],
+  "sintesi": "Potenziare il teleriscaldamento recuperando il calore residuo di industrie e termovalorizzatori",
+  "citazione": "Nelle aree urbane va potenziato il teleriscaldamento, recuperando il calore residuo di industrie e termovalorizzatori per riscaldare interi quartieri azzerando gli sprechi. L’efficientamento di impianti e immobili deve seguire un percorso sostenibile, supportato da politiche strutturali e stabili.",
+  "fonte": "fn-sito-programma",
+  "punto": "Energia",
+  "aree": [
+   "energia",
+   "ambiente-animali"
+  ],
+  "sottotema": "Efficienza energetica",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "data": "2026"
+ },
+ {
+  "partiti": [
+   "fn"
+  ],
+  "sintesi": "Respingere le scadenze europee del 2035 sui motori termici",
+  "citazione": "I vincoli residui e le scadenze forzate della programmazione europea al 2035 non possono essere più accettati: sebbene Bruxelles sia stata costretta a fare un primo passo indietro rimodulando i vecchi obblighi di azzeramento totale e aprendo ai carburanti alternativi per i motori termici, l’impianto normativo attuale continua a minacciare la filiera automotive italiana e a imporre transizioni economicamente insostenibili. La revisione europea del 2035 resta un dossier politico aperto e non deve essere presentata come modifica già approvata.",
+  "fonte": "fn-sito-programma",
+  "punto": "Energia",
+  "aree": [
+   "energia",
+   "infrastrutture-trasporti",
+   "ambiente-animali"
+  ],
+  "sottotema": "Clima ed emissioni",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "europeo",
+  "data": "2026"
+ },
+ {
+  "partiti": [
+   "fn"
+  ],
+  "sintesi": "Riconoscere e adottare biocarburanti avanzati (HVO) e carburanti sintetici (e-fuels)",
+  "citazione": "sosteniamo il pieno riconoscimento e l’adozione dei biocarburanti avanzati (HVO) e dei carburanti sintetici (e-fuels), soluzioni strategiche per azzerare l’impatto ambientale difendendo i motori termici e i veicoli già in circolazione.",
+  "fonte": "fn-sito-programma",
+  "punto": "Energia",
+  "aree": [
+   "energia",
+   "infrastrutture-trasporti"
+  ],
+  "sottotema": "Idrogeno",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "data": "2026"
+ },
+ {
+  "partiti": [
+   "fn"
+  ],
+  "sintesi": "Potenziare logistica ferroviaria e portuale e modernizzare il trasporto pubblico senza divieti punitivi",
+  "citazione": "lo Stato deve concentrarsi sul potenziamento della logistica ferroviaria e portuale e sulla modernizzazione del trasporto pubblico, riducendo il congestionamento stradale senza imporre divieti punitivi",
+  "fonte": "fn-sito-programma",
+  "punto": "Energia",
+  "aree": [
+   "infrastrutture-trasporti"
+  ],
+  "sottotema": "Trasporto pubblico locale",
+  "concretezza": 2,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "data": "2026"
+ },
+ {
+  "partiti": [
+   "fn"
+  ],
+  "sintesi": "Rifiutare l'aumento della spesa militare al 5% del PIL su pressione di NATO e UE",
+  "citazione": "Rigettiamo con fermezza il piano di aumento della spesa militare al 5% del PIL su pressione NATO ed UE",
+  "fonte": "fn-sito-programma",
+  "punto": "Difesa",
+  "aree": [
+   "difesa",
+   "conti-pubblici"
+  ],
+  "sottotema": "Spesa militare e obiettivi NATO",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "data": "2026"
+ },
+ {
+  "partiti": [
+   "fn"
+  ],
+  "sintesi": "Opporsi al prestito europeo SAFE e al debito comune per la difesa",
+  "citazione": "Futuro Nazionale è contrario ad ogni forma di indebitamento comune e ancor più allo strumento SAFE.",
+  "fonte": "fn-sito-programma",
+  "punto": "Difesa",
+  "aree": [
+   "difesa",
+   "esteri-europa"
+  ],
+  "sottotema": "Difesa europea",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "europeo",
+  "data": "2026"
+ },
+ {
+  "partiti": [
+   "fn"
+  ],
+  "sintesi": "Rafforzare la sorveglianza delle frontiere con pattugliamenti e interdizioni della Marina Militare nel Mediterraneo",
+  "citazione": "Si propone di rafforzare la sorveglianza delle frontiere, anche attraverso l’impiego della Marina Militare per pattugliamenti e interdizioni mirate nel Mediterraneo, nel rispetto del diritto internazionale",
+  "fonte": "fn-sito-programma",
+  "punto": "Difesa",
+  "aree": [
+   "difesa",
+   "immigrazione-cittadinanza"
+  ],
+  "sottotema": "Missioni internazionali",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "data": "2026"
+ },
+ {
+  "partiti": [
+   "fn"
+  ],
+  "sintesi": "Rilanciare cantieristica, aerospazio ed elettronica militare per ridurre costi e dipendenze estere",
+  "citazione": "Futuro Nazionale intende rilanciare in Italia comparti strategici (cantieristica, aerospazio, elettronica militare) così da abbattere costi e dipendenze estere, creando al contempo occupazione qualificata",
+  "fonte": "fn-sito-programma",
+  "punto": "Difesa",
+  "aree": [
+   "difesa",
+   "economia-imprese"
+  ],
+  "sottotema": "Industria della difesa",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "data": "2026"
+ },
+ {
+  "partiti": [
+   "fn"
+  ],
+  "sintesi": "Impiegare le Forze Armate in via sussidiaria per la riqualificazione di aree critiche e la protezione di infrastrutture",
+  "citazione": "il programma promuove un impiego sussidiario e coordinato con le autorità civili e di pubblica sicurezza volto alla riqualificazione di aree caratterizzate da elevati livelli di criminalità e degrado, nonché alla protezione di infrastrutture strategiche e spazi pubblici sensibili.",
+  "fonte": "fn-sito-programma",
+  "punto": "Difesa",
+  "aree": [
+   "difesa",
+   "sicurezza"
+  ],
+  "sottotema": "Missioni internazionali",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "data": "2026"
+ },
+ {
+  "partiti": [
+   "fn"
+  ],
+  "sintesi": "Bandire concorsi dedicati al personale delle forze di completamento con almeno 36 mesi di servizio",
+  "citazione": "Prevediamo concorsi dedicati al personale delle forze di completamento con almeno 36 mesi di servizio e meno di 50 anni, e un sistema di punteggi basato su esperienza, titoli, brevetti e meriti.",
+  "fonte": "fn-sito-programma",
+  "punto": "Difesa",
+  "aree": [
+   "difesa",
+   "pubblica-amministrazione"
+  ],
+  "sottotema": "Leva e servizio militare",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "data": "2026"
+ },
+ {
+  "partiti": [
+   "fn"
+  ],
+  "sintesi": "Introdurre nelle scuole superiori moduli di educazione alla difesa e alla sicurezza nazionale",
+  "citazione": "Nelle scuole superiori verranno introdotti moduli di educazione alla difesa e alla sicurezza nazionale, presentando l’eccellenza delle nostre Forze Armate e favorendo l’attrattiva dei migliori giovani con i caratteri adeguati per svolgere questa speciale funzione a difesa del Paese. Introdurremo un modello innovativo di comunicazione tra Difesa e cittadini: saranno sostenute iniziative per diffondere tra i giovani la consapevolezza del ruolo svolto dai militari, ad esempio attraverso programmi nelle scuole e l’adesione volontaria a campi e attività esterne di formazione per educazione militare con valenza civica.",
+  "fonte": "fn-sito-programma",
+  "punto": "Difesa",
+  "aree": [
+   "difesa",
+   "istruzione-universita-ricerca"
+  ],
+  "sottotema": "Leva e servizio militare",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "data": "2026"
+ },
+ {
+  "partiti": [
+   "fn"
+  ],
+  "sintesi": "Incentivare le aziende che migrano i dati su infrastrutture certificate Cloud Italia, con vincoli di localizzazione per la PA",
+  "citazione": "Incentivi fiscali e contributi economici per le aziende che migrano i propri database su infrastrutture certificate “Cloud Italia”, con conseguente recupero fiscale per maggior gettito dei provider italiani di tali servizi. Per la Pubblica Amministrazione, introduzione di vincoli di localizzazione dei dati in Italia (o entro i confini UE), resi operativi attraverso standard di sicurezza elevatissimi – immunità da legislazioni extraterritoriali come il FISA e il Cloud Act americano – che di fatto solo i provider europei o le eccellenze nazionali certificate potranno soddisfare. I nostri dati devono rimanere a casa nostra.",
+  "fonte": "fn-sito-programma",
+  "punto": "Cybersicurezza e sovranità digitale",
+  "aree": [
+   "innovazione-digitale"
+  ],
+  "sottotema": "Dati e piattaforme",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "data": "2026"
+ },
+ {
+  "partiti": [
+   "fn"
+  ],
+  "sintesi": "Estendere fino a 55 anni la platea di Io Resto al Sud 2.0 e Smart&Start Italia con incentivi per il rientro dei talenti",
+  "citazione": "estensione della platea fino ai 55 anni di età e incentivi fiscali per i talenti italiani che intendono rientrare dall’estero. Il rientro degli italiani defiscalizzato è a costo zero anziché ad aumento di gettito, perché si vanno a tassare (meno) redditi che fino all’anno precedente erano tassati all’estero. L’infrastruttura digitale, con particolare riferimento alle reti ultraveloci, deve diventare volano attrattivo di occupazione e di propulsione per startup tecnologiche, a partire dal Mezzogiorno.",
+  "fonte": "fn-sito-programma",
+  "punto": "Cybersicurezza e sovranità digitale",
+  "aree": [
+   "mezzogiorno-territori",
+   "economia-imprese"
+  ],
+  "sottotema": "Isole",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "data": "2026"
+ },
+ {
+  "partiti": [
+   "fn"
+  ],
+  "sintesi": "Istituire un portale unico del Mimit per la mappatura dei trattamenti GDPR delle piccole imprese",
+  "citazione": "Istituiamo un portale unico gestito dal Mimit, ove l’artigiano o il piccolo commerciante, inserendo poche informazioni essenziali – codice ATECO, tipologia di clientela, strumenti utilizzati – ottiene automaticamente la mappatura dei trattamenti dei dati personali, un kit di documenti preapprovati e indicazioni chiare sulle misure di sicurezza da adottare. La privacy torna a essere uno strumento di tutela del cittadino, non un ostacolo per chi lavora.",
+  "fonte": "fn-sito-programma",
+  "punto": "Cybersicurezza e sovranità digitale",
+  "aree": [
+   "innovazione-digitale",
+   "pubblica-amministrazione"
+  ],
+  "sottotema": "Dati e piattaforme",
+  "concretezza": 3,
+  "stato": "annunciata",
+  "ambito": "nazionale",
+  "data": "2026",
+  "destinatari": [
+   "imprese"
+  ]
+ }
+]
