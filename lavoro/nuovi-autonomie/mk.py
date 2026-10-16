@@ -7,6 +7,7 @@ import sys, json, re, os
 BASE="/home/user/ombrello"
 partito, spec, out = sys.argv[1:4]
 fonte=stato=ambito=punto=data=None
+join=False
 cache={}
 blocks=[]; err=0
 for n,raw in enumerate(open(spec,encoding="utf-8"),1):
@@ -19,15 +20,18 @@ for n,raw in enumerate(open(spec,encoding="utf-8"),1):
         elif k=="ambito": ambito=v
         elif k=="punto": punto=v
         elif k=="data": data=v
+        elif k=="join": join=(v=="1")
         continue
     raw=raw.replace(" | | "," | - | ").replace(" | | "," | - | ")
     f=[("" if x.strip()=="-" else x.strip()) for x in raw.split(" | ")]
     while len(f)<9: f.append("")
     L,st,en,sint,aree,sott,conc,pt,dest=f[:9]
     if fonte not in cache:
-        cache[fonte]=open(os.path.join(BASE,"corpus",partito,fonte+".txt"),encoding="utf-8").read().split("\n")
+        _t=open(os.path.join(BASE,"corpus",partito,fonte+".txt"),encoding="utf-8").read()
+        cache[fonte]=_t.split("\n")
+        cache[fonte+"#j"]=re.sub(r"\s*\n\s*"," ",re.sub(r"(?<=[a-zäöüß])-\n(?=[a-zäöüß])","",_t))
     lines=cache[fonte]
-    line=lines[int(L)-1]
+    line=cache[fonte+"#j"] if join else lines[int(L)-1]
     line=re.sub(r"^\s*[-•]\s+","",line).strip()
     try:
         i=line.index(st) if st else 0

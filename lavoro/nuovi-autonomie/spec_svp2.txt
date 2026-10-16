@@ -1,0 +1,16 @@
+@join 1
+@fonte svp-wahlprogramm-2023
+@data 2023-10
+@stato annunciata
+@punto Wahlprogramm 2023: Autonomie und Verhältnis zum Staat
+* | gilt es zunächst, auch den durch die Rechtsprechung des Verfassungsgerichtshofes eingeschränkten Gesetzgebungsspielraum | wieder herzustellen | Ripristinare lo spazio legislativo ridotto dalla giurisprudenza della Corte costituzionale in tutte le materie di competenza | istituzioni-riforme,giustizia | Autonomia differenziata | 3
+* | So streben wir danach, zentrale Kompetenzbereiche wie etwa Bildung, Gesundheit oder Umwelt | Landes zu übernehmen | Portare istruzione, sanita' e ambiente nella competenza primaria della Provincia | istituzioni-riforme,sanita,istruzione-universita-ricerca,ambiente-animali | Autonomia differenziata | 3
+* | Unser oberstes politisches Ziel ist es, die primäre Zuständigkeit für das gesamte Bildungswesen zu erlangen | - | Ottenere la competenza primaria sull'intero sistema dell'istruzione | istruzione-universita-ricerca,istituzioni-riforme | Insegnanti | 3
+* | Es ist unser Ziel, die Organisation des Sicherheitssystems als Kompetenz dem Land zu übertragen | - | Trasferire alla Provincia la competenza sull'organizzazione del sistema di sicurezza | sicurezza,istituzioni-riforme | Forze dell'ordine | 3
+* | In Sachen Sicherheit muss der Staat seine Zuständigkeiten endlich konsequent und entschlossen wahrnehmen | - | Chiedere allo Stato di esercitare con determinazione le proprie competenze in materia di sicurezza | sicurezza | Forze dell'ordine | 2
+* | Unser politisches Ziel ist es, zukünftig weitere autonomierechtliche Zuständigkeiten im Umweltbereich zu erhalten | - | Ottenere ulteriori competenze statutarie in materia ambientale | ambiente-animali,istituzioni-riforme | Parchi e biodiversità | 3
+* | Ziel ist es für alle Zuständigkeitsbereiche wieder jenen Standard zu erreichen | Republik Österreichs geführt hat | Riportare tutte le competenze allo standard del 1992 che portò alla quietanza liberatoria dell'Austria | istituzioni-riforme,esteri-europa | Autonomia differenziata | 3
+* | eine auch für die Zukunft garantierte Mindestrente auf staatlicher Ebene | auf römischer Ebene einsetzen | Garantire una pensione minima a livello statale e sostenerne la reintroduzione a Roma | pensioni | Pensioni minime | 3 | - | anziani
+* | Wir fördern die Anerkennung von Erziehungs- und Pflegezeiten für die Rente | auf staatlicher Ebene ein | Riconoscere ai fini pensionistici i periodi di educazione e cura, anche a livello statale | pensioni,famiglia-natalita | Pensioni dei giovani | 3
+* | Es gilt alles zu unternehmen, dass der staatliche Gesetzgeber die bürokratischen Hürden | verträgliches Maß reduziert | Chiedere al legislatore statale di ridurre gli ostacoli burocratici della riforma del Terzo settore | welfare-inclusione,pubblica-amministrazione | Terzo settore | 2
+* | indem wir uns auf staatlicher Ebene für einen früheren Arbeitseinstieg einsetzen | - | Sostenere a livello statale un ingresso piu' precoce dei giovani nel mondo del lavoro | lavoro,istruzione-universita-ricerca | Occupazione giovanile e femminile | 2 | - | giovani
