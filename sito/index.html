@@ -91,8 +91,16 @@ blockquote { margin: 4px 0; padding-left: 10px; border-left: 1px solid var(--lin
 .mapbox { position: relative; height: clamp(420px, 70vh, 700px); border: 1px solid var(--line); touch-action: none; overflow: hidden; }
 .mapbox canvas { width: 100%; height: 100%; display: block; }
 .mmsg { position: absolute; inset: 0; display: grid; place-items: center; padding: 20px; text-align: center; background: var(--bg); }
-#minfo { display: flex; flex-direction: column; gap: 10px; }
 .btn { border: 1px solid var(--line); padding: 5px 10px; cursor: pointer; }
+.hamb { position: absolute; top: 10px; right: 10px; width: 40px; height: 36px; border: 1px solid var(--line); display: flex; flex-direction: column; justify-content: center; align-items: center; gap: 5px; cursor: pointer; z-index: 3; }
+.hamb span { display: block; width: 18px; height: 1.5px; background: var(--fg); }
+.mpanel { position: absolute; top: 0; right: 0; bottom: 0; width: min(420px, 100%); background: var(--bg); border-left: 1px solid var(--line); overflow-y: auto; z-index: 4; padding: 12px 14px 20px; display: flex; flex-direction: column; gap: 10px; }
+.mphead { display: flex; justify-content: space-between; gap: 8px; position: sticky; top: -12px; background: var(--bg); padding-block: 4px; }
+.mphead #mclose { margin-left: auto; }
+.qlist { display: flex; flex-direction: column; }
+.qlist button { text-align: left; border: 0; border-bottom: 1px solid var(--faint); padding: 7px 0; cursor: pointer; display: flex; flex-direction: column; gap: 2px; }
+.qlist button:hover { text-decoration: underline; }
+.mpanel .box { position: static; max-width: none; }
 footer { border-top: 1px solid var(--line); padding-top: 10px; font-size: .8rem; color: var(--mid); }
 </style>
 
@@ -141,9 +149,13 @@ footer { border-top: 1px solid var(--line); padding-top: 10px; font-size: .8rem;
         <button type="button" id="mside" class="btn">Vista di lato</button>
         <button type="button" id="mreset" class="btn">Azzera</button>
       </div>
-      <div class="mapbox"><canvas id="mcanvas" aria-label="Mappa 3D delle convergenze. Trascina per ruotare, scorri per ingrandire, tocca una sfera per aprire la questione."></canvas><div class="mmsg" id="mmsg" hidden></div></div>
+      <div class="mapbox"><canvas id="mcanvas" aria-label="Mappa 3D delle convergenze. Trascina per ruotare, scorri per ingrandire, tocca una sfera per aprire la questione."></canvas><div class="mmsg" id="mmsg" hidden></div>
+        <button type="button" class="hamb" id="mmenu" aria-label="Apri l'elenco delle questioni" aria-expanded="false" aria-controls="mpanel"><span></span><span></span><span></span></button>
+        <aside class="mpanel" id="mpanel" hidden aria-label="Questioni">
+          <div class="mphead"><button type="button" class="btn" id="mback" hidden>← Tutte le questioni</button><button type="button" class="btn" id="mclose" aria-label="Chiudi">✕</button></div>
+          <div id="mpbody"></div>
+        </aside></div>
       <div class="legend"><span><i class="g S"></i>partito di maggioranza</span><span><i class="g"></i>partito di opposizione</span><span><i class="g R"></i>fuori dagli schieramenti</span><span>linea continua = favorevole · tratteggiata = contrario</span></div>
-      <div id="minfo"><p class="mid">Tocca una sfera per vedere la questione e le prove.</p></div>
     </div>
   </section>
 
@@ -434,19 +446,46 @@ function startMap() {
     });
     relabel();
   }
+  const panel = $("mpanel"), pbody = $("mpbody");
+  let cerca = "";
+  function openPanel(v) { panel.hidden = !v; $("mmenu").setAttribute("aria-expanded", String(v)); $("mmenu").hidden = v; offset(); }
+  /* con il pannello aperto il centro della vista si sposta nella parte libera */
+  function offset() { const r = canvas.getBoundingClientRect(); if (!r.width) return; const pw = panel.hidden || r.width < 700 ? 0 : panel.getBoundingClientRect().width; if (pw) camera.setViewOffset(r.width, r.height, pw / 2, 0, r.width, r.height); else camera.clearViewOffset(); camera.updateProjectionMatrix(); }
   function info() {
-    const box = $("minfo"); box.replaceChildren();
-    if (!selQ) { box.append(el("p", { class: "mid", text: "Tocca una sfera per vedere la questione e le prove." })); return; }
+    pbody.replaceChildren();
+    $("mback").hidden = !selQ;
+    if (!selQ) {
+      const inp = el("input", { type: "search", placeholder: "Cerca una questione", "aria-label": "Cerca una questione", value: cerca, style: "border:1px solid var(--line);padding:5px 8px;width:100%" });
+      inp.addEventListener("input", e => { cerca = e.target.value.toLowerCase(); lista(); });
+      const ul = el("div", { class: "qlist" });
+      function lista() {
+        ul.replaceChildren();
+        const vis = nodes.filter(nd => (!selA || nd.q.a === selA) && (!selP || nd.q.p.some(x => x[0] === selP)) && (!cerca || nd.q.d.toLowerCase().includes(cerca)))
+          .sort((x, y) => (y.q.f.seggi_camera || 0) - (x.q.f.seggi_camera || 0));
+        vis.forEach(nd => ul.append(el("button", { type: "button", onclick: () => focusOn(nd) }, el("span", { text: nd.q.d }),
+          el("span", { class: "mono mid", text: AREA[nd.q.a] + " · " + (nd.divisa ? "divide" : "condivisa") + " · " + (nd.q.f.seggi_camera || 0) + " seggi" }))));
+        if (!vis.length) ul.append(el("p", { class: "mid", text: "Nessuna questione con questi filtri." }));
+      }
+      lista();
+      pbody.append(el("h2", { text: "Questioni" }), el("p", { class: "mid", text: "Scegline una per vederla sulla mappa. Valgono i filtri di area e partito." }), inp, ul);
+      return;
+    }
     const q = selQ.q;
-    box.append(el("h2", { text: q.d }), el("p", { class: "mono mid", text: AREA[q.a] + (selQ.divisa ? " · divide i partiti" : " · condivisa") }), dettaglio(q));
+    pbody.append(el("h2", { text: q.d }), el("p", { class: "mono mid", text: AREA[q.a] + (selQ.divisa ? " · divide i partiti" : " · condivisa") }), dettaglio(q));
+    panel.scrollTop = 0;
   }
+  let tgtGoal = null;
+  function focusOn(nd) { selQ = nd; controls.autoRotate = false; tgtGoal = nd.pos.clone(); paint(); info(); openPanel(true); }
+  $("mmenu").addEventListener("click", () => { openPanel(true); info(); });
+  $("mclose").addEventListener("click", () => openPanel(false));
+  $("mback").addEventListener("click", () => { selQ = null; tgtGoal = new THREE.Vector3(0, 0.2, 0); paint(); info(); });
   $("marea").addEventListener("change", e => { selA = e.target.value; selQ = null; paint(); info(); });
-  $("mpart").addEventListener("change", e => { selP = e.target.value; paint(); });
+  $("mpart").addEventListener("change", e => { selP = e.target.value; paint(); if (!selQ) info(); });
   $("mcon").addEventListener("change", e => { showC = e.target.checked; paint(); });
   let camGoal = null;
   $("mtop").addEventListener("click", () => { controls.autoRotate = false; camGoal = new THREE.Vector3(0.01, 22, 0.01); });
   $("mside").addEventListener("click", () => { controls.autoRotate = false; camGoal = new THREE.Vector3(17, 2.5, 0); });
-  $("mreset").addEventListener("click", () => { selP = ""; selQ = null; selA = ""; showC = false; $("mpart").value = ""; $("marea").value = ""; $("mcon").checked = false; paint(); info(); });
+  $("mreset").addEventListener("click", () => { selP = ""; selQ = null; selA = ""; showC = false; $("mpart").value = ""; $("marea").value = ""; $("mcon").checked = false; tgtGoal = new THREE.Vector3(0, 0.2, 0); paint(); info(); });
   const ray = new THREE.Raycaster(), v2 = new THREE.Vector2(); let down = null;
   canvas.addEventListener("pointerdown", e => { down = [e.clientX, e.clientY]; });
   canvas.addEventListener("pointerup", e => {
@@ -454,13 +493,13 @@ function startMap() {
     const r = canvas.getBoundingClientRect(); v2.set(((e.clientX - r.left) / r.width) * 2 - 1, -((e.clientY - r.top) / r.height) * 2 + 1);
     ray.setFromCamera(v2, camera);
     const hit = ray.intersectObjects(hits.filter(h => h.material.opacity > 0.2))[0];
-    selQ = hit ? (selQ === hit.object.userData.nd ? null : hit.object.userData.nd) : null; paint(); info();
+    if (hit) focusOn(hit.object.userData.nd); else if (selQ) { selQ = null; paint(); info(); }
   });
   let first = true;
   const resize = () => {
     const r = canvas.parentElement.getBoundingClientRect(); if (!r.width) return;
     renderer.setPixelRatio(Math.min(devicePixelRatio, 2)); renderer.setSize(r.width, r.height, false);
-    camera.aspect = r.width / r.height; camera.updateProjectionMatrix();
+    camera.aspect = r.width / r.height; camera.updateProjectionMatrix(); if (typeof offset === "function") offset();
     if (first) { const d = 22 / Math.min(1, Math.max(0.55, camera.aspect)); camera.position.set(d * 0.7, d * 0.36, d * 0.62); controls.target.set(0, 0.2, 0); first = false; }
   };
   window.__mapResize = resize; resize(); new ResizeObserver(resize).observe(canvas.parentElement);
@@ -471,6 +510,7 @@ function startMap() {
   (function loop() {
     requestAnimationFrame(loop); if ($("v-map").hidden) return;
     if (camGoal) { camera.position.lerp(camGoal, 0.08); if (camera.position.distanceTo(camGoal) < 0.05) camGoal = null; }
+    if (tgtGoal) { const d = tgtGoal.clone().sub(controls.target).multiplyScalar(0.08); controls.target.add(d); camera.position.add(d); if (d.length() < 0.002) tgtGoal = null; }
     controls.update(); renderer.render(scene, camera);
   })();
 }
