@@ -475,7 +475,7 @@ function startMap() {
     panel.scrollTop = 0;
   }
   let tgtGoal = null;
-  function focusOn(nd) { selQ = nd; controls.autoRotate = false; tgtGoal = nd.pos.clone(); paint(); info(); openPanel(true); }
+  function focusOn(nd) { selQ = nd; controls.autoRotate = false; paint(); info(); openPanel(true); } /* il centro di rotazione resta sempre il cerchio dei partiti */
   $("mmenu").addEventListener("click", () => { openPanel(true); info(); });
   $("mclose").addEventListener("click", () => openPanel(false));
   $("mback").addEventListener("click", () => { selQ = null; tgtGoal = new THREE.Vector3(0, 0.2, 0); paint(); info(); });
