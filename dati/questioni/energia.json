@@ -1,0 +1,2859 @@
+{
+ "area": "energia",
+ "questioni": [
+  {
+   "id": "q-energia-nucleare",
+   "domanda": "Tornare a produrre energia nucleare in Italia?",
+   "sottotema": "Nucleare",
+   "spiegazione": "Includere centrali nucleari, anche di nuova generazione o modulari, nel mix energetico nazionale.",
+   "posizioni": [
+    {
+     "partito": "lega",
+     "posizione": "favorevole",
+     "parametri": "ultima generazione",
+     "prove": [
+      "fdi-0069",
+      "lega-0186",
+      "lega-0247",
+      "lega-0240"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "fi",
+     "posizione": "favorevole",
+     "parametri": "nuova generazione, complementare alle rinnovabili",
+     "prove": [
+      "fdi-0069",
+      "fi-0034",
+      "fi-0057",
+      "fi-0073"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "nm",
+     "posizione": "favorevole",
+     "parametri": "terza e quarta generazione",
+     "prove": [
+      "fdi-0069",
+      "nm-0038",
+      "nm-0117",
+      "nm-0102"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "fdi",
+     "posizione": "favorevole con riserve",
+     "parametri": null,
+     "prove": [
+      "fdi-0069"
+     ],
+     "nota": "il programma comune propone di valutare il ricorso al nucleare"
+    },
+    {
+     "partito": "udc",
+     "posizione": "favorevole con riserve",
+     "parametri": null,
+     "prove": [
+      "fdi-0069"
+     ],
+     "nota": "il programma comune propone di valutare il ricorso al nucleare"
+    },
+    {
+     "partito": "fn",
+     "posizione": "favorevole",
+     "parametri": "reattori SMR e AMR, orizzonte di almeno 20 anni",
+     "prove": [
+      "fn-0184",
+      "fn-0185"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "azione",
+     "posizione": "favorevole",
+     "parametri": "emissioni zero al 2050",
+     "prove": [
+      "azione-0038",
+      "azione-0039"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "iv",
+     "posizione": "favorevole",
+     "parametri": "emissioni zero al 2050",
+     "prove": [
+      "azione-0038",
+      "azione-0039"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "ev",
+     "posizione": "contrario",
+     "parametri": null,
+     "prove": [
+      "ev-0017"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "si",
+     "posizione": "contrario",
+     "parametri": null,
+     "prove": [
+      "ev-0017"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "pd",
+     "posizione": "contrario",
+     "parametri": null,
+     "prove": [
+      "pd-0053"
+     ],
+     "nota": "tempi e tecnologie ritenuti non compatibili con gli obiettivi 2030"
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "Favorevoli d'accordo sul ritorno al nucleare, con tecnologie e tempi diversi; il centrodestra in comune parla di valutarlo."
+   },
+   "forza": {
+    "favorevoli": 8,
+    "contrari": 3,
+    "seggi_camera": 259,
+    "seggi_senato": 130,
+    "maggioranza_camera": true,
+    "maggioranza_senato": true,
+    "schieramenti": [
+     "altro",
+     "maggioranza",
+     "opposizione"
+    ],
+    "trasversale": true
+   }
+  },
+  {
+   "id": "q-energia-tassonomia-gas-nucleare",
+   "domanda": "Considerare gas e nucleare fonti sostenibili nelle regole europee sugli investimenti verdi?",
+   "sottotema": "Nucleare",
+   "spiegazione": "Inserire o mantenere gas e nucleare nella tassonomia UE e negli strumenti europei per le tecnologie a zero emissioni.",
+   "posizioni": [
+    {
+     "partito": "lega",
+     "posizione": "favorevole",
+     "parametri": "GNL e nucleare nella tassonomia",
+     "prove": [
+      "lega-0428"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "ev",
+     "posizione": "contrario",
+     "parametri": null,
+     "prove": [
+      "ev-0231",
+      "ev-0229"
+     ],
+     "nota": "chiedono di collocarli nella categoria rossa e di escludere nucleare e cattura della CO2 dal Net Zero Industry Act"
+    },
+    {
+     "partito": "si",
+     "posizione": "contrario",
+     "parametri": null,
+     "prove": [
+      "ev-0231",
+      "ev-0229"
+     ],
+     "nota": "chiedono di collocarli nella categoria rossa e di escludere nucleare e cattura della CO2 dal Net Zero Industry Act"
+    }
+   ],
+   "touchpoint": {
+    "grado": null,
+    "nota": "Un solo partito favorevole."
+   },
+   "forza": {
+    "favorevoli": 1,
+    "contrari": 2,
+    "seggi_camera": 56,
+    "seggi_senato": 29,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "maggioranza"
+    ],
+    "trasversale": false
+   }
+  },
+  {
+   "id": "q-energia-ricerca-fusione",
+   "domanda": "Finanziare la ricerca sulla fusione nucleare e sui reattori di nuova generazione?",
+   "sottotema": "Nucleare",
+   "spiegazione": "Investimenti pubblici in ricerca nucleare avanzata, distinti dalla costruzione di centrali.",
+   "posizioni": [
+    {
+     "partito": "fdi",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "fdi-0155"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "lega",
+     "posizione": "favorevole",
+     "parametri": "SMR e fusione",
+     "prove": [
+      "lega-0242",
+      "lega-0243"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "m5s",
+     "posizione": "favorevole",
+     "parametri": "solo fusione",
+     "prove": [
+      "m5s-0011"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "piu-europa",
+     "posizione": "favorevole",
+     "parametri": "fusione e mini-reattori modulari",
+     "prove": [
+      "piu-europa-0057"
+     ],
+     "nota": null
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "Tutti sostengono la ricerca sulla fusione; alcuni anche sui reattori modulari."
+   },
+   "forza": {
+    "favorevoli": 4,
+    "contrari": 0,
+    "seggi_camera": 224,
+    "seggi_senato": 117,
+    "maggioranza_camera": true,
+    "maggioranza_senato": true,
+    "schieramenti": [
+     "maggioranza",
+     "opposizione"
+    ],
+    "trasversale": true
+   }
+  },
+  {
+   "id": "q-energia-tetto-prezzo-gas",
+   "domanda": "Fissare un tetto europeo al prezzo del gas?",
+   "sottotema": "Bollette e prezzi",
+   "spiegazione": "Un prezzo massimo per il gas deciso a livello UE per contenere le bollette.",
+   "posizioni": [
+    {
+     "partito": "fdi",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "fdi-0071",
+      "fdi-0204"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "lega",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "fdi-0071",
+      "lega-0227"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "fi",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "fdi-0071"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "nm",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "fdi-0071"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "udc",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "fdi-0071"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "azione",
+     "posizione": "favorevole",
+     "parametri": "sul gas importato",
+     "prove": [
+      "azione-0031"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "iv",
+     "posizione": "favorevole",
+     "parametri": "sul gas importato",
+     "prove": [
+      "azione-0031"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "ev",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "ev-0009",
+      "ev-0233"
+     ],
+     "nota": "temporaneo, esteso all'elettricità e finanziato da un'imposta UE sugli extraprofitti"
+    },
+    {
+     "partito": "si",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "ev-0009",
+      "ev-0233"
+     ],
+     "nota": "temporaneo, esteso all'elettricità e finanziato da un'imposta UE sugli extraprofitti"
+    },
+    {
+     "partito": "piu-europa",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "piu-europa-0058"
+     ],
+     "nota": null
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "Stessa misura; Europa Verde e Sinistra la vogliono anche per l'elettricità e la legano a un'imposta sugli extraprofitti."
+   },
+   "forza": {
+    "favorevoli": 10,
+    "contrari": 0,
+    "seggi_camera": 263,
+    "seggi_senato": 134,
+    "maggioranza_camera": true,
+    "maggioranza_senato": true,
+    "schieramenti": [
+     "maggioranza",
+     "opposizione"
+    ],
+    "trasversale": true
+   }
+  },
+  {
+   "id": "q-energia-prezzo-elettricita-gas",
+   "domanda": "Separare il prezzo dell'elettricità da quello del gas?",
+   "sottotema": "Bollette e prezzi",
+   "spiegazione": "Cambiare le regole del mercato elettrico perché il prezzo del gas non determini quello di tutta l'elettricità.",
+   "posizioni": [
+    {
+     "partito": "fdi",
+     "posizione": "favorevole",
+     "parametri": "riforma della Borsa elettrica e del PUN",
+     "prove": [
+      "fdi-0205"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "azione",
+     "posizione": "favorevole",
+     "parametri": "scorporo del prezzo delle rinnovabili e contratti di lungo periodo",
+     "prove": [
+      "azione-0036"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "iv",
+     "posizione": "favorevole",
+     "parametri": "scorporo del prezzo delle rinnovabili e contratti di lungo periodo",
+     "prove": [
+      "azione-0036"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "m5s",
+     "posizione": "favorevole",
+     "parametri": "prezzo delle rinnovabili separato; prezzo del gas sganciato dal TTF",
+     "prove": [
+      "m5s-0002",
+      "m5s-0181"
+     ],
+     "nota": null
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "Stesso obiettivo, con meccanismi diversi (riforma del PUN o prezzo separato delle rinnovabili)."
+   },
+   "forza": {
+    "favorevoli": 4,
+    "contrari": 0,
+    "seggi_camera": 182,
+    "seggi_senato": 98,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "maggioranza",
+     "opposizione"
+    ],
+    "trasversale": true
+   }
+  },
+  {
+   "id": "q-energia-oneri-sistema",
+   "domanda": "Togliere dalla bolletta gli oneri di sistema?",
+   "sottotema": "Bollette e prezzi",
+   "spiegazione": "Spostare fuori dalla bolletta le voci che finanziano incentivi e altri costi generali, ad esempio sulla fiscalità generale.",
+   "posizioni": [
+    {
+     "partito": "lega",
+     "posizione": "favorevole",
+     "parametri": "spostamento sulla fiscalità generale, coperto anche con i proventi delle aste CO2",
+     "prove": [
+      "lega-0257",
+      "lega-0192",
+      "lega-0259"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "piu-europa",
+     "posizione": "favorevole con riserve",
+     "parametri": null,
+     "prove": [
+      "piu-europa-0075"
+     ],
+     "nota": "solo gli oneri impropri e solo per le PMI"
+    },
+    {
+     "partito": "fn",
+     "posizione": "favorevole con riserve",
+     "parametri": null,
+     "prove": [
+      "fn-0178"
+     ],
+     "nota": "solo gli incentivi a eolico e solare non autosostenibili, da eliminare"
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "Stesso obiettivo, con ampiezza molto diversa."
+   },
+   "forza": {
+    "favorevoli": 3,
+    "contrari": 0,
+    "seggi_camera": 68,
+    "seggi_senato": 29,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "altro",
+     "maggioranza",
+     "opposizione"
+    ],
+    "trasversale": true
+   }
+  },
+  {
+   "id": "q-energia-iva-bollette",
+   "domanda": "Ridurre l'IVA e le imposte sulle bollette di luce e gas?",
+   "sottotema": "IVA",
+   "spiegazione": "Abbassare il carico fiscale su elettricità e gas per famiglie e imprese.",
+   "posizioni": [
+    {
+     "partito": "lega",
+     "posizione": "favorevole",
+     "parametri": "IVA al 5% su bollette elettriche e teleriscaldamento; niente IVA sugli oneri",
+     "prove": [
+      "fdi-0053",
+      "lega-0197",
+      "lega-0258"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "fdi",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "fdi-0053"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "fi",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "fdi-0053"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "nm",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "fdi-0053"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "udc",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "fdi-0053"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "pd",
+     "posizione": "favorevole con riserve",
+     "parametri": null,
+     "prove": [
+      "pd-0005"
+     ],
+     "nota": "chiede di rivedere la tassazione dell'elettricità, oggi più alta di quella del gas"
+    },
+    {
+     "partito": "m5s",
+     "posizione": "favorevole con riserve",
+     "parametri": null,
+     "prove": [
+      "pd-0005"
+     ],
+     "nota": "chiede di rivedere la tassazione dell'elettricità, oggi più alta di quella del gas"
+    },
+    {
+     "partito": "ev",
+     "posizione": "favorevole con riserve",
+     "parametri": null,
+     "prove": [
+      "pd-0005"
+     ],
+     "nota": "chiede di rivedere la tassazione dell'elettricità, oggi più alta di quella del gas"
+    },
+    {
+     "partito": "si",
+     "posizione": "favorevole con riserve",
+     "parametri": null,
+     "prove": [
+      "pd-0005"
+     ],
+     "nota": "chiede di rivedere la tassazione dell'elettricità, oggi più alta di quella del gas"
+    },
+    {
+     "partito": "iv",
+     "posizione": "favorevole con riserve",
+     "parametri": null,
+     "prove": [
+      "pd-0005"
+     ],
+     "nota": "chiede di rivedere la tassazione dell'elettricità, oggi più alta di quella del gas"
+    },
+    {
+     "partito": "piu-europa",
+     "posizione": "favorevole con riserve",
+     "parametri": null,
+     "prove": [
+      "pd-0005"
+     ],
+     "nota": "chiede di rivedere la tassazione dell'elettricità, oggi più alta di quella del gas"
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "Il centrodestra propone di ridurre l'IVA; il centrosinistra di riequilibrare la tassazione dell'elettricità."
+   },
+   "forza": {
+    "favorevoli": 11,
+    "contrari": 0,
+    "seggi_camera": 369,
+    "seggi_senato": 193,
+    "maggioranza_camera": true,
+    "maggioranza_senato": true,
+    "schieramenti": [
+     "maggioranza",
+     "opposizione"
+    ],
+    "trasversale": true
+   }
+  },
+  {
+   "id": "q-energia-tasse-carburanti",
+   "domanda": "Ridurre le tasse sui carburanti?",
+   "sottotema": "Carburanti",
+   "spiegazione": "Tagliare accise o IVA su benzina, gasolio, GPL e metano.",
+   "posizioni": [
+    {
+     "partito": "lega",
+     "posizione": "favorevole",
+     "parametri": "riduzione delle accise; azzeramento di accisa e IVA sul metano per autotrazione",
+     "prove": [
+      "lega-0199",
+      "lega-0200"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "m5s",
+     "posizione": "favorevole",
+     "parametri": "IVA dal 22% al 10%",
+     "prove": [
+      "m5s-0003"
+     ],
+     "nota": null
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "Stesso obiettivo, con strumenti diversi (accise o IVA)."
+   },
+   "forza": {
+    "favorevoli": 2,
+    "contrari": 0,
+    "seggi_camera": 104,
+    "seggi_senato": 54,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "maggioranza",
+     "opposizione"
+    ],
+    "trasversale": true
+   }
+  },
+  {
+   "id": "q-energia-estrazione-gas",
+   "domanda": "Aumentare l'estrazione di gas dai giacimenti italiani?",
+   "sottotema": "Gas e approvvigionamento",
+   "spiegazione": "Riattivare pozzi e autorizzare nuove trivellazioni di gas sul territorio nazionale.",
+   "posizioni": [
+    {
+     "partito": "fdi",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "fdi-0070"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "fi",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "fdi-0070"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "nm",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "fdi-0070"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "udc",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "fdi-0070"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "lega",
+     "posizione": "favorevole",
+     "parametri": "modifica del PiTESAI",
+     "prove": [
+      "fdi-0070",
+      "lega-0182",
+      "lega-0229"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "azione",
+     "posizione": "favorevole",
+     "parametri": "riattivando e potenziando gli impianti esistenti",
+     "prove": [
+      "azione-0027"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "iv",
+     "posizione": "favorevole",
+     "parametri": "riattivando e potenziando gli impianti esistenti",
+     "prove": [
+      "azione-0027"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "fn",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "fn-0182"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "ev",
+     "posizione": "contrario",
+     "parametri": "stop alle trivellazioni e uscita dalla produzione fossile nazionale entro il 2045",
+     "prove": [
+      "ev-0018"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "si",
+     "posizione": "contrario",
+     "parametri": "stop alle trivellazioni e uscita dalla produzione fossile nazionale entro il 2045",
+     "prove": [
+      "ev-0018"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "m5s",
+     "posizione": "contrario",
+     "parametri": "stop a nuove trivellazioni",
+     "prove": [
+      "m5s-0182"
+     ],
+     "nota": null
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "Stesso obiettivo; Azione e Italia Viva puntano sugli impianti esistenti, il centrodestra anche su nuovi pozzi."
+   },
+   "forza": {
+    "favorevoli": 8,
+    "contrari": 3,
+    "seggi_camera": 259,
+    "seggi_senato": 130,
+    "maggioranza_camera": true,
+    "maggioranza_senato": true,
+    "schieramenti": [
+     "altro",
+     "maggioranza",
+     "opposizione"
+    ],
+    "trasversale": true
+   }
+  },
+  {
+   "id": "q-energia-rigassificatori",
+   "domanda": "Costruire nuovi rigassificatori?",
+   "sottotema": "Gas e approvvigionamento",
+   "spiegazione": "Nuovi impianti, galleggianti o fissi, per importare gas naturale liquefatto via nave.",
+   "posizioni": [
+    {
+     "partito": "azione",
+     "posizione": "favorevole",
+     "parametri": "due rigassificatori galleggianti con procedure straordinarie",
+     "prove": [
+      "azione-0026"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "iv",
+     "posizione": "favorevole",
+     "parametri": "due rigassificatori galleggianti con procedure straordinarie",
+     "prove": [
+      "azione-0026"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "lega",
+     "posizione": "favorevole",
+     "parametri": "galleggianti a Piombino e Ravenna e almeno uno fisso al Sud",
+     "prove": [
+      "lega-0183",
+      "lega-0224",
+      "lega-0231"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "piu-europa",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "piu-europa-0064"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "pd",
+     "posizione": "favorevole con riserve",
+     "parametri": null,
+     "prove": [
+      "pd-0054"
+     ],
+     "nota": "solo come soluzioni-ponte, con fondo di compensazione per i territori"
+    },
+    {
+     "partito": "ev",
+     "posizione": "favorevole con riserve",
+     "parametri": null,
+     "prove": [
+      "ev-0006"
+     ],
+     "nota": "solo dopo aver usato tutte le infrastrutture gas esistenti"
+    },
+    {
+     "partito": "si",
+     "posizione": "favorevole con riserve",
+     "parametri": null,
+     "prove": [
+      "ev-0006"
+     ],
+     "nota": "solo dopo aver usato tutte le infrastrutture gas esistenti"
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "D'accordo sui rigassificatori, con numero e condizioni diverse."
+   },
+   "forza": {
+    "favorevoli": 7,
+    "contrari": 0,
+    "seggi_camera": 154,
+    "seggi_senato": 79,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "maggioranza",
+     "opposizione"
+    ],
+    "trasversale": true
+   }
+  },
+  {
+   "id": "q-energia-hub-gas",
+   "domanda": "Fare dell'Italia un punto di passaggio del gas per l'Europa?",
+   "sottotema": "Gas e approvvigionamento",
+   "spiegazione": "Nuovi gasdotti e infrastrutture per portare in Europa gas dal Mediterraneo e dall'Africa.",
+   "posizioni": [
+    {
+     "partito": "fi",
+     "posizione": "favorevole",
+     "parametri": "TAP e rigassificatori",
+     "prove": [
+      "fi-0036"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "nm",
+     "posizione": "favorevole",
+     "parametri": "TAP e rigassificatori",
+     "prove": [
+      "fi-0036"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "lega",
+     "posizione": "favorevole",
+     "parametri": "EastMed/Poseidon e gasdotto Barcellona-Sardegna-Italia",
+     "prove": [
+      "lega-0234",
+      "lega-0232",
+      "lega-0233"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "azione",
+     "posizione": "favorevole",
+     "parametri": "il Sud come approdo dei gasdotti e produttore di rinnovabili",
+     "prove": [
+      "azione-0023"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "iv",
+     "posizione": "favorevole",
+     "parametri": "il Sud come approdo dei gasdotti e produttore di rinnovabili",
+     "prove": [
+      "azione-0023"
+     ],
+     "nota": null
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "Stesso obiettivo, con infrastrutture diverse."
+   },
+   "forza": {
+    "favorevoli": 5,
+    "contrari": 0,
+    "seggi_camera": 133,
+    "seggi_senato": 67,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "maggioranza",
+     "opposizione"
+    ],
+    "trasversale": true
+   }
+  },
+  {
+   "id": "q-energia-gas-russo",
+   "domanda": "Tornare a comprare gas dalla Russia?",
+   "sottotema": "Gas e approvvigionamento",
+   "spiegazione": "Riaprire gli acquisti di gas russo interrotti dopo il 2022.",
+   "posizioni": [
+    {
+     "partito": "fn",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "fn-0181",
+      "fn-0040",
+      "fn-0064"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "piu-europa",
+     "posizione": "contrario",
+     "parametri": null,
+     "prove": [
+      "piu-europa-0056"
+     ],
+     "nota": "propone di sostituire completamente il gas russo"
+    }
+   ],
+   "touchpoint": {
+    "grado": null,
+    "nota": "Un solo partito favorevole."
+   },
+   "forza": {
+    "favorevoli": 1,
+    "contrari": 1,
+    "seggi_camera": 9,
+    "seggi_senato": 0,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "altro"
+    ],
+    "trasversale": false
+   }
+  },
+  {
+   "id": "q-energia-uscita-fossili",
+   "domanda": "Fissare una data per smettere di usare i combustibili fossili?",
+   "sottotema": "Gas e approvvigionamento",
+   "spiegazione": "Un calendario per abbandonare carbone, petrolio e gas.",
+   "posizioni": [
+    {
+     "partito": "ev",
+     "posizione": "favorevole",
+     "parametri": "carbone entro il 2030, gas nell'elettrico entro il 2035, petrolio e gas tra il 2035 e il 2040",
+     "prove": [
+      "ev-0230",
+      "ev-0002",
+      "ev-0008"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "si",
+     "posizione": "favorevole",
+     "parametri": "carbone entro il 2030, gas nell'elettrico entro il 2035, petrolio e gas tra il 2035 e il 2040",
+     "prove": [
+      "ev-0230",
+      "ev-0002",
+      "ev-0008"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "fn",
+     "posizione": "contrario",
+     "parametri": null,
+     "prove": [
+      "fn-0179"
+     ],
+     "nota": "propone un mix che include gas e carbone in impianti innovativi"
+    }
+   ],
+   "touchpoint": {
+    "grado": null,
+    "nota": "Un solo blocco favorevole (programma comune Europa Verde e Sinistra)."
+   },
+   "forza": {
+    "favorevoli": 2,
+    "contrari": 1,
+    "seggi_camera": 10,
+    "seggi_senato": 4,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "opposizione"
+    ],
+    "trasversale": false
+   }
+  },
+  {
+   "id": "q-energia-sussidi-fossili",
+   "domanda": "Eliminare i sussidi pubblici ai combustibili fossili?",
+   "sottotema": "Clima ed emissioni",
+   "spiegazione": "Togliere agevolazioni e incentivi che sostengono carbone, petrolio e gas.",
+   "posizioni": [
+    {
+     "partito": "ev",
+     "posizione": "favorevole",
+     "parametri": "entro il 2025, oltre 20 miliardi l'anno da redistribuire alla transizione",
+     "prove": [
+      "ev-0011"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "si",
+     "posizione": "favorevole",
+     "parametri": "entro il 2025, oltre 20 miliardi l'anno da redistribuire alla transizione",
+     "prove": [
+      "ev-0011"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "m5s",
+     "posizione": "favorevole",
+     "parametri": "sussidi alla generazione fossile",
+     "prove": [
+      "m5s-0005"
+     ],
+     "nota": null
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "Stesso obiettivo, con tempi e perimetro precisati solo da Europa Verde e Sinistra."
+   },
+   "forza": {
+    "favorevoli": 3,
+    "contrari": 0,
+    "seggi_camera": 58,
+    "seggi_senato": 29,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "opposizione"
+    ],
+    "trasversale": false
+   }
+  },
+  {
+   "id": "q-energia-obiettivi-emissioni",
+   "domanda": "Rispettare gli obiettivi europei di taglio delle emissioni al 2030 e al 2040?",
+   "sottotema": "Clima ed emissioni",
+   "spiegazione": "Ridurre le emissioni di gas serra almeno quanto previsto dalle regole UE (-55% al 2030).",
+   "posizioni": [
+    {
+     "partito": "azione",
+     "posizione": "favorevole",
+     "parametri": "-55% al 2030 rispetto al 1990",
+     "prove": [
+      "azione-0034"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "iv",
+     "posizione": "favorevole",
+     "parametri": "-55% al 2030 rispetto al 1990",
+     "prove": [
+      "azione-0034",
+      "iv-0035"
+     ],
+     "nota": "chiede anche gradualità a tutela di industria e lavoro"
+    },
+    {
+     "partito": "piu-europa",
+     "posizione": "favorevole",
+     "parametri": "-55% al 2030",
+     "prove": [
+      "piu-europa-0055",
+      "iv-0035"
+     ],
+     "nota": "chiede anche gradualità a tutela di industria e lavoro"
+    },
+    {
+     "partito": "pd",
+     "posizione": "favorevole",
+     "parametri": "-90% netto al 2040, mantenendo l'ETS",
+     "prove": [
+      "pd-0249"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "ev",
+     "posizione": "favorevole",
+     "parametri": "-70% al 2030, neutralità climatica al 2045",
+     "prove": [
+      "ev-0001"
+     ],
+     "nota": "obiettivi più ambiziosi di quelli UE"
+    },
+    {
+     "partito": "si",
+     "posizione": "favorevole",
+     "parametri": "-70% al 2030, neutralità climatica al 2045",
+     "prove": [
+      "ev-0001"
+     ],
+     "nota": "obiettivi più ambiziosi di quelli UE"
+    },
+    {
+     "partito": "fn",
+     "posizione": "contrario",
+     "parametri": null,
+     "prove": [
+      "fn-0180",
+      "fn-0199"
+     ],
+     "nota": "si oppone a Green Deal e Fit for 55 e alle scadenze 2035 sui motori termici"
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "D'accordo sugli obiettivi europei, con Europa Verde e Sinistra più ambiziosi."
+   },
+   "forza": {
+    "favorevoli": 6,
+    "contrari": 1,
+    "seggi_camera": 98,
+    "seggi_senato": 50,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "opposizione"
+    ],
+    "trasversale": false
+   }
+  },
+  {
+   "id": "q-energia-neutralita-tecnologica",
+   "domanda": "Ammettere biocarburanti e carburanti sintetici accanto all'elettrico nella transizione?",
+   "sottotema": "Clima ed emissioni",
+   "spiegazione": "Il principio di neutralità tecnologica: non puntare solo sull'elettrico per auto e trasporti.",
+   "posizioni": [
+    {
+     "partito": "fi",
+     "posizione": "favorevole",
+     "parametri": "biofuel, e-fuel, idrogeno",
+     "prove": [
+      "fi-0032"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "nm",
+     "posizione": "favorevole",
+     "parametri": "biofuel, e-fuel, idrogeno",
+     "prove": [
+      "fi-0032"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "lega",
+     "posizione": "favorevole",
+     "parametri": "valutazione del ciclo di vita, riconversione delle raffinerie",
+     "prove": [
+      "lega-0187",
+      "lega-0191",
+      "lega-0249"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "fn",
+     "posizione": "favorevole",
+     "parametri": "HVO ed e-fuels",
+     "prove": [
+      "fn-0200"
+     ],
+     "nota": null
+    }
+   ],
+   "touchpoint": {
+    "grado": "pieno",
+    "nota": "Stessa idea di neutralità tecnologica con gli stessi carburanti alternativi."
+   },
+   "forza": {
+    "favorevoli": 4,
+    "contrari": 0,
+    "seggi_camera": 125,
+    "seggi_senato": 57,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "altro",
+     "maggioranza"
+    ],
+    "trasversale": true
+   }
+  },
+  {
+   "id": "q-energia-extraprofitti",
+   "domanda": "Tassare gli extraprofitti delle imprese energetiche per aiutare famiglie e imprese?",
+   "sottotema": "Patrimoni, successioni ed extraprofitti",
+   "spiegazione": "Prelevare i guadagni straordinari delle aziende dell'energia e redistribuirli.",
+   "posizioni": [
+    {
+     "partito": "fdi",
+     "posizione": "favorevole",
+     "parametri": "per finanziare crediti d'imposta contro il caro bollette",
+     "prove": [
+      "fdi-0206"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "azione",
+     "posizione": "favorevole",
+     "parametri": "extra-rendita reale a famiglie meno abbienti e imprese energivore",
+     "prove": [
+      "azione-0032"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "iv",
+     "posizione": "favorevole",
+     "parametri": "extra-rendita reale a famiglie meno abbienti e imprese energivore",
+     "prove": [
+      "azione-0032"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "ev",
+     "posizione": "favorevole",
+     "parametri": "al 100%, con 1.200 euro a famiglia; revisione delle royalties",
+     "prove": [
+      "ev-0091",
+      "ev-0019"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "si",
+     "posizione": "favorevole",
+     "parametri": "al 100%, con 1.200 euro a famiglia; revisione delle royalties",
+     "prove": [
+      "ev-0091",
+      "ev-0019"
+     ],
+     "nota": null
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "Stesso obiettivo, con aliquote e destinazioni diverse."
+   },
+   "forza": {
+    "favorevoli": 5,
+    "contrari": 0,
+    "seggi_camera": 144,
+    "seggi_senato": 77,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "maggioranza",
+     "opposizione"
+    ],
+    "trasversale": true
+   }
+  },
+  {
+   "id": "q-energia-bonus-sociale",
+   "domanda": "Rafforzare gli aiuti in bolletta per le famiglie in difficoltà?",
+   "sottotema": "Bollette e prezzi",
+   "spiegazione": "Bonus sociale e altre tutele mirate per chi ha redditi bassi o rischia la povertà energetica.",
+   "posizioni": [
+    {
+     "partito": "lega",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "lega-0193"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "pd",
+     "posizione": "favorevole",
+     "parametri": "anche tutela dei vulnerabili affidata ad Acquirente unico",
+     "prove": [
+      "pd-0004",
+      "pd-0240"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "iv",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "pd-0004"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "piu-europa",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "pd-0004"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "si",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "pd-0004"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "ev",
+     "posizione": "favorevole",
+     "parametri": "povertà energetica azzerata entro il 2025",
+     "prove": [
+      "pd-0004",
+      "ev-0010",
+      "ev-0012"
+     ],
+     "nota": "aiuti solo ai più bisognosi senza incentivare i consumi"
+    },
+    {
+     "partito": "m5s",
+     "posizione": "favorevole con riserve",
+     "parametri": null,
+     "prove": [
+      "pd-0004",
+      "m5s-0010"
+     ],
+     "nota": "chiede di collegare i bonus a interventi di efficienza energetica"
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "Stesso obiettivo, con strumenti in parte diversi."
+   },
+   "forza": {
+    "favorevoli": 7,
+    "contrari": 0,
+    "seggi_camera": 192,
+    "seggi_senato": 102,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "maggioranza",
+     "opposizione"
+    ],
+    "trasversale": true
+   }
+  },
+  {
+   "id": "q-energia-energia-minima-garantita",
+   "domanda": "Garantire alle famiglie a basso reddito una quantità minima di energia?",
+   "sottotema": "Bollette e prezzi",
+   "spiegazione": "Un livello minimo di luce e gas assicurato o gratuito per chi ha redditi bassi.",
+   "posizioni": [
+    {
+     "partito": "fdi",
+     "posizione": "favorevole",
+     "parametri": "\"utenze di sussistenza\" garantite anche in caso di morosità",
+     "prove": [
+      "fdi-0207"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "pd",
+     "posizione": "favorevole",
+     "parametri": "1.350 kWh annui a costo zero per redditi medio-bassi",
+     "prove": [
+      "pd-0056"
+     ],
+     "nota": null
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "Stessa idea, con strumenti diversi (fornitura garantita o gratuita)."
+   },
+   "forza": {
+    "favorevoli": 2,
+    "contrari": 0,
+    "seggi_camera": 185,
+    "seggi_senato": 99,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "maggioranza",
+     "opposizione"
+    ],
+    "trasversale": true
+   }
+  },
+  {
+   "id": "q-energia-aiuti-imprese-caro-energia",
+   "domanda": "Continuare gli aiuti alle imprese contro il caro energia?",
+   "sottotema": "Bollette e prezzi",
+   "spiegazione": "Crediti d'imposta e altri sostegni alle imprese per i costi di luce e gas.",
+   "posizioni": [
+    {
+     "partito": "lega",
+     "posizione": "favorevole",
+     "parametri": "crediti d'imposta, gas release ed energy release",
+     "prove": [
+      "lega-0194",
+      "lega-0198",
+      "lega-0142"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "fdi",
+     "posizione": "favorevole",
+     "parametri": "in particolare per le MPMI",
+     "prove": [
+      "fdi-0101"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "udc",
+     "posizione": "favorevole",
+     "parametri": "usando la flessibilità delle regole europee",
+     "prove": [
+      "udc-0007"
+     ],
+     "nota": null
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "Stesso obiettivo, con strumenti diversi."
+   },
+   "forza": {
+    "favorevoli": 3,
+    "contrari": 0,
+    "seggi_camera": 181,
+    "seggi_senato": 100,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "maggioranza"
+    ],
+    "trasversale": false
+   }
+  },
+  {
+   "id": "q-energia-contratti-lungo-periodo",
+   "domanda": "Promuovere contratti di lungo periodo per l'energia rinnovabile?",
+   "sottotema": "Bollette e prezzi",
+   "spiegazione": "Accordi pluriennali tra produttori e consumatori a prezzo stabile.",
+   "posizioni": [
+    {
+     "partito": "lega",
+     "posizione": "favorevole",
+     "parametri": "PPA di lungo termine",
+     "prove": [
+      "lega-0219"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "m5s",
+     "posizione": "favorevole",
+     "parametri": "anche rafforzando l'Energy Release del GSE",
+     "prove": [
+      "m5s-0006"
+     ],
+     "nota": null
+    }
+   ],
+   "touchpoint": {
+    "grado": "pieno",
+    "nota": "Stessa misura."
+   },
+   "forza": {
+    "favorevoli": 2,
+    "contrari": 0,
+    "seggi_camera": 104,
+    "seggi_senato": 54,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "maggioranza",
+     "opposizione"
+    ],
+    "trasversale": true
+   }
+  },
+  {
+   "id": "q-energia-crescita-rinnovabili",
+   "domanda": "Accelerare la crescita delle rinnovabili con obiettivi di nuova potenza?",
+   "sottotema": "Rinnovabili",
+   "spiegazione": "Fissare e perseguire obiettivi di installazione di nuovi impianti solari, eolici e simili.",
+   "posizioni": [
+    {
+     "partito": "pd",
+     "posizione": "favorevole",
+     "parametri": "85 GW entro il 2030",
+     "prove": [
+      "pd-0052",
+      "pd-0006"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "m5s",
+     "posizione": "favorevole",
+     "parametri": "50 GW aggiuntivi",
+     "prove": [
+      "m5s-0001",
+      "pd-0006"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "ev",
+     "posizione": "favorevole",
+     "parametri": "80% dell'elettricità al 2030; 60 GW in tre anni; 15 GW l'anno",
+     "prove": [
+      "ev-0014",
+      "ev-0015",
+      "ev-0045",
+      "ev-0027",
+      "pd-0006"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "si",
+     "posizione": "favorevole",
+     "parametri": "80% dell'elettricità al 2030; 60 GW in tre anni; 15 GW l'anno",
+     "prove": [
+      "ev-0014",
+      "ev-0015",
+      "ev-0045",
+      "ev-0027",
+      "pd-0006"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "iv",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "pd-0006"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "piu-europa",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "pd-0006"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "nm",
+     "posizione": "favorevole",
+     "parametri": "10 GW l'anno",
+     "prove": [
+      "nm-0044",
+      "fi-0039"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "fi",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "fi-0039"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "fdi",
+     "posizione": "favorevole",
+     "parametri": "sostegno a famiglie e imprese che investono",
+     "prove": [
+      "fdi-0157"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "svp",
+     "posizione": "favorevole con riserve",
+     "parametri": null,
+     "prove": [
+      "svp-0020"
+     ],
+     "nota": "in armonia con paesaggio e natura"
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "Stesso obiettivo, con cifre molto diverse."
+   },
+   "forza": {
+    "favorevoli": 10,
+    "contrari": 0,
+    "seggi_camera": 316,
+    "seggi_senato": 166,
+    "maggioranza_camera": true,
+    "maggioranza_senato": true,
+    "schieramenti": [
+     "altro",
+     "maggioranza",
+     "opposizione"
+    ],
+    "trasversale": true
+   }
+  },
+  {
+   "id": "q-energia-autorizzazioni-rinnovabili",
+   "domanda": "Semplificare e accorciare le autorizzazioni per gli impianti rinnovabili?",
+   "sottotema": "Rinnovabili",
+   "spiegazione": "Meno passaggi e tempi certi per autorizzare e connettere nuovi impianti, con aree idonee definite.",
+   "posizioni": [
+    {
+     "partito": "azione",
+     "posizione": "favorevole",
+     "parametri": "aree idonee",
+     "prove": [
+      "azione-0028"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "iv",
+     "posizione": "favorevole",
+     "parametri": "aree idonee",
+     "prove": [
+      "azione-0028"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "lega",
+     "posizione": "favorevole",
+     "parametri": "criteri per le aree idonee entro novanta giorni",
+     "prove": [
+      "lega-0207",
+      "lega-0208",
+      "lega-0742"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "m5s",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "m5s-0180"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "piu-europa",
+     "posizione": "favorevole",
+     "parametri": "soglie di potenza per fonte e per regione",
+     "prove": [
+      "piu-europa-0054",
+      "piu-europa-0053"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "fn",
+     "posizione": "favorevole",
+     "parametri": "connessione alla rete in meno di 18 mesi",
+     "prove": [
+      "fn-0186"
+     ],
+     "nota": null
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "Stesso obiettivo, con strumenti diversi."
+   },
+   "forza": {
+    "favorevoli": 6,
+    "contrari": 0,
+    "seggi_camera": 133,
+    "seggi_senato": 64,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "altro",
+     "maggioranza",
+     "opposizione"
+    ],
+    "trasversale": true
+   }
+  },
+  {
+   "id": "q-energia-fotovoltaico-tetti",
+   "domanda": "Installare il fotovoltaico prima di tutto su tetti e aree già costruite, risparmiando il suolo agricolo?",
+   "sottotema": "Consumo di suolo agricolo",
+   "spiegazione": "Priorità a coperture, parcheggi, capannoni e aree degradate, con limiti all'uso di terreni agricoli.",
+   "posizioni": [
+    {
+     "partito": "lega",
+     "posizione": "favorevole",
+     "parametri": "massimo 3% della superficie agricola regionale e 10% di quella comunale; 100 metri dai centri abitati",
+     "prove": [
+      "lega-0209",
+      "lega-0744",
+      "lega-0743"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "m5s",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "m5s-0007"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "fn",
+     "posizione": "favorevole",
+     "parametri": "senza oneri in bolletta",
+     "prove": [
+      "fn-0190"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "azione",
+     "posizione": "favorevole",
+     "parametri": "tetti rurali e territori marginali",
+     "prove": [
+      "azione-0228"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "iv",
+     "posizione": "favorevole",
+     "parametri": "tetti rurali e territori marginali",
+     "prove": [
+      "azione-0228"
+     ],
+     "nota": null
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "Stessa priorità; solo la Lega fissa limiti numerici."
+   },
+   "forza": {
+    "favorevoli": 5,
+    "contrari": 0,
+    "seggi_camera": 130,
+    "seggi_senato": 64,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "altro",
+     "maggioranza",
+     "opposizione"
+    ],
+    "trasversale": true
+   }
+  },
+  {
+   "id": "q-energia-agrivoltaico",
+   "domanda": "Sostenere l'agrivoltaico, cioè pannelli solari su terreni agricoli coltivati?",
+   "sottotema": "Consumo di suolo agricolo",
+   "spiegazione": "Impianti fotovoltaici che convivono con la coltivazione dei campi.",
+   "posizioni": [
+    {
+     "partito": "lega",
+     "posizione": "favorevole",
+     "parametri": "anche fotovoltaico galleggiante su bacini e cave",
+     "prove": [
+      "lega-0211"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "nm",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "nm-0105"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "fn",
+     "posizione": "contrario",
+     "parametri": null,
+     "prove": [
+      "fn-0253"
+     ],
+     "nota": "si oppone all'agrivoltaico che sottrae superficie produttiva e al fotovoltaico a terra su suolo agricolo"
+    }
+   ],
+   "touchpoint": {
+    "grado": "pieno",
+    "nota": "Stessa misura, senza parametri."
+   },
+   "forza": {
+    "favorevoli": 2,
+    "contrari": 1,
+    "seggi_camera": 64,
+    "seggi_senato": 37,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "maggioranza"
+    ],
+    "trasversale": false
+   }
+  },
+  {
+   "id": "q-energia-eolico",
+   "domanda": "Sviluppare l'eolico, anche in mare?",
+   "sottotema": "Rinnovabili",
+   "spiegazione": "Nuovi impianti eolici a terra e al largo delle coste.",
+   "posizioni": [
+    {
+     "partito": "lega",
+     "posizione": "favorevole",
+     "parametri": "onshore e offshore, anche galleggiante",
+     "prove": [
+      "lega-0210"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "fn",
+     "posizione": "favorevole con riserve",
+     "parametri": "compensazioni stabili ai territori",
+     "prove": [
+      "fn-0192",
+      "fn-0191"
+     ],
+     "nota": "priorità a siti compromessi e offshore, esclusione dove deturpa il paesaggio"
+    }
+   ],
+   "touchpoint": {
+    "grado": null,
+    "nota": "Un solo partito pienamente favorevole."
+   },
+   "forza": {
+    "favorevoli": 2,
+    "contrari": 0,
+    "seggi_camera": 65,
+    "seggi_senato": 29,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "altro",
+     "maggioranza"
+    ],
+    "trasversale": true
+   }
+  },
+  {
+   "id": "q-energia-accumuli-reti",
+   "domanda": "Potenziare gli accumuli di energia e le reti elettriche per le rinnovabili?",
+   "sottotema": "Rinnovabili",
+   "spiegazione": "Batterie, pompaggi e nuove reti per integrare la produzione rinnovabile.",
+   "posizioni": [
+    {
+     "partito": "ev",
+     "posizione": "favorevole",
+     "parametri": "piano speciale affidato a Terna per decarbonizzare al 2035",
+     "prove": [
+      "ev-0016"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "si",
+     "posizione": "favorevole",
+     "parametri": "piano speciale affidato a Terna per decarbonizzare al 2035",
+     "prove": [
+      "ev-0016"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "fn",
+     "posizione": "favorevole",
+     "parametri": "+15 GW di accumuli entro il 2035",
+     "prove": [
+      "fn-0187"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "lega",
+     "posizione": "favorevole",
+     "parametri": "aste di lungo termine gestite dal TSO",
+     "prove": [
+      "lega-0220",
+      "lega-0221",
+      "lega-0222",
+      "lega-0223"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "fdi",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "fdi-0159"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "nm",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "nm-0043"
+     ],
+     "nota": null
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "Stesso obiettivo, con cifre e strumenti diversi."
+   },
+   "forza": {
+    "favorevoli": 6,
+    "contrari": 0,
+    "seggi_camera": 200,
+    "seggi_senato": 104,
+    "maggioranza_camera": false,
+    "maggioranza_senato": true,
+    "schieramenti": [
+     "altro",
+     "maggioranza",
+     "opposizione"
+    ],
+    "trasversale": true
+   }
+  },
+  {
+   "id": "q-energia-comunita-energetiche",
+   "domanda": "Sostenere le comunità energetiche e l'autoconsumo?",
+   "sottotema": "Comunità energetiche",
+   "spiegazione": "Aiutare cittadini, imprese ed enti a produrre e condividere energia rinnovabile.",
+   "posizioni": [
+    {
+     "partito": "lega",
+     "posizione": "favorevole",
+     "parametri": "fondo di garanzia",
+     "prove": [
+      "lega-0212",
+      "lega-0570"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "m5s",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "m5s-0008"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "azione",
+     "posizione": "favorevole",
+     "parametri": "accesso prioritario alle aree idonee; garanzia statale per l'autoconsumo delle imprese",
+     "prove": [
+      "azione-0037",
+      "azione-0030"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "iv",
+     "posizione": "favorevole",
+     "parametri": "accesso prioritario alle aree idonee; garanzia statale per l'autoconsumo delle imprese",
+     "prove": [
+      "azione-0037",
+      "azione-0030"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "pd",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "pd-0171"
+     ],
+     "nota": null
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "Stesso obiettivo, con strumenti diversi."
+   },
+   "forza": {
+    "favorevoli": 5,
+    "contrari": 0,
+    "seggi_camera": 189,
+    "seggi_senato": 100,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "maggioranza",
+     "opposizione"
+    ],
+    "trasversale": true
+   }
+  },
+  {
+   "id": "q-energia-biometano",
+   "domanda": "Aumentare la produzione di biometano?",
+   "sottotema": "Biometano",
+   "spiegazione": "Gas rinnovabile ottenuto da scarti agricoli, rifiuti organici e biogas.",
+   "posizioni": [
+    {
+     "partito": "lega",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "lega-0181",
+      "lega-0230",
+      "lega-0429"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "fn",
+     "posizione": "favorevole",
+     "parametri": "5-6 miliardi di metri cubi al 2035, solo da scarti",
+     "prove": [
+      "fn-0197",
+      "fn-0196"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "azione",
+     "posizione": "favorevole",
+     "parametri": "1,2 miliardi di investimenti",
+     "prove": [
+      "azione-0047"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "iv",
+     "posizione": "favorevole",
+     "parametri": "1,2 miliardi di investimenti",
+     "prove": [
+      "azione-0047"
+     ],
+     "nota": null
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "Stesso obiettivo, con cifre diverse."
+   },
+   "forza": {
+    "favorevoli": 4,
+    "contrari": 0,
+    "seggi_camera": 82,
+    "seggi_senato": 39,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "altro",
+     "maggioranza",
+     "opposizione"
+    ],
+    "trasversale": true
+   }
+  },
+  {
+   "id": "q-energia-idroelettrico",
+   "domanda": "Potenziare la produzione idroelettrica?",
+   "sottotema": "Idroelettrico",
+   "spiegazione": "Ammodernare e ampliare impianti e bacini idroelettrici.",
+   "posizioni": [
+    {
+     "partito": "lega",
+     "posizione": "favorevole",
+     "parametri": "piano nazionale dei bacini, mini impianti sotto 1 MW",
+     "prove": [
+      "lega-0215",
+      "lega-0213",
+      "lega-0214",
+      "lega-0180"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "fn",
+     "posizione": "favorevole",
+     "parametri": "repowering degli impianti esistenti",
+     "prove": [
+      "fn-0193"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "azione",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "azione-0029"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "iv",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "azione-0029"
+     ],
+     "nota": null
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "Stesso obiettivo, con strumenti diversi."
+   },
+   "forza": {
+    "favorevoli": 4,
+    "contrari": 0,
+    "seggi_camera": 82,
+    "seggi_senato": 39,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "altro",
+     "maggioranza",
+     "opposizione"
+    ],
+    "trasversale": true
+   }
+  },
+  {
+   "id": "q-energia-idrogeno",
+   "domanda": "Sviluppare una filiera dell'idrogeno?",
+   "sottotema": "Idrogeno",
+   "spiegazione": "Sostenere produzione, ricerca e mercato dell'idrogeno.",
+   "posizioni": [
+    {
+     "partito": "lega",
+     "posizione": "favorevole",
+     "parametri": "anche idrogeno blu da gas con cattura della CO2",
+     "prove": [
+      "lega-0185",
+      "lega-0239",
+      "lega-0236",
+      "lega-0237"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "nm",
+     "posizione": "favorevole",
+     "parametri": "partnership pubblico-private",
+     "prove": [
+      "nm-0045",
+      "fi-0035"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "fi",
+     "posizione": "favorevole",
+     "parametri": "strategia UE per l'idrogeno",
+     "prove": [
+      "fi-0035"
+     ],
+     "nota": null
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "Stesso obiettivo; solo la Lega include l'idrogeno da gas."
+   },
+   "forza": {
+    "favorevoli": 3,
+    "contrari": 0,
+    "seggi_camera": 116,
+    "seggi_senato": 57,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "maggioranza"
+    ],
+    "trasversale": false
+   }
+  },
+  {
+   "id": "q-energia-teleriscaldamento",
+   "domanda": "Estendere il teleriscaldamento?",
+   "sottotema": "Efficienza energetica",
+   "spiegazione": "Reti che portano calore agli edifici da centrali, biomasse o calore di scarto.",
+   "posizioni": [
+    {
+     "partito": "azione",
+     "posizione": "favorevole",
+     "parametri": "900 km entro il 2030 (circa 2,5 miliardi), 250 impianti a cippato",
+     "prove": [
+      "azione-0045",
+      "azione-0046"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "iv",
+     "posizione": "favorevole",
+     "parametri": "900 km entro il 2030 (circa 2,5 miliardi), 250 impianti a cippato",
+     "prove": [
+      "azione-0045",
+      "azione-0046"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "lega",
+     "posizione": "favorevole",
+     "parametri": "anche con calore di scarto industriale",
+     "prove": [
+      "lega-0179"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "fn",
+     "posizione": "favorevole",
+     "parametri": "calore di industrie e termovalorizzatori",
+     "prove": [
+      "fn-0198"
+     ],
+     "nota": null
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "Stesso obiettivo, con cifre solo da Azione e Italia Viva."
+   },
+   "forza": {
+    "favorevoli": 4,
+    "contrari": 0,
+    "seggi_camera": 82,
+    "seggi_senato": 39,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "altro",
+     "maggioranza",
+     "opposizione"
+    ],
+    "trasversale": true
+   }
+  },
+  {
+   "id": "q-energia-incentivi-efficienza-stabili",
+   "domanda": "Rendere stabili nel tempo gli incentivi per l'efficienza energetica degli edifici?",
+   "sottotema": "Efficienza energetica",
+   "spiegazione": "Detrazioni e bonus per la riqualificazione energetica con regole durature.",
+   "posizioni": [
+    {
+     "partito": "lega",
+     "posizione": "favorevole",
+     "parametri": "ecobonus",
+     "prove": [
+      "lega-0176"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "pd",
+     "posizione": "favorevole",
+     "parametri": "anche per la rigenerazione sismica",
+     "prove": [
+      "pd-0057"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "ev",
+     "posizione": "favorevole",
+     "parametri": "fino al 2030, accessibili ai più deboli",
+     "prove": [
+      "ev-0004"
+     ],
+     "nota": "senza sostegno alle caldaie a gas"
+    },
+    {
+     "partito": "si",
+     "posizione": "favorevole",
+     "parametri": "fino al 2030, accessibili ai più deboli",
+     "prove": [
+      "ev-0004"
+     ],
+     "nota": "senza sostegno alle caldaie a gas"
+    },
+    {
+     "partito": "piu-europa",
+     "posizione": "favorevole con riserve",
+     "parametri": null,
+     "prove": [
+      "piu-europa-0059"
+     ],
+     "nota": "premiando interventi integrati e legando le detrazioni alla riduzione dei consumi"
+    },
+    {
+     "partito": "fn",
+     "posizione": "favorevole con riserve",
+     "parametri": null,
+     "prove": [
+      "fn-0183"
+     ],
+     "nota": "piano di lungo periodo con politiche strutturali al posto degli incentivi emergenziali"
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "Stesso obiettivo, con condizioni diverse."
+   },
+   "forza": {
+    "favorevoli": 6,
+    "contrari": 0,
+    "seggi_camera": 146,
+    "seggi_senato": 69,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "altro",
+     "maggioranza",
+     "opposizione"
+    ],
+    "trasversale": true
+   }
+  },
+  {
+   "id": "q-energia-superbonus",
+   "domanda": "Prorogare il Superbonus?",
+   "sottotema": "Bonus edilizi",
+   "spiegazione": "La detrazione maggiorata per lavori di efficientamento degli edifici.",
+   "posizioni": [
+    {
+     "partito": "m5s",
+     "posizione": "favorevole",
+     "parametri": "strutturale, con circolazione dei crediti; versione per le imprese",
+     "prove": [
+      "m5s-0178",
+      "m5s-0179"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "lega",
+     "posizione": "favorevole con riserve",
+     "parametri": null,
+     "prove": [
+      "lega-0130",
+      "lega-0177"
+     ],
+     "nota": "solo prime case in bassa classe energetica, con incentivo ridotto e decrescente"
+    }
+   ],
+   "touchpoint": {
+    "grado": null,
+    "nota": "Un solo partito pienamente favorevole."
+   },
+   "forza": {
+    "favorevoli": 2,
+    "contrari": 0,
+    "seggi_camera": 104,
+    "seggi_senato": 54,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "maggioranza",
+     "opposizione"
+    ],
+    "trasversale": true
+   }
+  },
+  {
+   "id": "q-energia-edifici-pubblici",
+   "domanda": "Finanziare la riqualificazione energetica di edifici pubblici e case popolari?",
+   "sottotema": "Efficienza energetica",
+   "spiegazione": "Fondi per ridurre i consumi di scuole, ospedali, uffici pubblici ed edilizia residenziale pubblica.",
+   "posizioni": [
+    {
+     "partito": "pd",
+     "posizione": "favorevole",
+     "parametri": "circa 14,4 miliardi; fondo europeo",
+     "prove": [
+      "pd-0003",
+      "pd-0143"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "ev",
+     "posizione": "favorevole",
+     "parametri": "circa 14,4 miliardi",
+     "prove": [
+      "pd-0003",
+      "ev-0120"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "si",
+     "posizione": "favorevole",
+     "parametri": "circa 14,4 miliardi",
+     "prove": [
+      "pd-0003",
+      "ev-0120"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "m5s",
+     "posizione": "favorevole",
+     "parametri": "circa 14,4 miliardi",
+     "prove": [
+      "pd-0003"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "iv",
+     "posizione": "favorevole",
+     "parametri": "circa 14,4 miliardi",
+     "prove": [
+      "pd-0003",
+      "azione-0048"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "piu-europa",
+     "posizione": "favorevole",
+     "parametri": "circa 14,4 miliardi",
+     "prove": [
+      "pd-0003"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "azione",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "azione-0048"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "lega",
+     "posizione": "favorevole",
+     "parametri": "case popolari, scuole, ospedali, impianti sportivi",
+     "prove": [
+      "lega-0204"
+     ],
+     "nota": null
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "Stesso obiettivo; solo il centrosinistra indica una cifra."
+   },
+   "forza": {
+    "favorevoli": 8,
+    "contrari": 0,
+    "seggi_camera": 202,
+    "seggi_senato": 104,
+    "maggioranza_camera": true,
+    "maggioranza_senato": true,
+    "schieramenti": [
+     "maggioranza",
+     "opposizione"
+    ],
+    "trasversale": true
+   }
+  },
+  {
+   "id": "q-energia-caldaie",
+   "domanda": "Incentivare la sostituzione delle vecchie caldaie?",
+   "sottotema": "Efficienza energetica",
+   "spiegazione": "Contributi per cambiare impianti di riscaldamento vecchi o inquinanti.",
+   "posizioni": [
+    {
+     "partito": "lega",
+     "posizione": "favorevole",
+     "parametri": "sovvenzioni e detrazioni; incentivi al geoscambio",
+     "prove": [
+      "lega-0206",
+      "lega-0205"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "ev",
+     "posizione": "favorevole con riserve",
+     "parametri": null,
+     "prove": [
+      "ev-0118",
+      "ev-0003"
+     ],
+     "nota": "solo verso rinnovabili e pompe di calore, eliminando i combustibili fossili dalle case"
+    },
+    {
+     "partito": "si",
+     "posizione": "favorevole con riserve",
+     "parametri": null,
+     "prove": [
+      "ev-0118",
+      "ev-0003"
+     ],
+     "nota": "solo verso rinnovabili e pompe di calore, eliminando i combustibili fossili dalle case"
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "Stesso obiettivo; Europa Verde e Sinistra escludono le nuove caldaie a gas."
+   },
+   "forza": {
+    "favorevoli": 3,
+    "contrari": 0,
+    "seggi_camera": 66,
+    "seggi_senato": 33,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "maggioranza",
+     "opposizione"
+    ],
+    "trasversale": true
+   }
+  },
+  {
+   "id": "q-energia-debito-comune-energia",
+   "domanda": "Finanziare la transizione energetica con debito comune europeo?",
+   "sottotema": "Gas e approvvigionamento",
+   "spiegazione": "Un fondo europeo finanziato con titoli comuni per energia e autonomia energetica.",
+   "posizioni": [
+    {
+     "partito": "m5s",
+     "posizione": "favorevole",
+     "parametri": "Energy Recovery Fund",
+     "prove": [
+      "m5s-0231"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "pd",
+     "posizione": "favorevole",
+     "parametri": "Energy recovery fund",
+     "prove": [
+      "pd-0248"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "fi",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "fi-0058"
+     ],
+     "nota": null
+    }
+   ],
+   "touchpoint": {
+    "grado": "pieno",
+    "nota": "Stessa misura (fondo europeo a debito comune)."
+   },
+   "forza": {
+    "favorevoli": 3,
+    "contrari": 0,
+    "seggi_camera": 168,
+    "seggi_senato": 81,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "maggioranza",
+     "opposizione"
+    ],
+    "trasversale": true
+   }
+  },
+  {
+   "id": "q-energia-politica-energetica-ue",
+   "domanda": "Creare una politica energetica comune europea?",
+   "sottotema": "Gas e approvvigionamento",
+   "spiegazione": "Mercato integrato, reti e stoccaggi comuni e decisioni condivise sull'energia tra Stati UE.",
+   "posizioni": [
+    {
+     "partito": "ev",
+     "posizione": "favorevole",
+     "parametri": "solidarietà tra Stati sul gas",
+     "prove": [
+      "ev-0028"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "si",
+     "posizione": "favorevole",
+     "parametri": "solidarietà tra Stati sul gas",
+     "prove": [
+      "ev-0028"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "piu-europa",
+     "posizione": "favorevole",
+     "parametri": "reti integrate e stoccaggi comuni del gas",
+     "prove": [
+      "piu-europa-0052"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "fi",
+     "posizione": "favorevole",
+     "parametri": "Unione dell'Energia con mercato integrato",
+     "prove": [
+      "fi-0033"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "nm",
+     "posizione": "favorevole",
+     "parametri": "Unione dell'Energia con mercato integrato",
+     "prove": [
+      "fi-0033"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "pd",
+     "posizione": "favorevole",
+     "parametri": "superare l'unanimità, anche sulla fiscalità",
+     "prove": [
+      "pd-0170"
+     ],
+     "nota": null
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "Stesso obiettivo, con strumenti diversi."
+   },
+   "forza": {
+    "favorevoli": 6,
+    "contrari": 0,
+    "seggi_camera": 141,
+    "seggi_senato": 68,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "maggioranza",
+     "opposizione"
+    ],
+    "trasversale": true
+   }
+  },
+  {
+   "id": "q-energia-ricarica-elettrica",
+   "domanda": "Ampliare la rete di ricarica per i veicoli elettrici?",
+   "sottotema": "Mobilità elettrica",
+   "spiegazione": "Più colonnine pubbliche, anche veloci.",
+   "posizioni": [
+    {
+     "partito": "ev",
+     "posizione": "favorevole",
+     "parametri": "100 mila punti pubblici e 10 milioni di veicoli elettrici al 2030",
+     "prove": [
+      "ev-0033"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "si",
+     "posizione": "favorevole",
+     "parametri": "100 mila punti pubblici e 10 milioni di veicoli elettrici al 2030",
+     "prove": [
+      "ev-0033"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "pd",
+     "posizione": "favorevole",
+     "parametri": "100.000 colonnine e 30.000 punti rapidi entro il 2027",
+     "prove": [
+      "pd-0060"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "lega",
+     "posizione": "favorevole",
+     "parametri": "anche veloce e ultraveloce",
+     "prove": [
+      "lega-0250"
+     ],
+     "nota": null
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "Stesso obiettivo, con cifre compatibili ma diverse."
+   },
+   "forza": {
+    "favorevoli": 4,
+    "contrari": 0,
+    "seggi_camera": 134,
+    "seggi_senato": 69,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "maggioranza",
+     "opposizione"
+    ],
+    "trasversale": true
+   }
+  },
+  {
+   "id": "q-energia-filiera-componenti",
+   "domanda": "Sostenere una produzione nazionale di pannelli, batterie e componenti per le rinnovabili?",
+   "sottotema": "Politica industriale",
+   "spiegazione": "Fabbriche italiane o europee per i componenti della transizione energetica.",
+   "posizioni": [
+    {
+     "partito": "lega",
+     "posizione": "favorevole",
+     "parametri": "filiera nazionale, anche con super e iper ammortamento",
+     "prove": [
+      "lega-0190",
+      "lega-0251",
+      "lega-0077"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "fn",
+     "posizione": "favorevole",
+     "parametri": "contenuti europei e capacità produttive interne per ogni nuovo impianto",
+     "prove": [
+      "fn-0189"
+     ],
+     "nota": null
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "Stesso obiettivo, con strumenti diversi."
+   },
+   "forza": {
+    "favorevoli": 2,
+    "contrari": 0,
+    "seggi_camera": 65,
+    "seggi_senato": 29,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "altro",
+     "maggioranza"
+    ],
+    "trasversale": true
+   }
+  }
+ ]
+}

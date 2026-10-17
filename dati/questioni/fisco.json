@@ -1,0 +1,4136 @@
+{
+ "area": "fisco",
+ "questioni": [
+  {
+   "id": "q-fisco-forfettario-partite-iva",
+   "domanda": "Ampliare il regime forfettario (flat tax) per le partite IVA?",
+   "sottotema": "Regime forfettario",
+   "spiegazione": "Alzare la soglia di ricavi del regime a imposta sostitutiva per autonomi e piccole imprese, o attenuarne l'uscita.",
+   "posizioni": [
+    {
+     "partito": "fdi",
+     "posizione": "favorevole",
+     "parametri": "fino a 100.000 euro di fatturato, più flat tax sull'incremento di reddito",
+     "prove": [
+      "fdi-0023"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "lega",
+     "posizione": "favorevole",
+     "parametri": "fino a 100.000 euro di fatturato, più flat tax sull'incremento di reddito",
+     "prove": [
+      "fdi-0023"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "fi",
+     "posizione": "favorevole",
+     "parametri": "fino a 100.000 euro di fatturato, più flat tax sull'incremento di reddito",
+     "prove": [
+      "fdi-0023"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "nm",
+     "posizione": "favorevole",
+     "parametri": "fino a 100.000 euro di fatturato, più flat tax sull'incremento di reddito",
+     "prove": [
+      "fdi-0023"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "udc",
+     "posizione": "favorevole",
+     "parametri": "fino a 100.000 euro di fatturato, più flat tax sull'incremento di reddito",
+     "prove": [
+      "fdi-0023"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "fn",
+     "posizione": "favorevole con riserve",
+     "parametri": null,
+     "prove": [
+      "fn-0018",
+      "fn-0017"
+     ],
+     "nota": "propone di valutare l'innalzamento e di eliminare gli effetti soglia"
+    },
+    {
+     "partito": "azione",
+     "posizione": "favorevole con riserve",
+     "parametri": "scivolo biennale oltre 65.000 euro di ricavi",
+     "prove": [
+      "azione-0096"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "pd",
+     "posizione": "contrario",
+     "parametri": null,
+     "prove": [
+      "pd-0021"
+     ],
+     "nota": "propone di ridurre drasticamente i regimi sostitutivi"
+    },
+    {
+     "partito": "m5s",
+     "posizione": "contrario",
+     "parametri": null,
+     "prove": [
+      "pd-0021"
+     ],
+     "nota": "propone di ridurre drasticamente i regimi sostitutivi"
+    },
+    {
+     "partito": "ev",
+     "posizione": "contrario",
+     "parametri": null,
+     "prove": [
+      "pd-0021"
+     ],
+     "nota": "propone di ridurre drasticamente i regimi sostitutivi"
+    },
+    {
+     "partito": "si",
+     "posizione": "contrario",
+     "parametri": null,
+     "prove": [
+      "pd-0021"
+     ],
+     "nota": "propone di ridurre drasticamente i regimi sostitutivi"
+    },
+    {
+     "partito": "iv",
+     "posizione": "contrario",
+     "parametri": null,
+     "prove": [
+      "pd-0021"
+     ],
+     "nota": "propone di ridurre drasticamente i regimi sostitutivi"
+    },
+    {
+     "partito": "piu-europa",
+     "posizione": "contrario",
+     "parametri": null,
+     "prove": [
+      "pd-0021"
+     ],
+     "nota": "propone di ridurre drasticamente i regimi sostitutivi"
+    }
+   ],
+   "touchpoint": {
+    "grado": "pieno",
+    "nota": "I favorevoli del centrodestra condividono la stessa proposta di programma comune."
+   },
+   "forza": {
+    "favorevoli": 7,
+    "contrari": 6,
+    "seggi_camera": 252,
+    "seggi_senato": 122,
+    "maggioranza_camera": true,
+    "maggioranza_senato": true,
+    "schieramenti": [
+     "altro",
+     "maggioranza",
+     "opposizione"
+    ],
+    "trasversale": true
+   }
+  },
+  {
+   "id": "q-fisco-irpef-aliquota-unica",
+   "domanda": "Portare l'IRPEF a una o due sole aliquote?",
+   "sottotema": "IRPEF e aliquote",
+   "spiegazione": "Ridurre gli scaglioni IRPEF fino a una tassa piatta, anche su base familiare.",
+   "posizioni": [
+    {
+     "partito": "fn",
+     "posizione": "favorevole",
+     "parametri": "una o due aliquote",
+     "prove": [
+      "fn-0016"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "lega",
+     "posizione": "favorevole",
+     "parametri": "flat tax familiare con no-tax area legata al numero dei figli",
+     "prove": [
+      "lega-0293"
+     ],
+     "nota": null
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "Stessa direzione, ma Lega la lega al nucleo familiare e FN a una o due aliquote individuali."
+   },
+   "forza": {
+    "favorevoli": 2,
+    "contrari": 0,
+    "seggi_camera": 65,
+    "seggi_senato": 29,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "altro",
+     "maggioranza"
+    ],
+    "trasversale": true
+   }
+  },
+  {
+   "id": "q-fisco-irpef-funzione-continua",
+   "domanda": "Sostituire gli scaglioni IRPEF con una formula continua?",
+   "sottotema": "IRPEF e aliquote",
+   "spiegazione": "Calcolare l'imposta con aliquote medie che crescono in modo graduale, senza salti tra scaglioni.",
+   "posizioni": [
+    {
+     "partito": "pd",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "pd-0020"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "m5s",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "pd-0020"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "ev",
+     "posizione": "favorevole",
+     "parametri": "modello tedesco",
+     "prove": [
+      "pd-0020",
+      "ev-0249"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "si",
+     "posizione": "favorevole",
+     "parametri": "modello tedesco",
+     "prove": [
+      "pd-0020",
+      "ev-0249"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "iv",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "pd-0020"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "piu-europa",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "pd-0020"
+     ],
+     "nota": null
+    }
+   ],
+   "touchpoint": {
+    "grado": "pieno",
+    "nota": "Stessa misura nel programma comune; AVS indica anche il modello tedesco."
+   },
+   "forza": {
+    "favorevoli": 6,
+    "contrari": 0,
+    "seggi_camera": 136,
+    "seggi_senato": 73,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "opposizione"
+    ],
+    "trasversale": false
+   }
+  },
+  {
+   "id": "q-fisco-fiscal-drag",
+   "domanda": "Adeguare automaticamente l'IRPEF all'inflazione?",
+   "sottotema": "IRPEF e aliquote",
+   "spiegazione": "Indicizzare scaglioni, detrazioni e soglie IRPEF per evitare che l'inflazione aumenti le tasse (drenaggio fiscale).",
+   "posizioni": [
+    {
+     "partito": "pd",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "pd-0019"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "m5s",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "pd-0019"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "ev",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "pd-0019"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "si",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "pd-0019"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "iv",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "pd-0019"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "piu-europa",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "pd-0019"
+     ],
+     "nota": null
+    }
+   ],
+   "touchpoint": {
+    "grado": "pieno",
+    "nota": "Stessa misura nel programma comune."
+   },
+   "forza": {
+    "favorevoli": 6,
+    "contrari": 0,
+    "seggi_camera": 136,
+    "seggi_senato": 73,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "opposizione"
+    ],
+    "trasversale": false
+   }
+  },
+  {
+   "id": "q-fisco-no-tax-area",
+   "domanda": "Alzare la soglia di reddito esente dall'IRPEF?",
+   "sottotema": "IRPEF e aliquote",
+   "spiegazione": "Ampliare la parte di reddito su cui non si paga IRPEF (no tax area o minimo esente).",
+   "posizioni": [
+    {
+     "partito": "azione",
+     "posizione": "favorevole",
+     "parametri": "minimo esente come maxi-deduzione",
+     "prove": [
+      "azione-0083"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "iv",
+     "posizione": "favorevole",
+     "parametri": "minimo esente come maxi-deduzione",
+     "prove": [
+      "azione-0083"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "piu-europa",
+     "posizione": "favorevole",
+     "parametri": "no-tax area fino a 10.000 euro e tre aliquote (23%, 28%, 38%)",
+     "prove": [
+      "piu-europa-0077"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "m5s",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "m5s-0117"
+     ],
+     "nota": "insieme a più progressività e neutralizzazione del fiscal drag"
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "Stesso obiettivo, con strumenti e soglie diverse o non indicate."
+   },
+   "forza": {
+    "favorevoli": 4,
+    "contrari": 0,
+    "seggi_camera": 68,
+    "seggi_senato": 35,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "opposizione"
+    ],
+    "trasversale": false
+   }
+  },
+  {
+   "id": "q-fisco-irpef-redditi-medi",
+   "domanda": "Ridurre l'IRPEF sui redditi medi?",
+   "sottotema": "IRPEF e aliquote",
+   "spiegazione": "Abbassare il carico IRPEF per le fasce di reddito intermedie.",
+   "posizioni": [
+    {
+     "partito": "fi",
+     "posizione": "favorevole",
+     "parametri": "aliquota dal 35% al 33% fino a 60.000 euro",
+     "prove": [
+      "fi-0112"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "pd",
+     "posizione": "favorevole",
+     "parametri": "a partire dai redditi medi e bassi",
+     "prove": [
+      "pd-0131"
+     ],
+     "nota": null
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "Stesso obiettivo; solo FI indica aliquota e soglia."
+   },
+   "forza": {
+    "favorevoli": 2,
+    "contrari": 0,
+    "seggi_camera": 120,
+    "seggi_senato": 56,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "maggioranza",
+     "opposizione"
+    ],
+    "trasversale": true
+   }
+  },
+  {
+   "id": "q-fisco-cuneo-fiscale",
+   "domanda": "Ridurre il cuneo fiscale sul lavoro?",
+   "sottotema": "Cuneo fiscale",
+   "spiegazione": "Ridurre tasse e contributi che separano il costo del lavoro per l'impresa dallo stipendio netto.",
+   "posizioni": [
+    {
+     "partito": "fdi",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "fdi-0051"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "lega",
+     "posizione": "favorevole",
+     "parametri": "10 punti per 10 anni",
+     "prove": [
+      "fdi-0051",
+      "lega-0500"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "fi",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "fdi-0051"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "nm",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "fdi-0051"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "udc",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "fdi-0051"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "m5s",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "m5s-0150"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "fn",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "fn-0013",
+      "fn-0035",
+      "fn-0093"
+     ],
+     "nota": "una proposta lega le risorse alla remigrazione"
+    },
+    {
+     "partito": "pd",
+     "posizione": "favorevole con riserve",
+     "parametri": "franchigia di 1.000 euro sui contributi INPS dei dipendenti",
+     "prove": [
+      "pd-0114"
+     ],
+     "nota": null
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "Stesso obiettivo, con entità e strumenti diversi."
+   },
+   "forza": {
+    "favorevoli": 8,
+    "contrari": 0,
+    "seggi_camera": 358,
+    "seggi_senato": 181,
+    "maggioranza_camera": true,
+    "maggioranza_senato": true,
+    "schieramenti": [
+     "altro",
+     "maggioranza",
+     "opposizione"
+    ],
+    "trasversale": true
+   }
+  },
+  {
+   "id": "q-fisco-premi-produttivita",
+   "domanda": "Detassare premi di produttività, straordinari e welfare aziendale?",
+   "sottotema": "Premi di produttività",
+   "spiegazione": "Tassare meno o non tassare premi di risultato, straordinari, fringe benefit e welfare aziendale.",
+   "posizioni": [
+    {
+     "partito": "fdi",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "fdi-0054"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "lega",
+     "posizione": "favorevole",
+     "parametri": "premi fino a 5.000 euro con imposta sostitutiva del 5%",
+     "prove": [
+      "fdi-0054",
+      "lega-0072",
+      "lega-0503"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "fi",
+     "posizione": "favorevole",
+     "parametri": "anche tredicesime e festivi",
+     "prove": [
+      "fdi-0054",
+      "fi-0113"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "nm",
+     "posizione": "favorevole",
+     "parametri": "premio convertibile in welfare da 3.000 a 6.000 euro",
+     "prove": [
+      "fdi-0054",
+      "nm-0020"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "udc",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "fdi-0054"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "azione",
+     "posizione": "favorevole",
+     "parametri": "detassazione completa dei premi; fringe benefit da 600 a 2.000 euro",
+     "prove": [
+      "azione-0067",
+      "azione-0100",
+      "azione-0089"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "iv",
+     "posizione": "favorevole",
+     "parametri": "detassazione completa dei premi; fringe benefit da 600 a 2.000 euro",
+     "prove": [
+      "azione-0067",
+      "azione-0100",
+      "azione-0089"
+     ],
+     "nota": null
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "Stesso obiettivo, con tetti e aliquote diversi (da imposta al 5% a esenzione totale)."
+   },
+   "forza": {
+    "favorevoli": 7,
+    "contrari": 0,
+    "seggi_camera": 250,
+    "seggi_senato": 130,
+    "maggioranza_camera": true,
+    "maggioranza_senato": true,
+    "schieramenti": [
+     "maggioranza",
+     "opposizione"
+    ],
+    "trasversale": true
+   }
+  },
+  {
+   "id": "q-fisco-aumenti-salariali",
+   "domanda": "Detassare gli aumenti di stipendio?",
+   "sottotema": "Cuneo fiscale",
+   "spiegazione": "Non tassare o tassare meno gli incrementi retributivi, in particolare per i redditi bassi.",
+   "posizioni": [
+    {
+     "partito": "nm",
+     "posizione": "favorevole",
+     "parametri": "fino a 200 euro al mese per redditi fino a 35.000 euro",
+     "prove": [
+      "nm-0014",
+      "nm-0099"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "fn",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "fn-0036"
+     ],
+     "nota": "incrementi da contrattazione nazionale"
+    },
+    {
+     "partito": "fi",
+     "posizione": "favorevole",
+     "parametri": "salari da 7,05 a 9 euro l'ora",
+     "prove": [
+      "fi-0114"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "lega",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "lega-0511"
+     ],
+     "nota": "contributi anti-inflazione, deducibili al 120% per chi paga"
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "Stesso obiettivo, con platee e strumenti diversi."
+   },
+   "forza": {
+    "favorevoli": 4,
+    "contrari": 0,
+    "seggi_camera": 125,
+    "seggi_senato": 57,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "altro",
+     "maggioranza"
+    ],
+    "trasversale": true
+   }
+  },
+  {
+   "id": "q-fisco-chi-assume-paga-meno",
+   "domanda": "Ridurre le tasse alle imprese che aumentano i dipendenti?",
+   "sottotema": "Tasse sulle imprese",
+   "spiegazione": "Legare uno sconto fiscale per l'impresa all'aumento dell'occupazione.",
+   "posizioni": [
+    {
+     "partito": "fdi",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "fdi-0022",
+      "fdi-0105",
+      "fdi-0250"
+     ],
+     "nota": "anche con super deduzione del costo del lavoro"
+    },
+    {
+     "partito": "lega",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "fdi-0022"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "fi",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "fdi-0022"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "nm",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "fdi-0022"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "udc",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "fdi-0022"
+     ],
+     "nota": null
+    }
+   ],
+   "touchpoint": {
+    "grado": "pieno",
+    "nota": "Stessa proposta di programma comune del centrodestra."
+   },
+   "forza": {
+    "favorevoli": 5,
+    "contrari": 0,
+    "seggi_camera": 233,
+    "seggi_senato": 120,
+    "maggioranza_camera": true,
+    "maggioranza_senato": true,
+    "schieramenti": [
+     "maggioranza"
+    ],
+    "trasversale": false
+   }
+  },
+  {
+   "id": "q-fisco-decontribuzione-giovani",
+   "domanda": "Azzerare o ridurre i contributi per chi assume giovani a tempo indeterminato?",
+   "sottotema": "Occupazione giovanile",
+   "spiegazione": "Sgravi contributivi o fiscali per le assunzioni stabili di giovani.",
+   "posizioni": [
+    {
+     "partito": "pd",
+     "posizione": "favorevole",
+     "parametri": "contributi azzerati per under 35",
+     "prove": [
+      "pd-0130"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "lega",
+     "posizione": "favorevole",
+     "parametri": "esonero strutturale under 35; cuneo -50% per 5 anni in startup e PMI innovative che assumono laureati",
+     "prove": [
+      "lega-0508",
+      "lega-0117"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "piu-europa",
+     "posizione": "favorevole",
+     "parametri": "fino a 35 anni, integrale per piccole imprese nel primo triennio",
+     "prove": [
+      "piu-europa-0089"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "fi",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "fi-0065"
+     ],
+     "nota": null
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "Stesso obiettivo e soglia di età simile (35 anni), con intensità diverse."
+   },
+   "forza": {
+    "favorevoli": 4,
+    "contrari": 0,
+    "seggi_camera": 179,
+    "seggi_senato": 85,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "maggioranza",
+     "opposizione"
+    ],
+    "trasversale": true
+   }
+  },
+  {
+   "id": "q-fisco-irpef-giovani",
+   "domanda": "Ridurre l'IRPEF per i giovani lavoratori?",
+   "sottotema": "Occupazione giovanile",
+   "spiegazione": "Aliquote o detrazioni IRPEF più favorevoli per i giovani che lavorano in Italia.",
+   "posizioni": [
+    {
+     "partito": "pd",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "pd-0017"
+     ],
+     "nota": "piano per il diritto a restare"
+    },
+    {
+     "partito": "m5s",
+     "posizione": "favorevole",
+     "parametri": "detrazione aggiuntiva per 5 anni entro i 35 anni",
+     "prove": [
+      "pd-0017",
+      "m5s-0136"
+     ],
+     "nota": "piano per il diritto a restare"
+    },
+    {
+     "partito": "ev",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "pd-0017"
+     ],
+     "nota": "piano per il diritto a restare"
+    },
+    {
+     "partito": "si",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "pd-0017"
+     ],
+     "nota": "piano per il diritto a restare"
+    },
+    {
+     "partito": "iv",
+     "posizione": "favorevole",
+     "parametri": "esenzione fino a 25 anni, -50% fino a 29",
+     "prove": [
+      "pd-0017",
+      "azione-0087"
+     ],
+     "nota": "piano per il diritto a restare"
+    },
+    {
+     "partito": "piu-europa",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "pd-0017"
+     ],
+     "nota": "piano per il diritto a restare"
+    },
+    {
+     "partito": "azione",
+     "posizione": "favorevole",
+     "parametri": "esenzione fino a 25 anni, -50% fino a 29",
+     "prove": [
+      "azione-0087"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "lega",
+     "posizione": "favorevole",
+     "parametri": "imponibile ridotto sul modello rientro dei cervelli",
+     "prove": [
+      "lega-0346"
+     ],
+     "nota": null
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "Stesso obiettivo, con età e strumenti diversi."
+   },
+   "forza": {
+    "favorevoli": 8,
+    "contrari": 0,
+    "seggi_camera": 202,
+    "seggi_senato": 104,
+    "maggioranza_camera": true,
+    "maggioranza_senato": true,
+    "schieramenti": [
+     "maggioranza",
+     "opposizione"
+    ],
+    "trasversale": true
+   }
+  },
+  {
+   "id": "q-fisco-quoziente-familiare",
+   "domanda": "Introdurre il quoziente familiare nelle tasse?",
+   "sottotema": "Quoziente familiare",
+   "spiegazione": "Calcolare le imposte tenendo conto del numero di componenti della famiglia.",
+   "posizioni": [
+    {
+     "partito": "fdi",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "fdi-0030"
+     ],
+     "nota": "introduzione progressiva"
+    },
+    {
+     "partito": "lega",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "fdi-0030",
+      "lega-0296",
+      "lega-0297"
+     ],
+     "nota": "introduzione progressiva; anche nell'ISEE"
+    },
+    {
+     "partito": "fi",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "fdi-0030"
+     ],
+     "nota": "introduzione progressiva"
+    },
+    {
+     "partito": "nm",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "fdi-0030"
+     ],
+     "nota": "introduzione progressiva"
+    },
+    {
+     "partito": "udc",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "fdi-0030"
+     ],
+     "nota": "introduzione progressiva"
+    },
+    {
+     "partito": "fn",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "fn-0010",
+      "fn-0233"
+     ],
+     "nota": "anche per tributi locali e servizi"
+    }
+   ],
+   "touchpoint": {
+    "grado": "pieno",
+    "nota": "Stessa misura; differenze solo sull'estensione ad altri strumenti."
+   },
+   "forza": {
+    "favorevoli": 6,
+    "contrari": 0,
+    "seggi_camera": 242,
+    "seggi_senato": 120,
+    "maggioranza_camera": true,
+    "maggioranza_senato": true,
+    "schieramenti": [
+     "altro",
+     "maggioranza"
+    ],
+    "trasversale": true
+   }
+  },
+  {
+   "id": "q-fisco-secondo-percettore",
+   "domanda": "Tassare meno il secondo reddito della famiglia?",
+   "sottotema": "Tassazione per genere",
+   "spiegazione": "Agevolazione IRPEF per chi in famiglia guadagna il reddito più basso, spesso le donne.",
+   "posizioni": [
+    {
+     "partito": "pd",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "pd-0129"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "piu-europa",
+     "posizione": "favorevole",
+     "parametri": "fino a 5 punti di aliquota in meno",
+     "prove": [
+      "piu-europa-0080"
+     ],
+     "nota": null
+    }
+   ],
+   "touchpoint": {
+    "grado": "pieno",
+    "nota": "Stessa misura; solo +Europa indica l'entità."
+   },
+   "forza": {
+    "favorevoli": 2,
+    "contrari": 0,
+    "seggi_camera": 71,
+    "seggi_senato": 36,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "opposizione"
+    ],
+    "trasversale": false
+   }
+  },
+  {
+   "id": "q-fisco-detrazioni-familiari",
+   "domanda": "Aumentare le detrazioni per figli e spese scolastiche?",
+   "sottotema": "Detrazioni familiari",
+   "spiegazione": "Detrazioni più alte per figli a carico, istruzione, libri e cancelleria.",
+   "posizioni": [
+    {
+     "partito": "nm",
+     "posizione": "favorevole",
+     "parametri": "tetto spese di istruzione a 1.500 euro per studente",
+     "prove": [
+      "nm-0010"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "lega",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "lega-0298",
+      "lega-0478"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "fn",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "fn-0234",
+      "fn-0235"
+     ],
+     "nota": "detrazione per primo figlio e per tre o più figli"
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "Stesso obiettivo, con voci di spesa diverse."
+   },
+   "forza": {
+    "favorevoli": 3,
+    "contrari": 0,
+    "seggi_camera": 73,
+    "seggi_senato": 37,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "altro",
+     "maggioranza"
+    ],
+    "trasversale": true
+   }
+  },
+  {
+   "id": "q-fisco-lavoro-domestico-cura",
+   "domanda": "Rendere deducibili le spese per colf, badanti e assistenza ai familiari?",
+   "sottotema": "Non autosufficienza e anziani",
+   "spiegazione": "Sconto fiscale sulle spese per lavoro domestico e cura di familiari.",
+   "posizioni": [
+    {
+     "partito": "fdi",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "fdi-0218"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "m5s",
+     "posizione": "favorevole",
+     "parametri": "cashback immediato",
+     "prove": [
+      "m5s-0101"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "fn",
+     "posizione": "favorevole",
+     "parametri": "detrazione integrale per non autosufficienti",
+     "prove": [
+      "fn-0236"
+     ],
+     "nota": null
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "Stesso obiettivo, con deduzione, detrazione o cashback."
+   },
+   "forza": {
+    "favorevoli": 3,
+    "contrari": 0,
+    "seggi_camera": 174,
+    "seggi_senato": 88,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "altro",
+     "maggioranza",
+     "opposizione"
+    ],
+    "trasversale": true
+   }
+  },
+  {
+   "id": "q-fisco-pace-fiscale",
+   "domanda": "Fare una nuova definizione agevolata dei debiti con il fisco?",
+   "sottotema": "Condoni e rottamazioni",
+   "spiegazione": "Permettere di chiudere debiti fiscali pregressi o liti pendenti pagando meno del dovuto (pace fiscale, rottamazione, saldo e stralcio).",
+   "posizioni": [
+    {
+     "partito": "fdi",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "fdi-0021"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "lega",
+     "posizione": "favorevole",
+     "parametri": "percentuali legate all'esito dei giudizi",
+     "prove": [
+      "fdi-0021",
+      "lega-0064",
+      "lega-0065",
+      "lega-0063"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "fi",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "fdi-0021"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "nm",
+     "posizione": "favorevole",
+     "parametri": "pagamento del 20% per chi è in buona fede",
+     "prove": [
+      "fdi-0021",
+      "nm-0016"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "udc",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "fdi-0021"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "fn",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "fn-0024"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "ev",
+     "posizione": "contrario",
+     "parametri": null,
+     "prove": [
+      "ev-0087"
+     ],
+     "nota": "escludono ogni condono"
+    },
+    {
+     "partito": "si",
+     "posizione": "contrario",
+     "parametri": null,
+     "prove": [
+      "ev-0087"
+     ],
+     "nota": "escludono ogni condono"
+    },
+    {
+     "partito": "piu-europa",
+     "posizione": "contrario",
+     "parametri": null,
+     "prove": [
+      "piu-europa-0131"
+     ],
+     "nota": "nessun condono di alcun genere"
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "Stessa idea con percentuali e platee diverse."
+   },
+   "forza": {
+    "favorevoli": 6,
+    "contrari": 3,
+    "seggi_camera": 242,
+    "seggi_senato": 120,
+    "maggioranza_camera": true,
+    "maggioranza_senato": true,
+    "schieramenti": [
+     "altro",
+     "maggioranza"
+    ],
+    "trasversale": true
+   }
+  },
+  {
+   "id": "q-fisco-rateizzazione-cartelle",
+   "domanda": "Allungare la rateizzazione delle cartelle esattoriali?",
+   "sottotema": "Riscossione",
+   "spiegazione": "Permettere di pagare i debiti fiscali in molte rate per un periodo lungo.",
+   "posizioni": [
+    {
+     "partito": "lega",
+     "posizione": "favorevole",
+     "parametri": "per esempio 10 anni a rate fisse",
+     "prove": [
+      "lega-0804"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "m5s",
+     "posizione": "favorevole",
+     "parametri": "maxirateazione",
+     "prove": [
+      "m5s-0152"
+     ],
+     "nota": null
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "Stessa misura; solo la Lega indica la durata."
+   },
+   "forza": {
+    "favorevoli": 2,
+    "contrari": 0,
+    "seggi_camera": 104,
+    "seggi_senato": 54,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "maggioranza",
+     "opposizione"
+    ],
+    "trasversale": true
+   }
+  },
+  {
+   "id": "q-fisco-incrocio-banche-dati",
+   "domanda": "Contrastare l'evasione incrociando banche dati e pagamenti tracciabili?",
+   "sottotema": "Evasione",
+   "spiegazione": "Usare i dati di fatture elettroniche, pagamenti e conti per individuare chi evade.",
+   "posizioni": [
+    {
+     "partito": "ev",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "ev-0086"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "si",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "ev-0086"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "m5s",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "m5s-0121"
+     ],
+     "nota": "anche con intelligenza artificiale"
+    },
+    {
+     "partito": "pd",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "pd-0132"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "piu-europa",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "piu-europa-0130"
+     ],
+     "nota": null
+    }
+   ],
+   "touchpoint": {
+    "grado": "pieno",
+    "nota": "Stessa misura."
+   },
+   "forza": {
+    "favorevoli": 5,
+    "contrari": 0,
+    "seggi_camera": 129,
+    "seggi_senato": 65,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "opposizione"
+    ],
+    "trasversale": false
+   }
+  },
+  {
+   "id": "q-fisco-pene-grandi-evasori",
+   "domanda": "Rafforzare controlli e pene contro grandi evasori e frodi?",
+   "sottotema": "Evasione",
+   "spiegazione": "Concentrare i controlli e inasprire sanzioni e confische su evasione organizzata e frodi.",
+   "posizioni": [
+    {
+     "partito": "m5s",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "m5s-0122"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "fn",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "fn-0025"
+     ],
+     "nota": null
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "Stesso obiettivo; M5S punta su pene e confische, FN sui controlli."
+   },
+   "forza": {
+    "favorevoli": 2,
+    "contrari": 0,
+    "seggi_camera": 57,
+    "seggi_senato": 25,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "altro",
+     "opposizione"
+    ],
+    "trasversale": false
+   }
+  },
+  {
+   "id": "q-fisco-limite-contante",
+   "domanda": "Alzare il limite ai pagamenti in contanti?",
+   "sottotema": "Contante",
+   "spiegazione": "Aumentare l'importo massimo che si può pagare in contanti.",
+   "posizioni": [
+    {
+     "partito": "fdi",
+     "posizione": "favorevole",
+     "parametri": "allineato alla media UE",
+     "prove": [
+      "fdi-0060"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "lega",
+     "posizione": "favorevole",
+     "parametri": "allineato alla media UE",
+     "prove": [
+      "fdi-0060",
+      "lega-0122"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "fi",
+     "posizione": "favorevole",
+     "parametri": "allineato alla media UE",
+     "prove": [
+      "fdi-0060"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "nm",
+     "posizione": "favorevole",
+     "parametri": "allineato alla media UE",
+     "prove": [
+      "fdi-0060"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "udc",
+     "posizione": "favorevole",
+     "parametri": "allineato alla media UE",
+     "prove": [
+      "fdi-0060"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "fn",
+     "posizione": "favorevole",
+     "parametri": "10.000 euro",
+     "prove": [
+      "fn-0050"
+     ],
+     "nota": null
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "Lega e FN indicano 10.000 euro, il programma comune la media UE."
+   },
+   "forza": {
+    "favorevoli": 6,
+    "contrari": 0,
+    "seggi_camera": 242,
+    "seggi_senato": 120,
+    "maggioranza_camera": true,
+    "maggioranza_senato": true,
+    "schieramenti": [
+     "altro",
+     "maggioranza"
+    ],
+    "trasversale": true
+   }
+  },
+  {
+   "id": "q-fisco-giustizia-tributaria",
+   "domanda": "Affidare le liti fiscali a giudici tributari professionali e indipendenti dal Ministero dell'Economia?",
+   "sottotema": "Giustizia tributaria",
+   "spiegazione": "Riformare la giustizia tributaria con magistrati di ruolo, non nominati dal MEF.",
+   "posizioni": [
+    {
+     "partito": "fdi",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "fdi-0024",
+      "fdi-0265"
+     ],
+     "nota": "con onere della prova a carico dello Stato"
+    },
+    {
+     "partito": "lega",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "fdi-0024"
+     ],
+     "nota": "con onere della prova a carico dello Stato"
+    },
+    {
+     "partito": "fi",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "fdi-0024"
+     ],
+     "nota": "con onere della prova a carico dello Stato"
+    },
+    {
+     "partito": "nm",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "fdi-0024"
+     ],
+     "nota": "con onere della prova a carico dello Stato"
+    },
+    {
+     "partito": "udc",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "fdi-0024"
+     ],
+     "nota": "con onere della prova a carico dello Stato"
+    },
+    {
+     "partito": "azione",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "azione-0103"
+     ],
+     "nota": "commissioni sotto il Ministero della Giustizia"
+    },
+    {
+     "partito": "iv",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "azione-0103"
+     ],
+     "nota": "commissioni sotto il Ministero della Giustizia"
+    },
+    {
+     "partito": "piu-europa",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "piu-europa-0104"
+     ],
+     "nota": "magistrati per concorso pubblico"
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "Stesso obiettivo; il centrodestra lo lega all'onere della prova."
+   },
+   "forza": {
+    "favorevoli": 8,
+    "contrari": 0,
+    "seggi_camera": 253,
+    "seggi_senato": 130,
+    "maggioranza_camera": true,
+    "maggioranza_senato": true,
+    "schieramenti": [
+     "maggioranza",
+     "opposizione"
+    ],
+    "trasversale": true
+   }
+  },
+  {
+   "id": "q-fisco-conto-unico",
+   "domanda": "Compensare in un conto unico crediti e debiti verso lo Stato?",
+   "sottotema": "Pagamenti della PA",
+   "spiegazione": "Un conto unico in cui i crediti verso la PA si compensano con i debiti fiscali.",
+   "posizioni": [
+    {
+     "partito": "fdi",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "fdi-0025"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "lega",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "fdi-0025",
+      "lega-0620"
+     ],
+     "nota": "presso l'Agenzia delle entrate"
+    },
+    {
+     "partito": "fi",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "fdi-0025"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "nm",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "fdi-0025"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "udc",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "fdi-0025"
+     ],
+     "nota": null
+    }
+   ],
+   "touchpoint": {
+    "grado": "pieno",
+    "nota": "Stessa misura."
+   },
+   "forza": {
+    "favorevoli": 5,
+    "contrari": 0,
+    "seggi_camera": 233,
+    "seggi_senato": 120,
+    "maggioranza_camera": true,
+    "maggioranza_senato": true,
+    "schieramenti": [
+     "maggioranza"
+    ],
+    "trasversale": false
+   }
+  },
+  {
+   "id": "q-fisco-acconti",
+   "domanda": "Ridurre o superare gli acconti d'imposta?",
+   "sottotema": "Adempimenti fiscali",
+   "spiegazione": "Pagare meno in anticipo sulle tasse dell'anno dopo, o versare mensilmente.",
+   "posizioni": [
+    {
+     "partito": "piu-europa",
+     "posizione": "favorevole",
+     "parametri": "acconto dal 100% all'80%",
+     "prove": [
+      "piu-europa-0086"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "fn",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "fn-0014"
+     ],
+     "nota": "per autonomi e piccole imprese"
+    },
+    {
+     "partito": "m5s",
+     "posizione": "favorevole",
+     "parametri": "nessun acconto nei primi tre anni dopo il primo utile",
+     "prove": [
+      "m5s-0132"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "azione",
+     "posizione": "favorevole con riserve",
+     "parametri": null,
+     "prove": [
+      "azione-0082"
+     ],
+     "nota": "versamenti mensili per autonomi"
+    },
+    {
+     "partito": "iv",
+     "posizione": "favorevole con riserve",
+     "parametri": null,
+     "prove": [
+      "azione-0082"
+     ],
+     "nota": "versamenti mensili per autonomi"
+    },
+    {
+     "partito": "pd",
+     "posizione": "favorevole con riserve",
+     "parametri": null,
+     "prove": [
+      "pd-0126"
+     ],
+     "nota": "autoliquidazione mensile IVA"
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "Stesso obiettivo, con riduzione, abolizione temporanea o rateizzazione."
+   },
+   "forza": {
+    "favorevoli": 6,
+    "contrari": 0,
+    "seggi_camera": 145,
+    "seggi_senato": 71,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "altro",
+     "opposizione"
+    ],
+    "trasversale": false
+   }
+  },
+  {
+   "id": "q-fisco-cashback-detrazioni",
+   "domanda": "Rimborsare subito le spese detraibili pagate con mezzi tracciabili?",
+   "sottotema": "Detrazioni",
+   "spiegazione": "Sostituire o affiancare le detrazioni in dichiarazione con un rimborso immediato.",
+   "posizioni": [
+    {
+     "partito": "m5s",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "m5s-0148",
+      "m5s-0216"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "azione",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "azione-0085"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "iv",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "azione-0085"
+     ],
+     "nota": null
+    }
+   ],
+   "touchpoint": {
+    "grado": "pieno",
+    "nota": "Stessa misura (rimborso diretto per pagamenti tracciabili)."
+   },
+   "forza": {
+    "favorevoli": 3,
+    "contrari": 0,
+    "seggi_camera": 65,
+    "seggi_senato": 35,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "opposizione"
+    ],
+    "trasversale": false
+   }
+  },
+  {
+   "id": "q-fisco-irap",
+   "domanda": "Abolire l'IRAP?",
+   "sottotema": "IRAP",
+   "spiegazione": "Eliminare l'imposta regionale sulle attività produttive.",
+   "posizioni": [
+    {
+     "partito": "fdi",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "fdi-0211"
+     ],
+     "nota": "eliminazione progressiva"
+    },
+    {
+     "partito": "m5s",
+     "posizione": "favorevole",
+     "parametri": "per tutte le imprese",
+     "prove": [
+      "m5s-0149"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "azione",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "azione-0090"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "iv",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "azione-0090"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "pd",
+     "posizione": "favorevole con riserve",
+     "parametri": null,
+     "prove": [
+      "pd-0128"
+     ],
+     "nota": "superamento progressivo garantendo il finanziamento della sanità"
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "Stesso obiettivo con tempi diversi."
+   },
+   "forza": {
+    "favorevoli": 5,
+    "contrari": 0,
+    "seggi_camera": 250,
+    "seggi_senato": 134,
+    "maggioranza_camera": true,
+    "maggioranza_senato": true,
+    "schieramenti": [
+     "maggioranza",
+     "opposizione"
+    ],
+    "trasversale": true
+   }
+  },
+  {
+   "id": "q-fisco-ires",
+   "domanda": "Ridurre l'imposta sugli utili delle società (IRES)?",
+   "sottotema": "IRES",
+   "spiegazione": "Abbassare l'IRES, in generale o per chi investe.",
+   "posizioni": [
+    {
+     "partito": "piu-europa",
+     "posizione": "favorevole",
+     "parametri": "aliquota ordinaria al 23%",
+     "prove": [
+      "piu-europa-0081",
+      "piu-europa-0082"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "fi",
+     "posizione": "favorevole con riserve",
+     "parametri": null,
+     "prove": [
+      "fi-0115"
+     ],
+     "nota": "IRES premiale"
+    },
+    {
+     "partito": "azione",
+     "posizione": "favorevole con riserve",
+     "parametri": null,
+     "prove": [
+      "azione-0092"
+     ],
+     "nota": "aliquote dimezzate per 5 anni in caso di fusioni"
+    },
+    {
+     "partito": "iv",
+     "posizione": "favorevole con riserve",
+     "parametri": null,
+     "prove": [
+      "azione-0092"
+     ],
+     "nota": "aliquote dimezzate per 5 anni in caso di fusioni"
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "Stesso obiettivo; FI e Azione-IV la legano a comportamenti delle imprese."
+   },
+   "forza": {
+    "favorevoli": 4,
+    "contrari": 0,
+    "seggi_camera": 72,
+    "seggi_senato": 30,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "maggioranza",
+     "opposizione"
+    ],
+    "trasversale": true
+   }
+  },
+  {
+   "id": "q-fisco-patrimoniale",
+   "domanda": "Introdurre un'imposta sui grandi patrimoni?",
+   "sottotema": "Patrimoni",
+   "spiegazione": "Tassa annuale sulla ricchezza personale oltre una soglia elevata.",
+   "posizioni": [
+    {
+     "partito": "ev",
+     "posizione": "favorevole",
+     "parametri": "oltre 5 milioni di euro, fino al 2% oltre 50 milioni",
+     "prove": [
+      "ev-0085",
+      "ev-0248",
+      "ev-0084",
+      "ev-0241"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "si",
+     "posizione": "favorevole",
+     "parametri": "oltre 5 milioni di euro, fino al 2% oltre 50 milioni",
+     "prove": [
+      "ev-0085",
+      "ev-0248",
+      "ev-0084",
+      "ev-0241"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "m5s",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "m5s-0120"
+     ],
+     "nota": "tassazione comune europea sulle grandissime fortune"
+    },
+    {
+     "partito": "fdi",
+     "posizione": "contrario",
+     "parametri": null,
+     "prove": [
+      "fdi-0020"
+     ],
+     "nota": "no a patrimoniali dichiarate o mascherate"
+    },
+    {
+     "partito": "lega",
+     "posizione": "contrario",
+     "parametri": null,
+     "prove": [
+      "fdi-0020"
+     ],
+     "nota": "no a patrimoniali dichiarate o mascherate"
+    },
+    {
+     "partito": "fi",
+     "posizione": "contrario",
+     "parametri": null,
+     "prove": [
+      "fdi-0020"
+     ],
+     "nota": "no a patrimoniali dichiarate o mascherate"
+    },
+    {
+     "partito": "nm",
+     "posizione": "contrario",
+     "parametri": null,
+     "prove": [
+      "fdi-0020"
+     ],
+     "nota": "no a patrimoniali dichiarate o mascherate"
+    },
+    {
+     "partito": "udc",
+     "posizione": "contrario",
+     "parametri": null,
+     "prove": [
+      "fdi-0020"
+     ],
+     "nota": "no a patrimoniali dichiarate o mascherate"
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "AVS propone un'imposta nazionale con soglie; M5S una tassazione comune europea."
+   },
+   "forza": {
+    "favorevoli": 3,
+    "contrari": 5,
+    "seggi_camera": 58,
+    "seggi_senato": 29,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "opposizione"
+    ],
+    "trasversale": false
+   }
+  },
+  {
+   "id": "q-fisco-successioni",
+   "domanda": "Aumentare l'imposta di successione?",
+   "sottotema": "Patrimoni",
+   "spiegazione": "Avvicinare l'imposta su eredità e donazioni ai livelli dei grandi Paesi europei.",
+   "posizioni": [
+    {
+     "partito": "pd",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "pd-0212"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "lega",
+     "posizione": "contrario",
+     "parametri": null,
+     "prove": [
+      "lega-0302"
+     ],
+     "nota": "abolirla sulla casa familiare"
+    }
+   ],
+   "touchpoint": {
+    "grado": null,
+    "nota": "Un solo partito favorevole."
+   },
+   "forza": {
+    "favorevoli": 1,
+    "contrari": 1,
+    "seggi_camera": 68,
+    "seggi_senato": 36,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "opposizione"
+    ],
+    "trasversale": false
+   }
+  },
+  {
+   "id": "q-fisco-dote-diciottenni",
+   "domanda": "Dare a chi compie 18 anni una somma di denaro pubblica?",
+   "sottotema": "Patrimoni",
+   "spiegazione": "Una dotazione pubblica ai diciottenni, legata al reddito o all'ISEE familiare.",
+   "posizioni": [
+    {
+     "partito": "pd",
+     "posizione": "favorevole",
+     "parametri": "10.000 euro in base all'ISEE, finanziata dalle grandi successioni",
+     "prove": [
+      "pd-0133"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "m5s",
+     "posizione": "favorevole",
+     "parametri": "15.000 euro per famiglie sotto 300.000 euro di reddito",
+     "prove": [
+      "m5s-0146"
+     ],
+     "nota": null
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "Stessa misura, con importi e criteri diversi."
+   },
+   "forza": {
+    "favorevoli": 2,
+    "contrari": 0,
+    "seggi_camera": 116,
+    "seggi_senato": 61,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "opposizione"
+    ],
+    "trasversale": false
+   }
+  },
+  {
+   "id": "q-fisco-extraprofitti",
+   "domanda": "Tassare gli extraprofitti delle imprese?",
+   "sottotema": "Extraprofitti",
+   "spiegazione": "Prelievo sui profitti eccezionali di settori come energia o banche.",
+   "posizioni": [
+    {
+     "partito": "pd",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "pd-0022"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "m5s",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "pd-0022",
+      "m5s-0118"
+     ],
+     "nota": "energia, banche, assicurazioni, armi, piattaforme digitali"
+    },
+    {
+     "partito": "ev",
+     "posizione": "favorevole",
+     "parametri": "100% degli extraprofitti energetici, 1.200 euro a famiglia",
+     "prove": [
+      "pd-0022",
+      "ev-0091",
+      "ev-0233",
+      "ev-0019"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "si",
+     "posizione": "favorevole",
+     "parametri": "100% degli extraprofitti energetici, 1.200 euro a famiglia",
+     "prove": [
+      "pd-0022",
+      "ev-0091",
+      "ev-0233",
+      "ev-0019"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "iv",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "pd-0022",
+      "azione-0032"
+     ],
+     "nota": "extra-rendita energetica a famiglie e imprese energivore"
+    },
+    {
+     "partito": "piu-europa",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "pd-0022"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "fdi",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "fdi-0206"
+     ],
+     "nota": "per finanziare crediti d'imposta contro il caro bollette"
+    },
+    {
+     "partito": "azione",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "azione-0032"
+     ],
+     "nota": "extra-rendita energetica a famiglie e imprese energivore"
+    },
+    {
+     "partito": "fi",
+     "posizione": "contrario",
+     "parametri": null,
+     "prove": [
+      "fi-0122"
+     ],
+     "nota": "si oppone per le banche"
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "Stesso obiettivo, con settori e aliquote diversi."
+   },
+   "forza": {
+    "favorevoli": 8,
+    "contrari": 1,
+    "seggi_camera": 263,
+    "seggi_senato": 138,
+    "maggioranza_camera": true,
+    "maggioranza_senato": true,
+    "schieramenti": [
+     "maggioranza",
+     "opposizione"
+    ],
+    "trasversale": true
+   }
+  },
+  {
+   "id": "q-fisco-sussidi-ambientali",
+   "domanda": "Eliminare i sussidi dannosi per l'ambiente?",
+   "sottotema": "Clima ed emissioni",
+   "spiegazione": "Togliere agevolazioni fiscali e sussidi ai combustibili fossili e ad attività inquinanti.",
+   "posizioni": [
+    {
+     "partito": "ev",
+     "posizione": "favorevole",
+     "parametri": "fossili entro il 2025, tutti entro il 2030",
+     "prove": [
+      "ev-0011",
+      "ev-0232"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "si",
+     "posizione": "favorevole",
+     "parametri": "fossili entro il 2025, tutti entro il 2030",
+     "prove": [
+      "ev-0011",
+      "ev-0232"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "pd",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "pd-0058"
+     ],
+     "nota": "progressivamente, a parità di gettito"
+    },
+    {
+     "partito": "piu-europa",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "piu-europa-0060"
+     ],
+     "nota": "gradualmente"
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "Stesso obiettivo, con tempi diversi."
+   },
+   "forza": {
+    "favorevoli": 4,
+    "contrari": 0,
+    "seggi_camera": 81,
+    "seggi_senato": 40,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "opposizione"
+    ],
+    "trasversale": false
+   }
+  },
+  {
+   "id": "q-fisco-plastic-tax",
+   "domanda": "Far entrare in vigore la plastic tax?",
+   "sottotema": "Rifiuti",
+   "spiegazione": "Applicare l'imposta sugli imballaggi di plastica monouso senza altri rinvii.",
+   "posizioni": [
+    {
+     "partito": "ev",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "ev-0013"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "si",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "ev-0013"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "pd",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "pd-0224"
+     ],
+     "nota": null
+    }
+   ],
+   "touchpoint": {
+    "grado": "pieno",
+    "nota": "Stessa misura."
+   },
+   "forza": {
+    "favorevoli": 3,
+    "contrari": 0,
+    "seggi_camera": 78,
+    "seggi_senato": 40,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "opposizione"
+    ],
+    "trasversale": false
+   }
+  },
+  {
+   "id": "q-fisco-tassa-minima-multinazionali",
+   "domanda": "Applicare una tassa minima globale sulle multinazionali?",
+   "sottotema": "Multinazionali",
+   "spiegazione": "Aliquota minima comune sugli utili delle grandi imprese multinazionali.",
+   "posizioni": [
+    {
+     "partito": "fdi",
+     "posizione": "favorevole",
+     "parametri": "Global Minimum Tax e primo pilastro BEPS",
+     "prove": [
+      "fdi-0141"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "pd",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "pd-0045"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "ev",
+     "posizione": "favorevole",
+     "parametri": "aliquota minima raddoppiata rispetto al 15%",
+     "prove": [
+      "ev-0089"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "si",
+     "posizione": "favorevole",
+     "parametri": "aliquota minima raddoppiata rispetto al 15%",
+     "prove": [
+      "ev-0089"
+     ],
+     "nota": null
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "Stessa misura; AVS chiede un'aliquota molto più alta."
+   },
+   "forza": {
+    "favorevoli": 4,
+    "contrari": 0,
+    "seggi_camera": 195,
+    "seggi_senato": 103,
+    "maggioranza_camera": false,
+    "maggioranza_senato": true,
+    "schieramenti": [
+     "maggioranza",
+     "opposizione"
+    ],
+    "trasversale": true
+   }
+  },
+  {
+   "id": "q-fisco-paradisi-fiscali-ue",
+   "domanda": "Armonizzare le regole fiscali in Europa contro i paradisi fiscali?",
+   "sottotema": "Multinazionali",
+   "spiegazione": "Regole e aliquote fiscali comuni nell'UE e più trasparenza per evitare l'elusione.",
+   "posizioni": [
+    {
+     "partito": "fi",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "fi-0020",
+      "fi-0019"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "nm",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "fi-0020",
+      "fi-0019"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "pd",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "pd-0145"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "m5s",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "m5s-0123"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "ev",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "ev-0088",
+      "ev-0090"
+     ],
+     "nota": "trasparenza paese per paese e stop ad accordi segreti"
+    },
+    {
+     "partito": "si",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "ev-0088",
+      "ev-0090"
+     ],
+     "nota": "trasparenza paese per paese e stop ad accordi segreti"
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "Stesso obiettivo, con strumenti diversi."
+   },
+   "forza": {
+    "favorevoli": 6,
+    "contrari": 0,
+    "seggi_camera": 186,
+    "seggi_senato": 93,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "maggioranza",
+     "opposizione"
+    ],
+    "trasversale": true
+   }
+  },
+  {
+   "id": "q-fisco-tobin-tax",
+   "domanda": "Tassare le transazioni finanziarie?",
+   "sottotema": "Rendite finanziarie",
+   "spiegazione": "Una piccola imposta sugli scambi di azioni, obbligazioni e derivati.",
+   "posizioni": [
+    {
+     "partito": "ev",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "ev-0240"
+     ],
+     "nota": "a livello europeo"
+    },
+    {
+     "partito": "si",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "ev-0240"
+     ],
+     "nota": "a livello europeo"
+    },
+    {
+     "partito": "pd",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "pd-0199"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "lega",
+     "posizione": "contrario",
+     "parametri": null,
+     "prove": [
+      "lega-0105"
+     ],
+     "nota": "abolire la Tobin tax"
+    }
+   ],
+   "touchpoint": {
+    "grado": "pieno",
+    "nota": "Stessa misura."
+   },
+   "forza": {
+    "favorevoli": 3,
+    "contrari": 1,
+    "seggi_camera": 78,
+    "seggi_senato": 40,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "opposizione"
+    ],
+    "trasversale": false
+   }
+  },
+  {
+   "id": "q-fisco-dal-lavoro-alle-rendite",
+   "domanda": "Spostare le tasse dal lavoro e dalle imprese alle rendite finanziarie?",
+   "sottotema": "Rendite finanziarie",
+   "spiegazione": "Tassare meno lavoro e produzione e di più rendite e speculazione.",
+   "posizioni": [
+    {
+     "partito": "pd",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "pd-0211"
+     ],
+     "nota": "anche verso le emissioni"
+    },
+    {
+     "partito": "m5s",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "m5s-0119",
+      "m5s-0116"
+     ],
+     "nota": "più prelievo sulle operazioni di brevissimo periodo"
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "Stesso obiettivo, con strumenti diversi."
+   },
+   "forza": {
+    "favorevoli": 2,
+    "contrari": 0,
+    "seggi_camera": 116,
+    "seggi_senato": 61,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "opposizione"
+    ],
+    "trasversale": false
+   }
+  },
+  {
+   "id": "q-fisco-tassazione-risparmio-unica",
+   "domanda": "Unificare la tassazione dei redditi finanziari?",
+   "sottotema": "Rendite finanziarie",
+   "spiegazione": "Un'unica regola e aliquota per redditi da capitale e redditi diversi di natura finanziaria.",
+   "posizioni": [
+    {
+     "partito": "azione",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "azione-0094"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "iv",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "azione-0094"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "piu-europa",
+     "posizione": "favorevole",
+     "parametri": "26%, poi 23%",
+     "prove": [
+      "piu-europa-0083"
+     ],
+     "nota": null
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "Stessa misura; solo +Europa indica le aliquote."
+   },
+   "forza": {
+    "favorevoli": 3,
+    "contrari": 0,
+    "seggi_camera": 20,
+    "seggi_senato": 10,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "opposizione"
+    ],
+    "trasversale": false
+   }
+  },
+  {
+   "id": "q-fisco-pir-economia-reale",
+   "domanda": "Rafforzare gli incentivi fiscali a chi investe i risparmi nelle imprese italiane?",
+   "sottotema": "Risparmio e investimenti",
+   "spiegazione": "Agevolazioni per PIR e strumenti che portano il risparmio verso l'economia reale.",
+   "posizioni": [
+    {
+     "partito": "lega",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "lega-0108"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "azione",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "azione-0095"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "iv",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "azione-0095"
+     ],
+     "nota": null
+    }
+   ],
+   "touchpoint": {
+    "grado": "pieno",
+    "nota": "Stessa misura (PIR)."
+   },
+   "forza": {
+    "favorevoli": 3,
+    "contrari": 0,
+    "seggi_camera": 73,
+    "seggi_senato": 39,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "maggioranza",
+     "opposizione"
+    ],
+    "trasversale": true
+   }
+  },
+  {
+   "id": "q-fisco-previdenza-complementare",
+   "domanda": "Aumentare i vantaggi fiscali per la pensione integrativa?",
+   "sottotema": "Previdenza complementare",
+   "spiegazione": "Tassare meno i versamenti o i rendimenti dei fondi pensione.",
+   "posizioni": [
+    {
+     "partito": "azione",
+     "posizione": "favorevole",
+     "parametri": "sistema EET, senza il 20% annuo in maturazione",
+     "prove": [
+      "azione-0101",
+      "azione-0102"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "iv",
+     "posizione": "favorevole",
+     "parametri": "sistema EET, senza il 20% annuo in maturazione",
+     "prove": [
+      "azione-0101",
+      "azione-0102"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "fn",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "fn-0032"
+     ],
+     "nota": "più deducibilità dei versamenti"
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "Stesso obiettivo, con strumenti diversi."
+   },
+   "forza": {
+    "favorevoli": 3,
+    "contrari": 0,
+    "seggi_camera": 26,
+    "seggi_senato": 10,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "altro",
+     "opposizione"
+    ],
+    "trasversale": false
+   }
+  },
+  {
+   "id": "q-fisco-startup-investimenti",
+   "domanda": "Detassare chi investe in startup?",
+   "sottotema": "Startup",
+   "spiegazione": "Deduzioni o esenzione dei guadagni per chi investe in nuove imprese innovative.",
+   "posizioni": [
+    {
+     "partito": "azione",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "azione-0219"
+     ],
+     "nota": "nessuna tassa sul capital gain"
+    },
+    {
+     "partito": "iv",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "azione-0219"
+     ],
+     "nota": "nessuna tassa sul capital gain"
+    },
+    {
+     "partito": "lega",
+     "posizione": "favorevole",
+     "parametri": "deduzione di almeno il 75%",
+     "prove": [
+      "lega-0085",
+      "lega-0086",
+      "lega-0347"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "pd",
+     "posizione": "favorevole",
+     "parametri": "detrazione 50% per start-up di under 35",
+     "prove": [
+      "pd-0127"
+     ],
+     "nota": null
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "Stesso obiettivo, con strumenti diversi."
+   },
+   "forza": {
+    "favorevoli": 4,
+    "contrari": 0,
+    "seggi_camera": 141,
+    "seggi_senato": 75,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "maggioranza",
+     "opposizione"
+    ],
+    "trasversale": true
+   }
+  },
+  {
+   "id": "q-fisco-nuove-imprese-esenzione",
+   "domanda": "Esentare dalle tasse le nuove attività nei primi anni?",
+   "sottotema": "Startup",
+   "spiegazione": "Nessuna o poche imposte per chi avvia un'impresa, nei primi esercizi.",
+   "posizioni": [
+    {
+     "partito": "fdi",
+     "posizione": "favorevole",
+     "parametri": "primi 3 anni, under 30",
+     "prove": [
+      "fdi-0227"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "lega",
+     "posizione": "favorevole",
+     "parametri": "100% il primo anno, 50% il secondo",
+     "prove": [
+      "lega-0355",
+      "lega-0353"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "azione",
+     "posizione": "favorevole con riserve",
+     "parametri": "under 35, primi 3 anni",
+     "prove": [
+      "azione-0001"
+     ],
+     "nota": "rinvio e rateizzazione degli adempimenti, non esenzione"
+    },
+    {
+     "partito": "iv",
+     "posizione": "favorevole con riserve",
+     "parametri": "under 35, primi 3 anni",
+     "prove": [
+      "azione-0001"
+     ],
+     "nota": "rinvio e rateizzazione degli adempimenti, non esenzione"
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "Stesso obiettivo, con durate e platee diverse."
+   },
+   "forza": {
+    "favorevoli": 4,
+    "contrari": 0,
+    "seggi_camera": 190,
+    "seggi_senato": 102,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "maggioranza",
+     "opposizione"
+    ],
+    "trasversale": true
+   }
+  },
+  {
+   "id": "q-fisco-transizione-40",
+   "domanda": "Rafforzare i crediti d'imposta per gli investimenti in innovazione (Transizione 4.0)?",
+   "sottotema": "Politica industriale",
+   "spiegazione": "Crediti d'imposta più alti, stabili o cedibili per macchinari e innovazione.",
+   "posizioni": [
+    {
+     "partito": "m5s",
+     "posizione": "favorevole",
+     "parametri": "stabile per 10 anni, crediti cedibili",
+     "prove": [
+      "m5s-0128",
+      "m5s-0170"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "lega",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "lega-0078",
+      "lega-0077"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "azione",
+     "posizione": "favorevole",
+     "parametri": "credito al 50%",
+     "prove": [
+      "azione-0220"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "iv",
+     "posizione": "favorevole",
+     "parametri": "credito al 50%",
+     "prove": [
+      "azione-0220"
+     ],
+     "nota": null
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "Stesso obiettivo, con aliquote e durate diverse."
+   },
+   "forza": {
+    "favorevoli": 4,
+    "contrari": 0,
+    "seggi_camera": 121,
+    "seggi_senato": 64,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "maggioranza",
+     "opposizione"
+    ],
+    "trasversale": true
+   }
+  },
+  {
+   "id": "q-fisco-quotazione-pmi",
+   "domanda": "Rafforzare il credito d'imposta per le PMI che si quotano in Borsa?",
+   "sottotema": "Mercati dei capitali",
+   "spiegazione": "Sconto fiscale sui costi di quotazione delle piccole e medie imprese.",
+   "posizioni": [
+    {
+     "partito": "azione",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "azione-0004"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "iv",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "azione-0004"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "lega",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "lega-0106"
+     ],
+     "nota": "renderlo strutturale"
+    }
+   ],
+   "touchpoint": {
+    "grado": "pieno",
+    "nota": "Stessa misura."
+   },
+   "forza": {
+    "favorevoli": 3,
+    "contrari": 0,
+    "seggi_camera": 73,
+    "seggi_senato": 39,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "maggioranza",
+     "opposizione"
+    ],
+    "trasversale": true
+   }
+  },
+  {
+   "id": "q-fisco-iva-beni-essenziali",
+   "domanda": "Ridurre l'IVA sui beni di prima necessità e per l'infanzia?",
+   "sottotema": "IVA",
+   "spiegazione": "Aliquota IVA più bassa su alimenti di base e prodotti per bambini.",
+   "posizioni": [
+    {
+     "partito": "fdi",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "fdi-0052",
+      "fdi-0028"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "lega",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "fdi-0052",
+      "fdi-0028",
+      "lega-0300"
+     ],
+     "nota": "pannolini e latte in polvere"
+    },
+    {
+     "partito": "fi",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "fdi-0052",
+      "fdi-0028"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "nm",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "fdi-0052",
+      "fdi-0028"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "udc",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "fdi-0052",
+      "fdi-0028"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "fn",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "fn-0021"
+     ],
+     "nota": "anche rivedendo le regole europee"
+    }
+   ],
+   "touchpoint": {
+    "grado": "pieno",
+    "nota": "Stessa misura nel programma comune."
+   },
+   "forza": {
+    "favorevoli": 6,
+    "contrari": 0,
+    "seggi_camera": 242,
+    "seggi_senato": 120,
+    "maggioranza_camera": true,
+    "maggioranza_senato": true,
+    "schieramenti": [
+     "altro",
+     "maggioranza"
+    ],
+    "trasversale": true
+   }
+  },
+  {
+   "id": "q-fisco-iva-assorbenti",
+   "domanda": "Ridurre l'IVA sugli assorbenti?",
+   "sottotema": "IVA",
+   "spiegazione": "Tassare meno o non tassare i prodotti per l'igiene femminile.",
+   "posizioni": [
+    {
+     "partito": "lega",
+     "posizione": "favorevole",
+     "parametri": "eliminazione",
+     "prove": [
+      "lega-0531"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "piu-europa",
+     "posizione": "favorevole",
+     "parametri": "IVA al 4%",
+     "prove": [
+      "piu-europa-0155"
+     ],
+     "nota": null
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "Stesso obiettivo, con aliquote diverse (0% e 4%)."
+   },
+   "forza": {
+    "favorevoli": 2,
+    "contrari": 0,
+    "seggi_camera": 59,
+    "seggi_senato": 29,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "maggioranza",
+     "opposizione"
+    ],
+    "trasversale": true
+   }
+  },
+  {
+   "id": "q-fisco-iva-veterinari",
+   "domanda": "Ridurre l'IVA su cibo per animali e cure veterinarie?",
+   "sottotema": "IVA",
+   "spiegazione": "Aliquota IVA più bassa per spese legate agli animali domestici.",
+   "posizioni": [
+    {
+     "partito": "ev",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "ev-0102"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "si",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "ev-0102"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "piu-europa",
+     "posizione": "favorevole",
+     "parametri": "IVA al 10%",
+     "prove": [
+      "piu-europa-0160"
+     ],
+     "nota": null
+    }
+   ],
+   "touchpoint": {
+    "grado": "pieno",
+    "nota": "Stessa misura."
+   },
+   "forza": {
+    "favorevoli": 3,
+    "contrari": 0,
+    "seggi_camera": 13,
+    "seggi_senato": 4,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "opposizione"
+    ],
+    "trasversale": false
+   }
+  },
+  {
+   "id": "q-fisco-tasse-energia-carburanti",
+   "domanda": "Ridurre IVA, accise e oneri su bollette e carburanti?",
+   "sottotema": "Bollette e carburanti",
+   "spiegazione": "Abbassare il prelievo fiscale su luce, gas e carburanti.",
+   "posizioni": [
+    {
+     "partito": "fdi",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "fdi-0053"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "lega",
+     "posizione": "favorevole",
+     "parametri": "IVA al 5% su gas e bollette elettriche",
+     "prove": [
+      "fdi-0053",
+      "lega-0192",
+      "lega-0197",
+      "lega-0258",
+      "lega-0199",
+      "lega-0257"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "fi",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "fdi-0053"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "nm",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "fdi-0053"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "udc",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "fdi-0053"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "m5s",
+     "posizione": "favorevole",
+     "parametri": "IVA sui carburanti dal 22% al 10%",
+     "prove": [
+      "m5s-0003"
+     ],
+     "nota": null
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "Stesso obiettivo, con strumenti e aliquote diversi."
+   },
+   "forza": {
+    "favorevoli": 6,
+    "contrari": 0,
+    "seggi_camera": 281,
+    "seggi_senato": 145,
+    "maggioranza_camera": true,
+    "maggioranza_senato": true,
+    "schieramenti": [
+     "maggioranza",
+     "opposizione"
+    ],
+    "trasversale": true
+   }
+  },
+  {
+   "id": "q-fisco-elettricita-gas",
+   "domanda": "Allineare le tasse sull'elettricità a quelle, più basse, sul gas?",
+   "sottotema": "Bollette e prezzi",
+   "spiegazione": "Rivedere la tassazione dell'energia elettrica, oggi più alta di quella sul gas.",
+   "posizioni": [
+    {
+     "partito": "pd",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "pd-0005"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "m5s",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "pd-0005"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "ev",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "pd-0005"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "si",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "pd-0005"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "iv",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "pd-0005"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "piu-europa",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "pd-0005"
+     ],
+     "nota": null
+    }
+   ],
+   "touchpoint": {
+    "grado": "pieno",
+    "nota": "Stessa misura nel programma comune."
+   },
+   "forza": {
+    "favorevoli": 6,
+    "contrari": 0,
+    "seggi_camera": 136,
+    "seggi_senato": 73,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "opposizione"
+    ],
+    "trasversale": false
+   }
+  },
+  {
+   "id": "q-fisco-superbonus",
+   "domanda": "Prorogare o rendere stabili il Superbonus e la cessione dei crediti edilizi?",
+   "sottotema": "Bonus edilizi",
+   "spiegazione": "Mantenere gli incentivi fiscali per i lavori edilizi e la possibilità di cedere i crediti.",
+   "posizioni": [
+    {
+     "partito": "m5s",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "m5s-0178",
+      "m5s-0151"
+     ],
+     "nota": "renderli strutturali"
+    },
+    {
+     "partito": "lega",
+     "posizione": "favorevole con riserve",
+     "parametri": null,
+     "prove": [
+      "lega-0304",
+      "lega-0130",
+      "lega-0128",
+      "lega-0129",
+      "lega-0132",
+      "lega-0178",
+      "lega-0177"
+     ],
+     "nota": "proroga per la casa familiare ma con incentivo ridotto o decrescente"
+    },
+    {
+     "partito": "nm",
+     "posizione": "favorevole con riserve",
+     "parametri": null,
+     "prove": [
+      "nm-0019"
+     ],
+     "nota": "sbloccare i crediti riducendo la percentuale"
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "M5S vuole stabilizzarli; Lega e NM li vogliono ridotti."
+   },
+   "forza": {
+    "favorevoli": 3,
+    "contrari": 0,
+    "seggi_camera": 112,
+    "seggi_senato": 62,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "maggioranza",
+     "opposizione"
+    ],
+    "trasversale": true
+   }
+  },
+  {
+   "id": "q-fisco-fisco-sud",
+   "domanda": "Tasse più basse per le imprese del Mezzogiorno e delle aree depresse?",
+   "sottotema": "Fiscalità di vantaggio",
+   "spiegazione": "Agevolazioni fiscali per le imprese che investono o crescono al Sud e nelle aree svantaggiate.",
+   "posizioni": [
+    {
+     "partito": "azione",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "azione-0017",
+      "azione-0022"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "iv",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "azione-0017",
+      "azione-0022"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "lega",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "lega-0572"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "fdi",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "fdi-0254"
+     ],
+     "nota": null
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "Stesso obiettivo, con strumenti diversi."
+   },
+   "forza": {
+    "favorevoli": 4,
+    "contrari": 0,
+    "seggi_camera": 190,
+    "seggi_senato": 102,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "maggioranza",
+     "opposizione"
+    ],
+    "trasversale": true
+   }
+  },
+  {
+   "id": "q-fisco-aree-interne-montagna",
+   "domanda": "Tasse più basse per chi vive o lavora nei comuni montani e nelle aree interne?",
+   "sottotema": "Aree interne e montagna",
+   "spiegazione": "Agevolazioni fiscali per residenti, imprese e attività nei comuni montani, piccoli o delle aree interne.",
+   "posizioni": [
+    {
+     "partito": "lega",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "lega-0560",
+      "lega-0562",
+      "lega-0561"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "nm",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "nm-0055"
+     ],
+     "nota": "sul modello delle ZES"
+    },
+    {
+     "partito": "pd",
+     "posizione": "favorevole",
+     "parametri": "credito d'imposta di 50 milioni annui 2026-2028 per il lavoro agile",
+     "prove": [
+      "pd-0077",
+      "pd-0234"
+     ],
+     "nota": null
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "Stesso obiettivo, con strumenti diversi."
+   },
+   "forza": {
+    "favorevoli": 3,
+    "contrari": 0,
+    "seggi_camera": 132,
+    "seggi_senato": 73,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "maggioranza",
+     "opposizione"
+    ],
+    "trasversale": true
+   }
+  },
+  {
+   "id": "q-fisco-rientro-italiani",
+   "domanda": "Agevolare fiscalmente il rientro degli italiani dall'estero?",
+   "sottotema": "Italiani all'estero",
+   "spiegazione": "Sgravi per gli italiani emigrati, e le loro imprese, che tornano in Italia.",
+   "posizioni": [
+    {
+     "partito": "fn",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "fn-0099",
+      "fn-0118"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "lega",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "lega-0292",
+      "lega-0358"
+     ],
+     "nota": null
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "Stesso obiettivo, con platee diverse."
+   },
+   "forza": {
+    "favorevoli": 2,
+    "contrari": 0,
+    "seggi_camera": 65,
+    "seggi_senato": 29,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "altro",
+     "maggioranza"
+    ],
+    "trasversale": true
+   }
+  },
+  {
+   "id": "q-fisco-cultura-detrazioni",
+   "domanda": "Rendere detraibili le spese per cinema, teatri e musei?",
+   "sottotema": "Patrimonio culturale",
+   "spiegazione": "Sconto fiscale sui consumi culturali delle persone.",
+   "posizioni": [
+    {
+     "partito": "lega",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "lega-0163"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "fdi",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "fdi-0195"
+     ],
+     "nota": null
+    }
+   ],
+   "touchpoint": {
+    "grado": "pieno",
+    "nota": "Stessa misura."
+   },
+   "forza": {
+    "favorevoli": 2,
+    "contrari": 0,
+    "seggi_camera": 173,
+    "seggi_senato": 92,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "maggioranza"
+    ],
+    "trasversale": false
+   }
+  },
+  {
+   "id": "q-fisco-mecenatismo-culturale",
+   "domanda": "Aumentare il credito d'imposta per chi finanzia il patrimonio culturale?",
+   "sottotema": "Patrimonio culturale",
+   "spiegazione": "Sconto fiscale più alto per donazioni e investimenti a tutela dei beni culturali.",
+   "posizioni": [
+    {
+     "partito": "lega",
+     "posizione": "favorevole",
+     "parametri": "Art bonus al 100%",
+     "prove": [
+      "lega-0168",
+      "lega-0144"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "nm",
+     "posizione": "favorevole",
+     "parametri": "credito del 60%, anche per beni privati",
+     "prove": [
+      "nm-0058"
+     ],
+     "nota": null
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "Stesso obiettivo, con percentuali diverse."
+   },
+   "forza": {
+    "favorevoli": 2,
+    "contrari": 0,
+    "seggi_camera": 64,
+    "seggi_senato": 37,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "maggioranza"
+    ],
+    "trasversale": false
+   }
+  },
+  {
+   "id": "q-fisco-terzo-settore",
+   "domanda": "Aumentare le agevolazioni fiscali per gli enti del Terzo settore?",
+   "sottotema": "Terzo settore",
+   "spiegazione": "Più risorse da 2 e 5 per mille e un fisco più leggero per enti non profit.",
+   "posizioni": [
+    {
+     "partito": "fdi",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "fdi-0198"
+     ],
+     "nota": "2 per mille"
+    },
+    {
+     "partito": "nm",
+     "posizione": "favorevole",
+     "parametri": "tetto 5 per mille a 610 milioni",
+     "prove": [
+      "nm-0109"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "fn",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "fn-0022"
+     ],
+     "nota": "deducibilità delle donazioni"
+    },
+    {
+     "partito": "piu-europa",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "piu-europa-0090"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "ev",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "ev-0194"
+     ],
+     "nota": "esclusione dall'IRAP"
+    },
+    {
+     "partito": "si",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "ev-0194"
+     ],
+     "nota": "esclusione dall'IRAP"
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "Stesso obiettivo, con strumenti diversi."
+   },
+   "forza": {
+    "favorevoli": 6,
+    "contrari": 0,
+    "seggi_camera": 147,
+    "seggi_senato": 75,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "altro",
+     "maggioranza",
+     "opposizione"
+    ],
+    "trasversale": true
+   }
+  },
+  {
+   "id": "q-fisco-sanita-integrativa",
+   "domanda": "Ridurre i vantaggi fiscali per polizze sanitarie e fondi integrativi?",
+   "sottotema": "Sanità integrativa",
+   "spiegazione": "Limitare o togliere le detrazioni legate alla sanità privata integrativa.",
+   "posizioni": [
+    {
+     "partito": "ev",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "ev-0173"
+     ],
+     "nota": "abolirli"
+    },
+    {
+     "partito": "si",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "ev-0173"
+     ],
+     "nota": "abolirli"
+    },
+    {
+     "partito": "lega",
+     "posizione": "favorevole con riserve",
+     "parametri": null,
+     "prove": [
+      "lega-0629"
+     ],
+     "nota": "limitarli verificando appropriatezza ed efficacia"
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "AVS propone di abolirli, la Lega di limitarli."
+   },
+   "forza": {
+    "favorevoli": 3,
+    "contrari": 0,
+    "seggi_camera": 66,
+    "seggi_senato": 33,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "maggioranza",
+     "opposizione"
+    ],
+    "trasversale": true
+   }
+  },
+  {
+   "id": "q-fisco-autonomia-fiscale-locale",
+   "domanda": "Dare più autonomia fiscale a Regioni e Comuni?",
+   "sottotema": "Federalismo fiscale",
+   "spiegazione": "Più tributi propri o compartecipazioni per gli enti locali.",
+   "posizioni": [
+    {
+     "partito": "fdi",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "fdi-0013"
+     ],
+     "nota": "attuare il federalismo fiscale"
+    },
+    {
+     "partito": "lega",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "fdi-0013"
+     ],
+     "nota": "attuare il federalismo fiscale"
+    },
+    {
+     "partito": "fi",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "fdi-0013"
+     ],
+     "nota": "attuare il federalismo fiscale"
+    },
+    {
+     "partito": "nm",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "fdi-0013"
+     ],
+     "nota": "attuare il federalismo fiscale"
+    },
+    {
+     "partito": "udc",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "fdi-0013"
+     ],
+     "nota": "attuare il federalismo fiscale"
+    },
+    {
+     "partito": "azione",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "azione-0099"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "iv",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "azione-0099"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "piu-europa",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "piu-europa-0121"
+     ],
+     "nota": "modifica dell'art. 119"
+    },
+    {
+     "partito": "fn",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "fn-0219"
+     ],
+     "nota": "compartecipazione IRPEF"
+    },
+    {
+     "partito": "svp",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "svp-0024"
+     ],
+     "nota": "sovranità fiscale per l'Alto Adige"
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "Stesso obiettivo, con intensità molto diverse."
+   },
+   "forza": {
+    "favorevoli": 10,
+    "contrari": 0,
+    "seggi_camera": 265,
+    "seggi_senato": 132,
+    "maggioranza_camera": true,
+    "maggioranza_senato": true,
+    "schieramenti": [
+     "altro",
+     "maggioranza",
+     "opposizione"
+    ],
+    "trasversale": true
+   }
+  },
+  {
+   "id": "q-fisco-spese-fiscali",
+   "domanda": "Ridurre detrazioni e agevolazioni fiscali esistenti?",
+   "sottotema": "Revisione della spesa",
+   "spiegazione": "Rivedere o tagliare le spese fiscali (tax expenditures).",
+   "posizioni": [
+    {
+     "partito": "piu-europa",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "piu-europa-0134"
+     ],
+     "nota": "nessuna nuova agevolazione senza eliminarne altrettante"
+    },
+    {
+     "partito": "fdi",
+     "posizione": "favorevole con riserve",
+     "parametri": null,
+     "prove": [
+      "fdi-0213"
+     ],
+     "nota": "parla di revisione"
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "+Europa propone tagli, FdI una revisione."
+   },
+   "forza": {
+    "favorevoli": 2,
+    "contrari": 0,
+    "seggi_camera": 120,
+    "seggi_senato": 63,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "maggioranza",
+     "opposizione"
+    ],
+    "trasversale": true
+   }
+  },
+  {
+   "id": "q-fisco-semplificazione",
+   "domanda": "Semplificare il sistema tributario con testi unici e meno micro-imposte?",
+   "sottotema": "Semplificazione",
+   "spiegazione": "Riordinare le norme fiscali, eliminare tributi minori e dare regole stabili.",
+   "posizioni": [
+    {
+     "partito": "fn",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "fn-0008",
+      "fn-0009"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "azione",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "azione-0098"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "iv",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "azione-0098"
+     ],
+     "nota": null
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "Stesso obiettivo, con strumenti diversi."
+   },
+   "forza": {
+    "favorevoli": 3,
+    "contrari": 0,
+    "seggi_camera": 26,
+    "seggi_senato": 10,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "altro",
+     "opposizione"
+    ],
+    "trasversale": false
+   }
+  },
+  {
+   "id": "q-fisco-partecipazione-utili",
+   "domanda": "Agevolare fiscalmente la partecipazione dei lavoratori agli utili?",
+   "sottotema": "Partecipazione dei lavoratori",
+   "spiegazione": "Sconti fiscali per utili distribuiti ai dipendenti o azionariato diffuso.",
+   "posizioni": [
+    {
+     "partito": "fn",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "fn-0002"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "azione",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "azione-0091"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "iv",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "azione-0091"
+     ],
+     "nota": null
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "Stesso obiettivo, con strumenti diversi."
+   },
+   "forza": {
+    "favorevoli": 3,
+    "contrari": 0,
+    "seggi_camera": 26,
+    "seggi_senato": 10,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "altro",
+     "opposizione"
+    ],
+    "trasversale": false
+   }
+  },
+  {
+   "id": "q-fisco-statuto-contribuente-costituzione",
+   "domanda": "Scrivere nella Costituzione nuove garanzie per il contribuente?",
+   "sottotema": "Costituzione",
+   "spiegazione": "Modificare la Costituzione (art. 53 e altri) sul prelievo fiscale.",
+   "posizioni": [
+    {
+     "partito": "lega",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "lega-0813"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "nm",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "nm-0111"
+     ],
+     "nota": null
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "Stesso obiettivo, con articoli diversi."
+   },
+   "forza": {
+    "favorevoli": 2,
+    "contrari": 0,
+    "seggi_camera": 64,
+    "seggi_senato": 37,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "maggioranza"
+    ],
+    "trasversale": false
+   }
+  },
+  {
+   "id": "q-fisco-cedolare-commerciale",
+   "domanda": "Estendere la cedolare secca agli affitti commerciali?",
+   "sottotema": "Commercio",
+   "spiegazione": "Imposta fissa sugli affitti anche per negozi e locali commerciali.",
+   "posizioni": [
+    {
+     "partito": "lega",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "lega-0136"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "fdi",
+     "posizione": "favorevole",
+     "parametri": "21% in zone svantaggiate",
+     "prove": [
+      "fdi-0212"
+     ],
+     "nota": null
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "FdI la limita alle zone svantaggiate."
+   },
+   "forza": {
+    "favorevoli": 2,
+    "contrari": 0,
+    "seggi_camera": 173,
+    "seggi_senato": 92,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "maggioranza"
+    ],
+    "trasversale": false
+   }
+  }
+ ]
+}

@@ -1,0 +1,3507 @@
+{
+ "area": "lavoro",
+ "questioni": [
+  {
+   "id": "q-lavoro-salario-minimo-legale",
+   "domanda": "Introdurre un salario minimo fissato per legge?",
+   "sottotema": "Salario minimo",
+   "spiegazione": "Una soglia minima di paga oraria valida per tutti i lavoratori dipendenti, stabilita da una norma di legge.",
+   "posizioni": [
+    {
+     "partito": "pd",
+     "posizione": "favorevole",
+     "parametri": "9 euro lordi l'ora, con il ruolo dei contratti collettivi",
+     "prove": [
+      "pd-0011",
+      "pd-0115",
+      "pd-0151",
+      "pd-0230"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "m5s",
+     "posizione": "favorevole",
+     "parametri": "9 euro lordi l'ora, indicizzato e coordinato con la contrattazione",
+     "prove": [
+      "pd-0011",
+      "m5s-0094",
+      "m5s-0153"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "ev",
+     "posizione": "favorevole",
+     "parametri": "10 euro l'ora",
+     "prove": [
+      "pd-0011",
+      "ev-0063"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "si",
+     "posizione": "favorevole",
+     "parametri": "10 euro l'ora",
+     "prove": [
+      "pd-0011",
+      "ev-0063"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "iv",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "pd-0011",
+      "azione-0065"
+     ],
+     "nota": "Nel programma con Azione il minimo legale è di ultima istanza, accanto all'erga omnes dei contratti"
+    },
+    {
+     "partito": "azione",
+     "posizione": "favorevole con riserve",
+     "parametri": "minimo di ultima istanza, con legge sulla rappresentanza ed erga omnes dei contratti",
+     "prove": [
+      "azione-0065"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "piu-europa",
+     "posizione": "favorevole",
+     "parametri": "salario minimo mobile definito con le parti sociali",
+     "prove": [
+      "pd-0011",
+      "piu-europa-0023"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "lega",
+     "posizione": "favorevole con riserve",
+     "parametri": "minimo pari a quello dei CCNL più diffusi nel settore",
+     "prove": [
+      "lega-0501"
+     ],
+     "nota": "Il riferimento è il contratto collettivo, non una cifra di legge"
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "Stesso obiettivo, con soglie diverse (9 o 10 euro) o affidate ai contratti collettivi"
+   },
+   "forza": {
+    "favorevoli": 8,
+    "contrari": 0,
+    "seggi_camera": 202,
+    "seggi_senato": 104,
+    "maggioranza_camera": true,
+    "maggioranza_senato": true,
+    "schieramenti": [
+     "maggioranza",
+     "opposizione"
+    ],
+    "trasversale": true
+   }
+  },
+  {
+   "id": "q-lavoro-salario-minimo-ue",
+   "domanda": "Rafforzare le regole europee comuni su salari minimi e diritti sociali?",
+   "sottotema": "Salario minimo",
+   "spiegazione": "Norme o trattati dell'Unione europea che fissino standard comuni su salari e diritti dei lavoratori.",
+   "posizioni": [
+    {
+     "partito": "pd",
+     "posizione": "favorevole",
+     "parametri": "direttiva sui salari equi; Patto sul Progresso Sociale",
+     "prove": [
+      "pd-0141",
+      "pd-0150"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "m5s",
+     "posizione": "favorevole",
+     "parametri": "salario minimo europeo calibrato sui singoli Stati",
+     "prove": [
+      "m5s-0240"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "ev",
+     "posizione": "favorevole",
+     "parametri": "clausola della migliore condizione",
+     "prove": [
+      "ev-0213"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "si",
+     "posizione": "favorevole",
+     "parametri": "clausola della migliore condizione",
+     "prove": [
+      "ev-0213"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "piu-europa",
+     "posizione": "favorevole",
+     "parametri": "Protocollo sul progresso sociale nei Trattati",
+     "prove": [
+      "piu-europa-0120"
+     ],
+     "nota": null
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "Stesso obiettivo, strumenti europei diversi"
+   },
+   "forza": {
+    "favorevoli": 5,
+    "contrari": 0,
+    "seggi_camera": 129,
+    "seggi_senato": 65,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "opposizione"
+    ],
+    "trasversale": false
+   }
+  },
+  {
+   "id": "q-lavoro-legge-rappresentanza",
+   "domanda": "Approvare una legge sulla rappresentanza sindacale che renda validi per tutti i contratti dei sindacati più rappresentativi?",
+   "sottotema": "Contrattazione collettiva",
+   "spiegazione": "Una legge che misuri la rappresentatività di sindacati e imprese e dia valore generale (erga omnes) ai loro contratti.",
+   "posizioni": [
+    {
+     "partito": "azione",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "azione-0066"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "iv",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "azione-0066"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "ev",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "ev-0064"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "si",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "ev-0064"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "pd",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "pd-0116",
+      "pd-0225"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "fn",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "fn-0036"
+     ],
+     "nota": "Insieme alla detassazione degli incrementi salariali contrattuali"
+    }
+   ],
+   "touchpoint": {
+    "grado": "pieno",
+    "nota": "Stessa misura: legge sulla rappresentanza ed estensione erga omnes dei contratti"
+   },
+   "forza": {
+    "favorevoli": 6,
+    "contrari": 0,
+    "seggi_camera": 104,
+    "seggi_senato": 50,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "altro",
+     "opposizione"
+    ],
+    "trasversale": false
+   }
+  },
+  {
+   "id": "q-lavoro-detassare-premi",
+   "domanda": "Ridurre le tasse sui premi di produttività?",
+   "sottotema": "Premi di produttività",
+   "spiegazione": "Tassazione ridotta o nulla sulle somme pagate ai lavoratori come premio di risultato o di produttività.",
+   "posizioni": [
+    {
+     "partito": "fdi",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "fdi-0054"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "nm",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "fdi-0054"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "udc",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "fdi-0054"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "lega",
+     "posizione": "favorevole",
+     "parametri": "fino a 5.000 euro con imposta sostitutiva del 5%; anche straordinari",
+     "prove": [
+      "fdi-0054",
+      "lega-0072",
+      "lega-0503"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "fi",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "fdi-0054",
+      "fi-0113"
+     ],
+     "nota": "Anche straordinari, festivi e tredicesime"
+    },
+    {
+     "partito": "azione",
+     "posizione": "favorevole",
+     "parametri": "detassazione completa",
+     "prove": [
+      "azione-0067"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "iv",
+     "posizione": "favorevole",
+     "parametri": "detassazione completa",
+     "prove": [
+      "azione-0067"
+     ],
+     "nota": null
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "Stesso obiettivo, con tetti e aliquote diversi"
+   },
+   "forza": {
+    "favorevoli": 7,
+    "contrari": 0,
+    "seggi_camera": 250,
+    "seggi_senato": 130,
+    "maggioranza_camera": true,
+    "maggioranza_senato": true,
+    "schieramenti": [
+     "maggioranza",
+     "opposizione"
+    ],
+    "trasversale": true
+   }
+  },
+  {
+   "id": "q-lavoro-welfare-aziendale",
+   "domanda": "Alzare il tetto esentasse per fringe benefit e welfare aziendale?",
+   "sottotema": "Welfare aziendale",
+   "spiegazione": "Aumentare il valore dei beni e servizi che l'impresa può dare ai dipendenti senza tasse.",
+   "posizioni": [
+    {
+     "partito": "azione",
+     "posizione": "favorevole",
+     "parametri": "fringe benefit da 600 a 2.000 euro",
+     "prove": [
+      "azione-0100"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "iv",
+     "posizione": "favorevole",
+     "parametri": "fringe benefit da 600 a 2.000 euro",
+     "prove": [
+      "azione-0100"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "nm",
+     "posizione": "favorevole",
+     "parametri": "premio convertibile in welfare da 3.000 a 6.000 euro",
+     "prove": [
+      "nm-0020"
+     ],
+     "nota": null
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "Stesso obiettivo, voci e cifre diverse"
+   },
+   "forza": {
+    "favorevoli": 3,
+    "contrari": 0,
+    "seggi_camera": 25,
+    "seggi_senato": 18,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "maggioranza",
+     "opposizione"
+    ],
+    "trasversale": true
+   }
+  },
+  {
+   "id": "q-lavoro-salari-inflazione",
+   "domanda": "Adeguare i salari all'aumento del costo della vita con un meccanismo stabile?",
+   "sottotema": "Salari e inflazione",
+   "spiegazione": "Un meccanismo che protegga il potere d'acquisto delle retribuzioni dall'inflazione.",
+   "posizioni": [
+    {
+     "partito": "ev",
+     "posizione": "favorevole",
+     "parametri": "adeguamento automatico almeno semestrale, anche delle pensioni",
+     "prove": [
+      "ev-0069"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "si",
+     "posizione": "favorevole",
+     "parametri": "adeguamento automatico almeno semestrale, anche delle pensioni",
+     "prove": [
+      "ev-0069"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "lega",
+     "posizione": "favorevole con riserve",
+     "parametri": "meccanismi perequativi; detassazione dei contributi anti-inflazione",
+     "prove": [
+      "lega-0504",
+      "lega-0511"
+     ],
+     "nota": "Non indica un adeguamento automatico"
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "Stesso obiettivo: automatismo per AVS, meccanismi e sgravi per la Lega"
+   },
+   "forza": {
+    "favorevoli": 3,
+    "contrari": 0,
+    "seggi_camera": 66,
+    "seggi_senato": 33,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "maggioranza",
+     "opposizione"
+    ],
+    "trasversale": true
+   }
+  },
+  {
+   "id": "q-lavoro-taglio-cuneo",
+   "domanda": "Ridurre il cuneo fiscale e contributivo sul lavoro?",
+   "sottotema": "Cuneo fiscale",
+   "spiegazione": "Ridurre la differenza tra il costo del lavoro per l'impresa e lo stipendio netto del lavoratore.",
+   "posizioni": [
+    {
+     "partito": "fdi",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "fdi-0051"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "fi",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "fdi-0051"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "nm",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "fdi-0051"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "udc",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "fdi-0051"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "lega",
+     "posizione": "favorevole",
+     "parametri": "10 punti per 10 anni",
+     "prove": [
+      "fdi-0051",
+      "lega-0500"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "m5s",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "m5s-0150"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "pd",
+     "posizione": "favorevole",
+     "parametri": "franchigia di 1.000 euro sui contributi INPS dei dipendenti",
+     "prove": [
+      "pd-0114"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "fn",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "fn-0013",
+      "fn-0035",
+      "fn-0093"
+     ],
+     "nota": "Priorità a giovani, famiglie e imprese ad alta occupazione"
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "Stesso obiettivo, strumenti e cifre diversi"
+   },
+   "forza": {
+    "favorevoli": 8,
+    "contrari": 0,
+    "seggi_camera": 358,
+    "seggi_senato": 181,
+    "maggioranza_camera": true,
+    "maggioranza_senato": true,
+    "schieramenti": [
+     "altro",
+     "maggioranza",
+     "opposizione"
+    ],
+    "trasversale": true
+   }
+  },
+  {
+   "id": "q-lavoro-salari-bassi",
+   "domanda": "Sostenere con sgravi o integrazioni pubbliche i salari più bassi?",
+   "sottotema": "Lavoro povero",
+   "spiegazione": "Misure fiscali o contributi pubblici che aumentino il netto di chi guadagna poco.",
+   "posizioni": [
+    {
+     "partito": "azione",
+     "posizione": "favorevole",
+     "parametri": "imposta negativa sotto il minimo esente",
+     "prove": [
+      "azione-0088"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "iv",
+     "posizione": "favorevole",
+     "parametri": "imposta negativa sotto il minimo esente",
+     "prove": [
+      "azione-0088"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "pd",
+     "posizione": "favorevole",
+     "parametri": "in-work benefit",
+     "prove": [
+      "pd-0121"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "fi",
+     "posizione": "favorevole",
+     "parametri": "detassazione dei salari tra 7,05 e 9 euro l'ora",
+     "prove": [
+      "fi-0114"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "nm",
+     "posizione": "favorevole",
+     "parametri": "aumenti esentasse fino a 200 euro al mese per redditi fino a 35.000 euro",
+     "prove": [
+      "nm-0014",
+      "nm-0099"
+     ],
+     "nota": null
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "Stesso obiettivo, con integrazione diretta o con sgravi fiscali"
+   },
+   "forza": {
+    "favorevoli": 5,
+    "contrari": 0,
+    "seggi_camera": 145,
+    "seggi_senato": 74,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "maggioranza",
+     "opposizione"
+    ],
+    "trasversale": true
+   }
+  },
+  {
+   "id": "q-lavoro-sgravi-chi-assume",
+   "domanda": "Ridurre tasse e contributi alle imprese che aumentano l'occupazione?",
+   "sottotema": "Incentivi alle assunzioni",
+   "spiegazione": "Sconti fiscali o contributivi legati al numero di nuove assunzioni.",
+   "posizioni": [
+    {
+     "partito": "fi",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "fdi-0022"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "nm",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "fdi-0022"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "udc",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "fdi-0022"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "fdi",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "fdi-0022",
+      "fdi-0105",
+      "fdi-0250",
+      "fdi-0221"
+     ],
+     "nota": "Anche super deduzione del costo del lavoro e sgravi per i contratti lunghi nel turismo"
+    },
+    {
+     "partito": "lega",
+     "posizione": "favorevole",
+     "parametri": "cuneo -50% per 5 anni per startup e PMI innovative che assumono laureati",
+     "prove": [
+      "fdi-0022",
+      "lega-0117",
+      "lega-0351",
+      "lega-0466"
+     ],
+     "nota": null
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "Stessa misura nel programma comune; FdI e Lega aggiungono varianti con platee diverse"
+   },
+   "forza": {
+    "favorevoli": 5,
+    "contrari": 0,
+    "seggi_camera": 233,
+    "seggi_senato": 120,
+    "maggioranza_camera": true,
+    "maggioranza_senato": true,
+    "schieramenti": [
+     "maggioranza"
+    ],
+    "trasversale": false
+   }
+  },
+  {
+   "id": "q-lavoro-decontribuzione-giovani",
+   "domanda": "Ridurre o azzerare i contributi per chi assume giovani?",
+   "sottotema": "Occupazione giovanile",
+   "spiegazione": "Sconto sui contributi a carico dell'impresa per l'assunzione di giovani, spesso fino a 35 anni.",
+   "posizioni": [
+    {
+     "partito": "fdi",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "fdi-0057"
+     ],
+     "nota": "La misura riguarda anche donne, disabili e zone svantaggiate"
+    },
+    {
+     "partito": "nm",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "fdi-0057"
+     ],
+     "nota": "La misura riguarda anche donne, disabili e zone svantaggiate"
+    },
+    {
+     "partito": "udc",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "fdi-0057"
+     ],
+     "nota": "La misura riguarda anche donne, disabili e zone svantaggiate"
+    },
+    {
+     "partito": "lega",
+     "posizione": "favorevole",
+     "parametri": "esonero strutturale under 35",
+     "prove": [
+      "fdi-0057",
+      "lega-0508"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "fi",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "fdi-0057",
+      "fi-0065"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "m5s",
+     "posizione": "favorevole",
+     "parametri": "under 36",
+     "prove": [
+      "m5s-0169"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "pd",
+     "posizione": "favorevole",
+     "parametri": "contributi azzerati per assunzioni stabili fino a 35 anni",
+     "prove": [
+      "pd-0130"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "piu-europa",
+     "posizione": "favorevole",
+     "parametri": "fino a 35 anni, integrale per piccole imprese nel primo triennio",
+     "prove": [
+      "piu-europa-0089"
+     ],
+     "nota": null
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "Stesso obiettivo, con età, durata e intensità dello sgravio diverse"
+   },
+   "forza": {
+    "favorevoli": 8,
+    "contrari": 0,
+    "seggi_camera": 352,
+    "seggi_senato": 181,
+    "maggioranza_camera": true,
+    "maggioranza_senato": true,
+    "schieramenti": [
+     "maggioranza",
+     "opposizione"
+    ],
+    "trasversale": true
+   }
+  },
+  {
+   "id": "q-lavoro-decontribuzione-donne",
+   "domanda": "Ridurre i contributi per chi assume donne o per le madri lavoratrici?",
+   "sottotema": "Occupazione femminile",
+   "spiegazione": "Sconto sui contributi legato all'assunzione o al lavoro delle donne.",
+   "posizioni": [
+    {
+     "partito": "lega",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "lega-0509",
+      "lega-0523"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "m5s",
+     "posizione": "favorevole",
+     "parametri": "sgravio al 100% per donne disoccupate",
+     "prove": [
+      "m5s-0163"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "nm",
+     "posizione": "favorevole",
+     "parametri": "agevolazioni per le mamme lavoratrici",
+     "prove": [
+      "nm-0095"
+     ],
+     "nota": null
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "Stesso obiettivo, platee e cifre diverse"
+   },
+   "forza": {
+    "favorevoli": 3,
+    "contrari": 0,
+    "seggi_camera": 112,
+    "seggi_senato": 62,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "maggioranza",
+     "opposizione"
+    ],
+    "trasversale": true
+   }
+  },
+  {
+   "id": "q-lavoro-decontribuzione-sud",
+   "domanda": "Rendere stabile lo sconto sui contributi per il lavoro nel Mezzogiorno?",
+   "sottotema": "Lavoro nel Mezzogiorno",
+   "spiegazione": "La Decontribuzione Sud riduce i contributi per chi lavora nelle regioni meridionali.",
+   "posizioni": [
+    {
+     "partito": "fdi",
+     "posizione": "favorevole",
+     "parametri": "strutturale ed estesa, negoziata con l'UE",
+     "prove": [
+      "fdi-0251"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "m5s",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "m5s-0156"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "pd",
+     "posizione": "favorevole",
+     "parametri": "proroga e potenziamento per giovani e donne",
+     "prove": [
+      "pd-0074"
+     ],
+     "nota": null
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "Stesso obiettivo; il PD parla di proroga, FdI e M5S di misura stabile"
+   },
+   "forza": {
+    "favorevoli": 3,
+    "contrari": 0,
+    "seggi_camera": 233,
+    "seggi_senato": 124,
+    "maggioranza_camera": true,
+    "maggioranza_senato": true,
+    "schieramenti": [
+     "maggioranza",
+     "opposizione"
+    ],
+    "trasversale": true
+   }
+  },
+  {
+   "id": "q-lavoro-voucher",
+   "domanda": "Reintrodurre o estendere i voucher per il lavoro occasionale?",
+   "sottotema": "Voucher e lavoro occasionale",
+   "spiegazione": "Buoni per pagare in modo semplice prestazioni di lavoro brevi o saltuarie.",
+   "posizioni": [
+    {
+     "partito": "fi",
+     "posizione": "favorevole",
+     "parametri": "soprattutto turismo e agricoltura",
+     "prove": [
+      "fdi-0055"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "nm",
+     "posizione": "favorevole",
+     "parametri": "soprattutto turismo e agricoltura",
+     "prove": [
+      "fdi-0055"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "udc",
+     "posizione": "favorevole",
+     "parametri": "soprattutto turismo e agricoltura",
+     "prove": [
+      "fdi-0055"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "fdi",
+     "posizione": "favorevole",
+     "parametri": "soprattutto turismo e agricoltura",
+     "prove": [
+      "fdi-0055"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "lega",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "fdi-0055",
+      "lega-0012",
+      "lega-0505"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "azione",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "azione-0070",
+      "azione-0224"
+     ],
+     "nota": "Insieme all'eliminazione dei mini contratti brevi"
+    },
+    {
+     "partito": "iv",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "azione-0070",
+      "azione-0224"
+     ],
+     "nota": "Insieme all'eliminazione dei mini contratti brevi"
+    },
+    {
+     "partito": "piu-europa",
+     "posizione": "favorevole",
+     "parametri": "Buono Lavoro per lavori estemporanei",
+     "prove": [
+      "piu-europa-0018"
+     ],
+     "nota": null
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "Stesso strumento, con settori di applicazione diversi"
+   },
+   "forza": {
+    "favorevoli": 8,
+    "contrari": 0,
+    "seggi_camera": 253,
+    "seggi_senato": 130,
+    "maggioranza_camera": true,
+    "maggioranza_senato": true,
+    "schieramenti": [
+     "maggioranza",
+     "opposizione"
+    ],
+    "trasversale": true
+   }
+  },
+  {
+   "id": "q-lavoro-causale-tempo-determinato",
+   "domanda": "Richiedere una causale per i contratti a tempo determinato?",
+   "sottotema": "Contratti a termine",
+   "spiegazione": "Obbligo di indicare il motivo che giustifica un contratto a termine.",
+   "posizioni": [
+    {
+     "partito": "ev",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "ev-0066"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "si",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "ev-0066"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "m5s",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "m5s-0095",
+      "m5s-0154"
+     ],
+     "nota": "Rafforzare il decreto Dignità"
+    },
+    {
+     "partito": "pd",
+     "posizione": "favorevole",
+     "parametri": "causale fin dal primo contratto",
+     "prove": [
+      "pd-0117"
+     ],
+     "nota": null
+    }
+   ],
+   "touchpoint": {
+    "grado": "pieno",
+    "nota": "Stessa misura: causale obbligatoria per i contratti a termine"
+   },
+   "forza": {
+    "favorevoli": 4,
+    "contrari": 0,
+    "seggi_camera": 126,
+    "seggi_senato": 65,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "opposizione"
+    ],
+    "trasversale": false
+   }
+  },
+  {
+   "id": "q-lavoro-meno-precari",
+   "domanda": "Ridurre per legge le forme di lavoro precario a favore del tempo indeterminato?",
+   "sottotema": "Precarietà",
+   "spiegazione": "Limitare i contratti temporanei e atipici perché il contratto stabile diventi la regola.",
+   "posizioni": [
+    {
+     "partito": "m5s",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "pd-0012"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "iv",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "pd-0012"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "piu-europa",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "pd-0012"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "pd",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "pd-0012",
+      "pd-0152"
+     ],
+     "nota": "Con un accordo tra parti sociali sul modello spagnolo"
+    },
+    {
+     "partito": "ev",
+     "posizione": "favorevole",
+     "parametri": "cancellare le forme di lavoro precario",
+     "prove": [
+      "pd-0012",
+      "ev-0065"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "si",
+     "posizione": "favorevole",
+     "parametri": "cancellare le forme di lavoro precario",
+     "prove": [
+      "pd-0012",
+      "ev-0065"
+     ],
+     "nota": null
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "Stesso obiettivo nel programma comune, con intensità diverse"
+   },
+   "forza": {
+    "favorevoli": 6,
+    "contrari": 0,
+    "seggi_camera": 136,
+    "seggi_senato": 73,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "opposizione"
+    ],
+    "trasversale": false
+   }
+  },
+  {
+   "id": "q-lavoro-reintegra",
+   "domanda": "Ripristinare la reintegra nel posto di lavoro per i licenziamenti ingiustificati?",
+   "sottotema": "Licenziamenti",
+   "spiegazione": "Il giudice ordina il ritorno al lavoro, e non solo un indennizzo, quando il licenziamento è ingiustificato.",
+   "posizioni": [
+    {
+     "partito": "ev",
+     "posizione": "favorevole",
+     "parametri": "in tutte le imprese",
+     "prove": [
+      "ev-0071"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "si",
+     "posizione": "favorevole",
+     "parametri": "in tutte le imprese",
+     "prove": [
+      "ev-0071"
+     ],
+     "nota": null
+    }
+   ],
+   "touchpoint": {
+    "grado": "pieno",
+    "nota": "Proposta comune di AVS"
+   },
+   "forza": {
+    "favorevoli": 2,
+    "contrari": 0,
+    "seggi_camera": 10,
+    "seggi_senato": 4,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "opposizione"
+    ],
+    "trasversale": false
+   }
+  },
+  {
+   "id": "q-lavoro-riduzione-orario",
+   "domanda": "Ridurre l'orario di lavoro a parità di salario?",
+   "sottotema": "Orario di lavoro",
+   "spiegazione": "Lavorare meno ore (o meno giorni) senza perdere retribuzione.",
+   "posizioni": [
+    {
+     "partito": "ev",
+     "posizione": "favorevole",
+     "parametri": "per legge a tutti i lavoratori, con fondo per sperimentazioni",
+     "prove": [
+      "ev-0061",
+      "ev-0062"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "si",
+     "posizione": "favorevole",
+     "parametri": "per legge a tutti i lavoratori, con fondo per sperimentazioni",
+     "prove": [
+      "ev-0061",
+      "ev-0062"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "m5s",
+     "posizione": "favorevole",
+     "parametri": "sperimentazione con incentivi alle imprese",
+     "prove": [
+      "m5s-0096",
+      "m5s-0159"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "pd",
+     "posizione": "favorevole con riserve",
+     "parametri": "tramite contratti collettivi incentivati; almeno -10% dell'orario normale nei settori con adesione al 20%",
+     "prove": [
+      "pd-0158",
+      "pd-0232"
+     ],
+     "nota": "Via contrattazione, non per legge generale"
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "Stesso obiettivo; per legge (AVS) o con sperimentazioni e contratti (M5S, PD)"
+   },
+   "forza": {
+    "favorevoli": 4,
+    "contrari": 0,
+    "seggi_camera": 126,
+    "seggi_senato": 65,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "opposizione"
+    ],
+    "trasversale": false
+   }
+  },
+  {
+   "id": "q-lavoro-lavoro-agile",
+   "domanda": "Favorire il lavoro da remoto (smart working)?",
+   "sottotema": "Lavoro agile",
+   "spiegazione": "Incentivi o diritti per lavorare in parte o del tutto fuori dalla sede aziendale.",
+   "posizioni": [
+    {
+     "partito": "azione",
+     "posizione": "favorevole",
+     "parametri": "strutturale per disabili e fragili; più giorni per genitori di figli sotto i 2 anni",
+     "prove": [
+      "azione-0161",
+      "azione-0169"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "iv",
+     "posizione": "favorevole",
+     "parametri": "strutturale per disabili e fragili; più giorni per genitori di figli sotto i 2 anni",
+     "prove": [
+      "azione-0161",
+      "azione-0169"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "ev",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "ev-0076"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "si",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "ev-0076"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "piu-europa",
+     "posizione": "favorevole",
+     "parametri": "modello ibrido",
+     "prove": [
+      "piu-europa-0020"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "lega",
+     "posizione": "favorevole",
+     "parametri": "sgravi per chi impiega da remoto residenti nei Comuni montani",
+     "prove": [
+      "lega-0315",
+      "lega-0561"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "pd",
+     "posizione": "favorevole",
+     "parametri": "credito d'imposta di 50 milioni annui 2026-2028 nelle aree interne",
+     "prove": [
+      "pd-0234"
+     ],
+     "nota": null
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "Stesso obiettivo, platee e strumenti diversi"
+   },
+   "forza": {
+    "favorevoli": 7,
+    "contrari": 0,
+    "seggi_camera": 154,
+    "seggi_senato": 79,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "maggioranza",
+     "opposizione"
+    ],
+    "trasversale": true
+   }
+  },
+  {
+   "id": "q-lavoro-equo-compenso",
+   "domanda": "Garantire per legge un equo compenso a professionisti e lavoratori autonomi?",
+   "sottotema": "Lavoro autonomo",
+   "spiegazione": "Una legge che vieti compensi troppo bassi per le prestazioni dei professionisti.",
+   "posizioni": [
+    {
+     "partito": "azione",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "azione-0080"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "iv",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "azione-0080"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "ev",
+     "posizione": "favorevole",
+     "parametri": "generalizzato a tutti gli autonomi",
+     "prove": [
+      "ev-0079"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "si",
+     "posizione": "favorevole",
+     "parametri": "generalizzato a tutti gli autonomi",
+     "prove": [
+      "ev-0079"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "lega",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "lega-0393",
+      "lega-0728"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "pd",
+     "posizione": "favorevole",
+     "parametri": "sanzione solo in capo al committente",
+     "prove": [
+      "pd-0119"
+     ],
+     "nota": null
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "Stesso obiettivo, con ampiezza e sanzioni diverse"
+   },
+   "forza": {
+    "favorevoli": 6,
+    "contrari": 0,
+    "seggi_camera": 151,
+    "seggi_senato": 79,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "maggioranza",
+     "opposizione"
+    ],
+    "trasversale": true
+   }
+  },
+  {
+   "id": "q-lavoro-tutele-autonomi",
+   "domanda": "Estendere ammortizzatori sociali e tutele anche ai lavoratori autonomi?",
+   "sottotema": "Ammortizzatori sociali",
+   "spiegazione": "Sostegni in caso di disoccupazione, malattia o maternità anche per partite IVA e autonomi.",
+   "posizioni": [
+    {
+     "partito": "fdi",
+     "posizione": "favorevole",
+     "parametri": "indennità di disoccupazione per autonomi e potenziamento ISCRO",
+     "prove": [
+      "fdi-0231"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "azione",
+     "posizione": "favorevole",
+     "parametri": "requisiti più leggeri per l'ISCRO e aliquota contributiva più bassa",
+     "prove": [
+      "azione-0081"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "iv",
+     "posizione": "favorevole",
+     "parametri": "requisiti più leggeri per l'ISCRO e aliquota contributiva più bassa",
+     "prove": [
+      "azione-0081"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "m5s",
+     "posizione": "favorevole",
+     "parametri": "ammortizzatori universali; malattia e maternità per autonomi",
+     "prove": [
+      "m5s-0157",
+      "m5s-0100"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "pd",
+     "posizione": "favorevole",
+     "parametri": "ammortizzatori universali anche per precari e lavoratori della cultura",
+     "prove": [
+      "pd-0227"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "piu-europa",
+     "posizione": "favorevole",
+     "parametri": "regime unico per dipendenti, autonomi e imprenditori",
+     "prove": [
+      "piu-europa-0021"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "ev",
+     "posizione": "favorevole",
+     "parametri": "maternità, inattività, invalidità, infortunio",
+     "prove": [
+      "ev-0080"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "si",
+     "posizione": "favorevole",
+     "parametri": "maternità, inattività, invalidità, infortunio",
+     "prove": [
+      "ev-0080"
+     ],
+     "nota": null
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "Stesso obiettivo, da potenziamento ISCRO a sistema universale"
+   },
+   "forza": {
+    "favorevoli": 8,
+    "contrari": 0,
+    "seggi_camera": 263,
+    "seggi_senato": 138,
+    "maggioranza_camera": true,
+    "maggioranza_senato": true,
+    "schieramenti": [
+     "maggioranza",
+     "opposizione"
+    ],
+    "trasversale": true
+   }
+  },
+  {
+   "id": "q-lavoro-sussidio-ue",
+   "domanda": "Creare uno strumento europeo stabile contro la disoccupazione?",
+   "sottotema": "Mercato del lavoro europeo",
+   "spiegazione": "Un fondo o sussidio dell'Unione europea a sostegno dei lavoratori che perdono il lavoro.",
+   "posizioni": [
+    {
+     "partito": "iv",
+     "posizione": "favorevole con riserve",
+     "parametri": null,
+     "prove": [
+      "iv-0032"
+     ],
+     "nota": "Propone di valutare un sussidio europeo"
+    },
+    {
+     "partito": "piu-europa",
+     "posizione": "favorevole con riserve",
+     "parametri": null,
+     "prove": [
+      "iv-0032"
+     ],
+     "nota": "Propone di valutare un sussidio europeo"
+    },
+    {
+     "partito": "pd",
+     "posizione": "favorevole",
+     "parametri": "SURE strumento permanente",
+     "prove": [
+      "pd-0154"
+     ],
+     "nota": null
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "Stessa direzione, con diverso grado di impegno"
+   },
+   "forza": {
+    "favorevoli": 3,
+    "contrari": 0,
+    "seggi_camera": 78,
+    "seggi_senato": 44,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "opposizione"
+    ],
+    "trasversale": false
+   }
+  },
+  {
+   "id": "q-lavoro-reddito-cittadinanza",
+   "domanda": "Mantenere un reddito di cittadinanza anche per chi è in grado di lavorare?",
+   "sottotema": "Reddito minimo",
+   "spiegazione": "Un sostegno al reddito per le persone povere che comprenda anche chi può lavorare.",
+   "posizioni": [
+    {
+     "partito": "m5s",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "m5s-0158",
+      "m5s-0103"
+     ],
+     "nota": "Rafforzare il reddito di cittadinanza e rivedere Assegno di inclusione e SFL"
+    },
+    {
+     "partito": "azione",
+     "posizione": "favorevole con riserve",
+     "parametri": "assegno ridotto di almeno un terzo dopo due anni",
+     "prove": [
+      "azione-0073"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "iv",
+     "posizione": "favorevole con riserve",
+     "parametri": "assegno ridotto di almeno un terzo dopo due anni",
+     "prove": [
+      "azione-0073"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "piu-europa",
+     "posizione": "favorevole con riserve",
+     "parametri": null,
+     "prove": [
+      "piu-europa-0022"
+     ],
+     "nota": "Riforma nella direzione del governo Draghi"
+    },
+    {
+     "partito": "fdi",
+     "posizione": "contrario",
+     "parametri": null,
+     "prove": [
+      "fdi-0062"
+     ],
+     "nota": "Sostituirlo con inclusione sociale e politiche attive"
+    },
+    {
+     "partito": "fi",
+     "posizione": "contrario",
+     "parametri": null,
+     "prove": [
+      "fdi-0062"
+     ],
+     "nota": "Sostituirlo con inclusione sociale e politiche attive"
+    },
+    {
+     "partito": "udc",
+     "posizione": "contrario",
+     "parametri": null,
+     "prove": [
+      "fdi-0062"
+     ],
+     "nota": "Sostituirlo con inclusione sociale e politiche attive"
+    },
+    {
+     "partito": "lega",
+     "posizione": "contrario",
+     "parametri": null,
+     "prove": [
+      "fdi-0062",
+      "lega-0513"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "nm",
+     "posizione": "contrario",
+     "parametri": "3 miliardi per chi non può lavorare, 5 miliardi alle imprese",
+     "prove": [
+      "fdi-0062",
+      "nm-0017"
+     ],
+     "nota": null
+    }
+   ],
+   "touchpoint": {
+    "grado": null,
+    "nota": "Un solo partito pienamente favorevole"
+   },
+   "forza": {
+    "favorevoli": 4,
+    "contrari": 5,
+    "seggi_camera": 68,
+    "seggi_senato": 35,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "opposizione"
+    ],
+    "trasversale": false
+   }
+  },
+  {
+   "id": "q-lavoro-condizionalita-sussidi",
+   "domanda": "Togliere il sussidio a chi rifiuta un lavoro adeguato o non partecipa ad attività richieste?",
+   "sottotema": "Condizionalità",
+   "spiegazione": "Legare i sostegni al reddito alla disponibilità a lavorare, formarsi o svolgere attività utili.",
+   "posizioni": [
+    {
+     "partito": "azione",
+     "posizione": "favorevole",
+     "parametri": "stop dopo il primo rifiuto di un'offerta congrua; formazione obbligatoria",
+     "prove": [
+      "azione-0072",
+      "azione-0076"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "iv",
+     "posizione": "favorevole",
+     "parametri": "stop dopo il primo rifiuto di un'offerta congrua; formazione obbligatoria",
+     "prove": [
+      "azione-0072",
+      "azione-0076"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "fn",
+     "posizione": "favorevole",
+     "parametri": "accettare qualsiasi lavoro compatibile",
+     "prove": [
+      "fn-0043",
+      "fn-0094"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "lega",
+     "posizione": "favorevole",
+     "parametri": "lavori utili alla collettività per chi riceve sussidi comunali",
+     "prove": [
+      "lega-0517"
+     ],
+     "nota": null
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "Stesso principio, con condizioni diverse"
+   },
+   "forza": {
+    "favorevoli": 4,
+    "contrari": 0,
+    "seggi_camera": 82,
+    "seggi_senato": 39,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "altro",
+     "maggioranza",
+     "opposizione"
+    ],
+    "trasversale": true
+   }
+  },
+  {
+   "id": "q-lavoro-servizi-impiego",
+   "domanda": "Potenziare i servizi per l'impiego e l'incontro tra domanda e offerta di lavoro?",
+   "sottotema": "Politiche attive",
+   "spiegazione": "Centri per l'impiego, piattaforme e banche dati che aiutino chi cerca lavoro a trovarlo.",
+   "posizioni": [
+    {
+     "partito": "fn",
+     "posizione": "favorevole",
+     "parametri": "database unico nazionale; risorse legate ai risultati",
+     "prove": [
+      "fn-0041",
+      "fn-0042"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "lega",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "lega-0343",
+      "lega-0578"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "nm",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "nm-0018"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "azione",
+     "posizione": "favorevole con riserve",
+     "parametri": null,
+     "prove": [
+      "azione-0075"
+     ],
+     "nota": "Con un ruolo per le agenzie private"
+    },
+    {
+     "partito": "iv",
+     "posizione": "favorevole con riserve",
+     "parametri": null,
+     "prove": [
+      "azione-0075"
+     ],
+     "nota": "Con un ruolo per le agenzie private"
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "Stesso obiettivo, strumenti diversi"
+   },
+   "forza": {
+    "favorevoli": 5,
+    "contrari": 0,
+    "seggi_camera": 90,
+    "seggi_senato": 47,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "altro",
+     "maggioranza",
+     "opposizione"
+    ],
+    "trasversale": true
+   }
+  },
+  {
+   "id": "q-lavoro-tirocini-pagati",
+   "domanda": "Rendere obbligatorio un compenso minimo per stage e tirocini?",
+   "sottotema": "Tirocini",
+   "spiegazione": "Un pagamento minimo garantito per chi svolge stage, tirocini o praticantato.",
+   "posizioni": [
+    {
+     "partito": "azione",
+     "posizione": "favorevole",
+     "parametri": "rimborsi spese e indennità minime",
+     "prove": [
+      "azione-0183"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "iv",
+     "posizione": "favorevole",
+     "parametri": "rimborsi spese e indennità minime",
+     "prove": [
+      "azione-0183"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "m5s",
+     "posizione": "favorevole",
+     "parametri": "compenso minimo nazionale e contributi",
+     "prove": [
+      "m5s-0139",
+      "m5s-0155"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "pd",
+     "posizione": "favorevole",
+     "parametri": "stage curriculari retribuiti; abolire gli extracurriculari e quelli gratuiti",
+     "prove": [
+      "pd-0134",
+      "pd-0153"
+     ],
+     "nota": null
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "Stesso obiettivo; il PD propone anche di abolire gli stage extracurriculari"
+   },
+   "forza": {
+    "favorevoli": 4,
+    "contrari": 0,
+    "seggi_camera": 133,
+    "seggi_senato": 71,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "opposizione"
+    ],
+    "trasversale": false
+   }
+  },
+  {
+   "id": "q-lavoro-apprendistato",
+   "domanda": "Rafforzare l'apprendistato e la formazione duale per l'ingresso dei giovani nel lavoro?",
+   "sottotema": "Apprendistato",
+   "spiegazione": "Contratti che uniscono lavoro e formazione, alternando scuola e impresa.",
+   "posizioni": [
+    {
+     "partito": "azione",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "azione-0015",
+      "azione-0146"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "iv",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "azione-0015",
+      "azione-0146"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "fdi",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "fdi-0252"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "lega",
+     "posizione": "favorevole",
+     "parametri": "fino a 35 anni, formazione solo sul lavoro",
+     "prove": [
+      "lega-0507"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "piu-europa",
+     "posizione": "favorevole",
+     "parametri": "principale forma di accesso al lavoro dei giovani",
+     "prove": [
+      "piu-europa-0017"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "svp",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "svp-0010"
+     ],
+     "nota": null
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "Stesso obiettivo, con modalità diverse"
+   },
+   "forza": {
+    "favorevoli": 6,
+    "contrari": 0,
+    "seggi_camera": 196,
+    "seggi_senato": 104,
+    "maggioranza_camera": false,
+    "maggioranza_senato": true,
+    "schieramenti": [
+     "altro",
+     "maggioranza",
+     "opposizione"
+    ],
+    "trasversale": true
+   }
+  },
+  {
+   "id": "q-lavoro-alternanza-scuola-lavoro",
+   "domanda": "Rafforzare l'alternanza scuola-lavoro (PCTO)?",
+   "sottotema": "Scuola e lavoro",
+   "spiegazione": "I percorsi in cui gli studenti delle superiori passano un periodo in azienda.",
+   "posizioni": [
+    {
+     "partito": "lega",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "lega-0475"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "piu-europa",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "piu-europa-0003"
+     ],
+     "nota": "Coinvolgendo anche le PMI"
+    },
+    {
+     "partito": "nm",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "nm-0093"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "fdi",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "fdi-0104"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "m5s",
+     "posizione": "favorevole con riserve",
+     "parametri": "obiettivi chiari, regole di sicurezza e tutor",
+     "prove": [
+      "m5s-0025"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "ev",
+     "posizione": "contrario",
+     "parametri": null,
+     "prove": [
+      "ev-0162"
+     ],
+     "nota": "Propone di cancellare l'attuale legislazione sui PCTO"
+    },
+    {
+     "partito": "si",
+     "posizione": "contrario",
+     "parametri": null,
+     "prove": [
+      "ev-0162"
+     ],
+     "nota": "Propone di cancellare l'attuale legislazione sui PCTO"
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "Stesso obiettivo, con il M5S che chiede nuove regole"
+   },
+   "forza": {
+    "favorevoli": 5,
+    "contrari": 2,
+    "seggi_camera": 232,
+    "seggi_senato": 125,
+    "maggioranza_camera": true,
+    "maggioranza_senato": true,
+    "schieramenti": [
+     "maggioranza",
+     "opposizione"
+    ],
+    "trasversale": true
+   }
+  },
+  {
+   "id": "q-lavoro-its",
+   "domanda": "Investire di più negli Istituti tecnici superiori (ITS)?",
+   "sottotema": "Istruzione tecnica e ITS",
+   "spiegazione": "Più fondi e corsi negli ITS, le scuole tecniche post-diploma collegate alle imprese.",
+   "posizioni": [
+    {
+     "partito": "azione",
+     "posizione": "favorevole",
+     "parametri": "1,5 miliardi per raddoppiare iscritti e laureati",
+     "prove": [
+      "azione-0008",
+      "azione-0007",
+      "azione-0068"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "iv",
+     "posizione": "favorevole",
+     "parametri": "1,5 miliardi per raddoppiare iscritti e laureati",
+     "prove": [
+      "azione-0008",
+      "azione-0007",
+      "azione-0068"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "fn",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "fn-0038"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "lega",
+     "posizione": "favorevole con riserve",
+     "parametri": null,
+     "prove": [
+      "lega-0479"
+     ],
+     "nota": "Riallineare l'istruzione tecnica ai distretti produttivi"
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "Stesso obiettivo; solo Azione-IV indica cifre"
+   },
+   "forza": {
+    "favorevoli": 4,
+    "contrari": 0,
+    "seggi_camera": 82,
+    "seggi_senato": 39,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "altro",
+     "maggioranza",
+     "opposizione"
+    ],
+    "trasversale": true
+   }
+  },
+  {
+   "id": "q-lavoro-congedi-paritari",
+   "domanda": "Rendere uguali i congedi di padre e madre?",
+   "sottotema": "Congedi parentali",
+   "spiegazione": "Dare ai padri un congedo di durata pari a quello delle madri.",
+   "posizioni": [
+    {
+     "partito": "pd",
+     "posizione": "favorevole",
+     "parametri": "5 mesi a ciascun genitore, retribuiti al 100%, non trasferibili",
+     "prove": [
+      "pd-0138",
+      "pd-0163",
+      "pd-0231"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "m5s",
+     "posizione": "favorevole",
+     "parametri": "indennità al 100%",
+     "prove": [
+      "m5s-0161",
+      "m5s-0099"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "lega",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "lega-0520"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "piu-europa",
+     "posizione": "favorevole",
+     "parametri": "congedo obbligatorio iniziale a entrambi al 100%",
+     "prove": [
+      "piu-europa-0044"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "azione",
+     "posizione": "favorevole con riserve",
+     "parametri": "paternità obbligatoria da 10 giorni a un mese; 4 mesi facoltativi al 60%",
+     "prove": [
+      "azione-0166",
+      "azione-0168"
+     ],
+     "nota": "Allunga la paternità senza parità piena"
+    },
+    {
+     "partito": "iv",
+     "posizione": "favorevole con riserve",
+     "parametri": "paternità obbligatoria da 10 giorni a un mese; 4 mesi facoltativi al 60%",
+     "prove": [
+      "azione-0166",
+      "azione-0168"
+     ],
+     "nota": "Allunga la paternità senza parità piena"
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "Stesso obiettivo, durate e indennità diverse"
+   },
+   "forza": {
+    "favorevoli": 6,
+    "contrari": 0,
+    "seggi_camera": 192,
+    "seggi_senato": 100,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "maggioranza",
+     "opposizione"
+    ],
+    "trasversale": true
+   }
+  },
+  {
+   "id": "q-lavoro-indennita-congedi",
+   "domanda": "Aumentare l'indennità pagata durante i congedi per i figli?",
+   "sottotema": "Congedi parentali",
+   "spiegazione": "Alzare la quota di stipendio pagata durante maternità, paternità e congedi parentali.",
+   "posizioni": [
+    {
+     "partito": "nm",
+     "posizione": "favorevole",
+     "parametri": "congedo parentale dal 30% al 67%",
+     "prove": [
+      "nm-0011"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "azione",
+     "posizione": "favorevole",
+     "parametri": "congedi obbligatori al 100%",
+     "prove": [
+      "azione-0167"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "iv",
+     "posizione": "favorevole",
+     "parametri": "congedi obbligatori al 100%",
+     "prove": [
+      "azione-0167"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "piu-europa",
+     "posizione": "favorevole",
+     "parametri": "congedo facoltativo al 60% fino ai 12 anni del figlio",
+     "prove": [
+      "piu-europa-0045"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "ev",
+     "posizione": "favorevole",
+     "parametri": "maternità al 100%, 2 mesi prima e 6 dopo il parto",
+     "prove": [
+      "ev-0058"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "si",
+     "posizione": "favorevole",
+     "parametri": "maternità al 100%, 2 mesi prima e 6 dopo il parto",
+     "prove": [
+      "ev-0058"
+     ],
+     "nota": null
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "Stesso obiettivo, su congedi e percentuali diversi"
+   },
+   "forza": {
+    "favorevoli": 6,
+    "contrari": 0,
+    "seggi_camera": 38,
+    "seggi_senato": 22,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "maggioranza",
+     "opposizione"
+    ],
+    "trasversale": true
+   }
+  },
+  {
+   "id": "q-lavoro-parita-salariale",
+   "domanda": "Introdurre obblighi e controlli per la parità di salario tra donne e uomini?",
+   "sottotema": "Parità di genere",
+   "spiegazione": "Misure per ridurre la differenza di paga tra lavoratrici e lavoratori.",
+   "posizioni": [
+    {
+     "partito": "lega",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "lega-0524"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "m5s",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "m5s-0098"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "nm",
+     "posizione": "favorevole",
+     "parametri": "monitoraggio statistico e sanzioni più severe",
+     "prove": [
+      "nm-0081"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "svp",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "svp-0014"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "piu-europa",
+     "posizione": "favorevole",
+     "parametri": "trasparenza su retribuzioni e promozioni",
+     "prove": [
+      "piu-europa-0043"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "azione",
+     "posizione": "favorevole",
+     "parametri": "estensione della certificazione della parità di genere",
+     "prove": [
+      "azione-0163"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "iv",
+     "posizione": "favorevole",
+     "parametri": "estensione della certificazione della parità di genere",
+     "prove": [
+      "azione-0163"
+     ],
+     "nota": null
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "Stesso obiettivo, strumenti diversi"
+   },
+   "forza": {
+    "favorevoli": 7,
+    "contrari": 0,
+    "seggi_camera": 135,
+    "seggi_senato": 74,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "altro",
+     "maggioranza",
+     "opposizione"
+    ],
+    "trasversale": true
+   }
+  },
+  {
+   "id": "q-lavoro-piano-occupazione-femminile",
+   "domanda": "Adottare un piano straordinario per l'occupazione femminile?",
+   "sottotema": "Occupazione femminile",
+   "spiegazione": "Un programma nazionale dedicato ad aumentare il lavoro delle donne.",
+   "posizioni": [
+    {
+     "partito": "ev",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "ev-0077"
+     ],
+     "nota": "Anche misure per le imprese femminili"
+    },
+    {
+     "partito": "si",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "ev-0077"
+     ],
+     "nota": "Anche misure per le imprese femminili"
+    },
+    {
+     "partito": "pd",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "pd-0140"
+     ],
+     "nota": null
+    }
+   ],
+   "touchpoint": {
+    "grado": "pieno",
+    "nota": "Stessa misura, senza parametri in contrasto"
+   },
+   "forza": {
+    "favorevoli": 3,
+    "contrari": 0,
+    "seggi_camera": 78,
+    "seggi_senato": 40,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "opposizione"
+    ],
+    "trasversale": false
+   }
+  },
+  {
+   "id": "q-lavoro-sicurezza-lavoro",
+   "domanda": "Rafforzare prevenzione, controlli e sanzioni sulla sicurezza sul lavoro?",
+   "sottotema": "Sicurezza sul lavoro",
+   "spiegazione": "Più ispezioni, formazione, obblighi per le imprese e pene per chi viola le norme antinfortunistiche.",
+   "posizioni": [
+    {
+     "partito": "ev",
+     "posizione": "favorevole",
+     "parametri": "ispezioni triplicate entro la legislatura",
+     "prove": [
+      "pd-0030",
+      "ev-0072",
+      "ev-0073"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "si",
+     "posizione": "favorevole",
+     "parametri": "ispezioni triplicate entro la legislatura",
+     "prove": [
+      "pd-0030",
+      "ev-0072",
+      "ev-0073"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "m5s",
+     "posizione": "favorevole",
+     "parametri": "Procura nazionale per la sicurezza sul lavoro",
+     "prove": [
+      "pd-0030",
+      "m5s-0097"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "pd",
+     "posizione": "favorevole",
+     "parametri": "reato di omicidio sul lavoro, da 2 a 7 anni",
+     "prove": [
+      "pd-0030",
+      "pd-0237"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "iv",
+     "posizione": "favorevole",
+     "parametri": "formazione obbligatoria",
+     "prove": [
+      "pd-0030"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "piu-europa",
+     "posizione": "favorevole",
+     "parametri": "formazione obbligatoria",
+     "prove": [
+      "pd-0030"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "fdi",
+     "posizione": "favorevole",
+     "parametri": "defiscalizzare i costi della sicurezza",
+     "prove": [
+      "fdi-0056"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "fi",
+     "posizione": "favorevole",
+     "parametri": "defiscalizzare i costi della sicurezza",
+     "prove": [
+      "fdi-0056"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "nm",
+     "posizione": "favorevole",
+     "parametri": "defiscalizzare i costi della sicurezza",
+     "prove": [
+      "fdi-0056"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "udc",
+     "posizione": "favorevole",
+     "parametri": "defiscalizzare i costi della sicurezza",
+     "prove": [
+      "fdi-0056"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "lega",
+     "posizione": "favorevole",
+     "parametri": "modelli 231 obbligatori per chi lavora per lo Stato",
+     "prove": [
+      "fdi-0056",
+      "lega-0703",
+      "lega-0776"
+     ],
+     "nota": null
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "Stesso obiettivo; strumenti molto diversi (ispezioni, pene, sgravi)"
+   },
+   "forza": {
+    "favorevoli": 11,
+    "contrari": 0,
+    "seggi_camera": 369,
+    "seggi_senato": 193,
+    "maggioranza_camera": true,
+    "maggioranza_senato": true,
+    "schieramenti": [
+     "maggioranza",
+     "opposizione"
+    ],
+    "trasversale": true
+   }
+  },
+  {
+   "id": "q-lavoro-lavoro-nero",
+   "domanda": "Rafforzare il contrasto al lavoro nero e al caporalato?",
+   "sottotema": "Lavoro nero e caporalato",
+   "spiegazione": "Più controlli, sanzioni e strumenti per far emergere il lavoro irregolare.",
+   "posizioni": [
+    {
+     "partito": "fdi",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "fdi-0082"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "fi",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "fdi-0082"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "udc",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "fdi-0082"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "lega",
+     "posizione": "favorevole",
+     "parametri": "reato di sfruttamento",
+     "prove": [
+      "fdi-0082",
+      "lega-0506"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "nm",
+     "posizione": "favorevole",
+     "parametri": "agevolazioni per far emergere i servizi alla persona",
+     "prove": [
+      "fdi-0082",
+      "nm-0021"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "m5s",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "m5s-0125"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "fn",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "fn-0053"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "pd",
+     "posizione": "favorevole",
+     "parametri": "DURC di congruità oltre l'edilizia",
+     "prove": [
+      "pd-0118"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "azione",
+     "posizione": "favorevole",
+     "parametri": "più vigilanza su false partite IVA, falsi tirocini e appalti illeciti",
+     "prove": [
+      "azione-0069"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "iv",
+     "posizione": "favorevole",
+     "parametri": "più vigilanza su false partite IVA, falsi tirocini e appalti illeciti",
+     "prove": [
+      "azione-0069"
+     ],
+     "nota": null
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "Stesso obiettivo, strumenti diversi"
+   },
+   "forza": {
+    "favorevoli": 10,
+    "contrari": 0,
+    "seggi_camera": 375,
+    "seggi_senato": 191,
+    "maggioranza_camera": true,
+    "maggioranza_senato": true,
+    "schieramenti": [
+     "altro",
+     "maggioranza",
+     "opposizione"
+    ],
+    "trasversale": true
+   }
+  },
+  {
+   "id": "q-lavoro-subappalti",
+   "domanda": "Garantire nei subappalti le stesse condizioni di lavoro dell'appalto principale?",
+   "sottotema": "Appalti",
+   "spiegazione": "Chi lavora per un subappaltatore ha gli stessi diritti e salari di chi lavora per l'impresa principale.",
+   "posizioni": [
+    {
+     "partito": "ev",
+     "posizione": "favorevole",
+     "parametri": "clausola sociale e parità di trattamento",
+     "prove": [
+      "ev-0067",
+      "ev-0068"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "si",
+     "posizione": "favorevole",
+     "parametri": "clausola sociale e parità di trattamento",
+     "prove": [
+      "ev-0067",
+      "ev-0068"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "pd",
+     "posizione": "favorevole",
+     "parametri": "superare il massimo ribasso",
+     "prove": [
+      "pd-0226"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "azione",
+     "posizione": "favorevole con riserve",
+     "parametri": "responsabilità in solido nella catena dei subappalti",
+     "prove": [
+      "azione-0191"
+     ],
+     "nota": "Strumento diverso: responsabilità per i mancati versamenti"
+    },
+    {
+     "partito": "iv",
+     "posizione": "favorevole con riserve",
+     "parametri": "responsabilità in solido nella catena dei subappalti",
+     "prove": [
+      "azione-0191"
+     ],
+     "nota": "Strumento diverso: responsabilità per i mancati versamenti"
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "Stesso obiettivo, con strumenti diversi"
+   },
+   "forza": {
+    "favorevoli": 5,
+    "contrari": 0,
+    "seggi_camera": 95,
+    "seggi_senato": 50,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "opposizione"
+    ],
+    "trasversale": false
+   }
+  },
+  {
+   "id": "q-lavoro-delocalizzazioni",
+   "domanda": "Penalizzare le imprese che delocalizzano o abbandonano stabilimenti in Italia?",
+   "sottotema": "Politica industriale",
+   "spiegazione": "Sanzioni o restituzione di aiuti pubblici per chi chiude o sposta la produzione all'estero.",
+   "posizioni": [
+    {
+     "partito": "ev",
+     "posizione": "favorevole",
+     "parametri": "restituzione dei contributi degli ultimi 5 anni; sanzione del 5% del fatturato quinquennale",
+     "prove": [
+      "ev-0095",
+      "ev-0106"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "si",
+     "posizione": "favorevole",
+     "parametri": "restituzione dei contributi degli ultimi 5 anni; sanzione del 5% del fatturato quinquennale",
+     "prove": [
+      "ev-0095",
+      "ev-0106"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "m5s",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "m5s-0173"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "lega",
+     "posizione": "favorevole con riserve",
+     "parametri": null,
+     "prove": [
+      "lega-0747"
+     ],
+     "nota": "Cabina di regia con disincentivo alla delocalizzazione"
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "Stesso obiettivo, solo AVS indica sanzioni precise"
+   },
+   "forza": {
+    "favorevoli": 4,
+    "contrari": 0,
+    "seggi_camera": 114,
+    "seggi_senato": 58,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "maggioranza",
+     "opposizione"
+    ],
+    "trasversale": true
+   }
+  },
+  {
+   "id": "q-lavoro-partecipazione-lavoratori",
+   "domanda": "Favorire la partecipazione dei lavoratori agli utili e alla proprietà dell'impresa?",
+   "sottotema": "Partecipazione dei lavoratori",
+   "spiegazione": "Lavoratori che ricevono parte degli utili, diventano soci o partecipano alla gestione.",
+   "posizioni": [
+    {
+     "partito": "fn",
+     "posizione": "favorevole",
+     "parametri": "strumenti fiscali",
+     "prove": [
+      "fn-0002",
+      "fn-0044"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "lega",
+     "posizione": "favorevole",
+     "parametri": "obbligatoria per le imprese più grandi",
+     "prove": [
+      "lega-0808"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "azione",
+     "posizione": "favorevole",
+     "parametri": "detassazione degli utili destinati a schemi di partecipazione",
+     "prove": [
+      "azione-0091"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "iv",
+     "posizione": "favorevole",
+     "parametri": "detassazione degli utili destinati a schemi di partecipazione",
+     "prove": [
+      "azione-0091"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "m5s",
+     "posizione": "favorevole",
+     "parametri": "workers buyout",
+     "prove": [
+      "m5s-0174",
+      "m5s-0249"
+     ],
+     "nota": null
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "Stesso obiettivo, da incentivi fiscali a obbligo"
+   },
+   "forza": {
+    "favorevoli": 5,
+    "contrari": 0,
+    "seggi_camera": 130,
+    "seggi_senato": 64,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "altro",
+     "maggioranza",
+     "opposizione"
+    ],
+    "trasversale": true
+   }
+  },
+  {
+   "id": "q-lavoro-secondo-percettore",
+   "domanda": "Tassare meno il secondo reddito della famiglia?",
+   "sottotema": "Fisco e lavoro femminile",
+   "spiegazione": "Un'aliquota Irpef ridotta per chi in famiglia guadagna di meno, spesso la donna.",
+   "posizioni": [
+    {
+     "partito": "pd",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "pd-0129"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "piu-europa",
+     "posizione": "favorevole",
+     "parametri": "fino a 5 punti in meno nello scaglione più basso",
+     "prove": [
+      "piu-europa-0080"
+     ],
+     "nota": null
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "Stessa misura; solo +Europa indica la cifra"
+   },
+   "forza": {
+    "favorevoli": 2,
+    "contrari": 0,
+    "seggi_camera": 71,
+    "seggi_senato": 36,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "opposizione"
+    ],
+    "trasversale": false
+   }
+  },
+  {
+   "id": "q-lavoro-irpef-giovani",
+   "domanda": "Ridurre l'Irpef per i giovani lavoratori?",
+   "sottotema": "Fisco e giovani",
+   "spiegazione": "Tasse sul reddito più basse o nulle per i giovani nei primi anni di lavoro.",
+   "posizioni": [
+    {
+     "partito": "azione",
+     "posizione": "favorevole",
+     "parametri": "esenzione fino a 25 anni, -50% fino a 29",
+     "prove": [
+      "azione-0087"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "iv",
+     "posizione": "favorevole",
+     "parametri": "esenzione fino a 25 anni, -50% fino a 29",
+     "prove": [
+      "azione-0087"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "m5s",
+     "posizione": "favorevole",
+     "parametri": "detrazione aggiuntiva nei primi 5 anni, entro i 35 anni",
+     "prove": [
+      "m5s-0136"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "pd",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "pd-0017"
+     ],
+     "nota": "Nel piano contro l'emigrazione giovanile"
+    },
+    {
+     "partito": "ev",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "pd-0017"
+     ],
+     "nota": "Nel piano contro l'emigrazione giovanile"
+    },
+    {
+     "partito": "si",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "pd-0017"
+     ],
+     "nota": "Nel piano contro l'emigrazione giovanile"
+    },
+    {
+     "partito": "piu-europa",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "pd-0017"
+     ],
+     "nota": "Nel piano contro l'emigrazione giovanile"
+    },
+    {
+     "partito": "lega",
+     "posizione": "favorevole",
+     "parametri": "imponibile ridotto per i neoassunti",
+     "prove": [
+      "lega-0346"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "fdi",
+     "posizione": "favorevole con riserve",
+     "parametri": "tasse azzerate per 3 anni agli under 30 che avviano un'attività",
+     "prove": [
+      "fdi-0227"
+     ],
+     "nota": "Riguarda chi apre un'attività, non i dipendenti"
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "Stesso obiettivo, con età e misure diverse"
+   },
+   "forza": {
+    "favorevoli": 9,
+    "contrari": 0,
+    "seggi_camera": 319,
+    "seggi_senato": 167,
+    "maggioranza_camera": true,
+    "maggioranza_senato": true,
+    "schieramenti": [
+     "maggioranza",
+     "opposizione"
+    ],
+    "trasversale": true
+   }
+  },
+  {
+   "id": "q-lavoro-rientro-talenti",
+   "domanda": "Incentivare il rientro in Italia dei giovani lavoratori emigrati?",
+   "sottotema": "Emigrazione giovanile",
+   "spiegazione": "Agevolazioni per i giovani italiani che tornano a lavorare in Italia dall'estero.",
+   "posizioni": [
+    {
+     "partito": "fn",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "fn-0051",
+      "fn-0069"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "lega",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "lega-0722"
+     ],
+     "nota": null
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "Stesso obiettivo, senza parametri"
+   },
+   "forza": {
+    "favorevoli": 2,
+    "contrari": 0,
+    "seggi_camera": 65,
+    "seggi_senato": 29,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "altro",
+     "maggioranza"
+    ],
+    "trasversale": true
+   }
+  },
+  {
+   "id": "q-lavoro-ingressi-lavoro",
+   "domanda": "Ampliare gli ingressi regolari di lavoratori stranieri in base al fabbisogno?",
+   "sottotema": "Ingressi per lavoro",
+   "spiegazione": "Più canali legali per entrare in Italia a lavorare, al posto di quote ridotte o selezioni restrittive.",
+   "posizioni": [
+    {
+     "partito": "m5s",
+     "posizione": "favorevole",
+     "parametri": "superare Bossi-Fini e click day",
+     "prove": [
+      "m5s-0070"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "pd",
+     "posizione": "favorevole",
+     "parametri": "permessi per ricerca di lavoro",
+     "prove": [
+      "pd-0218"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "ev",
+     "posizione": "favorevole",
+     "parametri": "iscrizione ai centri per l'impiego",
+     "prove": [
+      "ev-0147"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "si",
+     "posizione": "favorevole",
+     "parametri": "iscrizione ai centri per l'impiego",
+     "prove": [
+      "ev-0147"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "lega",
+     "posizione": "contrario",
+     "parametri": "quote sotto le 70.000 del 2021, solo qualificati e stagionali",
+     "prove": [
+      "lega-0403"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "fn",
+     "posizione": "contrario",
+     "parametri": "immigrazione contingentata con lingua, qualifiche e offerta di lavoro",
+     "prove": [
+      "fn-0091"
+     ],
+     "nota": null
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "Stesso obiettivo, strumenti diversi"
+   },
+   "forza": {
+    "favorevoli": 4,
+    "contrari": 2,
+    "seggi_camera": 126,
+    "seggi_senato": 65,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "opposizione"
+    ],
+    "trasversale": false
+   }
+  },
+  {
+   "id": "q-lavoro-regolarizzazione",
+   "domanda": "Regolarizzare gli stranieri senza permesso che già lavorano in Italia?",
+   "sottotema": "Regolarizzazione",
+   "spiegazione": "Dare un permesso di soggiorno a chi è irregolare ma ha già un lavoro.",
+   "posizioni": [
+    {
+     "partito": "azione",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "azione-0238",
+      "azione-0223"
+     ],
+     "nota": "Anche proroga dei permessi in agricoltura"
+    },
+    {
+     "partito": "iv",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "azione-0238",
+      "azione-0223"
+     ],
+     "nota": "Anche proroga dei permessi in agricoltura"
+    },
+    {
+     "partito": "piu-europa",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "piu-europa-0035"
+     ],
+     "nota": "Insieme a canali legali di ingresso e sponsor"
+    }
+   ],
+   "touchpoint": {
+    "grado": "pieno",
+    "nota": "Stessa misura"
+   },
+   "forza": {
+    "favorevoli": 3,
+    "contrari": 0,
+    "seggi_camera": 20,
+    "seggi_senato": 10,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "opposizione"
+    ],
+    "trasversale": false
+   }
+  },
+  {
+   "id": "q-lavoro-precari-scuola",
+   "domanda": "Ridurre il precariato di docenti e personale ATA?",
+   "sottotema": "Scuola",
+   "spiegazione": "Assumere stabilmente il personale scolastico oggi con contratti a termine.",
+   "posizioni": [
+    {
+     "partito": "azione",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "azione-0142"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "iv",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "azione-0142"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "lega",
+     "posizione": "favorevole",
+     "parametri": null,
+     "prove": [
+      "lega-0488"
+     ],
+     "nota": "Anche stipendi in linea con l'Europa"
+    },
+    {
+     "partito": "piu-europa",
+     "posizione": "favorevole",
+     "parametri": "concorsi annuali",
+     "prove": [
+      "piu-europa-0009"
+     ],
+     "nota": null
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "Stesso obiettivo, strumenti diversi"
+   },
+   "forza": {
+    "favorevoli": 4,
+    "contrari": 0,
+    "seggi_camera": 76,
+    "seggi_senato": 39,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "maggioranza",
+     "opposizione"
+    ],
+    "trasversale": true
+   }
+  },
+  {
+   "id": "q-lavoro-rinnovi-contratti",
+   "domanda": "Rinnovare in tempi rapidi i contratti collettivi scaduti?",
+   "sottotema": "Contrattazione collettiva",
+   "spiegazione": "Chiudere i rinnovi dei contratti nazionali scaduti, pubblici o privati.",
+   "posizioni": [
+    {
+     "partito": "lega",
+     "posizione": "favorevole",
+     "parametri": "tutti i contratti scaduti",
+     "prove": [
+      "lega-0502"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "azione",
+     "posizione": "favorevole",
+     "parametri": "PA: risorse e rinnovi in tre mesi; contratto dei docenti",
+     "prove": [
+      "azione-0195",
+      "azione-0141"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "iv",
+     "posizione": "favorevole",
+     "parametri": "PA: risorse e rinnovi in tre mesi; contratto dei docenti",
+     "prove": [
+      "azione-0195",
+      "azione-0141"
+     ],
+     "nota": null
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "Stesso obiettivo; Azione-IV si riferisce al pubblico impiego"
+   },
+   "forza": {
+    "favorevoli": 3,
+    "contrari": 0,
+    "seggi_camera": 73,
+    "seggi_senato": 39,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "maggioranza",
+     "opposizione"
+    ],
+    "trasversale": true
+   }
+  },
+  {
+   "id": "q-lavoro-algoritmi-lavoro",
+   "domanda": "Regolare l'uso di algoritmi e intelligenza artificiale nella gestione del lavoro?",
+   "sottotema": "Lavoro e tecnologia",
+   "spiegazione": "Regole su trasparenza e effetti degli algoritmi che organizzano il lavoro o fissano i compensi.",
+   "posizioni": [
+    {
+     "partito": "pd",
+     "posizione": "favorevole",
+     "parametri": "presunzione di subordinazione per le piattaforme; trasparenza degli algoritmi",
+     "prove": [
+      "pd-0120",
+      "pd-0160"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "lega",
+     "posizione": "favorevole",
+     "parametri": "valutazione di impatto occupazionale dell'IA",
+     "prove": [
+      "lega-0771"
+     ],
+     "nota": null
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "Stesso ambito, strumenti diversi"
+   },
+   "forza": {
+    "favorevoli": 2,
+    "contrari": 0,
+    "seggi_camera": 124,
+    "seggi_senato": 65,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "maggioranza",
+     "opposizione"
+    ],
+    "trasversale": true
+   }
+  },
+  {
+   "id": "q-lavoro-testo-unico",
+   "domanda": "Semplificare e riunire le norme sul lavoro?",
+   "sottotema": "Semplificazione",
+   "spiegazione": "Ridurre e mettere in ordine le regole sul lavoro, ad esempio in un unico testo.",
+   "posizioni": [
+    {
+     "partito": "azione",
+     "posizione": "favorevole",
+     "parametri": "piano straordinario di semplificazione",
+     "prove": [
+      "azione-0071"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "iv",
+     "posizione": "favorevole",
+     "parametri": "piano straordinario di semplificazione",
+     "prove": [
+      "azione-0071"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "piu-europa",
+     "posizione": "favorevole",
+     "parametri": "Testo Unico del Lavoro",
+     "prove": [
+      "piu-europa-0024"
+     ],
+     "nota": null
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "Stesso obiettivo, strumenti diversi"
+   },
+   "forza": {
+    "favorevoli": 3,
+    "contrari": 0,
+    "seggi_camera": 20,
+    "seggi_senato": 10,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "opposizione"
+    ],
+    "trasversale": false
+   }
+  },
+  {
+   "id": "q-lavoro-conto-formazione",
+   "domanda": "Dare a ogni lavoratore un conto o buono personale per la formazione?",
+   "sottotema": "Formazione continua",
+   "spiegazione": "Una dote individuale da usare per corsi di aggiornamento o riqualificazione.",
+   "posizioni": [
+    {
+     "partito": "m5s",
+     "posizione": "favorevole",
+     "parametri": "Conto Futuro portabile dal primo impiego",
+     "prove": [
+      "m5s-0142"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "piu-europa",
+     "posizione": "favorevole",
+     "parametri": "voucher formazione-lavoro",
+     "prove": [
+      "piu-europa-0019"
+     ],
+     "nota": null
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "Stesso obiettivo, forme diverse"
+   },
+   "forza": {
+    "favorevoli": 2,
+    "contrari": 0,
+    "seggi_camera": 51,
+    "seggi_senato": 25,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "opposizione"
+    ],
+    "trasversale": false
+   }
+  },
+  {
+   "id": "q-lavoro-regime-forfettario",
+   "domanda": "Mantenere il regime forfettario per i piccoli lavoratori autonomi?",
+   "sottotema": "Lavoro autonomo",
+   "spiegazione": "La tassazione agevolata con aliquota fissa per autonomi con ricavi fino a 65.000 euro.",
+   "posizioni": [
+    {
+     "partito": "piu-europa",
+     "posizione": "favorevole",
+     "parametri": "5% o 15% fino a 65.000 euro",
+     "prove": [
+      "piu-europa-0078"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "azione",
+     "posizione": "favorevole con riserve",
+     "parametri": "scivolo biennale per chi supera i 65.000 euro",
+     "prove": [
+      "azione-0096"
+     ],
+     "nota": null
+    },
+    {
+     "partito": "iv",
+     "posizione": "favorevole con riserve",
+     "parametri": "scivolo biennale per chi supera i 65.000 euro",
+     "prove": [
+      "azione-0096"
+     ],
+     "nota": null
+    }
+   ],
+   "touchpoint": {
+    "grado": "parziale",
+    "nota": "Entrambi conservano il regime, Azione-IV con uno scivolo in uscita"
+   },
+   "forza": {
+    "favorevoli": 3,
+    "contrari": 0,
+    "seggi_camera": 20,
+    "seggi_senato": 10,
+    "maggioranza_camera": false,
+    "maggioranza_senato": false,
+    "schieramenti": [
+     "opposizione"
+    ],
+    "trasversale": false
+   }
+  }
+ ]
+}
