@@ -92,6 +92,7 @@ blockquote { margin: 4px 0; padding-left: 10px; border-left: 1px solid var(--lin
 .mapbox canvas { width: 100%; height: 100%; display: block; }
 .mmsg { position: absolute; inset: 0; display: grid; place-items: center; padding: 20px; text-align: center; background: var(--bg); }
 #minfo { display: flex; flex-direction: column; gap: 10px; }
+.btn { border: 1px solid var(--line); padding: 5px 10px; cursor: pointer; }
 footer { border-top: 1px solid var(--line); padding-top: 10px; font-size: .8rem; color: var(--mid); }
 </style>
 
@@ -131,13 +132,18 @@ footer { border-top: 1px solid var(--line); padding-top: 10px; font-size: .8rem;
 
   <section id="v-map" role="tabpanel" aria-labelledby="t-map" hidden>
     <div style="display:flex;flex-direction:column;gap:12px">
-      <p class="mid">Le colonne verticali sono i partiti; ogni piano è un'area. Ogni cerchio è una questione: le linee lo collegano ai partiti favorevoli, e più linee convergono, più è un punto di contatto. Il cerchio è grande quanto i seggi dei favorevoli. Le questioni sostenute da partiti di schieramenti diversi stanno verso il centro.</p>
+      <p class="mid">Al centro, in cerchio, i partiti: vicini quelli che si trovano d'accordo più spesso. Ogni sfera è un'idea precisa, grande quanto le proposte che la sostengono. Le linee partono dai partiti favorevoli. <b>Sopra</b> i partiti stanno le idee condivise: più in alto, più seggi le sostengono. <b>Sotto</b> stanno le idee che dividono: più in basso, più lo scontro è equilibrato. Ogni sfera si sposta verso i partiti che la sostengono.</p>
       <div class="bar">
+        <select id="marea" aria-label="Area"><option value="">Tutte le aree</option></select>
         <select id="mpart" aria-label="Evidenzia un partito"><option value="">Evidenzia un partito</option></select>
-        <button type="button" id="mreset" style="border:1px solid var(--line);padding:5px 10px;cursor:pointer">Azzera</button>
+        <label><input type="checkbox" id="mcon"> mostra i contrari</label>
+        <button type="button" id="mtop" class="btn">Vista dall'alto</button>
+        <button type="button" id="mside" class="btn">Vista di lato</button>
+        <button type="button" id="mreset" class="btn">Azzera</button>
       </div>
-      <div class="mapbox"><canvas id="mcanvas" aria-label="Mappa 3D delle convergenze. Trascina per ruotare, scorri per ingrandire, tocca un cerchio per aprire la questione."></canvas><div class="mmsg" id="mmsg" hidden></div></div>
-      <div id="minfo"><p class="mid">Tocca un cerchio per vedere la questione.</p></div>
+      <div class="mapbox"><canvas id="mcanvas" aria-label="Mappa 3D delle convergenze. Trascina per ruotare, scorri per ingrandire, tocca una sfera per aprire la questione."></canvas><div class="mmsg" id="mmsg" hidden></div></div>
+      <div class="legend"><span><i class="g S"></i>partito di maggioranza</span><span><i class="g"></i>partito di opposizione</span><span><i class="g R"></i>fuori dagli schieramenti</span><span>linea continua = favorevole · tratteggiata = contrario</span></div>
+      <div id="minfo"><p class="mid">Tocca una sfera per vedere la questione e le prove.</p></div>
     </div>
   </section>
 
@@ -283,126 +289,190 @@ function renderL() {
 $("q").addEventListener("input", () => { st.shown = 100; renderL(); });
 renderL();
 
-/* mappa delle convergenze */
+/* mappa delle convergenze: partiti al centro, idee sopra (condivise) o sotto (divise) */
 let mapOn = false;
 function startMap() {
   if (mapOn) { window.__mapResize && window.__mapResize(); return; }
   mapOn = true;
   const canvas = $("mcanvas"), msg = $("mmsg");
   const css = (v) => getComputedStyle(document.documentElement).getPropertyValue(v).trim();
+  [...new Set(D.questioni.map(q => q.a))].forEach(a => $("marea").append(el("option", { value: a, text: AREA[a] })));
   COLS.forEach(p => $("mpart").append(el("option", { value: p, text: P[p].nome })));
   let ok = typeof THREE !== "undefined" && THREE.OrbitControls, renderer;
   if (ok) { try { renderer = new THREE.WebGLRenderer({ canvas, antialias: true }); } catch (e) { ok = false; } }
   if (!ok) { msg.hidden = false; msg.textContent = "Il browser non riesce a mostrare la mappa 3D. Le stesse informazioni sono nella sezione Questioni."; return; }
 
-  const aree = [...new Set(D.questioni.map(q => q.a))];
-  const GAP = 3.2, R = 4.2, H = (aree.length - 1) * GAP;
-  const scene = new THREE.Scene();
-  const camera = new THREE.PerspectiveCamera(36, 1, 0.1, 200);
-  const controls = new THREE.OrbitControls(camera, canvas);
-  controls.enableDamping = true; controls.enablePan = false; controls.minDistance = 5; controls.maxDistance = 40;
-  controls.autoRotate = !matchMedia("(prefers-reduced-motion: reduce)").matches; controls.autoRotateSpeed = 0.4;
-  controls.addEventListener("start", () => { controls.autoRotate = false; });
-
-  /* colonne dei partiti su un cerchio: maggioranza da un lato, opposizione dall'altro */
-  const col = {};
-  COLS.forEach((p, i) => { const t = Math.PI * 0.15 + (i / COLS.length) * Math.PI * 2; col[p] = new THREE.Vector2(Math.cos(t) * R, Math.sin(t) * R); });
-  const fg = new THREE.Color(), bg = new THREE.Color();
-  const lm = (o) => new THREE.LineBasicMaterial({ transparent: true, opacity: o });
-  const objs = { pillars: [], planes: [], nodes: [], links: [] };
-  COLS.forEach(p => {
-    const v = col[p];
-    const line = new THREE.Line(new THREE.BufferGeometry().setFromPoints([new THREE.Vector3(v.x, -0.6, v.y), new THREE.Vector3(v.x, H + 0.6, v.y)]), lm(0.5));
-    scene.add(line); objs.pillars.push({ p, line });
-  });
-  aree.forEach((a, i) => {
-    const y = i * GAP, pts = [];
-    for (let k = 0; k <= 64; k++) { const t = k / 64 * Math.PI * 2; pts.push(new THREE.Vector3(Math.cos(t) * R, y, Math.sin(t) * R)); }
-    const ring = new THREE.Line(new THREE.BufferGeometry().setFromPoints(pts), lm(0.25));
-    scene.add(ring); objs.planes.push({ a, y, ring });
-  });
-  /* questioni: posizione = media delle colonne dei favorevoli, quindi le trasversali finiscono al centro */
-  const disc = new THREE.CircleGeometry(1, 32), rim = new THREE.RingGeometry(0.92, 1, 32);
-  const hits = [];
-  D.questioni.forEach((q, j) => {
-    const y = aree.indexOf(q.a) * GAP;
-    const fav = q.p.filter(x => x[1] === "S" || x[1] === "R").map(x => x[0]).filter(p => col[p]);
-    const c = new THREE.Vector2();
-    (fav.length ? fav : q.p.map(x => x[0]).filter(p => col[p])).forEach(p => c.add(col[p]));
-    c.divideScalar(Math.max(1, fav.length || q.p.length)).multiplyScalar(0.72);
-    const jt = (j * 137.5) * Math.PI / 180; c.x += Math.cos(jt) * 0.22; c.y += Math.sin(jt) * 0.22;
-    const pos = new THREE.Vector3(c.x, y, c.y);
-    const r = 0.05 + 0.22 * Math.sqrt((q.f.seggi_camera || 0) / 400);
-    const fill = new THREE.Mesh(disc, new THREE.MeshBasicMaterial({ transparent: true, side: THREE.DoubleSide }));
-    const edge = new THREE.Mesh(rim, new THREE.MeshBasicMaterial({ transparent: true, side: THREE.DoubleSide }));
-    [fill, edge].forEach(m => { m.position.copy(pos); m.rotation.x = -Math.PI / 2; m.scale.setScalar(r); scene.add(m); });
-    fill.position.y += 0.002; fill.userData.q = q; hits.push(fill);
-    const segs = [];
-    q.p.forEach(([p, s]) => { if (!col[p] || (s !== "S" && s !== "R")) return; segs.push(new THREE.Vector3(col[p].x, y, col[p].y), pos.clone()); });
-    const link = new THREE.LineSegments(new THREE.BufferGeometry().setFromPoints(segs), lm(0.12));
-    scene.add(link);
-    objs.nodes.push({ q, fill, edge, fav });
-    objs.links.push({ q, link });
-  });
-  /* etichette */
-  function label(text, size) {
-    const c = document.createElement("canvas"); c.width = 512; c.height = 64; const g = c.getContext("2d");
-    g.font = `600 ${size}px "IBM Plex Sans", Helvetica, sans-serif`; g.textAlign = "center"; g.textBaseline = "middle";
-    g.fillStyle = css("--fg"); g.fillText(text, 256, 32);
-    const s = new THREE.Sprite(new THREE.SpriteMaterial({ map: new THREE.CanvasTexture(c), transparent: true, depthTest: false }));
-    s.scale.set(2.4, 0.3, 1); return s;
+  /* 1. ordine dei partiti calcolato dai dati: accordo sulle questioni comuni, poi scaling a 2 dimensioni */
+  const fav = (s) => s === "S" || s === "R";
+  const n = COLS.length, Dm = [];
+  for (let i = 0; i < n; i++) {
+    Dm.push([]);
+    for (let j = 0; j < n; j++) {
+      let c = 0, a = 0;
+      D.questioni.forEach(q => {
+        const x = q.p.find(v => v[0] === COLS[i]), y = q.p.find(v => v[0] === COLS[j]);
+        if (x && y && x[1] !== "A" && y[1] !== "A") { c++; if (fav(x[1]) === fav(y[1])) a++; }
+      });
+      Dm[i].push(i === j ? 0 : c >= 2 ? 1 - a / c : 0.6);
+    }
   }
+  const B = Dm.map((r, i) => r.map((d, j) => -0.5 * d * d));
+  const rm = B.map(r => r.reduce((s, v) => s + v, 0) / n), gm = rm.reduce((s, v) => s + v, 0) / n;
+  for (let i = 0; i < n; i++) for (let j = 0; j < n; j++) B[i][j] = B[i][j] - rm[i] - rm[j] + gm;
+  function eig(M, skip) {
+    let v = M.map((_, i) => Math.sin(i + 1) + 0.5);
+    for (let it = 0; it < 200; it++) {
+      let w = M.map(r => r.reduce((s, x, k) => s + x * v[k], 0));
+      if (skip) { const d = w.reduce((s, x, k) => s + x * skip[k], 0); w = w.map((x, k) => x - d * skip[k]); }
+      const nn = Math.hypot(...w) || 1; v = w.map(x => x / nn);
+    }
+    return v;
+  }
+  const e1 = eig(B), e2 = eig(B, e1);
+  const ord = COLS.map((p, i) => [p, Math.atan2(e2[i], e1[i])]).sort((a, b) => a[1] - b[1]).map(x => x[0]);
+  const R0 = 1.3, R = 6.5;
+  const dir = {};
+  ord.forEach((p, i) => { const t = i / ord.length * Math.PI * 2; dir[p] = new THREE.Vector2(Math.cos(t), Math.sin(t)); });
+
+  /* 2. posizione delle idee */
+  const seggiDi = {};
+  Object.values(D.questioni).forEach(() => {});
+  const nodes = D.questioni.map((q, j) => {
+    const fv = q.p.filter(x => fav(x[1]) && dir[x[0]]), cv = q.p.filter(x => x[1] === "N" && dir[x[0]]);
+    const F = q.f.seggi_camera || 0;
+    const v = new THREE.Vector2();
+    fv.forEach(x => v.addScaledVector(dir[x[0]], x[1] === "S" ? 1 : 0.6));
+    cv.forEach(x => v.addScaledVector(dir[x[0]], -0.6));
+    const w = fv.reduce((s, x) => s + (x[1] === "S" ? 1 : 0.6), 0) + cv.length * 0.6 || 1;
+    v.divideScalar(w);
+    const m = Math.min(1, v.length()), d = v.length() > 1e-6 ? v.clone().normalize() : new THREE.Vector2(1, 0);
+    const jt = j * 2.399963; /* angolo aureo: piccolo scarto per non sovrapporre */
+    const rad = R0 + 1.2 + (R - R0 - 1.2) * m;
+    const x = d.x * rad + Math.cos(jt) * 0.35, z = d.y * rad + Math.sin(jt) * 0.35;
+    /* contrari: seggi dei blocchi contrari, stimati dalla quota dei partiti contrari */
+    const C = cv.length ? Math.round(F * cv.length / Math.max(1, fv.length)) : 0;
+    const divisa = cv.length > 0 && fv.length > 0;
+    const y = divisa ? -1.4 - 3.2 * Math.min(1, Math.min(fv.length, cv.length) / Math.max(fv.length, cv.length)) : 1.4 + 4.6 * (F / 400);
+    const nprove = new Set(q.p.flatMap(x => x[3])).size;
+    return { q, pos: new THREE.Vector3(x, y, z), r: 0.06 + 0.055 * Math.sqrt(nprove), fv, cv, divisa };
+  });
+
+  /* 3. scena */
+  const scene = new THREE.Scene();
+  const camera = new THREE.PerspectiveCamera(38, 1, 0.1, 300);
+  const controls = new THREE.OrbitControls(camera, canvas);
+  controls.enableDamping = true; controls.enablePan = false; controls.minDistance = 4; controls.maxDistance = 50;
+  controls.autoRotate = !matchMedia("(prefers-reduced-motion: reduce)").matches; controls.autoRotateSpeed = 0.35;
+  controls.addEventListener("start", () => { controls.autoRotate = false; });
+  scene.add(new THREE.AmbientLight(0xffffff, 0.55));
+  const sun = new THREE.DirectionalLight(0xffffff, 0.75); sun.position.set(4, 10, 6); scene.add(sun);
+  const fg = new THREE.Color(), bg = new THREE.Color();
+
+  const circ = (r, y, seg) => { const pts = []; for (let k = 0; k <= seg; k++) { const t = k / seg * Math.PI * 2; pts.push(new THREE.Vector3(Math.cos(t) * r, y, Math.sin(t) * r)); } return pts; };
+  const guide = new THREE.Line(new THREE.BufferGeometry().setFromPoints(circ(R, 0, 96)), new THREE.LineBasicMaterial({ transparent: true, opacity: 0.18 }));
+  const ring = new THREE.Line(new THREE.BufferGeometry().setFromPoints(circ(R0, 0, 64)), new THREE.LineBasicMaterial({ transparent: true, opacity: 0.6 }));
+  scene.add(guide, ring);
+  const axis = new THREE.Line(new THREE.BufferGeometry().setFromPoints([new THREE.Vector3(0, -5, 0), new THREE.Vector3(0, 6.5, 0)]), new THREE.LineDashedMaterial({ dashSize: 0.15, gapSize: 0.15, transparent: true, opacity: 0.35 }));
+  axis.computeLineDistances(); scene.add(axis);
+
+  const pdot = new THREE.SphereGeometry(0.09, 16, 12);
+  const pmesh = {};
+  ord.forEach(p => {
+    const m = new THREE.Mesh(pdot, new THREE.MeshBasicMaterial());
+    m.position.set(dir[p].x * R0, 0, dir[p].y * R0); scene.add(m); pmesh[p] = m;
+  });
+  const sph = new THREE.SphereGeometry(1, 24, 16);
+  const hits = [];
+  nodes.forEach(nd => {
+    nd.mesh = new THREE.Mesh(sph, new THREE.MeshLambertMaterial({ transparent: true }));
+    nd.mesh.position.copy(nd.pos); nd.mesh.scale.setScalar(nd.r); nd.mesh.userData.nd = nd; scene.add(nd.mesh); hits.push(nd.mesh);
+    /* linee curve: dal partito alla sfera, piegate verso l'alto o il basso */
+    const mk = (arr, dashed) => {
+      const pts = [];
+      arr.forEach(x => {
+        const a = pmesh[x[0]].position, b = nd.pos, mid = a.clone().lerp(b, 0.5); mid.y = b.y * 0.7;
+        const curve = new THREE.QuadraticBezierCurve3(a.clone(), mid, b.clone()), cp = curve.getPoints(14);
+        for (let k = 0; k < cp.length - 1; k++) pts.push(cp[k], cp[k + 1]);
+      });
+      const g = new THREE.LineSegments(new THREE.BufferGeometry().setFromPoints(pts),
+        dashed ? new THREE.LineDashedMaterial({ dashSize: 0.12, gapSize: 0.1, transparent: true }) : new THREE.LineBasicMaterial({ transparent: true }));
+      if (dashed) g.computeLineDistances();
+      scene.add(g); return g;
+    };
+    nd.lf = mk(nd.fv, false); nd.lc = mk(nd.cv, true);
+  });
+
+  /* etichette dei partiti */
   const labels = new THREE.Group(); scene.add(labels);
   function relabel() {
     labels.children.forEach(s => { s.material.map.dispose(); s.material.dispose(); }); labels.clear();
-    COLS.forEach(p => { const s = label(sig(p), 34); s.position.set(col[p].x * 1.08, H + 1, col[p].y * 1.08); labels.add(s); });
-    objs.planes.forEach(pl => { const s = label(AREA[pl.a].toUpperCase(), 44); s.position.set(0, pl.y + 0.25, -R - 0.9); labels.add(s); });
+    ord.forEach(p => {
+      const c = document.createElement("canvas"); c.width = 256; c.height = 64; const g = c.getContext("2d");
+      g.font = '600 38px "IBM Plex Sans", Helvetica, sans-serif'; g.textAlign = "center"; g.textBaseline = "middle";
+      g.lineWidth = 8; g.strokeStyle = css("--bg"); g.strokeText(sig(p), 128, 32); g.fillStyle = css("--fg"); g.fillText(sig(p), 128, 32);
+      const s = new THREE.Sprite(new THREE.SpriteMaterial({ map: new THREE.CanvasTexture(c), transparent: true, depthTest: false }));
+      s.scale.set(1.1, 0.275, 1); s.renderOrder = 5; s.position.set(dir[p].x * (R0 + 0.45), 0.05, dir[p].y * (R0 + 0.45)); labels.add(s);
+    });
   }
-  let selQ = null, selP = "";
+
+  let selQ = null, selP = "", selA = "", showC = false;
   function paint() {
     fg.set(css("--fg")); bg.set(css("--bg")); renderer.setClearColor(bg, 1);
-    objs.pillars.forEach(o => { o.line.material.color.copy(fg); o.line.material.opacity = selP ? (o.p === selP ? 1 : 0.15) : 0.5; });
-    objs.planes.forEach(o => { o.ring.material.color.copy(fg); });
-    objs.nodes.forEach(o => {
-      const on = (!selP || o.fav.includes(selP)) && (!selQ || selQ === o.q);
-      o.edge.material.color.copy(fg); o.edge.material.opacity = on ? 1 : 0.15;
-      o.fill.material.color.copy(o.q.f.trasversale ? fg : bg); o.fill.material.opacity = on ? 1 : 0.15;
+    [guide, ring, axis].forEach(o => o.material.color.copy(fg));
+    ord.forEach(p => {
+      const m = pmesh[p], s = P[p].schieramento;
+      m.material.color.copy(s === "maggioranza" ? fg : s === "opposizione" ? bg : fg.clone().lerp(bg, 0.5));
+      m.scale.setScalar(selP === p ? 1.6 : 1);
     });
-    objs.links.forEach(o => {
-      o.link.material.color.copy(fg);
-      o.link.material.opacity = selQ ? (o.q === selQ ? 0.9 : 0.04) : selP ? (o.q.p.some(x => x[0] === selP && (x[1] === "S" || x[1] === "R")) ? 0.35 : 0.03) : 0.12;
+    nodes.forEach(nd => {
+      const inA = !selA || nd.q.a === selA, inP = !selP || nd.q.p.some(x => x[0] === selP), on = inA && inP && (!selQ || selQ === nd);
+      nd.mesh.material.color.copy(fg); nd.mesh.material.opacity = on ? (selQ === nd ? 1 : 0.85) : 0.08;
+      nd.mesh.scale.setScalar(nd.r * (selQ === nd ? 1.4 : 1));
+      const lo = selQ ? (selQ === nd ? 0.9 : 0) : (inA && inP ? (selP ? 0.45 : 0.14) : 0.015);
+      nd.lf.material.color.copy(fg); nd.lf.material.opacity = lo;
+      nd.lc.material.color.copy(fg); nd.lc.material.opacity = showC || selQ === nd ? lo * 1.4 : 0;
     });
     relabel();
   }
   function info() {
     const box = $("minfo"); box.replaceChildren();
-    if (!selQ) { box.append(el("p", { class: "mid", text: "Tocca un cerchio per vedere la questione. I cerchi pieni sono le questioni trasversali." })); return; }
-    box.append(el("h2", { text: selQ.d }), el("p", { class: "mono mid", text: AREA[selQ.a] }), dettaglio(selQ));
+    if (!selQ) { box.append(el("p", { class: "mid", text: "Tocca una sfera per vedere la questione e le prove." })); return; }
+    const q = selQ.q;
+    box.append(el("h2", { text: q.d }), el("p", { class: "mono mid", text: AREA[q.a] + (selQ.divisa ? " · divide i partiti" : " · condivisa") }), dettaglio(q));
   }
+  $("marea").addEventListener("change", e => { selA = e.target.value; selQ = null; paint(); info(); });
   $("mpart").addEventListener("change", e => { selP = e.target.value; paint(); });
-  $("mreset").addEventListener("click", () => { selP = ""; selQ = null; $("mpart").value = ""; paint(); info(); });
+  $("mcon").addEventListener("change", e => { showC = e.target.checked; paint(); });
+  let camGoal = null;
+  $("mtop").addEventListener("click", () => { controls.autoRotate = false; camGoal = new THREE.Vector3(0.01, 22, 0.01); });
+  $("mside").addEventListener("click", () => { controls.autoRotate = false; camGoal = new THREE.Vector3(17, 2.5, 0); });
+  $("mreset").addEventListener("click", () => { selP = ""; selQ = null; selA = ""; showC = false; $("mpart").value = ""; $("marea").value = ""; $("mcon").checked = false; paint(); info(); });
   const ray = new THREE.Raycaster(), v2 = new THREE.Vector2(); let down = null;
   canvas.addEventListener("pointerdown", e => { down = [e.clientX, e.clientY]; });
   canvas.addEventListener("pointerup", e => {
     if (!down || Math.hypot(e.clientX - down[0], e.clientY - down[1]) > 5) return;
     const r = canvas.getBoundingClientRect(); v2.set(((e.clientX - r.left) / r.width) * 2 - 1, -((e.clientY - r.top) / r.height) * 2 + 1);
     ray.setFromCamera(v2, camera);
-    const hit = ray.intersectObjects(hits)[0];
-    selQ = hit ? (selQ === hit.object.userData.q ? null : hit.object.userData.q) : null; paint(); info();
+    const hit = ray.intersectObjects(hits.filter(h => h.material.opacity > 0.2))[0];
+    selQ = hit ? (selQ === hit.object.userData.nd ? null : hit.object.userData.nd) : null; paint(); info();
   });
   let first = true;
   const resize = () => {
     const r = canvas.parentElement.getBoundingClientRect(); if (!r.width) return;
     renderer.setPixelRatio(Math.min(devicePixelRatio, 2)); renderer.setSize(r.width, r.height, false);
     camera.aspect = r.width / r.height; camera.updateProjectionMatrix();
-    if (first) { const d = 21 / Math.min(1, Math.max(0.55, camera.aspect)); camera.position.set(d * 0.55, H / 2 + d * 0.45, d * 0.7); controls.target.set(0, H / 2, 0); first = false; }
+    if (first) { const d = 22 / Math.min(1, Math.max(0.55, camera.aspect)); camera.position.set(d * 0.7, d * 0.36, d * 0.62); controls.target.set(0, 0.2, 0); first = false; }
   };
   window.__mapResize = resize; resize(); new ResizeObserver(resize).observe(canvas.parentElement);
   const repaint = () => setTimeout(paint, 60);
   matchMedia("(prefers-color-scheme: dark)").addEventListener("change", repaint);
   new MutationObserver(repaint).observe(document.documentElement, { attributes: true, attributeFilter: ["data-theme"] });
   paint(); info();
-  (function loop() { requestAnimationFrame(loop); if ($("v-map").hidden) return; controls.update(); renderer.render(scene, camera); })();
+  (function loop() {
+    requestAnimationFrame(loop); if ($("v-map").hidden) return;
+    if (camGoal) { camera.position.lerp(camGoal, 0.08); if (camera.position.distanceTo(camGoal) < 0.05) camGoal = null; }
+    controls.update(); renderer.render(scene, camera);
+  })();
 }
 
 const h = (location.hash || "").slice(1);
