@@ -2,250 +2,163 @@
 <meta name="claude:viewport-fit-sides" content="cover">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Archivo+Narrow:wght@500;600;700&family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;1,400&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,400;0,600;1,400&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
 <style>
-/* Tavola tecnica: foglio con cornice doppia, linee sottili d'inchiostro, etichette maiuscole in riquadri,
-   corsivo minuscolo per le categorie, cartiglio in basso. Il buio è una cianografia. */
+/* Bianco e nero, una colonna, solo righe sottili. */
 :root {
-  --paper: #e9e7df;
-  --sheet: #f4f3ed;
-  --ink: #17171b;
-  --ink2: #55555c;
-  --hair: rgba(23, 23, 27, .26);
-  --grid: rgba(23, 23, 27, .08);
-  --accent: #b8342a;
-  --font-label: "Archivo Narrow", "Arial Narrow", Arial, sans-serif;
-  --font-body: "IBM Plex Sans", Helvetica, Arial, sans-serif;
-  --font-mono: "IBM Plex Mono", ui-monospace, Menlo, monospace;
+  --bg: #ffffff;
+  --fg: #000000;
+  --mid: #6b6b6b;
+  --line: #000000;
+  --faint: #e6e6e6;
+  --sans: "IBM Plex Sans", Helvetica, Arial, sans-serif;
+  --mono: "IBM Plex Mono", ui-monospace, Menlo, monospace;
 }
 @media (prefers-color-scheme: dark) {
-  :root:not([data-theme="light"]) {
-    --paper: #0a1626; --sheet: #0e2036; --ink: #e3ecf7; --ink2: #9db2cc;
-    --hair: rgba(227, 236, 247, .3); --grid: rgba(227, 236, 247, .08); --accent: #ff8f80;
-    color-scheme: dark;
-  }
+  :root:not([data-theme="light"]) { --bg: #000000; --fg: #ffffff; --mid: #9a9a9a; --line: #ffffff; --faint: #262626; color-scheme: dark; }
 }
-:root[data-theme="dark"] {
-  --paper: #0a1626; --sheet: #0e2036; --ink: #e3ecf7; --ink2: #9db2cc;
-  --hair: rgba(227, 236, 247, .3); --grid: rgba(227, 236, 247, .08); --accent: #ff8f80;
-  color-scheme: dark;
-}
+:root[data-theme="dark"] { --bg: #000000; --fg: #ffffff; --mid: #9a9a9a; --line: #ffffff; --faint: #262626; color-scheme: dark; }
 * { box-sizing: border-box; }
 [hidden] { display: none !important; }
 body {
-  background: var(--paper); color: var(--ink); font-family: var(--font-body); font-size: 15.5px; line-height: 1.5;
-  padding-block: 18px 40px;
+  background: var(--bg); color: var(--fg); font: 15px/1.5 var(--sans);
+  padding-block: 20px 48px;
   padding-left: max(16px, env(safe-area-inset-left, 0px));
   padding-right: max(16px, env(safe-area-inset-right, 0px));
 }
-h1, h2, h3 { margin: 0; font-family: var(--font-label); text-transform: uppercase; letter-spacing: .09em; font-weight: 700; text-wrap: balance; line-height: 1.15; }
-h2 { font-size: 1.1rem; }
-h3 { font-size: .92rem; }
-a { color: var(--ink); text-decoration-thickness: 1px; text-underline-offset: 3px; }
-button, select, input { font: inherit; color: inherit; border-radius: 0; }
-:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.wrap { max-width: 1080px; margin: 0 auto; display: flex; flex-direction: column; gap: 18px; }
+h1 { font-size: 1.5rem; margin: 0; letter-spacing: .02em; }
+h2 { font-size: 1rem; margin: 0; }
+p { margin: 0; }
+a { color: inherit; }
+button, select, input { font: inherit; color: inherit; background: var(--bg); border-radius: 0; }
+:focus-visible { outline: 2px solid var(--fg); outline-offset: 2px; }
+.mid { color: var(--mid); }
+.mono { font-family: var(--mono); font-size: .8rem; }
+.head { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: baseline; gap: 6px 20px; border-bottom: 1px solid var(--line); padding-bottom: 10px; }
 
-.sheet { max-width: 1160px; margin: 0 auto; background: var(--sheet); border: 2px solid var(--ink); outline: 1px solid var(--ink); outline-offset: -8px; padding: 22px 18px 20px; display: flex; flex-direction: column; gap: 20px; }
-@media (min-width: 760px) { .sheet { padding: 30px 34px 26px; } }
-.box { border: 2px solid var(--ink); padding: 4px 14px; display: inline-block; font-family: var(--font-label); text-transform: uppercase; letter-spacing: .16em; font-weight: 700; background: var(--sheet); }
-h1.box { font-size: clamp(1.9rem, 6vw, 3rem); letter-spacing: .2em; padding: 6px 18px 6px 22px; }
-.cap { font-style: italic; color: var(--ink2); font-size: .92rem; }
-.head { display: flex; flex-wrap: wrap; gap: 14px 28px; align-items: center; justify-content: space-between; }
-.head p { margin: 8px 0 0; max-width: 46ch; color: var(--ink2); }
-.cells { display: flex; border: 1.5px solid var(--ink); }
-.cells > div { padding: 6px 14px; border-left: 1.5px solid var(--ink); text-align: center; }
-.cells > div:first-child { border-left: 0; }
-.cells b { display: block; font-family: var(--font-mono); font-weight: 500; font-size: 1.35rem; line-height: 1.1; font-variant-numeric: tabular-nums; }
-.cells span { font-family: var(--font-label); font-size: .72rem; text-transform: uppercase; letter-spacing: .12em; color: var(--ink2); }
+nav { display: flex; gap: 20px; }
+nav button { border: 0; padding: 0 0 2px; cursor: pointer; border-bottom: 2px solid transparent; }
+nav button[aria-selected="true"] { border-bottom-color: var(--fg); font-weight: 600; }
 
-.dash { display: flex; align-items: center; gap: 12px; font-style: italic; color: var(--ink2); font-size: .88rem; }
-.dash::before, .dash::after { content: ""; flex: 1; border-top: 2px dashed var(--ink); }
-.dash.l::before { flex: 0 0 24px; }
-.note { border: 1.5px dashed var(--ink); padding: 8px 12px; font-size: .9rem; }
-.note b.k { font-family: var(--font-label); letter-spacing: .12em; text-transform: uppercase; margin-right: 6px; color: var(--accent); }
+.bar { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; }
+.bar select, .bar input[type=search] { border: 1px solid var(--line); padding: 5px 8px; }
+.bar input[type=search] { flex: 1 1 220px; min-width: 0; }
+.bar label { display: inline-flex; gap: 6px; align-items: center; }
 
-.tabs { display: flex; overflow-x: auto; padding-bottom: 2px; }
-.tab { background: var(--sheet); border: 1.5px solid var(--ink); margin-left: -1.5px; padding: 7px 16px; cursor: pointer; font-family: var(--font-label); text-transform: uppercase; letter-spacing: .14em; font-weight: 600; font-size: .9rem; white-space: nowrap; }
-.tab:first-child { margin-left: 0; }
-.tab[aria-selected="true"] { background: var(--ink); color: var(--sheet); }
-
-.layout { display: grid; gap: 20px; grid-template-columns: minmax(0, 1fr); }
-@media (min-width: 900px) { .layout { grid-template-columns: 270px minmax(0, 1fr); align-items: start; } .filters { position: sticky; top: 12px; } }
-.filters { border: 1.5px solid var(--ink); padding: 14px; display: flex; flex-direction: column; gap: 14px; }
-.field { display: flex; flex-direction: column; gap: 5px; min-width: 0; }
-.field label, .lab { font-family: var(--font-label); font-size: .78rem; text-transform: uppercase; letter-spacing: .13em; font-weight: 600; }
-.input { background: var(--sheet); border: 1.5px solid var(--ink); padding: 7px 9px; width: 100%; }
-.chips { display: flex; flex-wrap: wrap; gap: 6px; }
-.chip { display: inline-flex; align-items: center; gap: 6px; border: 1px solid var(--ink); background: var(--sheet); padding: 2px 9px 2px 7px; font-family: var(--font-label); font-size: .86rem; letter-spacing: .05em; cursor: pointer; }
-.chip[aria-pressed="true"] { background: var(--ink); color: var(--sheet); }
-.chip .small { color: inherit; opacity: .7; }
-.dot { width: 10px; height: 10px; flex: none; border: 1px solid var(--ink); display: inline-block; }
-.small { font-size: .84rem; color: var(--ink2); }
-.linkbtn { background: none; border: 0; padding: 0; cursor: pointer; text-decoration: underline; font-size: .84rem; color: var(--ink2); }
-
-.results { display: flex; flex-direction: column; gap: 9px; min-width: 0; }
-.count { font-family: var(--font-mono); font-size: .82rem; color: var(--ink2); }
-.area-h { margin-top: 14px; padding: 2px 0 4px; border-bottom: 2px solid var(--ink); font-size: 1.15rem; }
-.sub-h { margin-top: 6px; font-style: italic; color: var(--ink2); font-size: .9rem; }
-.item { border: 1px solid var(--ink); padding: 8px 12px 9px; display: flex; flex-direction: column; gap: 6px; min-width: 0; background: var(--sheet); position: relative; }
-.item .id { font-family: var(--font-mono); font-size: .7rem; color: var(--ink2); }
-.item p { margin: 0; overflow-wrap: anywhere; }
-.meta { display: flex; flex-wrap: wrap; gap: 5px 12px; align-items: center; font-size: .8rem; color: var(--ink2); }
-.tag { display: inline-flex; align-items: center; gap: 5px; color: var(--ink); font-family: var(--font-label); font-weight: 600; letter-spacing: .06em; font-size: .9rem; }
-.pips { display: inline-flex; gap: 3px; align-items: center; }
-.pips i { width: 8px; height: 8px; border: 1px solid var(--ink); border-radius: 50%; }
-.pips i.on { background: var(--ink); }
-details summary { cursor: pointer; font-style: italic; font-size: .85rem; }
-blockquote { margin: 6px 0 0; padding: 0 0 0 12px; border-left: 2px solid var(--ink); overflow-wrap: anywhere; font-size: .92rem; }
-.src { font-size: .8rem; color: var(--ink2); margin-top: 6px; overflow-wrap: anywhere; }
-.more { align-self: center; background: var(--ink); color: var(--sheet); border: 0; padding: 9px 20px; font-family: var(--font-label); text-transform: uppercase; letter-spacing: .14em; font-weight: 600; cursor: pointer; }
-
-.tablewrap { overflow-x: auto; border: 1.5px solid var(--ink); }
-table { border-collapse: collapse; width: 100%; min-width: 760px; }
-th, td { padding: 8px 6px; text-align: center; border-bottom: 1px solid var(--hair); border-left: 1px solid var(--hair); }
-th { font-family: var(--font-label); font-size: .78rem; text-transform: uppercase; letter-spacing: .1em; vertical-align: bottom; border-bottom: 1.5px solid var(--ink); }
-th:first-child, td:first-child { text-align: left; position: sticky; left: 0; background: var(--sheet); min-width: 220px; max-width: 280px; padding-left: 12px; z-index: 1; border-left: 0; }
+/* matrice delle questioni */
+.scroll { overflow-x: auto; border-top: 1px solid var(--line); }
+table { border-collapse: collapse; width: 100%; min-width: 860px; }
+th, td { padding: 7px 4px; border-bottom: 1px solid var(--faint); text-align: center; vertical-align: middle; }
+th { font-weight: 600; font-size: .75rem; border-bottom: 1px solid var(--line); }
+th:first-child, td:first-child { text-align: left; position: sticky; left: 0; background: var(--bg); width: 40%; min-width: 260px; padding-right: 12px; }
+td.n, th.n { text-align: right; font-family: var(--mono); font-size: .78rem; width: 64px; }
 tr.q { cursor: pointer; }
-tr.q:hover td, tr.sel td { background: var(--grid); }
-tr.sel td:first-child { box-shadow: inset 4px 0 0 var(--ink); }
-.cell { display: inline-block; width: 15px; height: 15px; border: 1.5px solid var(--ink); border-radius: 50%; vertical-align: middle; }
-.cell.S { background: var(--ink); }
-.cell.R { background: linear-gradient(90deg, var(--ink) 50%, transparent 50%); }
-.cell.X { border: 0; width: 12px; height: 0; border-top: 1.5px solid var(--hair); border-radius: 0; }
-.legend { display: flex; flex-wrap: wrap; gap: 8px 18px; font-size: .84rem; align-items: center; }
+tr.q:hover td { background: var(--faint); }
+tr.open td { border-bottom: 0; }
+.g { display: inline-block; width: 11px; height: 11px; border: 1px solid var(--fg); border-radius: 50%; vertical-align: middle; }
+.g.S { background: var(--fg); }
+.g.R { background: linear-gradient(90deg, var(--fg) 50%, transparent 50%); }
+.g.A { border-style: dotted; }
+.g.N { position: relative; }
+.g.N::after { content: ""; position: absolute; left: 1px; right: 1px; top: 4px; border-top: 1px solid var(--fg); }
+.tags { font-size: .75rem; color: var(--mid); }
+.seats { display: block; height: 3px; background: var(--faint); margin-top: 5px; position: relative; }
+.seats i { position: absolute; left: 0; top: 0; bottom: 0; background: var(--fg); }
+.seats b { position: absolute; top: -3px; bottom: -3px; width: 1px; background: var(--fg); }
+.legend { display: flex; flex-wrap: wrap; gap: 6px 16px; font-size: .8rem; color: var(--mid); }
 .legend span { display: inline-flex; gap: 6px; align-items: center; }
-.badge { display: inline-block; font-family: var(--font-label); font-size: .7rem; letter-spacing: .08em; text-transform: uppercase; padding: 0 6px; border: 1px solid var(--ink); margin-left: 6px; white-space: nowrap; }
-.detail { border: 1.5px solid var(--ink); padding: 14px; display: flex; flex-direction: column; gap: 10px; background: var(--sheet); }
-.cols { display: grid; gap: 14px; grid-template-columns: repeat(auto-fit, minmax(190px, 1fr)); }
 
-.cmp { display: grid; gap: 5px 10px; grid-template-columns: minmax(110px, 190px) minmax(0, 1fr) minmax(0, 1fr); align-items: center; }
-.cmp .h { font-family: var(--font-label); text-transform: uppercase; letter-spacing: .1em; font-weight: 600; font-size: .85rem; }
-.bar { height: 12px; min-width: 2px; border: 1px solid var(--ink); background: var(--ink); }
-.bar.b { background: repeating-linear-gradient(45deg, var(--ink) 0 2px, transparent 2px 5px); }
-.barrow { display: flex; align-items: center; gap: 6px; font-family: var(--font-mono); font-size: .75rem; min-width: 0; }
-.sel2 { display: grid; gap: 12px; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); }
+.detail td { text-align: left; padding: 4px 0 16px; }
+.detail .box { position: sticky; left: 0; max-width: min(1040px, calc(100vw - 40px)); display: flex; flex-direction: column; gap: 10px; }
+.pos { display: grid; grid-template-columns: minmax(56px, 110px) minmax(0, 1fr); gap: 4px 10px; font-size: .88rem; }
+.pos > b { font-weight: 600; }
+.prova { border-left: 1px solid var(--line); padding-left: 10px; margin-top: 4px; }
+.prova q { font-style: italic; quotes: "«" "»"; }
 
-.mapgrid { display: grid; gap: 14px; grid-template-columns: minmax(0, 1fr); }
-@media (min-width: 900px) { .mapgrid { grid-template-columns: minmax(0, 1fr) 250px; } }
-.mapbox { position: relative; height: clamp(420px, 72vh, 720px); border: 1.5px solid var(--ink); background:
-  linear-gradient(var(--grid) 1px, transparent 1px) 0 0 / 28px 28px, linear-gradient(90deg, var(--grid) 1px, transparent 1px) 0 0 / 28px 28px, var(--sheet);
-  touch-action: none; overflow: hidden; }
+/* libreria */
+.list { display: flex; flex-direction: column; }
+.area-h { margin-top: 18px; padding-bottom: 4px; border-bottom: 1px solid var(--line); font-size: 1rem; }
+.sub-h { margin-top: 10px; font-style: italic; color: var(--mid); font-size: .85rem; }
+.item { padding: 8px 0; border-bottom: 1px solid var(--faint); display: flex; flex-direction: column; gap: 3px; }
+.item .meta { display: flex; flex-wrap: wrap; gap: 4px 12px; font-size: .78rem; color: var(--mid); }
+.item .meta b { color: var(--fg); font-weight: 600; }
+details summary { cursor: pointer; font-size: .8rem; color: var(--mid); }
+blockquote { margin: 4px 0; padding-left: 10px; border-left: 1px solid var(--line); font-style: italic; }
+.more { align-self: flex-start; margin-top: 12px; border: 1px solid var(--line); padding: 6px 14px; cursor: pointer; }
+
+/* mappa */
+.mapbox { position: relative; height: clamp(420px, 70vh, 700px); border: 1px solid var(--line); touch-action: none; overflow: hidden; }
 .mapbox canvas { width: 100%; height: 100%; display: block; }
-.mmsg { position: absolute; inset: 0; display: grid; place-items: center; padding: 20px; text-align: center; color: var(--ink2); background: var(--sheet); }
-.mtool { position: absolute; left: 8px; top: 8px; display: flex; gap: 6px; }
-.mtool button { background: var(--sheet); border: 1.5px solid var(--ink); padding: 3px 10px; font-family: var(--font-label); text-transform: uppercase; letter-spacing: .1em; font-size: .78rem; font-weight: 600; cursor: pointer; }
-.levels { border: 1.5px solid var(--ink); display: flex; flex-direction: column; max-height: clamp(420px, 72vh, 720px); min-height: 0; }
-.levels h3 { padding: 8px 10px; border-bottom: 1.5px solid var(--ink); }
-.levels ol { list-style: none; margin: 0; padding: 0; overflow-y: auto; display: flex; flex-direction: column-reverse; }
-.levels li button { display: grid; grid-template-columns: 26px 1fr; gap: 6px; width: 100%; text-align: left; background: none; border: 0; border-top: 1px solid var(--hair); padding: 4px 10px; cursor: pointer; font-size: .85rem; }
-.levels li button b { font-family: var(--font-mono); font-weight: 500; font-size: .75rem; color: var(--ink2); padding-top: 2px; }
-.levels li button[aria-current="true"] { background: var(--ink); color: var(--sheet); }
-.levels li button[aria-current="true"] b { color: inherit; }
-.levels li.prova button { border-top: 2px dashed var(--ink); font-style: italic; }
-.near { display: grid; grid-template-columns: minmax(90px, 140px) minmax(0, 1fr) 42px; gap: 6px 8px; align-items: center; font-size: .86rem; }
-.near .bar { height: 9px; }
-.layout2 { display: grid; gap: 14px; grid-template-columns: minmax(0, 1fr); }
-@media (min-width: 900px) { .layout2 { grid-template-columns: minmax(0, 1.2fr) minmax(0, 1fr); align-items: start; } }
-
-.block { display: grid; border: 1.5px solid var(--ink); grid-template-columns: minmax(0, 1.6fr) repeat(2, minmax(0, 1fr)); font-size: .78rem; }
-.block > div { padding: 6px 10px; border-left: 1.5px solid var(--ink); border-top: 1.5px solid var(--ink); min-width: 0; overflow-wrap: anywhere; }
-.block > div:nth-child(3n+1) { border-left: 0; }
-.block > div:nth-child(-n+3) { border-top: 0; }
-.block .k { font-family: var(--font-label); text-transform: uppercase; letter-spacing: .12em; color: var(--ink2); display: block; font-size: .68rem; }
-.block .v { font-family: var(--font-mono); }
-@media (max-width: 560px) { .block { grid-template-columns: 1fr; } .block > div { border-left: 0 !important; border-top: 1.5px solid var(--ink) !important; } .block > div:first-child { border-top: 0 !important; } }
-@media (prefers-reduced-motion: reduce) { * { scroll-behavior: auto !important; } }
+.mmsg { position: absolute; inset: 0; display: grid; place-items: center; padding: 20px; text-align: center; background: var(--bg); }
+#minfo { display: flex; flex-direction: column; gap: 10px; }
+footer { border-top: 1px solid var(--line); padding-top: 10px; font-size: .8rem; color: var(--mid); }
 </style>
 
-<div class="sheet">
+<div class="wrap">
   <header class="head">
-    <div>
-      <h1 class="box">Ombrello</h1>
-      <p>Le proposte dei partiti italiani presenti oggi in Parlamento, raccolte dai loro documenti e ordinate per tema.</p>
-    </div>
-    <div class="cells" id="stats"></div>
+    <h1>OMBRELLO</h1>
+    <p class="mid">Le proposte dei partiti in Parlamento e dove convergono. Dati al <span id="data"></span>.</p>
   </header>
 
-  <div class="dash l"><span>fotografia al <span id="data"></span></span></div>
+  <nav role="tablist" aria-label="Sezioni">
+    <button role="tab" id="t-que" aria-selected="true" aria-controls="v-que">Questioni</button>
+    <button role="tab" id="t-map" aria-selected="false" aria-controls="v-map">Mappa</button>
+    <button role="tab" id="t-lib" aria-selected="false" aria-controls="v-lib">Libreria</button>
+  </nav>
 
-  <div class="note"><b class="k">Nota</b> Prototipo. La libreria usa le proposte vere raccolte finora, con citazione e fonte. Le posizioni dei partiti nelle questioni e nel confronto, e il livello di prova della mappa, usano <b>dati di prova</b> e non vanno citati.</div>
-
-  <div class="tabs" role="tablist" aria-label="Sezioni">
-    <button class="tab" role="tab" id="t-lib" aria-selected="true" aria-controls="v-lib">Libreria</button>
-    <button class="tab" role="tab" id="t-que" aria-selected="false" aria-controls="v-que">Questioni</button>
-    <button class="tab" role="tab" id="t-cmp" aria-selected="false" aria-controls="v-cmp">Confronto</button>
-    <button class="tab" role="tab" id="t-map" aria-selected="false" aria-controls="v-map">Mappa 3D</button>
-  </div>
-
-  <section id="v-lib" role="tabpanel" aria-labelledby="t-lib">
-    <div class="layout">
-      <aside class="filters" aria-label="Filtri">
-        <div class="field"><label for="q">Cerca</label><input class="input" id="q" type="search" placeholder="es. pensioni, nucleare, affitti"></div>
-        <div class="field"><label for="area">Area</label><select class="input" id="area"></select></div>
-        <div class="field"><label for="conc">Concretezza minima</label>
-          <select class="input" id="conc">
-            <option value="1">Tutte, anche i principi</option>
-            <option value="2">Obiettivi e misure</option>
-            <option value="3">Misure precise</option>
-            <option value="4">Misure con cifre</option>
-          </select></div>
-        <div class="field"><span class="lab">Partiti</span><div class="chips" id="chips"></div>
-          <div><button class="linkbtn" id="clear">azzera i partiti</button></div></div>
-      </aside>
-      <div class="results" id="res" aria-live="polite"></div>
-    </div>
-  </section>
-
-  <section id="v-que" role="tabpanel" aria-labelledby="t-que" hidden>
-    <div style="display:flex;flex-direction:column;gap:14px">
-      <div class="note" id="avviso"></div>
-      <div class="legend"><span><i class="cell S"></i> favorevole</span><span><i class="cell R"></i> con riserve</span><span><i class="cell" style="background:none"></i> contrario</span><span><i class="cell X"></i> non espresso</span></div>
-      <div class="tablewrap"><table id="tab"></table></div>
-      <div id="det"></div>
-    </div>
-  </section>
-
-  <section id="v-cmp" role="tabpanel" aria-labelledby="t-cmp" hidden>
-    <div style="display:flex;flex-direction:column;gap:16px">
-      <div class="sel2">
-        <div class="field"><label for="pa">Primo partito</label><select class="input" id="pa"></select></div>
-        <div class="field"><label for="pb">Secondo partito</label><select class="input" id="pb"></select></div>
+  <section id="v-que" role="tabpanel" aria-labelledby="t-que">
+    <div style="display:flex;flex-direction:column;gap:12px">
+      <p class="mid">Ogni riga è un'idea precisa. Per ogni partito: la sua posizione, ricavata dalle sue proposte. Tocca una riga per vedere le prove. Per ora: Lavoro, Fisco, Energia.</p>
+      <div class="bar">
+        <select id="qarea" aria-label="Area"></select>
+        <select id="qord" aria-label="Ordine">
+          <option value="seggi">Ordina per seggi favorevoli</option>
+          <option value="partiti">Ordina per numero di partiti</option>
+          <option value="az">Ordina dalla A alla Z</option>
+        </select>
+        <label><input type="checkbox" id="qtras"> solo trasversali</label>
+        <input type="search" id="qcerca" placeholder="Cerca una questione" aria-label="Cerca una questione">
       </div>
-      <div><h2>Proposte per area</h2><p class="small" style="margin:4px 0 0">Dati veri. Il numero dipende anche da quanti documenti il partito pubblica: non misura l'importanza di un tema.</p></div>
-      <div class="cmp" id="cmp"></div>
-      <div class="dash"><span>dati di prova</span></div>
-      <div><h2>Dove sono d'accordo</h2></div>
-      <div id="agree"></div>
+      <div class="legend">
+        <span><i class="g S"></i>favorevole</span><span><i class="g R"></i>con riserve</span><span><i class="g N"></i>contrario</span><span><i class="g A"></i>ambiguo</span><span>vuoto = non si esprime</span>
+        <span>barra = seggi alla Camera dei favorevoli; la tacca è la maggioranza (201)</span>
+      </div>
+      <div class="scroll"><table id="qtab"></table></div>
+      <p class="mono mid" id="qcount"></p>
     </div>
   </section>
 
   <section id="v-map" role="tabpanel" aria-labelledby="t-map" hidden>
-    <div style="display:flex;flex-direction:column;gap:14px">
-      <p class="small" style="margin:0">Proiezione a livelli. Ogni piano è un tema; su ogni piano un anello è un partito, e più due anelli sono vicini, più le parole e i temi delle loro proposte si somigliano. La linea verticale unisce lo stesso partito attraverso i temi. <b>La distanza non misura l'accordo</b>: due partiti che parlano delle stesse cose possono volere cose opposte. Il piano tratteggiato in cima usa dati di prova.</p>
-      <div class="mapgrid">
-        <div class="mapbox">
-          <canvas id="mcanvas" aria-label="Mappa 3D a livelli dei partiti. Trascina per ruotare, scorri per ingrandire, tocca un anello per scegliere un partito."></canvas>
-          <div class="mtool"><button type="button" id="mall">Vista d'insieme</button></div>
-          <div class="mmsg" id="mmsg" hidden></div>
-        </div>
-        <aside class="levels" aria-label="Livelli"><h3>Livelli</h3><ol id="mlev"></ol></aside>
+    <div style="display:flex;flex-direction:column;gap:12px">
+      <p class="mid">Le colonne verticali sono i partiti; ogni piano è un'area. Ogni cerchio è una questione: le linee lo collegano ai partiti favorevoli, e più linee convergono, più è un punto di contatto. Il cerchio è grande quanto i seggi dei favorevoli. Le questioni sostenute da partiti di schieramenti diversi stanno verso il centro.</p>
+      <div class="bar">
+        <select id="mpart" aria-label="Evidenzia un partito"><option value="">Evidenzia un partito</option></select>
+        <button type="button" id="mreset" style="border:1px solid var(--line);padding:5px 10px;cursor:pointer">Azzera</button>
       </div>
-      <div class="layout2">
-        <div class="detail" id="minfo"></div>
-        <div class="chips" id="mchips" role="group" aria-label="Partiti"></div>
-      </div>
+      <div class="mapbox"><canvas id="mcanvas" aria-label="Mappa 3D delle convergenze. Trascina per ruotare, scorri per ingrandire, tocca un cerchio per aprire la questione."></canvas><div class="mmsg" id="mmsg" hidden></div></div>
+      <div id="minfo"><p class="mid">Tocca un cerchio per vedere la questione.</p></div>
     </div>
   </section>
 
-  <div class="dash"><span>cartiglio</span></div>
-  <footer class="block" aria-label="Cartiglio">
-    <div><span class="k">Titolo</span>Ombrello, libreria delle proposte dei partiti</div>
-    <div><span class="k">Disegno n.</span><span class="v" id="nprop"></span></div>
-    <div><span class="k">Data</span><span class="v" id="data2"></span></div>
-    <div><span class="k">Fonti</span>Programmi elettorali, documenti ufficiali e atti parlamentari. Ogni proposta riporta la citazione esatta.</div>
-    <div><span class="k">Stato</span>Prototipo</div>
-    <div><span class="k">Mancano</span>Alcuni partiti piccoli, i voti parlamentari</div>
-  </footer>
+  <section id="v-lib" role="tabpanel" aria-labelledby="t-lib" hidden>
+    <div style="display:flex;flex-direction:column;gap:12px">
+      <div class="bar">
+        <input type="search" id="q" placeholder="Cerca tra le proposte" aria-label="Cerca tra le proposte">
+        <select id="area" aria-label="Area"></select>
+        <select id="part" aria-label="Partito"></select>
+        <select id="conc" aria-label="Concretezza">
+          <option value="1">Ogni concretezza</option>
+          <option value="2">Obiettivi e misure</option>
+          <option value="3">Misure precise</option>
+          <option value="4">Misure con cifre</option>
+        </select>
+      </div>
+      <div class="list" id="res" aria-live="polite"></div>
+    </div>
+  </section>
+
+  <footer>Ogni posizione e ogni proposta rimandano alla citazione esatta del documento del partito. Dati in costruzione: le questioni coprono 3 aree su 26, mancano alcuni partiti piccoli e i voti parlamentari. I seggi del Senato sono da verificare.</footer>
 </div>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
@@ -255,8 +168,10 @@ const D = /*DATI*/null;
 const $ = (id) => document.getElementById(id);
 const P = Object.fromEntries(D.partiti.map(p => [p.id, p]));
 const AREA = Object.fromEntries(D.aree.map(a => [a.id, a.nome]));
-const STATO_LABEL = { annunciata: "annunciata", depositata: "depositata", "in discussione": "in discussione", approvata: "approvata", attuata: "attuata", respinta: "respinta", abbandonata: "abbandonata" };
+const PROP = Object.fromEntries(D.proposte.map(r => [r[0], r]));
+const POSN = { S: "favorevole", R: "con riserve", N: "contrario", A: "ambiguo" };
 const TIPO = { A: "Programma elettorale", B: "Documento del partito", C: "Atto parlamentare", D: "Voto", E: "Atto di governo", F: "Dichiarazione" };
+const COLS = D.partiti.filter(p => D.questioni.some(q => q.p.some(x => x[0] === p.id))).map(p => p.id);
 
 function el(tag, attrs, ...kids) {
   const e = document.createElement(tag);
@@ -267,17 +182,11 @@ function el(tag, attrs, ...kids) {
   for (const c of kids) if (c != null) e.append(c.nodeType ? c : document.createTextNode(c));
   return e;
 }
-const dotOf = (id) => el("i", { class: "dot", style: "background:" + (P[id] ? P[id].colore : "#888") });
-const tag = (id) => el("span", { class: "tag" }, dotOf(id), P[id] ? P[id].sigla : id);
-
-/* testata */
-$("data").textContent = D.data; $("data2").textContent = D.data; $("nprop").textContent = String(D.proposte.length);
-const nPart = D.partiti.filter(p => p.n > 0).length;
-[[D.proposte.length.toLocaleString("it-IT"), "proposte"], [Object.keys(D.fonti).length, "documenti"], [nPart, "partiti"], [D.aree.length, "aree"]]
-  .forEach(([n, l]) => $("stats").append(el("div", {}, el("b", { text: String(n) }), el("span", { text: l }))));
+const sig = (id) => P[id] ? P[id].sigla : id;
+$("data").textContent = D.data;
 
 /* schede */
-const tabs = { lib: ["t-lib", "v-lib"], que: ["t-que", "v-que"], cmp: ["t-cmp", "v-cmp"], map: ["t-map", "v-map"] };
+const tabs = { que: ["t-que", "v-que"], map: ["t-map", "v-map"], lib: ["t-lib", "v-lib"] };
 function show(k) {
   for (const [key, [t, v]] of Object.entries(tabs)) { $(t).setAttribute("aria-selected", String(key === k)); $(v).hidden = key !== k; }
   try { history.replaceState(null, "", "#" + k); } catch (e) {}
@@ -285,290 +194,193 @@ function show(k) {
 }
 for (const k of Object.keys(tabs)) $(tabs[k][0]).addEventListener("click", () => show(k));
 
-/* libreria */
-const state = { q: "", area: "", conc: 1, partiti: new Set(), shown: 120 };
-$("area").append(el("option", { value: "", text: "Tutte le aree" }));
-D.aree.forEach(a => $("area").append(el("option", { value: a.id, text: a.nome })));
-D.partiti.filter(p => p.n > 0).forEach(p => {
-  const b = el("button", { class: "chip", type: "button", "aria-pressed": "false" }, dotOf(p.id), p.sigla, el("span", { class: "small", text: String(p.n) }));
-  b.title = p.nome;
-  b.addEventListener("click", () => {
-    state.partiti.has(p.id) ? state.partiti.delete(p.id) : state.partiti.add(p.id);
-    b.setAttribute("aria-pressed", String(state.partiti.has(p.id))); state.shown = 120; render();
+/* dettaglio di una questione: posizioni con prove */
+function fonteDi(r) {
+  const f = D.fonti[r[4]] || {};
+  return el("div", { class: "mono mid" }, (TIPO[f.k] || "Fonte") + " · ", f.u ? el("a", { href: f.u, target: "_blank", rel: "noopener noreferrer", text: f.t || r[4] }) : (f.t || r[4]), f.d ? " · " + f.d : "", r[10] ? " · " + r[10] : "");
+}
+function dettaglio(q) {
+  const box = el("div", { class: "box" });
+  if (q.s) box.append(el("p", { class: "mid", text: q.s }));
+  const f = q.f || {};
+  box.append(el("p", { class: "mono" }, `Favorevoli: ${f.favorevoli || 0} partiti · ${f.seggi_camera || 0} seggi Camera, ${f.seggi_senato || 0} Senato` +
+    (f.trasversale ? " · trasversale" : "") + (q.g ? " · convergenza " + q.g : "") + (f.maggioranza_camera ? " · maggioranza alla Camera" : "")));
+  if (q.gn) box.append(el("p", { class: "mid", text: q.gn }));
+  const ord = { S: 0, R: 1, A: 2, N: 3 };
+  /* i partiti con la stessa posizione e le stesse prove (programmi comuni) sono raggruppati */
+  const gruppi = [];
+  [...q.p].sort((a, b) => ord[a[1]] - ord[b[1]]).forEach(x => {
+    const k = [x[1], x[2], x[4], x[3].join(",")].join("|"), g = gruppi.find(y => y.k === k);
+    if (g) g.pt.push(x[0]); else gruppi.push({ k, pt: [x[0]], x });
   });
-  $("chips").append(b);
-});
-$("clear").addEventListener("click", () => { state.partiti.clear(); $("chips").querySelectorAll(".chip").forEach(c => c.setAttribute("aria-pressed", "false")); render(); });
-$("q").addEventListener("input", e => { state.q = e.target.value.trim().toLowerCase(); state.shown = 120; render(); });
-$("area").addEventListener("change", e => { state.area = e.target.value; state.shown = 120; render(); });
-$("conc").addEventListener("change", e => { state.conc = +e.target.value; state.shown = 120; render(); });
-
-function card(r) {
-  const [id, partiti, sintesi, citazione, fonte, aree, sotto, conc, data, stato, punto] = r;
-  const f = D.fonti[fonte] || {};
-  const pips = el("span", { class: "pips", title: "Concretezza " + conc + " su 4" }, ...[1, 2, 3, 4].map(n => el("i", { class: n <= conc ? "on" : "" })));
-  const src = el("div", { class: "src" }, (TIPO[f.k] || "Fonte") + ": ",
-    f.u ? el("a", { href: f.u, target: "_blank", rel: "noopener noreferrer", text: f.t || fonte }) : (f.t || fonte),
-    f.d ? " (" + f.d + ")" : "", punto ? " · " + punto : "");
-  return el("article", { class: "item" },
-    el("span", { class: "id", text: id }),
-    el("p", { text: sintesi }),
-    el("div", { class: "meta" }, ...partiti.map(tag), pips, el("span", { text: STATO_LABEL[stato] || stato }), el("span", { class: "id", text: data || "" })),
-    el("details", {}, el("summary", { text: "citazione e fonte" }), el("blockquote", { text: citazione }), src));
-}
-function render() {
-  const q = state.q;
-  const list = D.proposte.filter(r =>
-    (!state.area || r[5].includes(state.area)) && r[7] >= state.conc &&
-    (!state.partiti.size || r[1].some(p => state.partiti.has(p))) &&
-    (!q || r[2].toLowerCase().includes(q) || r[3].toLowerCase().includes(q) || r[6].toLowerCase().includes(q)));
-  const res = $("res"); res.replaceChildren();
-  res.append(el("div", { class: "count", text: list.length.toLocaleString("it-IT") + " proposte" + (list.length > state.shown ? ", prime " + state.shown : "") }));
-  let lastA = null, lastS = null;
-  list.slice(0, state.shown).forEach(r => {
-    const a = state.area || r[5][0];
-    if (a !== lastA) { res.append(el("h2", { class: "area-h", text: AREA[a] })); lastA = a; lastS = null; }
-    if (r[6] !== lastS) { res.append(el("div", { class: "sub-h", text: r[6] })); lastS = r[6]; }
-    res.append(card(r));
+  gruppi.forEach(({ pt: pts, x: [, pos, par, prove, nota] }) => {
+    const pt = pts;
+    const right = el("div", {}, el("div", {}, el("i", { class: "g " + pos }), " " + POSN[pos] + (par ? " · " + par : "") + (nota ? " · " + nota : "")));
+    prove.forEach(id => { const r = PROP[id]; if (!r) return; right.append(el("div", { class: "prova" }, el("div", { text: r[2] }), el("q", { text: r[3] }), fonteDi(r))); });
+    box.append(el("div", { class: "pos" }, el("b", { text: pt.map(sig).join(", ") }), right));
   });
-  if (list.length > state.shown) res.append(el("button", { class: "more", type: "button", text: "Mostra altre", onclick: () => { state.shown += 120; render(); } }));
-  if (!list.length) res.append(el("p", { class: "small", text: "Nessuna proposta con questi filtri." }));
+  return box;
 }
-render();
 
-/* questioni (dati di prova) */
-const POS = { S: "favorevole", R: "favorevole con riserve", N: "contrario" };
-const colonne = ["fdi", "lega", "fi", "nm", "fn", "pd", "m5s", "ev", "si", "azione", "iv", "piu-europa"];
-$("avviso").replaceChildren(el("b", { class: "k", text: "Dati di prova" }), D.prova.avviso.replace(/^DATI DI PROVA\.\s*/, ""));
-function tipoTouch(pos) {
-  const fav = colonne.filter(p => pos[p] === "S" || pos[p] === "R");
-  const gov = fav.filter(p => P[p].schieramento === "maggioranza").length, opp = fav.filter(p => P[p].schieramento === "opposizione").length;
-  if (fav.length >= 3 && gov && opp) return "trasversale";
-  if (fav.length >= 3) return "interno";
-  return "";
-}
-(function () {
-  const t = $("tab");
-  t.append(el("thead", {}, el("tr", {}, el("th", { text: "Questione" }), ...colonne.map(p => el("th", { title: P[p].nome }, P[p].sigla)))));
+/* questioni */
+$("qarea").append(el("option", { value: "", text: "Tutte le aree" }));
+[...new Set(D.questioni.map(q => q.a))].forEach(a => $("qarea").append(el("option", { value: a, text: AREA[a] })));
+let aperta = null;
+function renderQ() {
+  const a = $("qarea").value, ord = $("qord").value, tr = $("qtras").checked, s = $("qcerca").value.trim().toLowerCase();
+  let list = D.questioni.filter(q => (!a || q.a === a) && (!tr || (q.f && q.f.trasversale)) && (!s || q.d.toLowerCase().includes(s)));
+  const fav = q => q.p.filter(x => x[1] === "S" || x[1] === "R").length;
+  if (ord === "seggi") list.sort((x, y) => (y.f.seggi_camera || 0) - (x.f.seggi_camera || 0) || fav(y) - fav(x));
+  else if (ord === "partiti") list.sort((x, y) => fav(y) - fav(x) || (y.f.seggi_camera || 0) - (x.f.seggi_camera || 0));
+  else list.sort((x, y) => x.d.localeCompare(y.d, "it"));
+  const t = $("qtab"); t.replaceChildren();
+  t.append(el("thead", {}, el("tr", {}, el("th", { text: "Questione" }), ...COLS.map(p => el("th", { title: P[p].nome, text: sig(p) })), el("th", { class: "n", text: "Seggi" }))));
   const body = el("tbody");
-  D.prova.questioni.forEach(q => {
-    const tp = tipoTouch(q.pos);
-    const tr = el("tr", { class: "q", tabindex: "0" },
-      el("td", {}, el("div", { text: q.domanda }), el("div", { class: "small", style: "font-style:italic" }, AREA[q.area], tp ? el("span", { class: "badge", text: "contatto " + tp }) : null)),
-      ...colonne.map(p => { const v = q.pos[p] || "X"; return el("td", {}, el("i", { class: "cell " + v, role: "img", "aria-label": POS[v] || "non espresso" })); }));
-    const open = () => { body.querySelectorAll("tr").forEach(r => r.classList.remove("sel")); tr.classList.add("sel"); detail(q); };
-    tr.addEventListener("click", open); tr.addEventListener("keydown", e => { if (e.key === "Enter") open(); });
-    body.append(tr);
+  list.forEach(q => {
+    const pos = Object.fromEntries(q.p.map(x => [x[0], x[1]]));
+    const seggi = q.f.seggi_camera || 0;
+    const tags = [AREA[q.a], q.f.trasversale ? "trasversale" : null, q.g ? "convergenza " + q.g : null].filter(Boolean).join(" · ");
+    const row = el("tr", { class: "q" + (aperta === q.id ? " open" : ""), tabindex: "0", "aria-expanded": String(aperta === q.id) },
+      el("td", {}, el("div", { text: q.d }), el("div", { class: "tags", text: tags }),
+        el("span", { class: "seats", title: seggi + " seggi su 400" }, el("i", { style: `width:${seggi / 400 * 100}%` }), el("b", { style: `left:${D.soglie.camera / 400 * 100}%` }))),
+      ...COLS.map(p => el("td", {}, pos[p] ? el("i", { class: "g " + pos[p], role: "img", "aria-label": sig(p) + " " + POSN[pos[p]] }) : null)),
+      el("td", { class: "n", text: String(seggi) }));
+    const toggle = () => { aperta = aperta === q.id ? null : q.id; renderQ(); };
+    row.addEventListener("click", toggle); row.addEventListener("keydown", e => { if (e.key === "Enter") toggle(); });
+    body.append(row);
+    if (aperta === q.id) body.append(el("tr", { class: "detail" }, el("td", { colspan: String(COLS.length + 2) }, dettaglio(q))));
   });
   t.append(body);
-})();
-function detail(q) {
-  const g = { S: [], R: [], N: [], X: [] };
-  colonne.forEach(p => g[q.pos[p] || "X"].push(p));
-  const col = (k, titolo) => el("div", {}, el("h3", { text: titolo + " (" + g[k].length + ")" }),
-    el("div", { class: "chips", style: "margin-top:6px" }, ...g[k].map(p => el("span", { class: "chip" }, dotOf(p), P[p].sigla))));
-  $("det").replaceChildren(el("div", { class: "detail" }, el("h2", { text: q.domanda }),
-    el("div", { class: "cols" }, col("S", "Favorevoli"), col("R", "Con riserve"), col("N", "Contrari"), col("X", "Non espresso")),
-    el("p", { class: "small", text: "Dati di prova. Nella versione vera, ogni posizione rimanda alle proposte e ai documenti che la dimostrano." })));
+  $("qcount").textContent = list.length + " questioni";
 }
+["qarea", "qord", "qtras"].forEach(id => $(id).addEventListener("change", renderQ));
+$("qcerca").addEventListener("input", renderQ);
+renderQ();
 
-/* confronto */
-const sel = D.partiti.filter(p => p.n > 0);
-["pa", "pb"].forEach((id, i) => { sel.forEach(p => $(id).append(el("option", { value: p.id, text: p.nome }))); $(id).value = sel[i === 0 ? 0 : 7].id; $(id).addEventListener("change", cmp); });
-function cmp() {
-  const a = $("pa").value, b = $("pb").value;
-  const n = { [a]: {}, [b]: {} };
-  D.proposte.forEach(r => r[1].forEach(p => { if (n[p]) r[5].forEach(ar => { n[p][ar] = (n[p][ar] || 0) + 1; }); }));
-  const max = Math.max(1, ...D.aree.flatMap(x => [n[a][x.id] || 0, n[b][x.id] || 0]));
-  const c = $("cmp"); c.replaceChildren(el("div"), el("div", { class: "h", text: "■ " + P[a].nome }), el("div", { class: "h", text: "▨ " + P[b].nome }));
-  const row = (p, ar, cls) => { const v = n[p][ar] || 0; return el("div", { class: "barrow" }, el("div", { class: "bar " + cls, style: `width:${Math.max(2, v / max * 100)}%;max-width:calc(100% - 34px)` }), String(v)); };
-  D.aree.forEach(x => c.append(el("div", { class: "small", text: x.nome }), row(a, x.id, "a"), row(b, x.id, "b")));
-  const out = $("agree"); out.replaceChildren();
-  if (a === b) { out.append(el("p", { class: "small", text: "Scegli due partiti diversi." })); return; }
-  const same = D.prova.questioni.filter(q => q.pos[a] && q.pos[a] === q.pos[b]);
-  const diff = D.prova.questioni.filter(q => q.pos[a] && q.pos[b] && q.pos[a] !== q.pos[b]);
-  const ul = (items, t) => el("div", {}, el("h3", { text: t + " (" + items.length + ")" }), el("ul", {}, ...items.map(q => el("li", { text: q.domanda }))));
-  out.append(el("div", { class: "cols", style: "grid-template-columns:repeat(auto-fit,minmax(260px,1fr))" }, ul(same, "Stessa posizione"), ul(diff, "Posizioni diverse")));
+/* libreria */
+const st = { shown: 100 };
+$("area").append(el("option", { value: "", text: "Tutte le aree" }));
+D.aree.forEach(a => $("area").append(el("option", { value: a.id, text: a.nome })));
+$("part").append(el("option", { value: "", text: "Tutti i partiti" }));
+D.partiti.filter(p => p.n).forEach(p => $("part").append(el("option", { value: p.id, text: p.nome + " (" + p.n + ")" })));
+function renderL() {
+  const q = $("q").value.trim().toLowerCase(), a = $("area").value, pt = $("part").value, c = +$("conc").value;
+  const list = D.proposte.filter(r => (!a || r[5].includes(a)) && (!pt || r[1].includes(pt)) && r[7] >= c &&
+    (!q || r[2].toLowerCase().includes(q) || r[3].toLowerCase().includes(q) || r[6].toLowerCase().includes(q)));
+  const res = $("res"); res.replaceChildren(el("p", { class: "mono mid", text: list.length.toLocaleString("it-IT") + " proposte" }));
+  let la = null, ls = null;
+  list.slice(0, st.shown).forEach(r => {
+    const ar = a || r[5][0];
+    if (ar !== la) { res.append(el("h2", { class: "area-h", text: AREA[ar] })); la = ar; ls = null; }
+    if (r[6] !== ls) { res.append(el("div", { class: "sub-h", text: r[6] })); ls = r[6]; }
+    res.append(el("div", { class: "item" }, el("p", { text: r[2] }),
+      el("div", { class: "meta" }, el("b", { text: r[1].map(sig).join(", ") }), el("span", { text: "concretezza " + r[7] + "/4" }), el("span", { text: r[9] }), el("span", { class: "mono", text: r[0] })),
+      el("details", {}, el("summary", { text: "citazione e fonte" }), el("blockquote", { text: r[3] }), fonteDi(r))));
+  });
+  if (list.length > st.shown) res.append(el("button", { class: "more", type: "button", text: "Mostra altre", onclick: () => { st.shown += 100; renderL(); } }));
 }
-cmp();
+["area", "part", "conc"].forEach(id => $(id).addEventListener("change", () => { st.shown = 100; renderL(); }));
+$("q").addEventListener("input", () => { st.shown = 100; renderL(); });
+renderL();
 
-/* mappa 3D a livelli (proiezione obliqua: un piano per tema, linee verticali per partito) */
-let mapStarted = false;
+/* mappa delle convergenze */
+let mapOn = false;
 function startMap() {
-  if (mapStarted) { if (window.__mapResize) window.__mapResize(); return; }
-  mapStarted = true;
-  const canvas = $("mcanvas"), msg = $("mmsg"), M = D.mappa;
+  if (mapOn) { window.__mapResize && window.__mapResize(); return; }
+  mapOn = true;
+  const canvas = $("mcanvas"), msg = $("mmsg");
   const css = (v) => getComputedStyle(document.documentElement).getPropertyValue(v).trim();
-  const GAP = 0.5, HALF = 2.1;
-  /* livelli: tutti i temi in basso, aree in ordine alfabetico, dati di prova in cima */
-  const levels = [{ key: "tutte", nome: "Tutti i temi", scope: M.testi.tutte }]
-    .concat(D.aree.filter(a => M.testi[a.id]).map(a => ({ key: a.id, nome: a.nome, scope: M.testi[a.id] })))
-    .concat([{ key: "prova", nome: "Dati di prova", scope: M.prova, prova: true }]);
-  levels.forEach((l, i) => { l.y = i * GAP; l.idx = {}; l.scope.p.forEach((p, j) => { l.idx[p] = j; }); });
-  const H = (levels.length - 1) * GAP;
-  let focus = 0, selected = null, mapResize = null;
+  COLS.forEach(p => $("mpart").append(el("option", { value: p, text: P[p].nome })));
+  let ok = typeof THREE !== "undefined" && THREE.OrbitControls, renderer;
+  if (ok) { try { renderer = new THREE.WebGLRenderer({ canvas, antialias: true }); } catch (e) { ok = false; } }
+  if (!ok) { msg.hidden = false; msg.textContent = "Il browser non riesce a mostrare la mappa 3D. Le stesse informazioni sono nella sezione Questioni."; return; }
 
-  /* elenco dei livelli (scala delle quote) */
-  const lev = $("mlev");
-  levels.forEach((l, i) => {
-    const b = el("button", { type: "button" }, el("b", { text: String(i).padStart(2, "0") }), el("span", { text: l.nome }));
-    const li = el("li", { class: l.prova ? "prova" : "" }, b);
-    b.addEventListener("click", () => setFocus(i, true)); l.btn = b; lev.append(li);
-  });
-  const chipsBox = $("mchips");
-  D.partiti.filter(p => p.n > 0).forEach(p => {
-    const b = el("button", { class: "chip", type: "button", "aria-pressed": "false" }, dotOf(p.id), p.nome);
-    b.addEventListener("click", () => select(p.id)); chipsBox.append(b); p.chip = b;
-  });
+  const aree = [...new Set(D.questioni.map(q => q.a))];
+  const GAP = 3.2, R = 4.2, H = (aree.length - 1) * GAP;
+  const scene = new THREE.Scene();
+  const camera = new THREE.PerspectiveCamera(36, 1, 0.1, 200);
+  const controls = new THREE.OrbitControls(camera, canvas);
+  controls.enableDamping = true; controls.enablePan = false; controls.minDistance = 5; controls.maxDistance = 40;
+  controls.autoRotate = !matchMedia("(prefers-reduced-motion: reduce)").matches; controls.autoRotateSpeed = 0.4;
+  controls.addEventListener("start", () => { controls.autoRotate = false; });
 
-  function nearest(id, k) {
-    const sc = levels[focus].scope, i = sc.p.indexOf(id);
-    if (i < 0) return [];
-    return sc.p.map((q, j) => [q, sc.d[i][j]]).filter(([q]) => q !== id).sort((a, b) => a[1] - b[1]).slice(0, k);
+  /* colonne dei partiti su un cerchio: maggioranza da un lato, opposizione dall'altro */
+  const col = {};
+  COLS.forEach((p, i) => { const t = Math.PI * 0.15 + (i / COLS.length) * Math.PI * 2; col[p] = new THREE.Vector2(Math.cos(t) * R, Math.sin(t) * R); });
+  const fg = new THREE.Color(), bg = new THREE.Color();
+  const lm = (o) => new THREE.LineBasicMaterial({ transparent: true, opacity: o });
+  const objs = { pillars: [], planes: [], nodes: [], links: [] };
+  COLS.forEach(p => {
+    const v = col[p];
+    const line = new THREE.Line(new THREE.BufferGeometry().setFromPoints([new THREE.Vector3(v.x, -0.6, v.y), new THREE.Vector3(v.x, H + 0.6, v.y)]), lm(0.5));
+    scene.add(line); objs.pillars.push({ p, line });
+  });
+  aree.forEach((a, i) => {
+    const y = i * GAP, pts = [];
+    for (let k = 0; k <= 64; k++) { const t = k / 64 * Math.PI * 2; pts.push(new THREE.Vector3(Math.cos(t) * R, y, Math.sin(t) * R)); }
+    const ring = new THREE.Line(new THREE.BufferGeometry().setFromPoints(pts), lm(0.25));
+    scene.add(ring); objs.planes.push({ a, y, ring });
+  });
+  /* questioni: posizione = media delle colonne dei favorevoli, quindi le trasversali finiscono al centro */
+  const disc = new THREE.CircleGeometry(1, 32), rim = new THREE.RingGeometry(0.92, 1, 32);
+  const hits = [];
+  D.questioni.forEach((q, j) => {
+    const y = aree.indexOf(q.a) * GAP;
+    const fav = q.p.filter(x => x[1] === "S" || x[1] === "R").map(x => x[0]).filter(p => col[p]);
+    const c = new THREE.Vector2();
+    (fav.length ? fav : q.p.map(x => x[0]).filter(p => col[p])).forEach(p => c.add(col[p]));
+    c.divideScalar(Math.max(1, fav.length || q.p.length)).multiplyScalar(0.72);
+    const jt = (j * 137.5) * Math.PI / 180; c.x += Math.cos(jt) * 0.22; c.y += Math.sin(jt) * 0.22;
+    const pos = new THREE.Vector3(c.x, y, c.y);
+    const r = 0.05 + 0.22 * Math.sqrt((q.f.seggi_camera || 0) / 400);
+    const fill = new THREE.Mesh(disc, new THREE.MeshBasicMaterial({ transparent: true, side: THREE.DoubleSide }));
+    const edge = new THREE.Mesh(rim, new THREE.MeshBasicMaterial({ transparent: true, side: THREE.DoubleSide }));
+    [fill, edge].forEach(m => { m.position.copy(pos); m.rotation.x = -Math.PI / 2; m.scale.setScalar(r); scene.add(m); });
+    fill.position.y += 0.002; fill.userData.q = q; hits.push(fill);
+    const segs = [];
+    q.p.forEach(([p, s]) => { if (!col[p] || (s !== "S" && s !== "R")) return; segs.push(new THREE.Vector3(col[p].x, y, col[p].y), pos.clone()); });
+    const link = new THREE.LineSegments(new THREE.BufferGeometry().setFromPoints(segs), lm(0.12));
+    scene.add(link);
+    objs.nodes.push({ q, fill, edge, fav });
+    objs.links.push({ q, link });
+  });
+  /* etichette */
+  function label(text, size) {
+    const c = document.createElement("canvas"); c.width = 512; c.height = 64; const g = c.getContext("2d");
+    g.font = `600 ${size}px "IBM Plex Sans", Helvetica, sans-serif`; g.textAlign = "center"; g.textBaseline = "middle";
+    g.fillStyle = css("--fg"); g.fillText(text, 256, 32);
+    const s = new THREE.Sprite(new THREE.SpriteMaterial({ map: new THREE.CanvasTexture(c), transparent: true, depthTest: false }));
+    s.scale.set(2.4, 0.3, 1); return s;
+  }
+  const labels = new THREE.Group(); scene.add(labels);
+  function relabel() {
+    labels.children.forEach(s => { s.material.map.dispose(); s.material.dispose(); }); labels.clear();
+    COLS.forEach(p => { const s = label(sig(p), 34); s.position.set(col[p].x * 1.08, H + 1, col[p].y * 1.08); labels.add(s); });
+    objs.planes.forEach(pl => { const s = label(AREA[pl.a].toUpperCase(), 44); s.position.set(0, pl.y + 0.25, -R - 0.9); labels.add(s); });
+  }
+  let selQ = null, selP = "";
+  function paint() {
+    fg.set(css("--fg")); bg.set(css("--bg")); renderer.setClearColor(bg, 1);
+    objs.pillars.forEach(o => { o.line.material.color.copy(fg); o.line.material.opacity = selP ? (o.p === selP ? 1 : 0.15) : 0.5; });
+    objs.planes.forEach(o => { o.ring.material.color.copy(fg); });
+    objs.nodes.forEach(o => {
+      const on = (!selP || o.fav.includes(selP)) && (!selQ || selQ === o.q);
+      o.edge.material.color.copy(fg); o.edge.material.opacity = on ? 1 : 0.15;
+      o.fill.material.color.copy(o.q.f.trasversale ? fg : bg); o.fill.material.opacity = on ? 1 : 0.15;
+    });
+    objs.links.forEach(o => {
+      o.link.material.color.copy(fg);
+      o.link.material.opacity = selQ ? (o.q === selQ ? 0.9 : 0.04) : selP ? (o.q.p.some(x => x[0] === selP && (x[1] === "S" || x[1] === "R")) ? 0.35 : 0.03) : 0.12;
+    });
+    relabel();
   }
   function info() {
     const box = $("minfo"); box.replaceChildren();
-    const L = levels[focus];
-    box.append(el("h3", { text: "Livello " + String(focus).padStart(2, "0") + " · " + L.nome }));
-    if (L.prova) box.append(el("p", { class: "small", style: "margin:0", text: "Dati di prova: la distanza misura il disaccordo sulle sette questioni di esempio. Non ha valore reale." }));
-    if (!selected) { box.append(el("p", { class: "small", style: "margin:0", text: "Tocca un anello, o un partito qui sotto, per vedere i più vicini e seguire la sua linea attraverso i temi." })); return; }
-    const p = P[selected], pres = levels.filter(l => !l.prova && l.key !== "tutte" && selected in l.idx).length;
-    box.append(el("h2", {}, dotOf(selected), " " + p.nome), el("p", { class: "small", style: "margin:0", text: p.schieramento + " · " + p.n + " proposte · presente in " + pres + " temi su " + (levels.length - 2) }));
-    const near = nearest(selected, 5);
-    if (!near.length) { box.append(el("p", { class: "small", style: "margin:0", text: "Su questo livello il partito non compare (meno di 4 proposte sul tema)." })); return; }
-    const dmax = Math.max(...levels[focus].scope.d.flat(), 0.01);
-    const g = el("div", { class: "near" });
-    near.forEach(([q, d]) => g.append(el("span", {}, tag(q)), el("div", { class: "bar", style: `width:${Math.max(4, (1 - d / dmax) * 100)}%` }), el("span", { class: "small", text: d.toFixed(2) })));
-    box.append(el("h3", { text: "Più vicini su questo livello" }), g, el("p", { class: "small", style: "margin:0", text: "Numeri bassi = più simili." }));
+    if (!selQ) { box.append(el("p", { class: "mid", text: "Tocca un cerchio per vedere la questione. I cerchi pieni sono le questioni trasversali." })); return; }
+    box.append(el("h2", { text: selQ.d }), el("p", { class: "mono mid", text: AREA[selQ.a] }), dettaglio(selQ));
   }
-  function paint() {
-    levels.forEach((l, i) => l.btn.setAttribute("aria-current", String(i === focus)));
-    D.partiti.forEach(p => p.chip && p.chip.setAttribute("aria-pressed", String(p.id === selected)));
-    info();
-  }
-  let ok = typeof THREE !== "undefined" && THREE.OrbitControls, renderer;
-  if (ok) { try { renderer = new THREE.WebGLRenderer({ canvas, antialias: true }); renderer.setClearColor(new THREE.Color(css("--sheet")), 1); } catch (e) { ok = false; } }
-  if (!ok) {
-    msg.hidden = false; msg.textContent = "Il browser non riesce a mostrare la mappa 3D. Usa l'elenco dei livelli e dei partiti: il pannello mostra comunque i più vicini.";
-    window.setFocus = null;
-  }
-  function setFocus(i, move) { focus = i; if (ok) refocus(move); paint(); }
-  function select(id) { selected = selected === id ? null : id; if (ok) restyle(); paint(); }
-  paint();
-  if (!ok) { mapResize = null; $("mall").hidden = true; return; }
-
-  /* scena */
-  const reduce = matchMedia("(prefers-reduced-motion: reduce)").matches;
-  const scene = new THREE.Scene();
-  const camera = new THREE.PerspectiveCamera(38, 1, 0.1, 200);
-  const controls = new THREE.OrbitControls(camera, canvas);
-  controls.enableDamping = true; controls.enablePan = false; controls.minDistance = 5; controls.maxDistance = 46;
-  controls.autoRotate = !reduce; controls.autoRotateSpeed = 0.35;
-  controls.addEventListener("start", () => { controls.autoRotate = false; });
-  let tgtY = H / 2, dist = 1, first = true;
-  const col = { ink: new THREE.Color(), hair: new THREE.Color(), accent: new THREE.Color() };
-  const mats = { ink: new THREE.LineBasicMaterial({ transparent: true }), hair: new THREE.LineBasicMaterial({ transparent: true, opacity: 0.55 }), accentL: new THREE.LineBasicMaterial({ transparent: true }) };
-  function themeColors() {
-    const ink = css("--ink"), hair = css("--ink2"), acc = css("--accent");
-    col.ink.set(ink); col.hair.set(hair); col.accent.set(acc);
-    mats.ink.color.copy(col.ink); mats.hair.color.copy(col.hair); mats.accentL.color.copy(col.accent);
-  }
-  themeColors();
-
-  const planes = [], nodes = [], threads = {};
-  const square = (y, s) => [new THREE.Vector3(-s, y, -s), new THREE.Vector3(s, y, -s), new THREE.Vector3(s, y, s), new THREE.Vector3(-s, y, s)];
-  levels.forEach((l, i) => {
-    const grp = new THREE.Group();
-    const frame = new THREE.LineLoop(new THREE.BufferGeometry().setFromPoints(square(l.y, HALF)), mats.ink.clone());
-    const gp = [];
-    for (let k = -1; k <= 1; k++) { gp.push(new THREE.Vector3(k * HALF / 1.5 * 0.75, l.y, -HALF), new THREE.Vector3(k * HALF / 1.5 * 0.75, l.y, HALF), new THREE.Vector3(-HALF, l.y, k * HALF / 1.5 * 0.75), new THREE.Vector3(HALF, l.y, k * HALF / 1.5 * 0.75)); }
-    const grid = new THREE.LineSegments(new THREE.BufferGeometry().setFromPoints(gp), mats.hair.clone());
-    if (l.prova) { frame.material = new THREE.LineDashedMaterial({ dashSize: 0.18, gapSize: 0.12, transparent: true }); frame.computeLineDistances(); }
-    grp.add(frame, grid); scene.add(grp);
-    planes.push({ frame, grid, l });
-  });
-
-  /* nodi: anello piatto + disco di selezione; la terza dimensione dà un lieve scarto di quota */
-  const ringGeo = new THREE.RingGeometry(0.15, 0.2, 28), discGeo = new THREE.CircleGeometry(0.15, 28), hitGeo = new THREE.CircleGeometry(0.3, 12);
-  const hits = [];
-  levels.forEach((l, i) => l.scope.p.forEach((id, j) => {
-    const [x, y, z] = l.scope.xyz[j]; if (!P[id]) return;
-    const pos = new THREE.Vector3(x * HALF * 0.9, l.y + z * 0.1, y * HALF * 0.9);
-    const c = new THREE.Color(P[id].colore);
-    const ring = new THREE.Mesh(ringGeo, new THREE.MeshBasicMaterial({ color: c, transparent: true, side: THREE.DoubleSide }));
-    const disc = new THREE.Mesh(discGeo, new THREE.MeshBasicMaterial({ color: c, transparent: true, opacity: 0.3, side: THREE.DoubleSide }));
-    const hit = new THREE.Mesh(hitGeo, new THREE.MeshBasicMaterial({ visible: false, side: THREE.DoubleSide }));
-    [ring, disc, hit].forEach(m => { m.rotation.x = -Math.PI / 2; m.position.copy(pos); scene.add(m); });
-    hit.userData = { id, level: i }; hits.push(hit);
-    nodes.push({ id, level: i, pos, ring, disc });
-    l.pos = l.pos || {}; l.pos[id] = pos;
-  }));
-  /* fili verticali: lo stesso partito attraverso i livelli */
-  D.partiti.forEach(p => {
-    const pts = []; levels.forEach((l, i) => { if (l.pos && l.pos[p.id] && !l.prova) pts.push(l.pos[p.id]); });
-    if (pts.length < 2) return;
-    const line = new THREE.Line(new THREE.BufferGeometry().setFromPoints(pts), new THREE.LineBasicMaterial({ color: new THREE.Color(p.colore), transparent: true, opacity: 0.35 }));
-    const extra = [0.012, -0.012].map(o => new THREE.Line(new THREE.BufferGeometry().setFromPoints(pts.map(v => v.clone().add(new THREE.Vector3(o, 0, o)))), new THREE.LineBasicMaterial({ color: new THREE.Color(p.colore), transparent: true, opacity: 0 })));
-    scene.add(line); extra.forEach(e => scene.add(e)); threads[p.id] = { line, extra };
-  });
-  /* legami dal partito scelto ai suoi vicini sul livello a fuoco */
-  const bond = new THREE.LineSegments(new THREE.BufferGeometry(), mats.accentL); bond.frustumCulled = false; scene.add(bond);
-  /* etichette: solo livello a fuoco e filo del partito scelto */
-  const labels = new THREE.Group(); scene.add(labels);
-  const cache = {};
-  function sprite(text, strong) {
-    const key = text + "|" + css("--ink") + "|" + strong;
-    if (!cache[key]) {
-      const c = document.createElement("canvas"); c.width = 192; c.height = 56; const g = c.getContext("2d");
-      g.font = "700 34px 'Archivo Narrow', 'Arial Narrow', sans-serif"; g.textAlign = "center"; g.textBaseline = "middle";
-      g.lineWidth = 7; g.strokeStyle = css("--sheet"); g.strokeText(text, 96, 28); g.fillStyle = strong ? css("--accent") : css("--ink"); g.fillText(text, 96, 28);
-      cache[key] = new THREE.CanvasTexture(c);
-    }
-    const s = new THREE.Sprite(new THREE.SpriteMaterial({ map: cache[key], transparent: true, depthTest: false })); s.scale.set(0.9, 0.26, 1); s.renderOrder = 9; return s;
-  }
-  function relabel() {
-    labels.clear();
-    nodes.forEach(n => {
-      const show = n.level === focus || (selected && n.id === selected && !levels[n.level].prova);
-      if (!show) return;
-      const s = sprite(P[n.id].sigla, n.id === selected); s.position.set(n.pos.x, n.pos.y + 0.24, n.pos.z); labels.add(s);
-    });
-  }
-  function restyle() {
-    const near = selected ? nearest(selected, 4).map(q => q[0]) : [];
-    nodes.forEach(n => {
-      const here = n.level === focus, rel = !selected || n.id === selected || (here && near.includes(n.id));
-      const base = here ? 1 : 0.55;
-      n.ring.material.opacity = (selected && !rel ? 0.18 : base); n.disc.material.opacity = (selected && !rel ? 0.05 : here ? 0.35 : 0.12);
-      const sc = n.id === selected ? 1.35 : 1; n.ring.scale.setScalar(sc); n.disc.scale.setScalar(sc);
-    });
-    Object.entries(threads).forEach(([id, t]) => {
-      const on = id === selected;
-      t.line.material.opacity = selected ? (on ? 1 : 0.07) : 0.35; t.extra.forEach(e => { e.material.opacity = on ? 1 : 0; });
-    });
-    planes.forEach((pl, i) => {
-      const f = i === focus;
-      pl.frame.material.opacity = f ? 1 : 0.5; pl.grid.material.opacity = f ? 0.7 : 0.18;
-    });
-    const arr = [];
-    if (selected && levels[focus].pos && levels[focus].pos[selected]) nearest(selected, 4).forEach(([q]) => { const a = levels[focus].pos[selected], b = levels[focus].pos[q]; if (b) arr.push(a.x, a.y, a.z, b.x, b.y, b.z); });
-    bond.geometry.setAttribute("position", new THREE.Float32BufferAttribute(arr, 3)); bond.geometry.computeBoundingSphere();
-    relabel();
-  }
-  function refocus(move) { if (move) tgtY = levels[focus].y + 0.8; restyle(); }
-  window.__mapRefocus = refocus;
-  restyle();
-
-  mapResize = function () {
-    const r = canvas.parentElement.getBoundingClientRect(); if (!r.width) return;
-    renderer.setPixelRatio(Math.min(devicePixelRatio, 2)); renderer.setSize(r.width, r.height, false);
-    camera.aspect = r.width / r.height; camera.updateProjectionMatrix();
-    const d = 26 / Math.min(1, Math.max(0.6, camera.aspect * 1.1));
-    if (first) { camera.position.set(d * 0.62, H / 2 + d * 0.34, d * 0.78); controls.target.set(0, H / 2, 0); first = false; }
-  };
-  window.__omb = { scene, camera, renderer, controls }; window.__mapResize = mapResize; mapResize(); new ResizeObserver(mapResize).observe(canvas.parentElement);
-  $("mall").addEventListener("click", () => { tgtY = H / 2; });
-
+  $("mpart").addEventListener("change", e => { selP = e.target.value; paint(); });
+  $("mreset").addEventListener("click", () => { selP = ""; selQ = null; $("mpart").value = ""; paint(); info(); });
   const ray = new THREE.Raycaster(), v2 = new THREE.Vector2(); let down = null;
   canvas.addEventListener("pointerdown", e => { down = [e.clientX, e.clientY]; });
   canvas.addEventListener("pointerup", e => {
@@ -576,23 +388,23 @@ function startMap() {
     const r = canvas.getBoundingClientRect(); v2.set(((e.clientX - r.left) / r.width) * 2 - 1, -((e.clientY - r.top) / r.height) * 2 + 1);
     ray.setFromCamera(v2, camera);
     const hit = ray.intersectObjects(hits)[0];
-    if (hit) { focus = hit.object.userData.level; selected = hit.object.userData.id; tgtY = levels[focus].y + 0.8; restyle(); paint(); }
+    selQ = hit ? (selQ === hit.object.userData.q ? null : hit.object.userData.q) : null; paint(); info();
   });
-  function recolor() { themeColors(); renderer.setClearColor(new THREE.Color(css("--sheet")), 1); planes.forEach(pl => { if (!pl.l.prova) pl.frame.material.color.copy(col.ink); else pl.frame.material.color.copy(col.ink); pl.grid.material.color.copy(col.hair); }); bond.material.color.copy(col.accent); restyle(); }
-  recolor();
-  matchMedia("(prefers-color-scheme: dark)").addEventListener("change", () => setTimeout(recolor, 60));
-  new MutationObserver(() => setTimeout(recolor, 60)).observe(document.documentElement, { attributes: true, attributeFilter: ["data-theme"] });
-
-  (function loop() {
-    requestAnimationFrame(loop);
-    if ($("v-map").hidden) return;
-    const dy = (tgtY - controls.target.y) * 0.1;
-    if (Math.abs(dy) > 0.0005) { controls.target.y += dy; camera.position.y += dy; }
-    controls.update(); renderer.render(scene, camera);
-  })();
+  let first = true;
+  const resize = () => {
+    const r = canvas.parentElement.getBoundingClientRect(); if (!r.width) return;
+    renderer.setPixelRatio(Math.min(devicePixelRatio, 2)); renderer.setSize(r.width, r.height, false);
+    camera.aspect = r.width / r.height; camera.updateProjectionMatrix();
+    if (first) { const d = 21 / Math.min(1, Math.max(0.55, camera.aspect)); camera.position.set(d * 0.55, H / 2 + d * 0.45, d * 0.7); controls.target.set(0, H / 2, 0); first = false; }
+  };
+  window.__mapResize = resize; resize(); new ResizeObserver(resize).observe(canvas.parentElement);
+  const repaint = () => setTimeout(paint, 60);
+  matchMedia("(prefers-color-scheme: dark)").addEventListener("change", repaint);
+  new MutationObserver(repaint).observe(document.documentElement, { attributes: true, attributeFilter: ["data-theme"] });
+  paint(); info();
+  (function loop() { requestAnimationFrame(loop); if ($("v-map").hidden) return; controls.update(); renderer.render(scene, camera); })();
 }
 
-/* scheda iniziale dall'ancora */
 const h = (location.hash || "").slice(1);
 if (tabs[h]) show(h);
 </script>
