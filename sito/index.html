@@ -64,7 +64,12 @@ header p { margin: 0; color: var(--grey); font-size: 15px; text-align: right; }
 .nav span.on { color: var(--black); }
 
 /* libreria */
-.lp { position: absolute; left: 0; top: 0; bottom: calc(14% + var(--step) * 3 + 14px); width: min(760px, 100vw); background: var(--white); z-index: 6; overflow-y: auto; padding: 18px 22px 24px max(22px, env(safe-area-inset-left, 0px)); display: flex; flex-direction: column; gap: 12px; }
+.lp { position: absolute; inset: 0; background: var(--white); z-index: 6; overflow-y: auto; padding: 18px max(22px, env(safe-area-inset-right, 0px)) 200px max(22px, env(safe-area-inset-left, 0px)); }
+.lp .in { max-width: 760px; margin: 0 auto; display: flex; flex-direction: column; gap: 12px; }
+/* in libreria: niente pannello destro, menu a colori invertiti */
+body.lib .rp { display: none; }
+body.lib .nav span { background: var(--black); color: var(--grey); }
+body.lib .nav span.on { color: var(--white); }
 
 /* contenuti dei pannelli */
 .muted { color: var(--grey); }
@@ -111,7 +116,7 @@ blockquote { margin: 4px 0; padding-left: 9px; border-left: 1px solid var(--blac
   <canvas id="mcanvas" aria-label="Mappa 3D delle convergenze. Al centro i partiti; sopra le idee condivise, sotto quelle che dividono. Trascina per ruotare, scorri per ingrandire, tocca una sfera per aprire la questione."></canvas>
   <div class="mmsg" id="mmsg" hidden></div>
 
-  <section class="lp" id="lib" hidden aria-label="Libreria">
+  <section class="lp" id="lib" hidden aria-label="Libreria"><div class="in">
     <h2>Libreria</h2>
     <div class="filters">
       <input type="search" id="q" placeholder="Cerca tra le proposte" aria-label="Cerca tra le proposte">
@@ -125,7 +130,7 @@ blockquote { margin: 4px 0; padding-left: 9px; border-left: 1px solid var(--blac
       </select>
     </div>
     <div id="res" aria-live="polite"></div>
-  </section>
+  </div></section>
 
   <nav class="nav steps" id="nav" aria-label="Sezioni">
     <span class="label-btn" id="navtoggle" role="button" tabindex="0" aria-expanded="false" aria-label="Apri il menu"></span>
@@ -197,7 +202,9 @@ press($("navtoggle"), () => setNav(!nav.classList.contains("open")));
 function view(v) {
   $("lib").hidden = v !== "lib";
   $("go-map").classList.toggle("on", v === "map"); $("go-lib").classList.toggle("on", v === "lib");
-  if (v === "lib") renderL();
+  document.body.classList.toggle("lib", v === "lib");
+  if (v === "lib") { renderL(); $("lib").scrollTop = 0; }
+  setNav(false);
 }
 press($("go-map"), () => { if (!nav.classList.contains("open")) return setNav(true); view("map"); });
 press($("go-lib"), () => { if (!nav.classList.contains("open")) return setNav(true); view("lib"); });
